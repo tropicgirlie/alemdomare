@@ -4,6 +4,8 @@
 const GUIDE_INBOX_EMAIL = 'info@alemdomar.com';
 const GUIDE_PDF_URL = 'assets/carreira-no-exterior.pdf';
 const GUIDE_COVER_URL = 'assets/bookcoveralem.png';
+const GUIDE_COVER_WIDTH = 1055;
+const GUIDE_COVER_HEIGHT = 1491;
 const GUIDE_PDF_READY = false;
 
 function buildGuideMailto(email, stage) {
@@ -25,12 +27,33 @@ function BookCoverPreview({ compact = false }) {
   if (!imageFailed) {
     return (
       <figure className={compact ? 'book-cover-image book-cover-image-compact' : 'book-cover-image'}>
-        <img
-          src={GUIDE_COVER_URL}
-          alt="Capa do guia gratuito Carreira no exterior, por Luana Pacheco"
-          loading={compact ? 'lazy' : 'eager'}
-          onError={() => setImageFailed(true)}
-        />
+        <a
+          className="book-cover-image-link"
+          href={GUIDE_COVER_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Abrir capa do guia em alta resolução"
+        >
+          <img
+            src={GUIDE_COVER_URL}
+            srcSet={`${GUIDE_COVER_URL} ${GUIDE_COVER_WIDTH}w`}
+            sizes={compact ? '(max-width: 900px) 340px, 310px' : '(max-width: 900px) 340px, 420px'}
+            width={GUIDE_COVER_WIDTH}
+            height={GUIDE_COVER_HEIGHT}
+            alt="Capa do guia gratuito Carreira no exterior, por Luana Pacheco"
+            loading={compact ? 'lazy' : 'eager'}
+            decoding="async"
+            fetchPriority={compact ? 'auto' : 'high'}
+            onError={() => setImageFailed(true)}
+          />
+        </a>
+        {!compact && (
+          <figcaption>
+            <a href={GUIDE_COVER_URL} target="_blank" rel="noopener noreferrer">
+              Ver capa em alta resolução
+            </a>
+          </figcaption>
+        )}
       </figure>
     );
   }
@@ -174,6 +197,9 @@ function Guia({ direction, onBack, onStart }) {
             <button type="button" className="btn btn-ghost" onClick={onStart}>
               Testar ferramenta de CV
             </button>
+            <a className="btn btn-ghost" href={GUIDE_COVER_URL} target="_blank" rel="noopener noreferrer">
+              Ver capa em alta resolução
+            </a>
           </div>
           <p className="guide-availability" style={{ color: muted }}>
             PDF em breve. A página já está preparada para o download quando você adicionar o arquivo.
