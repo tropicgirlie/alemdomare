@@ -1,1 +1,20 @@
-{"data":"bmFtZSA9ICJhbGVtZG9tYXItYXV0aCIKbWFpbiA9ICJ3b3JrZXIuanMiCmNvbXBhdGliaWxpdHlfZGF0ZSA9ICIyMDIzLTEwLTMwIgoKIyBLViBOYW1lc3BhY2VzIGZvciBhdXRoZW50aWNhdGlvbgpbW2t2X25hbWVzcGFjZXNdXQpiaW5kaW5nID0gIkFETV9VU0VSUyIKaWQgPSAiYmJmZjg4MjU1YjUxNDczOWFjOTQ4NWIyMTA5ODY2YTIiCgpbW2t2X25hbWVzcGFjZXNdXQpiaW5kaW5nID0gIkFETV9ISVNUT1JZIgppZCA9ICI1YWVkY2YyZGRhODg0Mjc5OWNhOWI0YmMxMTBhMWNjZiIKCiMgRW52aXJvbm1lbnQgdmFyaWFibGVzIGZvciB0cmFuc2xhdGlvbiBzZXJ2aWNlcwpbdmFyc10KIyBBZGQgeW91ciBBUEkga2V5cyBoZXJlIHdoZW4gZGVwbG95aW5nCk9QRU5BSV9BUElfS0VZID0gInNrLXByb2otdnJoRzRJWk1CMVJKMmpmQW5kZlU2WU0takFsVXpGYUh5aVFTTkJFLWdBUW5YdS1ma1AtR0R0Q3YzM0hVYUV0eVB1aGNqTE4tWFBUM0JsYmtGSl9LR1Z2c0wzUXRNUTNrSERyNlBIWHY5TXMyUmlKaHFMWG5wdE1YZFpuVkk1T2d5M3ROOEFkTGVialpEa0dnMi1xMExKTENOV01BIgojIENMQVVERV9BUElfS0VZID0gInlvdXItY2xhdWRlLWFwaS1rZXkiCg=="}
+name = "alemdomar-auth"
+main = "worker.js"
+compatibility_date = "2023-10-30"
+
+# KV Namespaces for authentication
+[[kv_namespaces]]
+binding = "ADM_USERS"
+id = "bbff88255b514739ac9485b2109866a2"
+
+[[kv_namespaces]]
+binding = "ADM_HISTORY"
+id = "5aedcf2dda8842799ca9b4bc110a1ccf"
+
+# DO NOT put OPENAI_API_KEY or STRIPE_SECRET_KEY here. Set them as secrets:
+#   wrangler secret put OPENAI_API_KEY
+#   wrangler secret put STRIPE_SECRET_KEY
+#   wrangler secret put STRIPE_WEBHOOK_SECRET
+# A previous OpenAI key was committed to Git history and MUST be rotated.
+[vars]
+# CLAUDE_API_KEY = "your-claude-api-key"

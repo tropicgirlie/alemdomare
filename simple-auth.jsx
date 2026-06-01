@@ -1,1 +1,310 @@
-{"data":"Ly8gU2ltcGxlIEF1dGhlbnRpY2F0aW9uIFN5c3RlbSAtIFdvcmtpbmcgdmVyc2lvbgovLyBFbWFpbC9wYXNzd29yZCBhdXRoIHdpdGggbG9jYWxTdG9yYWdlIHBlcnNpc3RlbmNlCgpmdW5jdGlvbiBTaW1wbGVBdXRoKHsgaXNPcGVuLCBvbkNsb3NlLCBvbkxvZ2luIH0pIHsKICBjb25zdCBbbW9kZSwgc2V0TW9kZV0gPSBSZWFjdC51c2VTdGF0ZSgnbG9naW4nKTsgLy8gbG9naW4gfCBzaWdudXAKICBjb25zdCBbZW1haWwsIHNldEVtYWlsXSA9IFJlYWN0LnVzZVN0YXRlKCcnKTsKICBjb25zdCBbcGFzc3dvcmQsIHNldFBhc3N3b3JkXSA9IFJlYWN0LnVzZVN0YXRlKCcnKTsKICBjb25zdCBbbmFtZSwgc2V0TmFtZV0gPSBSZWFjdC51c2VTdGF0ZSgnJyk7CiAgY29uc3QgW2lzTG9hZGluZywgc2V0SXNMb2FkaW5nXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbZXJyb3IsIHNldEVycm9yXSA9IFJlYWN0LnVzZVN0YXRlKCcnKTsKICAKICBjb25zdCBkaXJBID0gdHJ1ZTsgLy8gU2ltcGxpZmllZCBmb3Igbm93CgogIGNvbnN0IGhhbmRsZVN1Ym1pdCA9IGFzeW5jIChlKSA9PiB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBzZXRJc0xvYWRpbmcodHJ1ZSk7CiAgICBzZXRFcnJvcignJyk7CgogICAgdHJ5IHsKICAgICAgaWYgKG1vZGUgPT09ICdsb2dpbicpIHsKICAgICAgICAvLyBTaW1wbGUgbG9naW4gbG9naWMKICAgICAgICBjb25zdCB1c2VycyA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FkbV91c2VycycpIHx8ICd7fScpOwogICAgICAgIGNvbnN0IHVzZXIgPSB1c2Vyc1tlbWFpbF07CiAgICAgICAgCiAgICAgICAgaWYgKCF1c2VyIHx8IHVzZXIucGFzc3dvcmQgIT09IHBhc3N3b3JkKSB7CiAgICAgICAgICBzZXRFcnJvcignRW1haWwgb3Ugc2VuaGEgaW5jb3JyZXRvcycpOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBvbkxvZ2luKHsgLi4udXNlciwgcGFzc3dvcmQ6IHVuZGVmaW5lZCB9KTsKICAgICAgICBvbkNsb3NlKCk7CiAgICAgICAgCiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gU2ltcGxlIHNpZ251cCBsb2dpYwogICAgICAgIGNvbnN0IHVzZXJzID0gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYWRtX3VzZXJzJykgfHwgJ3t9Jyk7CiAgICAgICAgCiAgICAgICAgaWYgKHVzZXJzW2VtYWlsXSkgewogICAgICAgICAgc2V0RXJyb3IoJ0VtYWlsIGrDoSBjYWRhc3RyYWRvJyk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbnN0IG5ld1VzZXIgPSB7CiAgICAgICAgICBpZDogJ3VzZXJfJyArIERhdGUubm93KCksCiAgICAgICAgICBlbWFpbCwKICAgICAgICAgIG5hbWUsCiAgICAgICAgICBwYXNzd29yZCwKICAgICAgICAgIHJvbGU6ICd1c2VyJywKICAgICAgICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpCiAgICAgICAgfTsKICAgICAgICAKICAgICAgICB1c2Vyc1tlbWFpbF0gPSBuZXdVc2VyOwogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhZG1fdXNlcnMnLCBKU09OLnN0cmluZ2lmeSh1c2VycykpOwogICAgICAgIAogICAgICAgIG9uTG9naW4obmV3VXNlcik7CiAgICAgICAgb25DbG9zZSgpOwogICAgICB9CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgc2V0RXJyb3IoJ09jb3JyZXUgdW0gZXJyby4gVGVudGUgbm92YW1lbnRlLicpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0SXNMb2FkaW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVPd25lckxvZ2luID0gKCkgPT4gewogICAgY29uc3Qgb3duZXJVc2VyID0gewogICAgICBpZDogJ293bmVyJywKICAgICAgZW1haWw6ICdvd25lckBhbGVtZG9tYXIuY29tJywKICAgICAgbmFtZTogJ093bmVyJywKICAgICAgcm9sZTogJ293bmVyJywKICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCkKICAgIH07CiAgICAKICAgIG9uTG9naW4ob3duZXJVc2VyKTsKICAgIG9uQ2xvc2UoKTsKICB9OwoKICBpZiAoIWlzT3BlbikgcmV0dXJuIG51bGw7CgogIHJldHVybiBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICBzdHlsZTogewogICAgICBwb3NpdGlvbjogJ2ZpeGVkJywKICAgICAgdG9wOiAwLAogICAgICBsZWZ0OiAwLAogICAgICByaWdodDogMCwKICAgICAgYm90dG9tOiAwLAogICAgICBiYWNrZ3JvdW5kOiAncmdiYSgwLDAsMCwwLjUpJywKICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICB6SW5kZXg6IDEwMDAsCiAgICAgIHBhZGRpbmc6IDIwCiAgICB9CiAgfSwgWwogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICdtb2RhbCcsCiAgICAgIHN0eWxlOiB7CiAgICAgICAgYmFja2dyb3VuZDogZGlyQSA/ICcjZmZmJyA6ICcjMWExYTFhJywKICAgICAgICBib3JkZXJSYWRpdXM6IDE2LAogICAgICAgIHBhZGRpbmc6IDMyLAogICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgbWF4V2lkdGg6IDQwMCwKICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJyNlNWU1ZTUnIDogJyMzMzMnfWAKICAgICAgfQogICAgfSwgWwogICAgICAvLyBIZWFkZXIKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICAgIGtleTogJ2hlYWRlcicsCiAgICAgICAgc3R5bGU6IHsgZGlzcGxheTogJ2ZsZXgnLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywgbWFyZ2luQm90dG9tOiAyNCB9CiAgICAgIH0sIFsKICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdoMicsIHsKICAgICAgICAgIGtleTogJ3RpdGxlJywKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIG1hcmdpbjogMCwKICAgICAgICAgICAgZm9udFNpemU6IDI0LAogICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyMzMzMnIDogJyNmZmYnCiAgICAgICAgICB9CiAgICAgICAgfSwgbW9kZSA9PT0gJ2xvZ2luJyA/ICdFbnRyYXInIDogJ0NyaWFyIGNvbnRhJyksCiAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnYnV0dG9uJywgewogICAgICAgICAga2V5OiAnY2xvc2UnLAogICAgICAgICAgb25DbGljazogb25DbG9zZSwKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICdub25lJywKICAgICAgICAgICAgYm9yZGVyOiAnbm9uZScsCiAgICAgICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicsCiAgICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyM2NjYnIDogJyM5OTknCiAgICAgICAgICB9CiAgICAgICAgfSwgJ8OXJykKICAgICAgXSksCgogICAgICAvLyBGb3JtCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2Zvcm0nLCB7CiAgICAgICAga2V5OiAnZm9ybScsCiAgICAgICAgb25TdWJtaXQ6IGhhbmRsZVN1Ym1pdCwKICAgICAgICBzdHlsZTogeyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDE2IH0KICAgICAgfSwgWwogICAgICAgIG1vZGUgPT09ICdzaWdudXAnICYmIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2lucHV0JywgewogICAgICAgICAga2V5OiAnbmFtZScsCiAgICAgICAgICB0eXBlOiAndGV4dCcsCiAgICAgICAgICBwbGFjZWhvbGRlcjogJ05vbWUgY29tcGxldG8nLAogICAgICAgICAgdmFsdWU6IG5hbWUsCiAgICAgICAgICBvbkNoYW5nZTogKGUpID0+IHNldE5hbWUoZS50YXJnZXQudmFsdWUpLAogICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICBzdHlsZTogaW5wdXRTdHlsZShkaXJBKQogICAgICAgIH0pLAogICAgICAgIAogICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2lucHV0JywgewogICAgICAgICAga2V5OiAnZW1haWwnLAogICAgICAgICAgdHlwZTogJ2VtYWlsJywKICAgICAgICAgIHBsYWNlaG9sZGVyOiAnRS1tYWlsJywKICAgICAgICAgIHZhbHVlOiBlbWFpbCwKICAgICAgICAgIG9uQ2hhbmdlOiAoZSkgPT4gc2V0RW1haWwoZS50YXJnZXQudmFsdWUpLAogICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICBzdHlsZTogaW5wdXRTdHlsZShkaXJBKQogICAgICAgIH0pLAogICAgICAgIAogICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2lucHV0JywgewogICAgICAgICAga2V5OiAncGFzc3dvcmQnLAogICAgICAgICAgdHlwZTogJ3Bhc3N3b3JkJywKICAgICAgICAgIHBsYWNlaG9sZGVyOiAnU2VuaGEnLAogICAgICAgICAgdmFsdWU6IHBhc3N3b3JkLAogICAgICAgICAgb25DaGFuZ2U6IChlKSA9PiBzZXRQYXNzd29yZChlLnRhcmdldC52YWx1ZSksCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICAgIHN0eWxlOiBpbnB1dFN0eWxlKGRpckEpCiAgICAgICAgfSksCgogICAgICAgIGVycm9yICYmIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAgICAgIGtleTogJ2Vycm9yJywKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIGNvbG9yOiAnI2RjMjYyNicsCiAgICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgICAgcGFkZGluZzogJzhweCAxMnB4JywKICAgICAgICAgICAgYmFja2dyb3VuZDogJ3JnYmEoMjIwLCAzOCwgMzgsIDAuMSknLAogICAgICAgICAgICBib3JkZXJSYWRpdXM6IDYsCiAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCByZ2JhKDIyMCwgMzgsIDM4LCAwLjIpJwogICAgICAgICAgfQogICAgICAgIH0sIGVycm9yKSwKCiAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnYnV0dG9uJywgewogICAgICAgICAga2V5OiAnc3VibWl0JywKICAgICAgICAgIHR5cGU6ICdzdWJtaXQnLAogICAgICAgICAgZGlzYWJsZWQ6IGlzTG9hZGluZywKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIC4uLmJ1dHRvblN0eWxlKGRpckEpLAogICAgICAgICAgICBvcGFjaXR5OiBpc0xvYWRpbmcgPyAwLjUgOiAxLAogICAgICAgICAgICBjdXJzb3I6IGlzTG9hZGluZyA/ICdub3QtYWxsb3dlZCcgOiAncG9pbnRlcicKICAgICAgICAgIH0KICAgICAgICB9LCBpc0xvYWRpbmcgPyAnUHJvY2Vzc2FuZG8uLi4nIDogKG1vZGUgPT09ICdsb2dpbicgPyAnRW50cmFyJyA6ICdDcmlhciBjb250YScpKSwKCiAgICAgICAgLy8gTW9kZSBzd2l0Y2gKICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICAgICAgICBrZXk6ICdzd2l0Y2gnLAogICAgICAgICAgc3R5bGU6IHsgdGV4dEFsaWduOiAnY2VudGVyJywgZm9udFNpemU6IDE0IH0KICAgICAgICB9LCBbCiAgICAgICAgICBtb2RlID09PSAnbG9naW4nID8gJ07Do28gdGVtIGNvbnRhPyAnIDogJ0rDoSB0ZW0gY29udGE/ICcsCiAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdidXR0b24nLCB7CiAgICAgICAgICAgIGtleTogJ3N3aXRjaC1idG4nLAogICAgICAgICAgICB0eXBlOiAnYnV0dG9uJywKICAgICAgICAgICAgb25DbGljazogKCkgPT4gc2V0TW9kZShtb2RlID09PSAnbG9naW4nID8gJ3NpZ251cCcgOiAnbG9naW4nKSwKICAgICAgICAgICAgc3R5bGU6IHsKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAnbm9uZScsCiAgICAgICAgICAgICAgYm9yZGVyOiAnbm9uZScsCiAgICAgICAgICAgICAgY29sb3I6IGRpckEgPyAnIzJhOWQ4ZicgOiAnIzRmYjliOCcsCiAgICAgICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicsCiAgICAgICAgICAgICAgdGV4dERlY29yYXRpb246ICd1bmRlcmxpbmUnCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sIG1vZGUgPT09ICdsb2dpbicgPyAnQ3JpYXIgY29udGEnIDogJ0VudHJhcicpCiAgICAgICAgXSksCgogICAgICAgIC8vIE93bmVyIGJ5cGFzcwogICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAgICAgIGtleTogJ293bmVyJywKICAgICAgICAgIHN0eWxlOiB7IHRleHRBbGlnbjogJ2NlbnRlcicsIG1hcmdpblRvcDogMTYgfQogICAgICAgIH0sIFsKICAgICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2J1dHRvbicsIHsKICAgICAgICAgICAga2V5OiAnb3duZXItYnRuJywKICAgICAgICAgICAgdHlwZTogJ2J1dHRvbicsCiAgICAgICAgICAgIG9uQ2xpY2s6IGhhbmRsZU93bmVyTG9naW4sCiAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ25vbmUnLAogICAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCAjNjY2JywKICAgICAgICAgICAgICBwYWRkaW5nOiAnNHB4IDhweCcsCiAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiA0LAogICAgICAgICAgICAgIGZvbnRTaXplOiAxMiwKICAgICAgICAgICAgICBjb2xvcjogJyM2NjYnLAogICAgICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sICfwn5GRIE93bmVyIEFjY2VzcycpCiAgICAgICAgXSkKICAgICAgXSkKICAgIF0pCiAgXSk7Cn0KCmZ1bmN0aW9uIGlucHV0U3R5bGUoZGlyQSkgewogIHJldHVybiB7CiAgICBwYWRkaW5nOiAnMTJweCAxNnB4JywKICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2RpckEgPyAnI2U1ZTVlNScgOiAnIzMzMyd9YCwKICAgIGJvcmRlclJhZGl1czogOCwKICAgIGZvbnRTaXplOiAxNiwKICAgIGJhY2tncm91bmQ6IGRpckEgPyAnI2ZmZicgOiAnIzJhMmEyYScsCiAgICBjb2xvcjogZGlyQSA/ICcjMzMzJyA6ICcjZmZmJwogIH07Cn0KCmZ1bmN0aW9uIGJ1dHRvblN0eWxlKGRpckEpIHsKICByZXR1cm4gewogICAgcGFkZGluZzogJzEycHggMjRweCcsCiAgICBib3JkZXI6ICdub25lJywKICAgIGJvcmRlclJhZGl1czogOCwKICAgIGZvbnRTaXplOiAxNiwKICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgIGJhY2tncm91bmQ6IGRpckEgPyAnIzJhOWQ4ZicgOiAnIzRmYjliOCcsCiAgICBjb2xvcjogJyNmZmYnLAogICAgY3Vyc29yOiAncG9pbnRlcicKICB9Owp9Cgp3aW5kb3cuU2ltcGxlQXV0aCA9IFNpbXBsZUF1dGg7Cg=="}
+// Simple Authentication System - Working version
+// Email/password auth with localStorage persistence.
+// Passwords are hashed (PBKDF2 / SHA-256, 100k iterations) so plaintext is
+// never stored. Existing plaintext users are silently migrated on next login.
+
+async function hashPassword(password, saltHex) {
+  const enc = new TextEncoder();
+  const salt = new Uint8Array(saltHex.match(/.{2}/g).map(b => parseInt(b, 16)));
+  const keyMaterial = await crypto.subtle.importKey(
+    'raw', enc.encode(password), 'PBKDF2', false, ['deriveBits']
+  );
+  const bits = await crypto.subtle.deriveBits(
+    { name: 'PBKDF2', salt, iterations: 100000, hash: 'SHA-256' },
+    keyMaterial,
+    256
+  );
+  return Array.from(new Uint8Array(bits))
+    .map(b => b.toString(16).padStart(2, '0'))
+    .join('');
+}
+
+function randomSaltHex() {
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+  return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+function SimpleAuth({ isOpen, onClose, onLogin }) {
+  const [mode, setMode] = React.useState('login'); // login | signup
+  const [email, setEmail] = React.useState('');
+  const [password, setPassword] = React.useState('');
+  const [name, setName] = React.useState('');
+  const [isLoading, setIsLoading] = React.useState(false);
+  const [error, setError] = React.useState('');
+
+  const dirA = true; // Simplified for now
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setIsLoading(true);
+    setError('');
+
+    try {
+      if (mode === 'login') {
+        const users = JSON.parse(localStorage.getItem('adm_users') || '{}');
+        const user = users[email];
+
+        if (!user) {
+          setError('Email ou senha incorretos');
+          return;
+        }
+
+        let ok = false;
+        if (user.passwordHash && user.salt) {
+          const hash = await hashPassword(password, user.salt);
+          ok = (hash === user.passwordHash);
+        } else if (typeof user.password === 'string') {
+          // Legacy plaintext user — verify, then migrate to hashed.
+          ok = (user.password === password);
+          if (ok) {
+            const salt = randomSaltHex();
+            user.salt = salt;
+            user.passwordHash = await hashPassword(password, salt);
+            delete user.password;
+            users[email] = user;
+            localStorage.setItem('adm_users', JSON.stringify(users));
+          }
+        }
+
+        if (!ok) {
+          setError('Email ou senha incorretos');
+          return;
+        }
+
+        const { password: _p, passwordHash: _h, salt: _s, ...safe } = user;
+        onLogin(safe);
+        onClose();
+
+      } else {
+        const users = JSON.parse(localStorage.getItem('adm_users') || '{}');
+
+        if (users[email]) {
+          setError('Email já cadastrado');
+          return;
+        }
+
+        const salt = randomSaltHex();
+        const passwordHash = await hashPassword(password, salt);
+
+        const newUser = {
+          id: 'user_' + Date.now(),
+          email,
+          name,
+          salt,
+          passwordHash,
+          role: 'user',
+          createdAt: new Date().toISOString()
+        };
+
+        users[email] = newUser;
+        localStorage.setItem('adm_users', JSON.stringify(users));
+
+        const { passwordHash: _h, salt: _s, ...safe } = newUser;
+        onLogin(safe);
+        onClose();
+      }
+    } catch (err) {
+      setError('Ocorreu um erro. Tente novamente.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleOwnerLogin = () => {
+    const ownerUser = {
+      id: 'owner',
+      email: 'owner@alemdomar.com',
+      name: 'Owner',
+      role: 'owner',
+      createdAt: new Date().toISOString()
+    };
+
+    onLogin(ownerUser);
+    onClose();
+  };
+
+  if (!isOpen) return null;
+
+  return React.createElement('div', {
+    style: {
+      position: 'fixed',
+      top: 0,
+      left: 0,
+      right: 0,
+      bottom: 0,
+      background: 'rgba(0,0,0,0.5)',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      zIndex: 1000,
+      padding: 20
+    }
+  }, [
+    React.createElement('div', {
+      key: 'modal',
+      style: {
+        background: dirA ? '#fff' : '#1a1a1a',
+        borderRadius: 16,
+        padding: 32,
+        width: '100%',
+        maxWidth: 400,
+        border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`
+      }
+    }, [
+      // Header
+      React.createElement('div', {
+        key: 'header',
+        style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 }
+      }, [
+        React.createElement('h2', {
+          key: 'title',
+          style: {
+            margin: 0,
+            fontSize: 24,
+            fontWeight: 600,
+            color: dirA ? '#333' : '#fff'
+          }
+        }, mode === 'login' ? 'Entrar' : 'Criar conta'),
+        React.createElement('button', {
+          key: 'close',
+          onClick: onClose,
+          style: {
+            background: 'none',
+            border: 'none',
+            fontSize: 20,
+            cursor: 'pointer',
+            color: dirA ? '#666' : '#999'
+          }
+        }, '×')
+      ]),
+
+      // Form
+      React.createElement('form', {
+        key: 'form',
+        onSubmit: handleSubmit,
+        style: { display: 'flex', flexDirection: 'column', gap: 16 }
+      }, [
+        mode === 'signup' && React.createElement('input', {
+          key: 'name',
+          type: 'text',
+          placeholder: 'Nome completo',
+          value: name,
+          onChange: (e) => setName(e.target.value),
+          required: true,
+          style: inputStyle(dirA)
+        }),
+
+        React.createElement('input', {
+          key: 'email',
+          type: 'email',
+          placeholder: 'E-mail',
+          value: email,
+          onChange: (e) => setEmail(e.target.value),
+          required: true,
+          style: inputStyle(dirA)
+        }),
+
+        React.createElement('input', {
+          key: 'password',
+          type: 'password',
+          placeholder: 'Senha',
+          value: password,
+          onChange: (e) => setPassword(e.target.value),
+          required: true,
+          style: inputStyle(dirA)
+        }),
+
+        error && React.createElement('div', {
+          key: 'error',
+          style: {
+            color: '#dc2626',
+            fontSize: 14,
+            padding: '8px 12px',
+            background: 'rgba(220, 38, 38, 0.1)',
+            borderRadius: 6,
+            border: '1px solid rgba(220, 38, 38, 0.2)'
+          }
+        }, error),
+
+        React.createElement('button', {
+          key: 'submit',
+          type: 'submit',
+          disabled: isLoading,
+          style: {
+            ...buttonStyle(dirA),
+            opacity: isLoading ? 0.5 : 1,
+            cursor: isLoading ? 'not-allowed' : 'pointer'
+          }
+        }, isLoading ? 'Processando...' : (mode === 'login' ? 'Entrar' : 'Criar conta')),
+
+        // Mode switch
+        React.createElement('div', {
+          key: 'switch',
+          style: { textAlign: 'center', fontSize: 14 }
+        }, [
+          mode === 'login' ? 'Não tem conta? ' : 'Já tem conta? ',
+          React.createElement('button', {
+            key: 'switch-btn',
+            type: 'button',
+            onClick: () => setMode(mode === 'login' ? 'signup' : 'login'),
+            style: {
+              background: 'none',
+              border: 'none',
+              color: dirA ? '#2a9d8f' : '#4fb9b8',
+              cursor: 'pointer',
+              textDecoration: 'underline'
+            }
+          }, mode === 'login' ? 'Criar conta' : 'Entrar')
+        ]),
+
+        // Owner bypass
+        React.createElement('div', {
+          key: 'owner',
+          style: { textAlign: 'center', marginTop: 16 }
+        }, [
+          React.createElement('button', {
+            key: 'owner-btn',
+            type: 'button',
+            onClick: handleOwnerLogin,
+            style: {
+              background: 'none',
+              border: '1px solid #666',
+              padding: '4px 8px',
+              borderRadius: 4,
+              fontSize: 12,
+              color: '#666',
+              cursor: 'pointer'
+            }
+          }, '👑 Owner Access')
+        ])
+      ])
+    ])
+  ]);
+}
+
+function inputStyle(dirA) {
+  return {
+    padding: '12px 16px',
+    border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`,
+    borderRadius: 8,
+    fontSize: 16,
+    background: dirA ? '#fff' : '#2a2a2a',
+    color: dirA ? '#333' : '#fff'
+  };
+}
+
+function buttonStyle(dirA) {
+  return {
+    padding: '12px 24px',
+    border: 'none',
+    borderRadius: 8,
+    fontSize: 16,
+    fontWeight: 600,
+    background: dirA ? '#2a9d8f' : '#4fb9b8',
+    color: '#fff',
+    cursor: 'pointer'
+  };
+}
+
+window.SimpleAuth = SimpleAuth;

@@ -1,1 +1,71 @@
-{"data":"Ly8gSG9yaXpvbnRhbCBzY3JvbGxhYmxlIHRvb2wgc2VsZWN0b3IuIEdyb3VwczogQ2FyZWVyLCBDdWx0dXJhbCwgVG9vbHMuCgpjb25zdCBUT09MX0dST1VQUyA9IFsKICB7CiAgICBpZDogJ2NhcmVlcicsCiAgICBsYWJlbDogJ0NhcnJlaXJhJywKICAgIGl0ZW1zOiBbCiAgICAgIHsgaWQ6ICdjYXJlZXInLCBsYWJlbDogJ1RyYWR1dG9yIGRlIGNhcnJlaXJhJywgc3ViOiAnQ3VycsOtY3VsbyArIExpbmtlZEluJyB9LAogICAgICB7IGlkOiAnYXRzX2NoZWNrJywgbGFiZWw6ICdBVFMgY2hlY2snLCBzdWI6ICdWYWkgcGFzc2FyIGRvIGZpbHRybz8nIH0sCiAgICAgIHsgaWQ6ICdzYWxhcnlfcmVhbGl0eScsIGxhYmVsOiAnU2Fsw6FyaW8gcmVhbCcsIHN1YjogJ1N1YSBmYWl4YSBhcXVpJyB9LAogICAgICB7IGlkOiAnaGlyaW5nX3JlYWxpdHknLCBsYWJlbDogJ1NlbSByZXNwb3N0YT8nLCBzdWI6ICdQb3IgcXVlJyB9LAogICAgICB7IGlkOiAnaW50ZXJ2aWV3X3NpbScsIGxhYmVsOiAnRW50cmV2aXN0YScsIHN1YjogJ1RyZWlubycgfSwKICAgICAgeyBpZDogJ3JlamVjdGlvbl9kZWNvZGVyJywgbGFiZWw6ICdEZWNvZGVyJywgc3ViOiAnUmVqZWnDp8OjbycgfSwKICAgIF0sCiAgfSwKICB7CiAgICBpZDogJ2N1bHR1cmFsJywKICAgIGxhYmVsOiAnQ3VsdHVyYWwnLAogICAgaXRlbXM6IFsKICAgICAgeyBpZDogJ2N1bHR1cmFsJywgbGFiZWw6ICdUcmFkdXRvciBjdWx0dXJhbCcsIHN1YjogJ0NvbXBvcnRhbWVudG8nIH0sCiAgICAgIHsgaWQ6ICdzb2NpYWxfc2NyaXB0cycsIGxhYmVsOiAnU2NyaXB0cyBzb2NpYWlzJywgc3ViOiAnTyBxdWUgZGl6ZXInIH0sCiAgICAgIHsgaWQ6ICdzYXlfaXRfYmV0dGVyJywgbGFiZWw6ICdTYXkgaXQgYmV0dGVyJywgc3ViOiAnUmVlc2NyZXZhJyB9LAogICAgICB7IGlkOiAnaWRlbnRpdHlfcmVmcmFtZScsIGxhYmVsOiAnTWUgc2ludG8gcGVyZGlkbycsIHN1YjogJ0lkZW50aWRhZGUnIH0sCiAgICBdLAogIH0sCl07CgpmdW5jdGlvbiBUb29sUGlja2VyKHsgZGlyZWN0aW9uLCBtb2RlLCBvbkNoYW5nZSB9KSB7CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwogIGNvbnN0IGFjY2VudCA9IGRpckEgPyAndmFyKC0tYS1ncmVlbiknIDogJ3ZhcigtLWItZ29sZCknOwogIGNvbnN0IHJ1bGUgPSBkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknOwogIGNvbnN0IHRleHQyID0gZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKSc7CgogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IG1hcmdpblRvcDogMTIsIG1hcmdpbkJvdHRvbTogOCB9fT4KICAgICAgPGRpdiBjbGFzc05hbWU9InRvb2wtcGlja2VyLXNjcm9sbCIgc3R5bGU9e3sKICAgICAgICBkaXNwbGF5OiAnZmxleCcsIGdhcDogMjQsIG92ZXJmbG93WDogJ2F1dG8nLAogICAgICAgIHBhZGRpbmdCb3R0b206IDQKICAgICAgfX0+CiAgICAgICAge1RPT0xfR1JPVVBTLm1hcCgoZ3JvdXApID0+ICgKICAgICAgICAgIDxkaXYga2V5PXtncm91cC5pZH0gc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywgZ2FwOiA2LCBtaW5XaWR0aDogJ21heC1jb250ZW50JyB9fT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICAgIGZvbnRTaXplOiAxMCwgbGV0dGVyU3BhY2luZzogJzAuMTJlbScsIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgICAgICAgIGNvbG9yOiB0ZXh0MiwgZm9udFdlaWdodDogNzAwLCBwYWRkaW5nTGVmdDogMiwKICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAge2dyb3VwLmxhYmVsfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogNiB9fT4KICAgICAgICAgICAgICB7Z3JvdXAuaXRlbXMubWFwKChpdCkgPT4gewogICAgICAgICAgICAgICAgY29uc3QgYWN0aXZlID0gbW9kZSA9PT0gaXQuaWQ7CiAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgICAga2V5PXtpdC5pZH0KICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvbkNoYW5nZShpdC5pZCl9CiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc4cHggMTJweCcsIGJvcmRlclJhZGl1czogOCwKICAgICAgICAgICAgICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2FjdGl2ZSA/IGFjY2VudCA6IHJ1bGV9YCwKICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGFjdGl2ZSA/IGFjY2VudCA6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogYWN0aXZlID8gJyNmZmYnIDogJ2luaGVyaXQnLAogICAgICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnbGVmdCcsIG1pbldpZHRoOiAxMzAsCiAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uOiAnYWxsIDAuMTVzJywKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTMsIGZvbnRXZWlnaHQ6IDYwMCwgbGluZUhlaWdodDogMS4yIH19PntpdC5sYWJlbH08L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMTEsIG1hcmdpblRvcDogMiwgbGluZUhlaWdodDogMS4yLAogICAgICAgICAgICAgICAgICAgICAgb3BhY2l0eTogYWN0aXZlID8gMC44NSA6IDAuNiwKICAgICAgICAgICAgICAgICAgICB9fT57aXQuc3VifTwvZGl2PgogICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKd2luZG93LlRvb2xQaWNrZXIgPSBUb29sUGlja2VyOwo="}
+// Horizontal scrollable tool selector. Groups: Career, Cultural, Tools.
+
+const TOOL_GROUPS = [
+  {
+    id: 'career',
+    label: 'Carreira',
+    items: [
+      { id: 'career', label: 'Tradutor de carreira', sub: 'Currículo + LinkedIn' },
+      { id: 'ats_check', label: 'Checagem ATS', sub: 'Vai passar do filtro?' },
+      { id: 'salary_reality', label: 'Salário real', sub: 'Sua faixa aqui' },
+      { id: 'hiring_reality', label: 'Sem resposta?', sub: 'Por que' },
+      { id: 'interview_sim', label: 'Entrevista', sub: 'Treino' },
+      { id: 'rejection_decoder', label: 'Decoder', sub: 'Rejeição' },
+    ],
+  },
+  {
+    id: 'cultural',
+    label: 'Cultural',
+    items: [
+      { id: 'cultural', label: 'Tradutor cultural', sub: 'Comportamento' },
+      { id: 'social_scripts', label: 'Scripts sociais', sub: 'O que dizer' },
+      { id: 'say_it_better', label: 'Diga melhor', sub: 'Reescreva' },
+      { id: 'identity_reframe', label: 'Me sinto perdido', sub: 'Identidade' },
+    ],
+  },
+];
+
+function ToolPicker({ direction, mode, onChange }) {
+  const dirA = direction === 'a';
+  const groupLabelId = 'tool-picker-label';
+
+  return (
+    <div style={{ marginTop: 12, marginBottom: 8 }} role="region" aria-labelledby={groupLabelId}>
+      <p id={groupLabelId} className="sr-only">Escolha a ferramenta</p>
+      <div className="adm-picker-scroll tool-picker-scroll">
+        {TOOL_GROUPS.map((group) => (
+          <div key={group.id} style={{ display: 'flex', flexDirection: 'column', gap: 8, minWidth: 'max-content' }}>
+            <div
+              style={{
+                fontSize: 11, letterSpacing: '0.12em', textTransform: 'uppercase',
+                color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', fontWeight: 700, paddingLeft: 2,
+              }}
+              aria-hidden="true"
+            >
+              {group.label}
+            </div>
+            <div style={{ display: 'flex', gap: 8 }} role="group" aria-label={group.label}>
+              {group.items.map((it) => {
+                const active = mode === it.id;
+                return (
+                  <button
+                    key={it.id}
+                    type="button"
+                    className="adm-picker-btn"
+                    aria-current={active ? 'true' : undefined}
+                    onClick={() => onChange(it.id)}
+                  >
+                    <div className="adm-picker-btn-label">{it.label}</div>
+                    <div className="adm-picker-btn-sub">{it.sub}</div>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+window.ToolPicker = ToolPicker;

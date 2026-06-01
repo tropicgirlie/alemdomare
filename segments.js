@@ -1,1 +1,124 @@
-{"data":"Ly8gU2VnbWVudGF0aW9uOiBhdXRvLWRldGVjdCBmcm9tIGpvYiB0aXRsZSArIDcgZmFsbGJhY2sgY2FyZHMuCi8vIFVzZWQgYnkgZm9ybSB0byBhZGFwdCBxdWVzdGlvbiBzY2hlbWEgYW5kIGZlZWQgc2VnbWVudCBjb250ZXh0IGludG8gdGhlIHByb21wdC4KCndpbmRvdy5BZE1fU0VHTUVOVFMgPSB7CiAgdGVjaDogewogICAgaWQ6ICd0ZWNoJywKICAgIGxhYmVsOiAnVGVjbm9sb2dpYSAvIERpZ2l0YWwnLAogICAgaWNvbjogJ/CfkrsnLAogICAgZGVzY3JpcHRpb246ICdVWCwgZGV2LCBwcm9kdXRvLCBkYWRvcywgZGVzaWduJywKICAgIGtleXdvcmRzOiBbJ3V4JywgJ3VpJywgJ2RldicsICdkZXNlbnZvbHZlZCcsICdwcm9ncmFtYWQnLCAnZW5nZW5oZWlybyBkZSBzb2Z0d2FyZScsICdlbmdlbmhlaXJvIGRlIGRhZG9zJywgJ2NpZW50aXN0YSBkZSBkYWRvcycsICdwcm9kdWN0IG1hbmFnZXInLCAnZ2VyZW50ZSBkZSBwcm9kdXRvJywgJ2FuYWxpc3RhIGRlIHByb2R1dG8nLCAnZGVzaWduZXInLCAnZGF0YSBhbmFseXN0JywgJ2RhdGEgc2NpZW50aXN0JywgJ2Zyb250ZW5kJywgJ2JhY2tlbmQnLCAnZnVsbHN0YWNrJywgJ21vYmlsZScsICdkZXZvcHMnLCAncWEnLCAndGVzdGVyJywgJ3RlY2ggbGVhZCcsICdjdG8nLCAnYXJxdWl0ZXRvIGRlIHNvZnR3YXJlJywgJ2FuYWxpc3RhIGRlIHNpc3RlbWFzJywgJ2FuYWxpc3RhIGRlIGRhZG9zJ10sCiAgICBxdWVzdGlvbnM6IFsndG9vbHMnLCAnc2NvcGUnLCAnb3V0Y29tZXMnXSwKICAgIGZvY3VzOiAndG9vbHMsIHN5c3RlbXMsIHNjYWxlLCBwcm9kdWN0IGltcGFjdCcsCiAgfSwKICB0cmFkZXM6IHsKICAgIGlkOiAndHJhZGVzJywKICAgIGxhYmVsOiAnQ29uc3RydcOnw6NvIC8gTWFudXRlbsOnw6NvJywKICAgIGljb246ICfwn5ugJywKICAgIGRlc2NyaXB0aW9uOiAnRWxldHJpY2lzdGEsIGVuY2FuYWRvciwgcGVkcmVpcm8sIG1lY8OibmljbycsCiAgICBrZXl3b3JkczogWydlbGV0cmljaXN0YScsICdlbmNhbmFkb3InLCAncGVkcmVpcm8nLCAnbWVjw6JuaWNvJywgJ21lY2FuaWNvJywgJ3BpbnRvcicsICdjYXJwaW50ZWlybycsICdtYXJjZW5laXJvJywgJ3NvbGRhZG9yJywgJ3NlcnJhbGhlaXJvJywgJ3TDqWNuaWNvIGRlIG1hbnV0ZW7Dp8OjbycsICd0ZWNuaWNvIGRlIG1hbnV0ZW5jYW8nLCAnY29uc3RydcOnw6NvJywgJ2NvbnN0cnVjYW8nLCAnb2JyYXMnLCAnaW5zdGFsYWQnXSwKICAgIHF1ZXN0aW9uczogWydjZXJ0aWZpY2F0aW9ucycsICd3b3JrVHlwZXMnLCAndG9vbHMnXSwKICAgIGZvY3VzOiAnY2VydGlmaWNhdGlvbnMsIHNhZmV0eSBzdGFuZGFyZHMsIHR5cGVzIG9mIHdvcmsnLAogIH0sCiAgaGVhbHRoY2FyZTogewogICAgaWQ6ICdoZWFsdGhjYXJlJywKICAgIGxhYmVsOiAnU2HDumRlJywKICAgIGljb246ICfwn4+lJywKICAgIGRlc2NyaXB0aW9uOiAnRW5mZXJtYWdlbSwgY3VpZGFkb3IsIHTDqWNuaWNvIGVtIHNhw7pkZScsCiAgICBrZXl3b3JkczogWydlbmZlcm1laXInLCAnY3VpZGFkb3InLCAndMOpY25pY28gZGUgZW5mZXJtYWdlbScsICd0ZWNuaWNvIGRlIGVuZmVybWFnZW0nLCAnYXV4aWxpYXIgZGUgZW5mZXJtYWdlbScsICdmaXNpb3RlcmFwZXV0JywgJ2Zhcm1hY8OqdXRpYycsICdmYXJtYWNldXRpYycsICdudXRyaWNpb25pc3QnLCAncHNpY8OzbG9nJywgJ3BzaWNvbG9nJywgJ23DqWRpYycsICdtZWRpYycsICdkZW50aXN0JywgJ2Jpb23DqWRpYycsICdiaW9tZWRpYycsICdyYWRpb2xvZyddLAogICAgcXVlc3Rpb25zOiBbJ2NlcnRpZmljYXRpb25zJywgJ3BhdGllbnRMb2FkJywgJ3NwZWNpYWx0eSddLAogICAgZm9jdXM6ICdjZXJ0aWZpY2F0aW9ucywgcGF0aWVudCBjYXJlLCByZWd1bGF0b3J5IGNvbXBsaWFuY2UnLAogIH0sCiAgZWR1Y2F0aW9uOiB7CiAgICBpZDogJ2VkdWNhdGlvbicsCiAgICBsYWJlbDogJ0VkdWNhw6fDo28nLAogICAgaWNvbjogJ/CfjpMnLAogICAgZGVzY3JpcHRpb246ICdQcm9mZXNzb3IsIGF1eGlsaWFyLCBwZWRhZ29nbycsCiAgICBrZXl3b3JkczogWydwcm9mZXNzb3InLCAncHJvZmVzc29yYScsICdwZWRhZ29nJywgJ2VkdWNhZG9yJywgJ2F1eGlsaWFyIGRlIGNsYXNzZScsICdtb25pdG9yJywgJ3R1dG9yJywgJ2luc3RydXRvcicsICdjb29yZGVuYWRvciBwZWRhZ8OzZ2ljJywgJ2Nvb3JkZW5hZG9yIHBlZGFnb2dpYyddLAogICAgcXVlc3Rpb25zOiBbJ2FnZUdyb3VwJywgJ3N1YmplY3RzJywgJ2NlcnRpZmljYXRpb25zJ10sCiAgICBmb2N1czogJ3N0dWRlbnQgb3V0Y29tZXMsIGFnZSBncm91cHMsIG1ldGhvZG9sb2dpZXMnLAogIH0sCiAgc2VydmljZTogewogICAgaWQ6ICdzZXJ2aWNlJywKICAgIGxhYmVsOiAnQXRlbmRpbWVudG8gLyBWYXJlam8nLAogICAgaWNvbjogJ/Cfm40nLAogICAgZGVzY3JpcHRpb246ICdIb3RlbGFyaWEsIHZlbmRhcywgYXRlbmRpbWVudG8nLAogICAga2V5d29yZHM6IFsnYXRlbmRlbnRlJywgJ3ZlbmRlZG9yJywgJ3ZlbmRlZG9yYScsICdjYWl4YScsICdyZWNlcGNpb25pc3QnLCAnZ2Fyw6dvbicsICdnYXJjb24nLCAnZ2Fyw6dvbmV0JywgJ2NvemluaGVpcicsICdhdXhpbGlhciBkZSBjb3ppbmhhJywgJ2NhbWFyZWlyJywgJ2JhcmlzdGEnLCAnYmFsY29uaXN0JywgJ2NvbnN1bHRvciBkZSB2ZW5kYXMnLCAncmVwcmVzZW50YW50ZScsICdzYWMnLCAnY2FsbCBjZW50ZXInLCAndGVsZW1hcmtldGluZycsICdmYXJtYWPDqnV0aWNvIGRlIGJhbGPDo28nLCAnZHJvZ2FyaWEnXSwKICAgIHF1ZXN0aW9uczogWyd2b2x1bWUnLCAndG9vbHMnLCAnb3V0Y29tZXMnXSwKICAgIGZvY3VzOiAnY3VzdG9tZXIgdm9sdW1lLCBzYXRpc2ZhY3Rpb24sIHNhbGVzIHRhcmdldHMnLAogIH0sCiAgYWRtaW46IHsKICAgIGlkOiAnYWRtaW4nLAogICAgbGFiZWw6ICdBZG1pbmlzdHJhdGl2byAvIE5lZ8OzY2lvcycsCiAgICBpY29uOiAn8J+TiicsCiAgICBkZXNjcmlwdGlvbjogJ0ZpbmFuw6dhcywgUkgsIG9wZXJhw6fDtWVzLCBlc2NyaXTDs3JpbycsCiAgICBrZXl3b3JkczogWydhbmFsaXN0YSBmaW5hbmNlaXInLCAnY29udGFkb3InLCAnY29udGFkb3JhJywgJ2F1eGlsaWFyIGFkbWluaXN0cmF0aXYnLCAnYXNzaXN0ZW50ZSBhZG1pbmlzdHJhdGl2JywgJ3JoJywgJ3JlY3Vyc29zIGh1bWFub3MnLCAncmVjcnV0YWRvcicsICdhbmFsaXN0YSBkZSByaCcsICdjb250cm9sbGVyJywgJ2F1ZGl0b3InLCAnYW5hbGlzdGEgY29udMOhYmlsJywgJ2FuYWxpc3RhIGNvbnRhYmlsJywgJ29mZmljZScsICdzZWNyZXTDoXJpJywgJ3NlY3JldGFyaWEgZXhlY3V0aXZhJywgJ2FuYWxpc3RhIGRlIG9wZXJhw6fDtWVzJywgJ2FuYWxpc3RhIGRlIG9wZXJhY29lcycsICdjb21wcmFzJywgJ2xvZ8Otc3RpY2EnLCAnbG9naXN0aWNhJywgJ3N1cHBseSBjaGFpbiddLAogICAgcXVlc3Rpb25zOiBbJ3Njb3BlJywgJ3Rvb2xzJywgJ291dGNvbWVzJ10sCiAgICBmb2N1czogJ3Byb2Nlc3MgaW1wcm92ZW1lbnQsIGNvc3QgcmVkdWN0aW9uLCBjb21wbGlhbmNlJywKICB9LAogIHNlbGZlbXBsb3llZDogewogICAgaWQ6ICdzZWxmZW1wbG95ZWQnLAogICAgbGFiZWw6ICdBdXTDtG5vbW8gLyBCZWxlemEnLAogICAgaWNvbjogJ+Kcgu+4jycsCiAgICBkZXNjcmlwdGlvbjogJ0NhYmVsZWlyZWlybywgbWFuaWN1cmUsIGZyZWVsYW5jZXInLAogICAga2V5d29yZHM6IFsnY2FiZWxlaXJlaXInLCAnbWFuaWN1cmUnLCAncGVkaWN1cmUnLCAnZXN0ZXRpY2lzdCcsICdtYXF1aWFkb3InLCAnbWFxdWlhZG9yYScsICdiYXJiZWlyJywgJ21hc3NhZ2lzdCcsICdkZXNpZ25lciBkZSBzb2JyYW5jZWxoYXMnLCAnYXV0w7Rub20nLCAnYXV0b25vbScsICdmcmVlbGFuY2VyJywgJ21laScsICdtaWNyb2VtcHJlZW5kZWRvcicsICd0YXR1YWQnLCAnZm90w7NncmFmJywgJ2ZvdG9ncmFmJ10sCiAgICBxdWVzdGlvbnM6IFsnY2xpZW50QmFzZScsICdzZXJ2aWNlcycsICdyZXZlbnVlJ10sCiAgICBmb2N1czogJ2NsaWVudGVsZSwgc2VydmljZSBwb3J0Zm9saW8sIHJldmVudWUnLAogIH0sCn07CgovLyBBdXRvLWRldGVjdCBzZWdtZW50IGZyb20gYSBmcmVlLXRleHQgam9iIHRpdGxlLgovLyBSZXR1cm5zIHNlZ21lbnQgaWQgb3IgbnVsbCBpZiB1bmNsZWFyLgp3aW5kb3cuQWRNX0RFVEVDVF9TRUdNRU5UID0gZnVuY3Rpb24odGl0bGUpIHsKICBpZiAoIXRpdGxlKSByZXR1cm4gbnVsbDsKICBjb25zdCB0ID0gdGl0bGUudG9Mb3dlckNhc2UoKS50cmltKCk7CiAgZm9yIChjb25zdCBzZWcgb2YgT2JqZWN0LnZhbHVlcyh3aW5kb3cuQWRNX1NFR01FTlRTKSkgewogICAgZm9yIChjb25zdCBrdyBvZiBzZWcua2V5d29yZHMpIHsKICAgICAgaWYgKHQuaW5jbHVkZXMoa3cpKSByZXR1cm4gc2VnLmlkOwogICAgfQogIH0KICByZXR1cm4gbnVsbDsKfTsKCi8vIFBlci1zZWdtZW50IHF1ZXN0aW9uIHNjaGVtYXMgKHJlcGxhY2UgdGhlIG9wdGlvbmFsIGV4cGFuZGVyIGZpZWxkcykuCndpbmRvdy5BZE1fU0VHTUVOVF9GSUVMRFMgPSB7CiAgdGVjaDogWwogICAgeyBpZDogJ3Rvb2xzJywgbGFiZWw6ICdGZXJyYW1lbnRhcyBlIGxpbmd1YWdlbnMnLCBwbGFjZWhvbGRlcjogJ0V4OiBSZWFjdCwgUHl0aG9uLCBGaWdtYSwgU1FMLCBKaXJhJyB9LAogICAgeyBpZDogJ3Njb3BlJywgbGFiZWw6ICdUYW1hbmhvIGRvIHRpbWUgLyBlc2NvcG8nLCBwbGFjZWhvbGRlcjogJ0V4OiB0aW1lIGRlIDggcGVzc29hcywgMyBzcXVhZHMnIH0sCiAgICB7IGlkOiAnb3V0Y29tZXMnLCBsYWJlbDogJ08gcXVlIHZvY8OqIGVudHJlZ291IG91IG1lbGhvcm91JywgdGV4dGFyZWE6IHRydWUsIHBsYWNlaG9sZGVyOiAnRXg6IGxhbmNlaSAyIGZlYXR1cmVzLCByZWR1emkgdGVtcG8gZGUgYnVpbGQsIHJlZml6IGZsdXhvIGRlIGNoZWNrb3V0JyB9LAogIF0sCiAgdHJhZGVzOiBbCiAgICB7IGlkOiAnY2VydGlmaWNhdGlvbnMnLCBsYWJlbDogJ0NlcnRpZmljYcOnw7VlcyAvIE5ScyBxdWUgdm9jw6ogdGVtJywgcGxhY2Vob2xkZXI6ICdFeDogTlItMTAsIE5SLTM1LCBjdXJzbyB0w6ljbmljbyBTRU5BSScgfSwKICAgIHsgaWQ6ICd3b3JrVHlwZXMnLCBsYWJlbDogJ1RpcG9zIGRlIG9icmEgb3Ugc2VydmnDp28nLCBwbGFjZWhvbGRlcjogJ0V4OiByZXNpZGVuY2lhbCwgcHJlZGlhbCwgaW5kdXN0cmlhbCcgfSwKICAgIHsgaWQ6ICd0b29scycsIGxhYmVsOiAnRmVycmFtZW50YXMgZSBlcXVpcGFtZW50b3MgcXVlIHVzYScsIHBsYWNlaG9sZGVyOiAnRXg6IG11bHTDrW1ldHJvLCBhbGljYXRlIGFtcGVyw61tZXRybywgc29sZGFkb3JhJyB9LAogICAgeyBpZDogJ291dGNvbWVzJywgbGFiZWw6ICdUcmFiYWxob3MgZGUgZGVzdGFxdWUgKG9wY2lvbmFsKScsIHRleHRhcmVhOiB0cnVlLCBwbGFjZWhvbGRlcjogJ0V4OiBpbnN0YWxlaSByZWRlIGVsw6l0cmljYSBlbSBwcsOpZGlvIGNvbWVyY2lhbCBkZSA0IGFuZGFyZXMsIHJlZm9ybWVpIDMwKyByZXNpZMOqbmNpYXMnIH0sCiAgXSwKICBoZWFsdGhjYXJlOiBbCiAgICB7IGlkOiAnY2VydGlmaWNhdGlvbnMnLCBsYWJlbDogJ1JlZ2lzdHJvIHByb2Zpc3Npb25hbCAvIGN1cnNvcycsIHBsYWNlaG9sZGVyOiAnRXg6IENPUkVOLVNQIDEyMzQ1NiwgY3Vyc28gZGUgVVRJJyB9LAogICAgeyBpZDogJ3NwZWNpYWx0eScsIGxhYmVsOiAnRXNwZWNpYWxpZGFkZSBvdSBzZXRvcicsIHBsYWNlaG9sZGVyOiAnRXg6IHBlZGlhdHJpYSwgVVRJIGFkdWx0bywgaG9tZSBjYXJlJyB9LAogICAgeyBpZDogJ3BhdGllbnRMb2FkJywgbGFiZWw6ICdWb2x1bWUgLyBjb250ZXh0byBkZSBhdGVuZGltZW50bycsIHBsYWNlaG9sZGVyOiAnRXg6IDEyIGxlaXRvcyBwb3IgdHVybm8sIGF0ZW5kaW1lbnRvIGRvbWljaWxpYXInIH0sCiAgICB7IGlkOiAnb3V0Y29tZXMnLCBsYWJlbDogJ1Jlc3BvbnNhYmlsaWRhZGVzIGVzcGVjw61maWNhcyAob3BjaW9uYWwpJywgdGV4dGFyZWE6IHRydWUsIHBsYWNlaG9sZGVyOiAnRXg6IG1lZGljYcOnw6NvLCBjdXJhdGl2b3MsIHN1cGVydmlzw6NvIGRlIGF1eGlsaWFyZXMnIH0sCiAgXSwKICBlZHVjYXRpb246IFsKICAgIHsgaWQ6ICdhZ2VHcm91cCcsIGxhYmVsOiAnRmFpeGEgZXTDoXJpYSAvIG7DrXZlbCcsIHBsYWNlaG9sZGVyOiAnRXg6IGVuc2lubyBmdW5kYW1lbnRhbCBJLCBlbnNpbm8gbcOpZGlvLCBFSkEnIH0sCiAgICB7IGlkOiAnc3ViamVjdHMnLCBsYWJlbDogJ0Rpc2NpcGxpbmFzIG91IMOhcmVhcycsIHBsYWNlaG9sZGVyOiAnRXg6IG1hdGVtw6F0aWNhLCBhbGZhYmV0aXphw6fDo28sIGluZ2zDqnMnIH0sCiAgICB7IGlkOiAnY2VydGlmaWNhdGlvbnMnLCBsYWJlbDogJ0Zvcm1hw6fDo28gZSBjZXJ0aWZpY2HDp8O1ZXMnLCBwbGFjZWhvbGRlcjogJ0V4OiBsaWNlbmNpYXR1cmEgZW0gTGV0cmFzLCBlc3BlY2lhbGl6YcOnw6NvIGVtIGVkdWNhw6fDo28gaW5jbHVzaXZhJyB9LAogICAgeyBpZDogJ291dGNvbWVzJywgbGFiZWw6ICdSZXN1bHRhZG9zIG91IHByb2pldG9zIChvcGNpb25hbCknLCB0ZXh0YXJlYTogdHJ1ZSwgcGxhY2Vob2xkZXI6ICdFeDogbWVsaG9yZWkgZGVzZW1wZW5obyBlbSBsZWl0dXJhLCBjcmllaSBwcm9qZXRvIGludGVyZGlzY2lwbGluYXInIH0sCiAgXSwKICBzZXJ2aWNlOiBbCiAgICB7IGlkOiAndm9sdW1lJywgbGFiZWw6ICdWb2x1bWUgZGUgYXRlbmRpbWVudG8nLCBwbGFjZWhvbGRlcjogJ0V4OiA4MCBjbGllbnRlcyBwb3IgZGlhLCAyMDAgY2hhbWFkb3MgcG9yIHNlbWFuYScgfSwKICAgIHsgaWQ6ICd0b29scycsIGxhYmVsOiAnU2lzdGVtYXMgLyBmZXJyYW1lbnRhcycsIHBsYWNlaG9sZGVyOiAnRXg6IFBEViwgQ1JNLCBzaXN0ZW1hIGRlIHJlc2VydmFzJyB9LAogICAgeyBpZDogJ291dGNvbWVzJywgbGFiZWw6ICdDb25xdWlzdGFzIChvcGNpb25hbCknLCB0ZXh0YXJlYTogdHJ1ZSwgcGxhY2Vob2xkZXI6ICdFeDogcHLDqm1pbyBkZSBtZWxob3IgYXRlbmRlbnRlIDJ4LCBiYXRpIG1ldGEgZGUgdmVuZGFzJyB9LAogIF0sCiAgYWRtaW46IFsKICAgIHsgaWQ6ICdzY29wZScsIGxhYmVsOiAnVGltZSAvIGVzY29wbycsIHBsYWNlaG9sZGVyOiAnRXg6IHRpbWUgZGUgNSBwZXNzb2FzLCAyMDAgY29sYWJvcmFkb3JlcyBhdGVuZGlkb3MnIH0sCiAgICB7IGlkOiAndG9vbHMnLCBsYWJlbDogJ1Npc3RlbWFzIGUgZmVycmFtZW50YXMnLCBwbGFjZWhvbGRlcjogJ0V4OiBTQVAsIEV4Y2VsIGF2YW7Dp2FkbywgVE9UVlMsIFBvd2VyIEJJJyB9LAogICAgeyBpZDogJ291dGNvbWVzJywgbGFiZWw6ICdQcm9jZXNzb3Mgb3UgbsO6bWVyb3MgcXVlIHZvY8OqIG1lbGhvcm91JywgdGV4dGFyZWE6IHRydWUsIHBsYWNlaG9sZGVyOiAnRXg6IHJlZHV6aSBlcnJvcyBlbSBmb2xoYSBkZSBwYWdhbWVudG8sIGF1dG9tYXRpemVpIGNvbmNpbGlhw6fDo28gYmFuY8OhcmlhJyB9LAogIF0sCiAgc2VsZmVtcGxveWVkOiBbCiAgICB7IGlkOiAnY2xpZW50QmFzZScsIGxhYmVsOiAnU3VhIGNsaWVudGVsYScsIHBsYWNlaG9sZGVyOiAnRXg6IDYwIGNsaWVudGVzIGF0aXZvcywgYXRlbmRpbWVudG8gZW0gZG9taWPDrWxpbycgfSwKICAgIHsgaWQ6ICdzZXJ2aWNlcycsIGxhYmVsOiAnU2VydmnDp29zIHF1ZSBvZmVyZWNlJywgcGxhY2Vob2xkZXI6ICdFeDogY29ydGUsIGNvbG9yYcOnw6NvLCBhbG9uZ2FtZW50bywgbWFuaWN1cmUnIH0sCiAgICB7IGlkOiAncmV2ZW51ZScsIGxhYmVsOiAnRmFpeGEgZGUgZmF0dXJhbWVudG8gKG9wY2lvbmFsKScsIHBsYWNlaG9sZGVyOiAnRXg6IFIkIDguMDAwL23DqnMsIDMgYW5vcyBkZSBzYWzDo28gcHLDs3ByaW8nIH0sCiAgICB7IGlkOiAnb3V0Y29tZXMnLCBsYWJlbDogJ0RpZmVyZW5jaWFpcyAob3BjaW9uYWwpJywgdGV4dGFyZWE6IHRydWUsIHBsYWNlaG9sZGVyOiAnRXg6IGVzcGVjaWFsaXN0YSBlbSBjYWJlbG8gY3Jlc3BvLCBhdGVuZG8gY2FzYW1lbnRvcycgfSwKICBdLAp9Owo="}
+// Segmentation: auto-detect from job title + 7 fallback cards.
+// Used by form to adapt question schema and feed segment context into the prompt.
+
+window.AdM_SEGMENTS = {
+  tech: {
+    id: 'tech',
+    label: 'Tecnologia / Digital',
+    icon: '💻',
+    description: 'UX, dev, produto, dados, design',
+    keywords: ['ux', 'ui', 'dev', 'desenvolved', 'programad', 'engenheiro de software', 'engenheiro de dados', 'cientista de dados', 'product manager', 'gerente de produto', 'analista de produto', 'designer', 'data analyst', 'data scientist', 'frontend', 'backend', 'fullstack', 'mobile', 'devops', 'qa', 'tester', 'tech lead', 'cto', 'arquiteto de software', 'analista de sistemas', 'analista de dados'],
+    questions: ['tools', 'scope', 'outcomes'],
+    focus: 'tools, systems, scale, product impact',
+  },
+  trades: {
+    id: 'trades',
+    label: 'Construção / Manutenção',
+    icon: '🛠',
+    description: 'Eletricista, encanador, pedreiro, mecânico',
+    keywords: ['eletricista', 'encanador', 'pedreiro', 'mecânico', 'mecanico', 'pintor', 'carpinteiro', 'marceneiro', 'soldador', 'serralheiro', 'técnico de manutenção', 'tecnico de manutencao', 'construção', 'construcao', 'obras', 'instalad'],
+    questions: ['certifications', 'workTypes', 'tools'],
+    focus: 'certifications, safety standards, types of work',
+  },
+  healthcare: {
+    id: 'healthcare',
+    label: 'Saúde',
+    icon: '🏥',
+    description: 'Enfermagem, cuidador, técnico em saúde',
+    keywords: ['enfermeir', 'cuidador', 'técnico de enfermagem', 'tecnico de enfermagem', 'auxiliar de enfermagem', 'fisioterapeut', 'farmacêutic', 'farmaceutic', 'nutricionist', 'psicólog', 'psicolog', 'médic', 'medic', 'dentist', 'biomédic', 'biomedic', 'radiolog'],
+    questions: ['certifications', 'patientLoad', 'specialty'],
+    focus: 'certifications, patient care, regulatory compliance',
+  },
+  education: {
+    id: 'education',
+    label: 'Educação',
+    icon: '🎓',
+    description: 'Professor, auxiliar, pedagogo',
+    keywords: ['professor', 'professora', 'pedagog', 'educador', 'auxiliar de classe', 'monitor', 'tutor', 'instrutor', 'coordenador pedagógic', 'coordenador pedagogic'],
+    questions: ['ageGroup', 'subjects', 'certifications'],
+    focus: 'student outcomes, age groups, methodologies',
+  },
+  service: {
+    id: 'service',
+    label: 'Atendimento / Varejo',
+    icon: '🛍',
+    description: 'Hotelaria, vendas, atendimento',
+    keywords: ['atendente', 'vendedor', 'vendedora', 'caixa', 'recepcionist', 'garçon', 'garcon', 'garçonet', 'cozinheir', 'auxiliar de cozinha', 'camareir', 'barista', 'balconist', 'consultor de vendas', 'representante', 'sac', 'call center', 'telemarketing', 'farmacêutico de balcão', 'drogaria'],
+    questions: ['volume', 'tools', 'outcomes'],
+    focus: 'customer volume, satisfaction, sales targets',
+  },
+  admin: {
+    id: 'admin',
+    label: 'Administrativo / Negócios',
+    icon: '📊',
+    description: 'Finanças, RH, operações, escritório',
+    keywords: ['analista financeir', 'contador', 'contadora', 'auxiliar administrativ', 'assistente administrativ', 'rh', 'recursos humanos', 'recrutador', 'analista de rh', 'controller', 'auditor', 'analista contábil', 'analista contabil', 'office', 'secretári', 'secretaria executiva', 'analista de operações', 'analista de operacoes', 'compras', 'logística', 'logistica', 'supply chain'],
+    questions: ['scope', 'tools', 'outcomes'],
+    focus: 'process improvement, cost reduction, compliance',
+  },
+  selfemployed: {
+    id: 'selfemployed',
+    label: 'Autônomo / Beleza',
+    icon: '✂️',
+    description: 'Cabeleireiro, manicure, freelancer',
+    keywords: ['cabeleireir', 'manicure', 'pedicure', 'esteticist', 'maquiador', 'maquiadora', 'barbeir', 'massagist', 'designer de sobrancelhas', 'autônom', 'autonom', 'freelancer', 'mei', 'microempreendedor', 'tatuad', 'fotógraf', 'fotograf'],
+    questions: ['clientBase', 'services', 'revenue'],
+    focus: 'clientele, service portfolio, revenue',
+  },
+};
+
+// Auto-detect segment from a free-text job title.
+// Returns segment id or null if unclear.
+window.AdM_DETECT_SEGMENT = function(title) {
+  if (!title) return null;
+  const t = title.toLowerCase().trim();
+  for (const seg of Object.values(window.AdM_SEGMENTS)) {
+    for (const kw of seg.keywords) {
+      if (t.includes(kw)) return seg.id;
+    }
+  }
+  return null;
+};
+
+// Per-segment question schemas (replace the optional expander fields).
+window.AdM_SEGMENT_FIELDS = {
+  tech: [
+    { id: 'tools', label: 'Ferramentas e linguagens', placeholder: 'Ex: React, Python, Figma, SQL, Jira' },
+    { id: 'scope', label: 'Tamanho do time / escopo', placeholder: 'Ex: time de 8 pessoas, 3 squads' },
+    { id: 'outcomes', label: 'O que você entregou ou melhorou', textarea: true, placeholder: 'Ex: lancei 2 features, reduzi tempo de build, refiz fluxo de checkout' },
+  ],
+  trades: [
+    { id: 'certifications', label: 'Certificações / NRs que você tem', placeholder: 'Ex: NR-10, NR-35, curso técnico SENAI' },
+    { id: 'workTypes', label: 'Tipos de obra ou serviço', placeholder: 'Ex: residencial, predial, industrial' },
+    { id: 'tools', label: 'Ferramentas e equipamentos que usa', placeholder: 'Ex: multímetro, alicate amperímetro, soldadora' },
+    { id: 'outcomes', label: 'Trabalhos de destaque (opcional)', textarea: true, placeholder: 'Ex: instalei rede elétrica em prédio comercial de 4 andares, reformei 30+ residências' },
+  ],
+  healthcare: [
+    { id: 'certifications', label: 'Registro profissional / cursos', placeholder: 'Ex: COREN-SP 123456, curso de UTI' },
+    { id: 'specialty', label: 'Especialidade ou setor', placeholder: 'Ex: pediatria, UTI adulto, home care' },
+    { id: 'patientLoad', label: 'Volume / contexto de atendimento', placeholder: 'Ex: 12 leitos por turno, atendimento domiciliar' },
+    { id: 'outcomes', label: 'Responsabilidades específicas (opcional)', textarea: true, placeholder: 'Ex: medicação, curativos, supervisão de auxiliares' },
+  ],
+  education: [
+    { id: 'ageGroup', label: 'Faixa etária / nível', placeholder: 'Ex: ensino fundamental I, ensino médio, EJA' },
+    { id: 'subjects', label: 'Disciplinas ou áreas', placeholder: 'Ex: matemática, alfabetização, inglês' },
+    { id: 'certifications', label: 'Formação e certificações', placeholder: 'Ex: licenciatura em Letras, especialização em educação inclusiva' },
+    { id: 'outcomes', label: 'Resultados ou projetos (opcional)', textarea: true, placeholder: 'Ex: melhorei desempenho em leitura, criei projeto interdisciplinar' },
+  ],
+  service: [
+    { id: 'volume', label: 'Volume de atendimento', placeholder: 'Ex: 80 clientes por dia, 200 chamados por semana' },
+    { id: 'tools', label: 'Sistemas / ferramentas', placeholder: 'Ex: PDV, CRM, sistema de reservas' },
+    { id: 'outcomes', label: 'Conquistas (opcional)', textarea: true, placeholder: 'Ex: prêmio de melhor atendente 2x, bati meta de vendas' },
+  ],
+  admin: [
+    { id: 'scope', label: 'Time / escopo', placeholder: 'Ex: time de 5 pessoas, 200 colaboradores atendidos' },
+    { id: 'tools', label: 'Sistemas e ferramentas', placeholder: 'Ex: SAP, Excel avançado, TOTVS, Power BI' },
+    { id: 'outcomes', label: 'Processos ou números que você melhorou', textarea: true, placeholder: 'Ex: reduzi erros em folha de pagamento, automatizei conciliação bancária' },
+  ],
+  selfemployed: [
+    { id: 'clientBase', label: 'Sua clientela', placeholder: 'Ex: 60 clientes ativos, atendimento em domicílio' },
+    { id: 'services', label: 'Serviços que oferece', placeholder: 'Ex: corte, coloração, alongamento, manicure' },
+    { id: 'revenue', label: 'Faixa de faturamento (opcional)', placeholder: 'Ex: R$ 8.000/mês, 3 anos de salão próprio' },
+    { id: 'outcomes', label: 'Diferenciais (opcional)', textarea: true, placeholder: 'Ex: especialista em cabelo crespo, atendo casamentos' },
+  ],
+};

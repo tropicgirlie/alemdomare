@@ -1,1 +1,16 @@
-{"data":"ewogICJ2ZXJzaW9uIjogMiwKICAicm91dGVzIjogWwogICAgewogICAgICAic3JjIjogIi9hcGkvKC4qKSIsCiAgICAgICJkZXN0IjogIi9hcGkvJDEiCiAgICB9LAogICAgewogICAgICAiaGFuZGxlIjogImZpbGVzeXN0ZW0iCiAgICB9LAogICAgewogICAgICAic3JjIjogIi8oLiopIiwKICAgICAgImRlc3QiOiAiL2luZGV4Lmh0bWwiCiAgICB9CiAgXQp9Cg=="}
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

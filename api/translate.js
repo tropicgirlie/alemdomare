@@ -1,1 +1,48 @@
-{"data":"Ly8gVmVyY2VsIFNlcnZlcmxlc3MgRnVuY3Rpb24gZm9yIFRyYW5zbGF0aW9uIEFQSQovLyBIYW5kbGVzIGh5YnJpZCB0cmFuc2xhdGlvbiB3aXRoIENoYXRHUFQgKyBDbGF1ZGUKCmltcG9ydCB7IFRyYW5zbGF0aW9uU2VydmljZSB9IGZyb20gJy4uL3RyYW5zbGF0aW9uLXNlcnZpY2UuanMnOwoKZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gaGFuZGxlcihyZXEsIHJlcykgewogIC8vIENPUlMgaGVhZGVycwogIHJlcy5zZXRIZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbicsICcqJyk7CiAgcmVzLnNldEhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcycsICdHRVQsIFBPU1QsIFBVVCwgREVMRVRFLCBPUFRJT05TJyk7CiAgcmVzLnNldEhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycycsICdDb250ZW50LVR5cGUsIEF1dGhvcml6YXRpb24nKTsKCiAgaWYgKHJlcS5tZXRob2QgPT09ICdPUFRJT05TJykgewogICAgcmV0dXJuIHJlcy5zdGF0dXMoMjAwKS5lbmQoKTsKICB9CgogIGlmIChyZXEubWV0aG9kID09PSAnUE9TVCcpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHsgdGV4dCwgdG9vbFR5cGUgPSAnZGVmYXVsdCcsIHNvdXJjZUxhbmcgPSAncHQnLCB0YXJnZXRMYW5nID0gJ2VuJyB9ID0gcmVxLmJvZHk7CiAgICAgIAogICAgICBpZiAoIXRleHQpIHsKICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg0MDApLmpzb24oeyBlcnJvcjogJ1RleHQgaXMgcmVxdWlyZWQnIH0pOwogICAgICB9CgogICAgICBjb25zdCB0cmFuc2xhdGlvblNlcnZpY2UgPSBuZXcgVHJhbnNsYXRpb25TZXJ2aWNlKCk7CiAgICAgIHRyYW5zbGF0aW9uU2VydmljZS5vcGVuYWlBcGlLZXkgPSBwcm9jZXNzLmVudi5PUEVOQUlfQVBJX0tFWTsKICAgICAgdHJhbnNsYXRpb25TZXJ2aWNlLmNsYXVkZUFwaUtleSA9IHByb2Nlc3MuZW52LkNMQVVERV9BUElfS0VZOwoKICAgICAgY29uc3QgdHJhbnNsYXRpb24gPSBhd2FpdCB0cmFuc2xhdGlvblNlcnZpY2UudHJhbnNsYXRlKHRleHQsIHRvb2xUeXBlKTsKICAgICAgY29uc3QgY29zdEVzdGltYXRlID0gdHJhbnNsYXRpb25TZXJ2aWNlLmdldENvc3RFc3RpbWF0ZSh0ZXh0LCB0b29sVHlwZSk7CiAgICAgIAogICAgICByZXR1cm4gcmVzLnN0YXR1cygyMDApLmpzb24oewogICAgICAgIHRyYW5zbGF0aW9uLAogICAgICAgIHRvb2xUeXBlLAogICAgICAgIHNlcnZpY2U6IGNvc3RFc3RpbWF0ZS5zZXJ2aWNlLAogICAgICAgIGVzdGltYXRlZENvc3Q6IGNvc3RFc3RpbWF0ZS5lc3RpbWF0ZWRDb3N0LAogICAgICAgIGNoYXJhY3RlcnM6IGNvc3RFc3RpbWF0ZS5jaGFyYWN0ZXJzCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcignVHJhbnNsYXRpb24gZXJyb3I6JywgZXJyb3IpOwogICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLmpzb24oeyAKICAgICAgICBlcnJvcjogJ1RyYW5zbGF0aW9uIGZhaWxlZCcsIAogICAgICAgIGRldGFpbHM6IGVycm9yLm1lc3NhZ2UgCiAgICAgIH0pOwogICAgfQogIH0KCiAgcmV0dXJuIHJlcy5zdGF0dXMoNDA0KS5qc29uKHsgZXJyb3I6ICdOb3QgZm91bmQnIH0pOwp9Cg=="}
+// Vercel Serverless Function for Translation API
+// Handles hybrid translation with ChatGPT + Claude
+
+import { TranslationService } from '../translation-service.js';
+
+export default async function handler(req, res) {
+  // CORS headers
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end();
+  }
+
+  if (req.method === 'POST') {
+    try {
+      const { text, toolType = 'default', sourceLang = 'pt', targetLang = 'en' } = req.body;
+      
+      if (!text) {
+        return res.status(400).json({ error: 'Text is required' });
+      }
+
+      const translationService = new TranslationService();
+      translationService.openaiApiKey = process.env.OPENAI_API_KEY;
+      translationService.claudeApiKey = process.env.CLAUDE_API_KEY;
+
+      const translation = await translationService.translate(text, toolType);
+      const costEstimate = translationService.getCostEstimate(text, toolType);
+      
+      return res.status(200).json({
+        translation,
+        toolType,
+        service: costEstimate.service,
+        estimatedCost: costEstimate.estimatedCost,
+        characters: costEstimate.characters
+      });
+    } catch (error) {
+      console.error('Translation error:', error);
+      return res.status(500).json({ 
+        error: 'Translation failed', 
+        details: error.message 
+      });
+    }
+  }
+
+  return res.status(404).json({ error: 'Not found' });
+}

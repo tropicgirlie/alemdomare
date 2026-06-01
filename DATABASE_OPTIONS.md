@@ -1,1 +1,222 @@
-{"data":"IyBEYXRhYmFzZSBPcHRpb25zIGZvciBBbMOpbSBkbyBNYXIgQXV0aGVudGljYXRpb24KCiMjIEN1cnJlbnQgU3RhdHVzOiBNb2NrIEF1dGhlbnRpY2F0aW9uIChsb2NhbFN0b3JhZ2UpCi0g4p2MIE5vdCBwcm9kdWN0aW9uIHJlYWR5Ci0g4p2MIE5vIHJlYWwgcGVyc2lzdGVuY2UKLSDinYwgTm8gbXVsdGktZGV2aWNlIHN1cHBvcnQKLSDinYwgTm8gc2VjdXJpdHkKCiMjIFByb2R1Y3Rpb24gRGF0YWJhc2UgT3B0aW9ucwoKIyMjIDEuICoqQ2xvdWRmbGFyZSBLVioqIChSZWNvbW1lbmRlZCBmb3IgeW91ciBzdGFjaykKKipQcm9zOioqCi0g4pyFIFdvcmtzIHdpdGggQ2xvdWRmbGFyZSBXb3JrZXJzCi0g4pyFIEdsb2JhbCBlZGdlIGNhY2hpbmcKLSDinIUgU2ltcGxlIGtleS12YWx1ZSBzdG9yYWdlCi0g4pyFIExvdyBjb3N0Ci0g4pyFIEZhc3QgcmVzcG9uc2UgdGltZXMKCioqSW1wbGVtZW50YXRpb246KioKYGBgamF2YXNjcmlwdAovLyBDbG91ZGZsYXJlIFdvcmtlciBBUEkKZXhwb3J0IGRlZmF1bHQgewogIGFzeW5jIGZldGNoKHJlcXVlc3QsIGVudiwgY3R4KSB7CiAgICBpZiAocmVxdWVzdC5tZXRob2QgPT09ICdQT1NUJyAmJiByZXF1ZXN0LnVybC5pbmNsdWRlcygnL2F1dGgvbG9naW4nKSkgewogICAgICBjb25zdCB7IGVtYWlsLCBwYXNzd29yZCB9ID0gYXdhaXQgcmVxdWVzdC5qc29uKCk7CiAgICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBlbnYuQURNX1VTRVJTLmdldChlbWFpbCk7CiAgICAgIAogICAgICBpZiAodXNlciAmJiBKU09OLnBhcnNlKHVzZXIpLnBhc3N3b3JkID09PSBwYXNzd29yZCkgewogICAgICAgIHJldHVybiBSZXNwb25zZS5qc29uKHsgCiAgICAgICAgICB0b2tlbjogZ2VuZXJhdGVUb2tlbihKU09OLnBhcnNlKHVzZXIpKSwKICAgICAgICAgIHVzZXI6IEpTT04ucGFyc2UodXNlcikKICAgICAgICB9KTsKICAgICAgfQogICAgfQogIH0KfTsKYGBgCgoqKlNldHVwOioqCjEuIENyZWF0ZSBDbG91ZGZsYXJlIFdvcmtlcnMgYWNjb3VudAoyLiBDcmVhdGUgS1YgbmFtZXNwYWNlOiBgQURNX1VTRVJTYAozLiBEZXBsb3kgd29ya2VyIHdpdGggYXV0aCBlbmRwb2ludHMKNC4gVXBkYXRlIGZyb250ZW5kIHRvIGNhbGwgd29ya2VyIEFQSQoKIyMjIDIuICoqU3VwYWJhc2UqKiAoRWFzaWVzdCB0byBzdGFydCkKKipQcm9zOioqCi0g4pyFIFJlYWwtdGltZSBkYXRhYmFzZQotIOKchSBCdWlsdC1pbiBhdXRoIHN5c3RlbQotIOKchSBGcmVlIHRpZXIgYXZhaWxhYmxlCi0g4pyFIFBvc3RncmVTUUwgYmFja2VuZAotIOKchSBFYXN5IHRvIHNjYWxlCgoqKkltcGxlbWVudGF0aW9uOioqCmBgYGphdmFzY3JpcHQKLy8gU3VwYWJhc2UgY2xpZW50CmltcG9ydCB7IGNyZWF0ZUNsaWVudCB9IGZyb20gJ0BzdXBhYmFzZS9zdXBhYmFzZS1qcyc7Cgpjb25zdCBzdXBhYmFzZSA9IGNyZWF0ZUNsaWVudCgKICAnWU9VUl9TVVBBQkFTRV9VUkwnLAogICdZT1VSX1NVUEFCQVNFX0FOT05fS0VZJwopOwoKLy8gTG9naW4gZnVuY3Rpb24KYXN5bmMgZnVuY3Rpb24gbG9naW4oZW1haWwsIHBhc3N3b3JkKSB7CiAgY29uc3QgeyBkYXRhLCBlcnJvciB9ID0gYXdhaXQgc3VwYWJhc2UuYXV0aC5zaWduSW5XaXRoUGFzc3dvcmQoewogICAgZW1haWwsCiAgICBwYXNzd29yZCwKICB9KTsKICAKICByZXR1cm4geyB1c2VyOiBkYXRhLnVzZXIsIGVycm9yIH07Cn0KYGBgCgoqKlNldHVwOioqCjEuIENyZWF0ZSBTdXBhYmFzZSBhY2NvdW50CjIuIENyZWF0ZSBuZXcgcHJvamVjdAozLiBTZXQgdXAgYXV0aCB0YWJsZXMKNC4gQWRkIFN1cGFiYXNlIGNsaWVudCB0byBmcm9udGVuZAoKIyMjIDMuICoqRmlyZWJhc2UgQXV0aGVudGljYXRpb24qKiAoR29vZ2xlIGVjb3N5c3RlbSkKKipQcm9zOioqCi0g4pyFIEdvb2dsZS1iYWNrZWQKLSDinIUgU29jaWFsIGxvZ2lucyBpbmNsdWRlZAotIOKchSBHb29kIGRvY3VtZW50YXRpb24KLSDinIUgRnJlZSB0aWVyIGdlbmVyb3VzCgoqKkltcGxlbWVudGF0aW9uOioqCmBgYGphdmFzY3JpcHQKaW1wb3J0IHsgaW5pdGlhbGl6ZUFwcCB9IGZyb20gJ2ZpcmViYXNlL2FwcCc7CmltcG9ydCB7IGdldEF1dGgsIHNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkIH0gZnJvbSAnZmlyZWJhc2UvYXV0aCc7Cgpjb25zdCBhcHAgPSBpbml0aWFsaXplQXBwKGZpcmViYXNlQ29uZmlnKTsKY29uc3QgYXV0aCA9IGdldEF1dGgoYXBwKTsKCmFzeW5jIGZ1bmN0aW9uIGxvZ2luKGVtYWlsLCBwYXNzd29yZCkgewogIGNvbnN0IHVzZXJDcmVkZW50aWFsID0gYXdhaXQgc2lnbkluV2l0aEVtYWlsQW5kUGFzc3dvcmQoYXV0aCwgZW1haWwsIHBhc3N3b3JkKTsKICByZXR1cm4gdXNlckNyZWRlbnRpYWwudXNlcjsKfQpgYGAKCiMjIyA0LiAqKlRyYWRpdGlvbmFsIERhdGFiYXNlICsgQmFja2VuZCoqCioqUHJvczoqKgotIOKchSBGdWxsIGNvbnRyb2wKLSDinIUgQ3VzdG9tIGltcGxlbWVudGF0aW9uCi0g4pyFIENhbiB1c2UgYW55IGRhdGFiYXNlIChQb3N0Z3JlU1FMLCBNeVNRTCwgZXRjLikKCioqQ29uczoqKgotIOKdjCBNb3JlIGNvbXBsZXggc2V0dXAKLSDinYwgTmVlZCB0byBtYW5hZ2Ugc2VydmVycwotIOKdjCBIaWdoZXIgbWFpbnRlbmFuY2UKCiMjIFJlY29tbWVuZGVkIEltcGxlbWVudGF0aW9uIFBhdGgKCiMjIyBQaGFzZSAxOiBDbG91ZGZsYXJlIEtWIChJbW1lZGlhdGUpCjEuICoqQ3JlYXRlIEtWIG5hbWVzcGFjZSoqIGZvciB1c2VyIGRhdGEKMi4gKipEZXBsb3kgQ2xvdWRmbGFyZSBXb3JrZXIqKiB3aXRoIGF1dGggZW5kcG9pbnRzCjMuICoqVXBkYXRlIGZyb250ZW5kKiogdG8gY2FsbCB3b3JrZXIgaW5zdGVhZCBvZiBsb2NhbFN0b3JhZ2UKNC4gKipBZGQgcHJvcGVyIHBhc3N3b3JkIGhhc2hpbmcqKiAoYmNyeXB0KQoKIyMjIFBoYXNlIDI6IFVwZ3JhZGUgdG8gU3VwYWJhc2UgKExhdGVyKQoxLiAqKk1pZ3JhdGUgZGF0YSoqIGZyb20gS1YgdG8gU3VwYWJhc2UKMi4gKipVc2UgU3VwYWJhc2UgQXV0aCoqIGZvciBiZXR0ZXIgc2VjdXJpdHkKMy4gKipBZGQgc29jaWFsIGxvZ2lucyoqIChHb29nbGUsIExpbmtlZEluKQo0LiAqKkltcGxlbWVudCByZWFsLXRpbWUgZmVhdHVyZXMqKgoKIyMgUXVpY2sgRml4OiBDb25uZWN0IEN1cnJlbnQgQ29kZSB0byBDbG91ZGZsYXJlIEtWCgpMZXQgbWUgc2hvdyB5b3UgaG93IHRvIG1vZGlmeSB0aGUgZXhpc3RpbmcgYXV0aGVudGljYXRpb24gdG8gd29yayB3aXRoIENsb3VkZmxhcmUgS1Y6CgojIyMgMS4gQ3JlYXRlIENsb3VkZmxhcmUgV29ya2VyCmBgYGphdmFzY3JpcHQKLy8gd29ya2VyLmpzCmV4cG9ydCBkZWZhdWx0IHsKICBhc3luYyBmZXRjaChyZXF1ZXN0LCBlbnYsIGN0eCkgewogICAgY29uc3QgdXJsID0gbmV3IFVSTChyZXF1ZXN0LnVybCk7CiAgICAKICAgIC8vIExvZ2luIGVuZHBvaW50CiAgICBpZiAodXJsLnBhdGhuYW1lID09PSAnL2FwaS9hdXRoL2xvZ2luJyAmJiByZXF1ZXN0Lm1ldGhvZCA9PT0gJ1BPU1QnKSB7CiAgICAgIGNvbnN0IHsgZW1haWwsIHBhc3N3b3JkIH0gPSBhd2FpdCByZXF1ZXN0Lmpzb24oKTsKICAgICAgY29uc3QgdXNlclN0ciA9IGF3YWl0IGVudi5BRE1fVVNFUlMuZ2V0KGVtYWlsKTsKICAgICAgCiAgICAgIGlmICghdXNlclN0cikgewogICAgICAgIHJldHVybiBSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdVc2VyIG5vdCBmb3VuZCcgfSwgeyBzdGF0dXM6IDQwNCB9KTsKICAgICAgfQogICAgICAKICAgICAgY29uc3QgdXNlciA9IEpTT04ucGFyc2UodXNlclN0cik7CiAgICAgIGlmICh1c2VyLnBhc3N3b3JkICE9PSBwYXNzd29yZCkgeyAvLyBBZGQgcHJvcGVyIGhhc2hpbmcgbGF0ZXIKICAgICAgICByZXR1cm4gUmVzcG9uc2UuanNvbih7IGVycm9yOiAnSW52YWxpZCBwYXNzd29yZCcgfSwgeyBzdGF0dXM6IDQwMSB9KTsKICAgICAgfQogICAgICAKICAgICAgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyAKICAgICAgICB0b2tlbjogYnRvYShKU09OLnN0cmluZ2lmeSh7IGlkOiB1c2VyLmlkLCBlbWFpbDogdXNlci5lbWFpbCB9KSksCiAgICAgICAgdXNlcjogeyAuLi51c2VyLCBwYXNzd29yZDogdW5kZWZpbmVkIH0KICAgICAgfSk7CiAgICB9CiAgICAKICAgIC8vIFNpZ251cCBlbmRwb2ludAogICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy9hcGkvYXV0aC9zaWdudXAnICYmIHJlcXVlc3QubWV0aG9kID09PSAnUE9TVCcpIHsKICAgICAgY29uc3QgeyBlbWFpbCwgcGFzc3dvcmQsIG5hbWUgfSA9IGF3YWl0IHJlcXVlc3QuanNvbigpOwogICAgICAKICAgICAgY29uc3QgZXhpc3RpbmdVc2VyID0gYXdhaXQgZW52LkFETV9VU0VSUy5nZXQoZW1haWwpOwogICAgICBpZiAoZXhpc3RpbmdVc2VyKSB7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ1VzZXIgYWxyZWFkeSBleGlzdHMnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgICAgIH0KICAgICAgCiAgICAgIGNvbnN0IG5ld1VzZXIgPSB7CiAgICAgICAgaWQ6ICd1c2VyXycgKyBEYXRlLm5vdygpLAogICAgICAgIGVtYWlsLAogICAgICAgIG5hbWUsCiAgICAgICAgcGFzc3dvcmQsIC8vIEFkZCBwcm9wZXIgaGFzaGluZyBsYXRlcgogICAgICAgIHJvbGU6ICd1c2VyJywKICAgICAgICBjcmVhdGVkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKQogICAgICB9OwogICAgICAKICAgICAgYXdhaXQgZW52LkFETV9VU0VSUy5wdXQoZW1haWwsIEpTT04uc3RyaW5naWZ5KG5ld1VzZXIpKTsKICAgICAgCiAgICAgIHJldHVybiBSZXNwb25zZS5qc29uKHsgCiAgICAgICAgdG9rZW46IGJ0b2EoSlNPTi5zdHJpbmdpZnkoeyBpZDogbmV3VXNlci5pZCwgZW1haWw6IG5ld1VzZXIuZW1haWwgfSkpLAogICAgICAgIHVzZXI6IG5ld1VzZXIKICAgICAgfSk7CiAgICB9CiAgICAKICAgIHJldHVybiBuZXcgUmVzcG9uc2UoJ05vdCBmb3VuZCcsIHsgc3RhdHVzOiA0MDQgfSk7CiAgfQp9OwpgYGAKCiMjIyAyLiBVcGRhdGUgRnJvbnRlbmQgdG8gVXNlIEFQSQpgYGBqYXZhc2NyaXB0Ci8vIFJlcGxhY2UgbG9jYWxTdG9yYWdlIGNhbGxzIHdpdGggQVBJIGNhbGxzCmFzeW5jIGZ1bmN0aW9uIGxvZ2luKGVtYWlsLCBwYXNzd29yZCkgewogIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy9hcGkvYXV0aC9sb2dpbicsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGVtYWlsLCBwYXNzd29yZCB9KQogIH0pOwogIAogIGlmIChyZXNwb25zZS5vaykgewogICAgY29uc3QgeyB0b2tlbiwgdXNlciB9ID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2FkbV9hdXRoX3Rva2VuJywgdG9rZW4pOwogICAgcmV0dXJuIHVzZXI7CiAgfSBlbHNlIHsKICAgIHRocm93IG5ldyBFcnJvcignTG9naW4gZmFpbGVkJyk7CiAgfQp9CmBgYAoKIyMgTmV4dCBTdGVwcwoKMS4gKipDaG9vc2UgZGF0YWJhc2Ugb3B0aW9uKiogKEkgcmVjb21tZW5kIENsb3VkZmxhcmUgS1YgZm9yIG5vdykKMi4gKipTZXQgdXAgdGhlIGRhdGFiYXNlKiogCjMuICoqRGVwbG95IHRoZSBBUEkgZW5kcG9pbnRzKioKNC4gKipVcGRhdGUgZnJvbnRlbmQgYXV0aGVudGljYXRpb24qKgo1LiAqKkFkZCBwcm9wZXIgc2VjdXJpdHkqKiAocGFzc3dvcmQgaGFzaGluZywgSldUIHRva2VucykKNi4gKipUZXN0IHRob3JvdWdobHkqKgoKV291bGQgeW91IGxpa2UgbWUgdG86CjEuICoqU2V0IHVwIENsb3VkZmxhcmUgS1YqKiB3aXRoIHRoZSB3b3JrZXIgY29kZT8KMi4gKipDcmVhdGUgU3VwYWJhc2UgaW50ZWdyYXRpb24qKiBpbnN0ZWFkPwozLiAqKktlZXAgdGhlIG1vY2sgc3lzdGVtKiogZm9yIG5vdyBhbmQgZm9jdXMgb24gb3RoZXIgZmVhdHVyZXM/CgpUaGUgY3VycmVudCBtb2NrIGF1dGhlbnRpY2F0aW9uIHdvcmtzIGZvciBkZXZlbG9wbWVudCwgYnV0IHlvdSdsbCB3YW50IHRvIHVwZ3JhZGUgdG8gYSByZWFsIGRhdGFiYXNlIGJlZm9yZSBwcm9kdWN0aW9uIGxhdW5jaC4K"}
+# Database Options for Além do Mar Authentication
+
+## Current Status: Mock Authentication (localStorage)
+- ❌ Not production ready
+- ❌ No real persistence
+- ❌ No multi-device support
+- ❌ No security
+
+## Production Database Options
+
+### 1. **Cloudflare KV** (Recommended for your stack)
+**Pros:**
+- ✅ Works with Cloudflare Workers
+- ✅ Global edge caching
+- ✅ Simple key-value storage
+- ✅ Low cost
+- ✅ Fast response times
+
+**Implementation:**
+```javascript
+// Cloudflare Worker API
+export default {
+  async fetch(request, env, ctx) {
+    if (request.method === 'POST' && request.url.includes('/auth/login')) {
+      const { email, password } = await request.json();
+      const user = await env.ADM_USERS.get(email);
+      
+      if (user && JSON.parse(user).password === password) {
+        return Response.json({ 
+          token: generateToken(JSON.parse(user)),
+          user: JSON.parse(user)
+        });
+      }
+    }
+  }
+};
+```
+
+**Setup:**
+1. Create Cloudflare Workers account
+2. Create KV namespace: `ADM_USERS`
+3. Deploy worker with auth endpoints
+4. Update frontend to call worker API
+
+### 2. **Supabase** (Easiest to start)
+**Pros:**
+- ✅ Real-time database
+- ✅ Built-in auth system
+- ✅ Free tier available
+- ✅ PostgreSQL backend
+- ✅ Easy to scale
+
+**Implementation:**
+```javascript
+// Supabase client
+import { createClient } from '@supabase/supabase-js';
+
+const supabase = createClient(
+  'YOUR_SUPABASE_URL',
+  'YOUR_SUPABASE_ANON_KEY'
+);
+
+// Login function
+async function login(email, password) {
+  const { data, error } = await supabase.auth.signInWithPassword({
+    email,
+    password,
+  });
+  
+  return { user: data.user, error };
+}
+```
+
+**Setup:**
+1. Create Supabase account
+2. Create new project
+3. Set up auth tables
+4. Add Supabase client to frontend
+
+### 3. **Firebase Authentication** (Google ecosystem)
+**Pros:**
+- ✅ Google-backed
+- ✅ Social logins included
+- ✅ Good documentation
+- ✅ Free tier generous
+
+**Implementation:**
+```javascript
+import { initializeApp } from 'firebase/app';
+import { getAuth, signInWithEmailAndPassword } from 'firebase/auth';
+
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+
+async function login(email, password) {
+  const userCredential = await signInWithEmailAndPassword(auth, email, password);
+  return userCredential.user;
+}
+```
+
+### 4. **Traditional Database + Backend**
+**Pros:**
+- ✅ Full control
+- ✅ Custom implementation
+- ✅ Can use any database (PostgreSQL, MySQL, etc.)
+
+**Cons:**
+- ❌ More complex setup
+- ❌ Need to manage servers
+- ❌ Higher maintenance
+
+## Recommended Implementation Path
+
+### Phase 1: Cloudflare KV (Immediate)
+1. **Create KV namespace** for user data
+2. **Deploy Cloudflare Worker** with auth endpoints
+3. **Update frontend** to call worker instead of localStorage
+4. **Add proper password hashing** (bcrypt)
+
+### Phase 2: Upgrade to Supabase (Later)
+1. **Migrate data** from KV to Supabase
+2. **Use Supabase Auth** for better security
+3. **Add social logins** (Google, LinkedIn)
+4. **Implement real-time features**
+
+## Quick Fix: Connect Current Code to Cloudflare KV
+
+Let me show you how to modify the existing authentication to work with Cloudflare KV:
+
+### 1. Create Cloudflare Worker
+```javascript
+// worker.js
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    
+    // Login endpoint
+    if (url.pathname === '/api/auth/login' && request.method === 'POST') {
+      const { email, password } = await request.json();
+      const userStr = await env.ADM_USERS.get(email);
+      
+      if (!userStr) {
+        return Response.json({ error: 'User not found' }, { status: 404 });
+      }
+      
+      const user = JSON.parse(userStr);
+      if (user.password !== password) { // Add proper hashing later
+        return Response.json({ error: 'Invalid password' }, { status: 401 });
+      }
+      
+      return Response.json({ 
+        token: btoa(JSON.stringify({ id: user.id, email: user.email })),
+        user: { ...user, password: undefined }
+      });
+    }
+    
+    // Signup endpoint
+    if (url.pathname === '/api/auth/signup' && request.method === 'POST') {
+      const { email, password, name } = await request.json();
+      
+      const existingUser = await env.ADM_USERS.get(email);
+      if (existingUser) {
+        return Response.json({ error: 'User already exists' }, { status: 400 });
+      }
+      
+      const newUser = {
+        id: 'user_' + Date.now(),
+        email,
+        name,
+        password, // Add proper hashing later
+        role: 'user',
+        createdAt: new Date().toISOString()
+      };
+      
+      await env.ADM_USERS.put(email, JSON.stringify(newUser));
+      
+      return Response.json({ 
+        token: btoa(JSON.stringify({ id: newUser.id, email: newUser.email })),
+        user: newUser
+      });
+    }
+    
+    return new Response('Not found', { status: 404 });
+  }
+};
+```
+
+### 2. Update Frontend to Use API
+```javascript
+// Replace localStorage calls with API calls
+async function login(email, password) {
+  const response = await fetch('/api/auth/login', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email, password })
+  });
+  
+  if (response.ok) {
+    const { token, user } = await response.json();
+    localStorage.setItem('adm_auth_token', token);
+    return user;
+  } else {
+    throw new Error('Login failed');
+  }
+}
+```
+
+## Next Steps
+
+1. **Choose database option** (I recommend Cloudflare KV for now)
+2. **Set up the database** 
+3. **Deploy the API endpoints**
+4. **Update frontend authentication**
+5. **Add proper security** (password hashing, JWT tokens)
+6. **Test thoroughly**
+
+Would you like me to:
+1. **Set up Cloudflare KV** with the worker code?
+2. **Create Supabase integration** instead?
+3. **Keep the mock system** for now and focus on other features?
+
+The current mock authentication works for development, but you'll want to upgrade to a real database before production launch.

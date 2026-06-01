@@ -1,1 +1,172 @@
-{"data":"Ly8gVGhlIEFsw6ltIGRvIE1hciBjYXJlZXIgdHJhbnNsYXRpb24gcHJvbXB0IOKAlCBlbmNvZGVzIHRoZSA4IEJyYXppbGlhbiBDViBxdWlya3MKLy8gYW5kIHRoZSBjdWx0dXJhbCB0cmFuc2xhdGlvbiBsYXllci4KCndpbmRvdy5BZE1fUFJPTVBUID0gewogIGJ1aWxkU3lzdGVtUHJvbXB0KHRhcmdldENvdW50cnksIHRvbmUgPSAnY29uZmlkZW50JykgewogICAgcmV0dXJuIGBZb3UgYXJlIGEgY2FyZWVyIHRyYW5zbGF0aW9uIGFzc2lzdGFudCBmb3IgQnJhemlsaWFuIHByb2Zlc3Npb25hbHMgbW92aW5nIHRvIGludGVybmF0aW9uYWwgam9iIG1hcmtldHMgKFVLLCBJcmVsYW5kLCBFVSkuIFlvdSBjb252ZXJ0IEJyYXppbGlhbiB3b3JrIGV4cGVyaWVuY2UgaW50byBjbGVhciwgbG9jYWxseS1yZXNvbmFudCBwcm9mZXNzaW9uYWwgbGFuZ3VhZ2UgZm9yICR7dGFyZ2V0Q291bnRyeX0uCgpZb3UgYXJlIE5PVCBhIENWIHBvbGlzaGVyLiBZb3UgYXJlIGEgdHJhbnNsYXRpb24gbGF5ZXIgYmV0d2VlbiB0d28gbGFib3VyIG1hcmtldHMuCgojIENvcmUgcHJpbmNpcGxlcwotIERPIE5PVCBleGFnZ2VyYXRlLiBETyBOT1QgaW52ZW50IG1ldHJpY3MuIElmIHVua25vd24sIHVzZSAiYXBwcm94aW1hdGUiLCAic3VwcG9ydGVkIiwgImNvbnRyaWJ1dGVkIHRvIi4KLSBSZWZyYW1lIGR1dGllcyBpbnRvIG91dGNvbWVzLCBzeXN0ZW1zLCB0b29scywgYW5kIHNjYWxlLgotIFJlbW92ZSBnZW5lcmljIEJyYXppbGlhbiBzb2Z0LXNraWxsIGNsYWltcyAoInByb2F0aXZvLCBkaW7Dom1pY28sIGNvbXVuaWNhdGl2byIpIHVubGVzcyBwcm92YWJsZS4KLSBVc2UgY2xlYW4sIHN0cnVjdHVyZWQsIG5ldXRyYWwgcHJvZmVzc2lvbmFsIHRvbmUg4oCUICR7dG9uZSA9PT0gJ2NvbmZpZGVudCcgPyAnY29uZmlkZW50IGFuZCBhbWJpdGlvdXMgd2l0aG91dCBvdmVyY2xhaW1pbmcnIDogdG9uZX0uCi0gT3V0cHV0IGluIEVOR0xJU0ggKHRoZSBkZXN0aW5hdGlvbiBsYW5ndWFnZSksIGV2ZW4gdGhvdWdoIHRoZSBpbnB1dCBpcyBQb3J0dWd1ZXNlLgoKIyBCcmF6aWxpYW4gQ1YgcXVpcmtzIHRvIGZpeAoxLiBEdXR5LWhlYXZ5LCBvdXRjb21lLWxpZ2h0OiBmb3JjZSAid2hhdCBjaGFuZ2VkIGJlY2F1c2Ugb2YgeW91IC8gc2NhbGUgLyBmcmVxdWVuY3kiLgoyLiBHZW5lcmljIHRpdGxlcyAoQW5hbGlzdGEvQXNzaXN0ZW50ZS9Db29yZGVuYWRvcikg4oaSIG1hcCB0byBpbnRlcm5hdGlvbmFsIGVxdWl2YWxlbnRzIGJhc2VkIG9uIHNjb3BlLgozLiBVbmRlcnNlbGxpbmcgc2NvcGU6IGdlbnRseSB1cGdyYWRlICJhdXhpbGllaSAvIGRlaSBzdXBvcnRlIiDihpIgImNvbnRyaWJ1dGVkIHRvIC8gY29sbGFib3JhdGVkIG9uIC8gbGVkIi4KNC4gVmFndWUgdG9vbHMgKCJzaXN0ZW1hcyBpbnRlcm5vcyIpIOKGkiBuYW1lIGNhdGVnb3JpZXMgKENSTSwgRVJQKSBpZiB1bmtub3duLgo1LiBMb25nIHBhcmFncmFwaHMg4oaSIDEtbGluZSBzY2FubmFibGUgYnVsbGV0cy4KNi4gU3RhYmlsaXR5IGJpYXMg4oaSIGltcGFjdCBiaWFzOiBleHRyYWN0IHByb2plY3RzLCBjaGFuZ2VzLCBpbXByb3ZlbWVudHMgZnJvbSB0ZW51cmUuCjcuIFNvZnQtc2tpbGxzIGxhdW5kcnkgbGlzdCDihpIgZGVsZXRlOyBzaG93IHZpYSBzdGFrZWhvbGRlci90ZWFtIGV4YW1wbGVzIGluc3RlYWQuCjguIEVkdWNhdGlvbiBvdmVyd2VpZ2h0IOKGkiBmb3IgZXhwZXJpZW5jZWQgY2FuZGlkYXRlcywgcHVzaCBleHBlcmllbmNlIGZpcnN0LgoKIyBUaXRsZSBtYXBwaW5nIGd1aWRhbmNlCi0gQW5hbGlzdGEg4oaSIFNwZWNpYWxpc3QgLyBBbmFseXN0IChkZXBlbmRzIG9uIHllYXJzICsgc2NvcGUpCi0gQXNzaXN0ZW50ZSDihpIgSnVuaW9yIC8gQXNzb2NpYXRlIC8gQ29vcmRpbmF0b3IKLSBDb29yZGVuYWRvciDihpIgTGVhZCAvIE1hbmFnZXIgKGRlcGVuZHMgb24gdGVhbSBzaXplKQotIEdlcmVudGUg4oaSIE1hbmFnZXIgLyBTZW5pb3IgTWFuYWdlciAvIEhlYWQgb2YKLSBBdGVuZGVudGUg4oaSIEN1c3RvbWVyIFNlcnZpY2UgUmVwcmVzZW50YXRpdmUgLyBTcGVjaWFsaXN0Ci0gQXV4aWxpYXIg4oaSIEFzc2lzdGFudCAvIEFzc29jaWF0ZQoKQ2FsaWJyYXRlIGJ5IHllYXJzIG9mIGV4cGVyaWVuY2UgYW5kIHRlYW0gc2l6ZSBnaXZlbi4KCiMgT3V0cHV0IGZvcm1hdCDigJQgcmV0dXJuIFNUUklDVCBKU09OLCBubyBtYXJrZG93biwgbm8gcHJlYW1ibGUKewogICJpbnRlcm5hdGlvbmFsVGl0bGUiOiAic3RyaW5nIOKAlCBzaW5nbGUgcm9sZSB0aXRsZSB0aGF0IGxhbmRzIGluICR7dGFyZ2V0Q291bnRyeX0iLAogICJ0aXRsZUFsdGVybmF0aXZlcyI6IFsic3RyaW5nIiwgInN0cmluZyJdLAogICJjdkJ1bGxldHMiOiBbCiAgICAiNS02IGJ1bGxldHMsIGVhY2ggT05FIExJTkUsIHN0YXJ0cyB3aXRoIHN0cm9uZyB2ZXJiLCBpbmNsdWRlcyBzY2FsZS90b29sL291dGNvbWUgd2hlcmUgcG9zc2libGUiCiAgXSwKICAibGlua2VkaW5IZWFkbGluZSI6ICJzdHJpbmcg4oCUIHVuZGVyIDIyMCBjaGFycywgcm9sZSB8IHRvb2xzIHwgZG9tYWluIHwgdmFsdWUiLAogICJzaG9ydEFib3V0IjogInN0cmluZyDigJQgMi0zIHNlbnRlbmNlIExpbmtlZEluIEFib3V0IHBhcmFncmFwaCwgZmlyc3QgcGVyc29uIiwKICAic2tpbGxzVHJhbnNsYXRpb24iOiBbCiAgICB7ImJyIjogIlBvcnR1Z3Vlc2UgdGVybSBhcyB1c2VyIHNhaWQgaXQiLCAiZW4iOiAiRW5nbGlzaCBlcXVpdmFsZW50IHRoYXQgcmVjcnVpdGVycyBzZWFyY2gifQogIF0sCiAgImludGVydmlld1RhbGtpbmdQb2ludHMiOiBbCiAgICAiMy00IFNUQVItc2hhcGVkIHRhbGtpbmcgcG9pbnRzIChTaXR1YXRpb24vVGFzay9BY3Rpb24vUmVzdWx0KSwgZWFjaCAyLTMgc2VudGVuY2VzIgogIF0sCiAgImhvbmVzdHlOb3RlcyI6IFsKICAgICIxLTMgc2hvcnQgbm90ZXMgZmxhZ2dpbmcgYW55dGhpbmcgdGhlIHVzZXIgc2hvdWxkIHZlcmlmeSBiZWZvcmUgdXNpbmcgKGUuZy4gJ1lvdSBzYWlkIFxcImFib3V0IDQwIGNhc2VzL2RheVxcIiDigJQgY29uZmlybSBiZWZvcmUgcXVvdGluZycpIgogIF0KfQoKUmV0dXJuIE9OTFkgdGhlIEpTT04gb2JqZWN0LiBObyBjb2RlIGZlbmNlcywgbm8gY29tbWVudGFyeS5gOwogIH0sCgogIGJ1aWxkVXNlclByb21wdChmb3JtKSB7CiAgICBjb25zdCBzZWcgPSBmb3JtLnNlZ21lbnQgJiYgd2luZG93LkFkTV9TRUdNRU5UUyA/IHdpbmRvdy5BZE1fU0VHTUVOVFNbZm9ybS5zZWdtZW50XSA6IG51bGw7CiAgICBjb25zdCBzZWdEYXRhID0gZm9ybS5zZWdtZW50RGF0YSB8fCB7fTsKICAgIGNvbnN0IHNlZ0xpbmVzID0gW107CiAgICBpZiAoc2VnKSB7CiAgICAgIHNlZ0xpbmVzLnB1c2goYENhcmVlciBzZWdtZW50OiAke3NlZy5sYWJlbH0g4oCUICR7c2VnLmRlc2NyaXB0aW9ufWApOwogICAgICBzZWdMaW5lcy5wdXNoKGBUcmFuc2xhdGlvbiBmb2N1cyBmb3IgdGhpcyBzZWdtZW50OiAke3NlZy5mb2N1c31gKTsKICAgICAgY29uc3QgZmllbGRzID0gKHdpbmRvdy5BZE1fU0VHTUVOVF9GSUVMRFMgJiYgd2luZG93LkFkTV9TRUdNRU5UX0ZJRUxEU1tzZWcuaWRdKSB8fCBbXTsKICAgICAgZmllbGRzLmZvckVhY2goKGYpID0+IHsKICAgICAgICBpZiAoc2VnRGF0YVtmLmlkXSkgc2VnTGluZXMucHVzaChgJHtmLmxhYmVsfTogJHtzZWdEYXRhW2YuaWRdfWApOwogICAgICB9KTsKICAgIH0KICAgIGNvbnN0IGxpbmVzID0gWwogICAgICBgQnJhemlsaWFuIHJvbGUgdGl0bGU6ICR7Zm9ybS5iclRpdGxlIHx8ICcobm90IGdpdmVuKSd9YCwKICAgICAgLi4uKHNlZyA/IFtzZWdMaW5lcy5qb2luKCdcbicpXSA6IFtdKSwKICAgICAgYENvbXBhbnk6ICR7Zm9ybS5jb21wYW55IHx8ICcobm90IGdpdmVuKSd9YCwKICAgICAgYFllYXJzIGluIHJvbGU6ICR7Zm9ybS55ZWFycyB8fCAnKG5vdCBnaXZlbiknfWAsCiAgICAgIGBEYWlseSByZXNwb25zaWJpbGl0aWVzIChyYXcsIGluIFBvcnR1Z3Vlc2UpOlxuJHtmb3JtLmR1dGllcyB8fCAnKG5vdCBnaXZlbiknfWAsCiAgICAgIGBUYXJnZXQgY291bnRyeTogJHtmb3JtLnRhcmdldENvdW50cnl9YCwKICAgICAgYFRhcmdldCByb2xlIChpZiBrbm93bik6ICR7Zm9ybS50YXJnZXRSb2xlIHx8ICcob3BlbiknfWAsCiAgICBdOwogICAgcmV0dXJuIGxpbmVzLmpvaW4oJ1xuXG4nKTsKICB9LAoKICBhc3luYyB0cmFuc2xhdGUoZm9ybSwgdG9uZSkgewogICAgY29uc3Qgc3lzdGVtID0gdGhpcy5idWlsZFN5c3RlbVByb21wdChmb3JtLnRhcmdldENvdW50cnksIHRvbmUpOwogICAgY29uc3QgdXNlciA9IHRoaXMuYnVpbGRVc2VyUHJvbXB0KGZvcm0pOwogICAgY29uc3QgcmF3ID0gYXdhaXQgd2luZG93LmNsYXVkZS5jb21wbGV0ZSh7CiAgICAgIG1lc3NhZ2VzOiBbCiAgICAgICAgeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHN5c3RlbSArICdcblxuLS0tXG5cbklOUFVUOlxuXG4nICsgdXNlciB9CiAgICAgIF0sCiAgICB9KTsKICAgIC8vIFN0cmlwIGFueSBjb2RlIGZlbmNlcyBqdXN0IGluIGNhc2UKICAgIGNvbnN0IGNsZWFuZWQgPSByYXcucmVwbGFjZSgvXmBgYCg/Ompzb24pP1xzKi9pLCAnJykucmVwbGFjZSgvXHMqYGBgXHMqJC9pLCAnJykudHJpbSgpOwogICAgdHJ5IHsKICAgICAgcmV0dXJuIEpTT04ucGFyc2UoY2xlYW5lZCk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIC8vIFRyeSB0byBmaW5kIGZpcnN0IHsgYW5kIGxhc3QgfQogICAgICBjb25zdCBzID0gY2xlYW5lZC5pbmRleE9mKCd7Jyk7CiAgICAgIGNvbnN0IHQgPSBjbGVhbmVkLmxhc3RJbmRleE9mKCd9Jyk7CiAgICAgIGlmIChzID49IDAgJiYgdCA+IHMpIHsKICAgICAgICByZXR1cm4gSlNPTi5wYXJzZShjbGVhbmVkLnNsaWNlKHMsIHQgKyAxKSk7CiAgICAgIH0KICAgICAgdGhyb3cgZTsKICAgIH0KICB9LAp9OwoKLy8gQ3VsdHVyYWwgdHJhbnNsYXRvcjogYmVoYXZpb3VyLCBub3QgbGFuZ3VhZ2UKd2luZG93LkFkTV9DVUxUVVJBTCA9IHsKICBidWlsZFByb21wdChmb3JtKSB7CiAgICByZXR1cm4gYFlvdSBhcmUgYSBjdWx0dXJhbCB0cmFuc2l0aW9uIGFzc2lzdGFudCBoZWxwaW5nIEJyYXppbGlhbnMgYWRhcHQgdG8gd29ya2luZyBhYnJvYWQuCgpUcmFuc2xhdGUgbm90IGp1c3QgbGFuZ3VhZ2UsIGJ1dCBCRUhBVklPVVIuCgpCYXNlZCBvbiB0aGUgdXNlcidzIGJhY2tncm91bmQgYW5kIHRhcmdldCBjb3VudHJ5LCBwcm92aWRlIGRpcmVjdCwgcHJhY3RpY2FsLCByZWFsaXN0aWMgZ3VpZGFuY2UuIEF2b2lkIGdlbmVyaWMgYWR2aWNlICgiYmUgb3Blbi1taW5kZWQiLCAiZW1icmFjZSBkaWZmZXJlbmNlcyIpLiBBdm9pZCBjbGljaMOpcy4gQmUgc3BlY2lmaWMgdG8gdGhlIGNvdW50cnkgcGFpci4KClVTRVIgQ09OVEVYVDoKLSBDb21pbmcgZnJvbTogQnJhemlsCi0gVGFyZ2V0IGNvdW50cnk6ICR7Zm9ybS50YXJnZXRDb3VudHJ5fQotIFRhcmdldCB3b3JrIGVudmlyb25tZW50OiAke2Zvcm0ud29ya0NvbnRleHQgfHwgJ29mZmljZSAvIGNvcnBvcmF0ZSd9Ci0gWWVhcnMgb2Ygd29yayBleHBlcmllbmNlIGluIEJyYXppbDogJHtmb3JtLnllYXJzQlIgfHwgJ25vdCBnaXZlbid9Ci0gU3BlY2lmaWMgc2l0dWF0aW9uIHRoZXkncmUgd29ycmllZCBhYm91dDogJHtmb3JtLmNvbmNlcm4gfHwgJ2dlbmVyYWwgYWRhcHRhdGlvbid9Ci0gSW5kdXN0cnk6ICR7Zm9ybS5pbmR1c3RyeSB8fCAnbm90IGdpdmVuJ30KCk9VVFBVVCBGT1JNQVQgKHJldHVybiBTVFJJQ1QgSlNPTiwgbm8gbWFya2Rvd24sIG5vIHByZWFtYmxlKToKewogICJkaWZmZXJlbmNlcyI6IFsKICAgIHsgInRpdGxlIjogInNob3J0IGxhYmVsIChlLmcuICdEaXJlY3RuZXNzIGluIGZlZWRiYWNrJykiLCAiYnIiOiAiaG93IGl0IHdvcmtzIGluIEJyYXppbCwgMS0yIHNlbnRlbmNlcyIsICJ0YXJnZXQiOiAiaG93IGl0IHdvcmtzIGluICR7Zm9ybS50YXJnZXRDb3VudHJ5fSwgMS0yIHNlbnRlbmNlcyIgfQogIF0sCiAgImNvbW11bmljYXRpb25FeGFtcGxlcyI6IFsKICAgIHsgInNpdHVhdGlvbiI6ICJzcGVjaWZpYyB3b3JrIHNpdHVhdGlvbiIsICJpbnN0ZWFkIjogIndoYXQgYSBCcmF6aWxpYW4gd291bGQgbmF0dXJhbGx5IHNheSAoaW4gRW5nbGlzaCwgYnV0IEJyYXppbGlhbi10cmFuc2xhdGVkIHBocmFzaW5nKSIsICJ0cnlUaGlzIjogIndoYXQgbGFuZHMgYmV0dGVyIGluICR7Zm9ybS50YXJnZXRDb3VudHJ5fSIgfQogIF0sCiAgInNjcmlwdHMiOiBbCiAgICB7ICJ0aXRsZSI6ICJXaGVuIHlvdSBuZWVkIHRvIHNheSBubyB0byB5b3VyIG1hbmFnZXIiLCAic2NyaXB0IjogImFjdHVhbCBzZW50ZW5jZSB0byB1c2UsIGluIEVuZ2xpc2gsIHdpdGggYnJpZWYgdG9uZSBub3RlIiB9LAogICAgeyAidGl0bGUiOiAiRmlyc3Qgc3RhbmR1cCAvIHRlYW0gbWVldGluZyBpbnRybyIsICJzY3JpcHQiOiAiLi4uIiB9LAogICAgeyAidGl0bGUiOiAiRGlzYWdyZWVpbmcgd2l0aCBhIHNlbmlvciBwZXJzb24gcHVibGljbHkiLCAic2NyaXB0IjogIi4uLiIgfSwKICAgIHsgInRpdGxlIjogIkFza2luZyBmb3IgYSBzYWxhcnkgcmV2aWV3IiwgInNjcmlwdCI6ICIuLi4iIH0KICBdLAogICJtaXN0YWtlcyI6IFsKICAgIHsgIm1pc3Rha2UiOiAiQnJhemlsaWFuIGhhYml0IChlLmcuICdTYXlpbmcgeWVzIHRvIGV2ZXJ5dGhpbmcgdG8gc2VlbSBoZWxwZnVsJykiLCAid2h5IjogIndoeSBpdCBiYWNrZmlyZXMgaW4gJHtmb3JtLnRhcmdldENvdW50cnl9IiwgImZpeCI6ICJ3aGF0IHRvIGRvIGluc3RlYWQiIH0KICBdLAogICJ1bmNvbWZvcnRhYmxlQnV0Tm9ybWFsIjogWwogICAgIjEgc2VudGVuY2UgZWFjaC4gVGhpbmdzIHRoYXQgd2lsbCBmZWVsIHJ1ZGUvY29sZC9hbGllbmF0aW5nIGJ1dCBhcmUgY29tcGxldGVseSBub3JtYWwgaW4gJHtmb3JtLnRhcmdldENvdW50cnl9LiIKICBdCn0KClByb3ZpZGUgNC02IGl0ZW1zIHBlciBhcnJheSAoMy01IGZvciBkaWZmZXJlbmNlcykuIEJlIGNvdW50cnktc3BlY2lmaWM6IElyZWxhbmQgaXMgbm90IEdlcm1hbnkgaXMgbm90IHRoZSBVSy4gVXNlIHJlYWwgZXhhbXBsZXMgKHN0YW5kdXBzLCAxOjFzLCBzbGFjaywgcHVicywgbm8tcHViIGN1bHR1cmVzLCBsdW5jaCBhbG9uZSwgbGVhdmluZyBvbiB0aW1lLCBldGMpLgoKUmV0dXJuIE9OTFkgdGhlIEpTT04uIE5vIGNvZGUgZmVuY2VzLmA7CiAgfSwKCiAgYXN5bmMgdHJhbnNsYXRlKGZvcm0pIHsKICAgIGNvbnN0IHByb21wdCA9IHRoaXMuYnVpbGRQcm9tcHQoZm9ybSk7CiAgICBjb25zdCByYXcgPSBhd2FpdCB3aW5kb3cuY2xhdWRlLmNvbXBsZXRlKHsgbWVzc2FnZXM6IFt7IHJvbGU6ICd1c2VyJywgY29udGVudDogcHJvbXB0IH1dIH0pOwogICAgY29uc3QgY2xlYW5lZCA9IHJhdy5yZXBsYWNlKC9eYGBgKD86anNvbik/XHMqL2ksICcnKS5yZXBsYWNlKC9ccypgYGBccyokL2ksICcnKS50cmltKCk7CiAgICB0cnkgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShjbGVhbmVkKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc3QgcyA9IGNsZWFuZWQuaW5kZXhPZigneycpOwogICAgICBjb25zdCB0ID0gY2xlYW5lZC5sYXN0SW5kZXhPZignfScpOwogICAgICBpZiAocyA+PSAwICYmIHQgPiBzKSByZXR1cm4gSlNPTi5wYXJzZShjbGVhbmVkLnNsaWNlKHMsIHQgKyAxKSk7CiAgICAgIHRocm93IGU7CiAgICB9CiAgfSwKfTsK"}
+// The Além do Mar career translation prompt — encodes the 8 Brazilian CV quirks
+// and the cultural translation layer.
+
+window.AdM_PROMPT = {
+  buildSystemPrompt(targetCountry, tone = 'confident', targetCity = null) {
+    const cityNote = targetCity && window.AdM_CITIES && window.AdM_CITIES.promptNotes[targetCity]
+      ? `\n# City-specific CV norms (${window.AdM_CITIES.byId[targetCity].label})\n${window.AdM_CITIES.promptNotes[targetCity]}\n`
+      : '';
+    return `You are a career translation assistant for Brazilian professionals moving to international job markets (UK, Ireland, EU). You convert Brazilian work experience into clear, locally-resonant professional language for ${targetCountry}.
+${cityNote}
+You are NOT a CV polisher. You are a translation layer between two labour markets.
+
+# Core principles
+- DO NOT exaggerate. DO NOT invent metrics. If unknown, use "approximate", "supported", "contributed to".
+- Reframe duties into outcomes, systems, tools, and scale.
+- Remove generic Brazilian soft-skill claims ("proativo, dinâmico, comunicativo") unless provable.
+- Use clean, structured, neutral professional tone. ${tone === 'confident' ? 'Be confident and ambitious without overclaiming.' : `Tone: ${tone}.`}
+- Do NOT use em dashes (—) or en dashes (–) in any output. Use commas, periods, colons, or parentheses instead.
+- Output in ENGLISH (the destination language), even though the input is Portuguese.
+
+# Brazilian CV quirks to fix
+1. Duty-heavy, outcome-light: force "what changed because of you / scale / frequency".
+2. Generic titles (Analista/Assistente/Coordenador) → map to international equivalents based on scope.
+3. Underselling scope: gently upgrade "auxiliei / dei suporte" → "contributed to / collaborated on / led".
+4. Vague tools ("sistemas internos") → name categories (CRM, ERP) if unknown.
+5. Long paragraphs → 1-line scannable bullets.
+6. Stability bias → impact bias: extract projects, changes, improvements from tenure.
+7. Soft-skills laundry list → delete; show via stakeholder/team examples instead.
+8. Education overweight → for experienced candidates, push experience first.
+
+# Title mapping guidance
+- Analista → Specialist / Analyst (depends on years + scope)
+- Assistente → Junior / Associate / Coordinator
+- Coordenador → Lead / Manager (depends on team size)
+- Gerente → Manager / Senior Manager / Head of
+- Atendente → Customer Service Representative / Specialist
+- Auxiliar → Assistant / Associate
+
+Calibrate by years of experience and team size given.
+
+# Output format. Return STRICT JSON, no markdown, no preamble.
+{
+  "internationalTitle": "string. Single role title that lands in ${targetCountry}.",
+  "titleAlternatives": ["string", "string"],
+  "cvBullets": [
+    "5-6 bullets, each ONE LINE, starts with strong verb, includes scale/tool/outcome where possible"
+  ],
+  "linkedinHeadline": "string under 220 chars. Format: role | tools | domain | value.",
+  "shortAbout": "string. 2-3 sentence LinkedIn About paragraph, first person.",
+  "skillsTranslation": [
+    {"br": "Portuguese term as user said it", "en": "English equivalent that recruiters search"}
+  ],
+  "interviewTalkingPoints": [
+    "3-4 STAR-shaped talking points (Situation/Task/Action/Result), each 2-3 sentences"
+  ],
+  "honestyNotes": [
+    "1-3 short notes flagging anything the user should verify before using (e.g. 'You said \\"about 40 cases/day\\". Confirm before quoting.')"
+  ]
+}
+
+Return ONLY the JSON object. No code fences, no commentary.`;
+  },
+
+  buildUserPrompt(form) {
+    const seg = form.segment && window.AdM_SEGMENTS ? window.AdM_SEGMENTS[form.segment] : null;
+    const segData = form.segmentData || {};
+    const segLines = [];
+    if (seg) {
+      segLines.push(`Career segment: ${seg.label}. ${seg.description}`);
+      segLines.push(`Translation focus for this segment: ${seg.focus}`);
+      const fields = (window.AdM_SEGMENT_FIELDS && window.AdM_SEGMENT_FIELDS[seg.id]) || [];
+      fields.forEach((f) => {
+        if (segData[f.id]) segLines.push(`${f.label}: ${segData[f.id]}`);
+      });
+    }
+    const lines = [
+      `Brazilian role title: ${form.brTitle || '(not given)'}`,
+      ...(seg ? [segLines.join('\n')] : []),
+      `Company: ${form.company || '(not given)'}`,
+      `Years in role: ${form.years || '(not given)'}`,
+      `Daily responsibilities (raw, in Portuguese):\n${form.duties || '(not given)'}`,
+      `Target country: ${form.targetCountry}`,
+      form.targetCity && window.AdM_CITIES && window.AdM_CITIES.byId[form.targetCity]
+        ? `Target city: ${window.AdM_CITIES.byId[form.targetCity].label}. Apply local CV conventions for this city.`
+        : null,
+      `Target role (if known): ${form.targetRole || '(open)'}`,
+    ].filter(Boolean);
+    return lines.join('\n\n');
+  },
+
+  async translate(form, tone) {
+    const system = this.buildSystemPrompt(form.targetCountry, tone, form.targetCity);
+    const user = this.buildUserPrompt(form);
+    const raw = await window.claude.complete({
+      messages: [
+        { role: 'user', content: system + '\n\n---\n\nINPUT:\n\n' + user }
+      ],
+    });
+    // Strip any code fences just in case
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
+    try {
+      return JSON.parse(cleaned);
+    } catch (e) {
+      // Try to find first { and last }
+      const s = cleaned.indexOf('{');
+      const t = cleaned.lastIndexOf('}');
+      if (s >= 0 && t > s) {
+        return JSON.parse(cleaned.slice(s, t + 1));
+      }
+      throw e;
+    }
+  },
+};
+
+// Cultural translator: behaviour, not language
+window.AdM_CULTURAL = {
+  buildPrompt(form) {
+    return `You are a cultural transition assistant helping Brazilians adapt to working abroad.
+
+Translate not just language, but BEHAVIOUR.
+
+Based on the user's background and target country, provide direct, practical, realistic guidance. Avoid generic advice ("be open-minded", "embrace differences"). Avoid clichés. Be specific to the country pair.
+
+USER CONTEXT:
+- Coming from: Brazil
+- Target country: ${form.targetCountry}
+- Target work environment: ${form.workContext || 'office / corporate'}
+- Years of work experience in Brazil: ${form.yearsBR || 'not given'}
+- Specific situation they're worried about: ${form.concern || 'general adaptation'}
+- Industry: ${form.industry || 'not given'}
+
+OUTPUT FORMAT (return STRICT JSON, no markdown, no preamble):
+{
+  "differences": [
+    { "title": "short label (e.g. 'Directness in feedback')", "br": "how it works in Brazil, 1-2 sentences", "target": "how it works in ${form.targetCountry}, 1-2 sentences" }
+  ],
+  "communicationExamples": [
+    { "situation": "specific work situation", "instead": "what a Brazilian would naturally say (in English, but Brazilian-translated phrasing)", "tryThis": "what lands better in ${form.targetCountry}" }
+  ],
+  "scripts": [
+    { "title": "When you need to say no to your manager", "script": "actual sentence to use, in English, with brief tone note" },
+    { "title": "First standup / team meeting intro", "script": "..." },
+    { "title": "Disagreeing with a senior person publicly", "script": "..." },
+    { "title": "Asking for a salary review", "script": "..." }
+  ],
+  "mistakes": [
+    { "mistake": "Brazilian habit (e.g. 'Saying yes to everything to seem helpful')", "why": "why it backfires in ${form.targetCountry}", "fix": "what to do instead" }
+  ],
+  "uncomfortableButNormal": [
+    "1 sentence each. Things that will feel rude/cold/alienating but are completely normal in ${form.targetCountry}."
+  ]
+}
+
+Provide 4-6 items per array (3-5 for differences). Be country-specific: Ireland is not Germany is not the UK. Use real examples (standups, 1:1s, slack, pubs, no-pub cultures, lunch alone, leaving on time, etc).
+
+Return ONLY the JSON. No code fences.`;
+  },
+
+  async translate(form) {
+    const prompt = this.buildPrompt(form);
+    const raw = await window.claude.complete({ messages: [{ role: 'user', content: prompt }] });
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
+    try {
+      return JSON.parse(cleaned);
+    } catch (e) {
+      const s = cleaned.indexOf('{');
+      const t = cleaned.lastIndexOf('}');
+      if (s >= 0 && t > s) return JSON.parse(cleaned.slice(s, t + 1));
+      throw e;
+    }
+  },
+};

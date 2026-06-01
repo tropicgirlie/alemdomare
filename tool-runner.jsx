@@ -1,1 +1,236 @@
-{"data":"Ly8gR2VuZXJpYyB0b29sIGZvcm0gKyByZXN1bHQgcnVubmVyLiBEcml2ZXMgYW55IEFkTV9UT09MU1tpZF0gY29uZmlnLgoKZnVuY3Rpb24gVG9vbEZpZWxkKHsgZmllbGQsIHZhbHVlLCBvbkNoYW5nZSwgZGlyZWN0aW9uIH0pIHsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgY29uc3Qgb3B0cyA9IHR5cGVvZiBmaWVsZC5vcHRpb25zID09PSAnc3RyaW5nJwogICAgPyAod2luZG93LkFkTV9SRVNPTFZFX09QVElPTlMgPyB3aW5kb3cuQWRNX1JFU09MVkVfT1BUSU9OUyhmaWVsZC5vcHRpb25zKSA6IFtdKQogICAgOiBmaWVsZC5vcHRpb25zOwoKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGxhYmVsIGNsYXNzTmFtZT0iZmllbGQtbGFiZWwiPgogICAgICAgIHtmaWVsZC5sYWJlbH0KICAgICAgICB7ZmllbGQucmVxdWlyZWQgJiYgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjZGMyNjI2JyB9fT4gKjwvc3Bhbj59CiAgICAgIDwvbGFiZWw+CiAgICAgIHtmaWVsZC50eXBlID09PSAndGV4dGFyZWEnID8gKAogICAgICAgIDx0ZXh0YXJlYQogICAgICAgICAgY2xhc3NOYW1lPSJmaWVsZC10ZXh0YXJlYSIKICAgICAgICAgIHJvd3M9e2ZpZWxkLnJvd3MgfHwgNX0KICAgICAgICAgIHBsYWNlaG9sZGVyPXtmaWVsZC5wbGFjZWhvbGRlcn0KICAgICAgICAgIHZhbHVlPXt2YWx1ZSB8fCAnJ30KICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2UoZS50YXJnZXQudmFsdWUpfQogICAgICAgIC8+CiAgICAgICkgOiBmaWVsZC50eXBlID09PSAnc2VsZWN0JyA/ICgKICAgICAgICA8c2VsZWN0CiAgICAgICAgICBjbGFzc05hbWU9ImZpZWxkLXNlbGVjdCIKICAgICAgICAgIHZhbHVlPXt2YWx1ZSB8fCAnJ30KICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2UoZS50YXJnZXQudmFsdWUpfQogICAgICAgID4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+U2VsZWNpb25lLi4uPC9vcHRpb24+CiAgICAgICAgICB7KG9wdHMgfHwgW10pLm1hcCgobykgPT4gPG9wdGlvbiBrZXk9e299IHZhbHVlPXtvfT57b308L29wdGlvbj4pfQogICAgICAgIDwvc2VsZWN0PgogICAgICApIDogKAogICAgICAgIDxpbnB1dAogICAgICAgICAgY2xhc3NOYW1lPSJmaWVsZC1pbnB1dCIKICAgICAgICAgIHR5cGU9e2ZpZWxkLnR5cGUgPT09ICdudW1iZXInID8gJ251bWJlcicgOiAndGV4dCd9CiAgICAgICAgICBwbGFjZWhvbGRlcj17ZmllbGQucGxhY2Vob2xkZXJ9CiAgICAgICAgICB2YWx1ZT17dmFsdWUgfHwgJyd9CiAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAvPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gR2VuZXJpY1Rvb2xGb3JtKHsgdG9vbCwgZGlyZWN0aW9uLCBpc0xvYWRpbmcsIG9uU3VibWl0LCBpbml0aWFsVmFsdWVzIH0pIHsKICBjb25zdCBbZm9ybSwgc2V0Rm9ybV0gPSBSZWFjdC51c2VTdGF0ZShpbml0aWFsVmFsdWVzIHx8IHt9KTsKICBjb25zdCB1cGRhdGUgPSAoaWQpID0+ICh2KSA9PiBzZXRGb3JtKHsgLi4uZm9ybSwgW2lkXTogdiB9KTsKCiAgY29uc3QgY2FuU3VibWl0ID0gdG9vbC5maWVsZHMuZXZlcnkoKGYpID0+ICFmLnJlcXVpcmVkIHx8IChmb3JtW2YuaWRdICYmIFN0cmluZyhmb3JtW2YuaWRdKS50cmltKCkpKTsKCiAgY29uc3Qgc3VibWl0ID0gKGUpID0+IHsKICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgIGlmIChjYW5TdWJtaXQgJiYgIWlzTG9hZGluZykgb25TdWJtaXQoZm9ybSk7CiAgfTsKCiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwogIHJldHVybiAoCiAgICA8Zm9ybSBvblN1Ym1pdD17c3VibWl0fSBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDIyIH19PgogICAgICB7dG9vbC5maWVsZHMubWFwKChmKSA9PiAoCiAgICAgICAgPFRvb2xGaWVsZAogICAgICAgICAga2V5PXtmLmlkfQogICAgICAgICAgZmllbGQ9e2Z9CiAgICAgICAgICBkaXJlY3Rpb249e2RpcmVjdGlvbn0KICAgICAgICAgIHZhbHVlPXtmb3JtW2YuaWRdfQogICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZShmLmlkKX0KICAgICAgICAvPgogICAgICApKX0KICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogMTIsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBtYXJnaW5Ub3A6IDgsIGZsZXhXcmFwOiAnd3JhcCcgfX0+CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLXByaW1hcnkiCiAgICAgICAgICBkaXNhYmxlZD17IWNhblN1Ym1pdCB8fCBpc0xvYWRpbmd9CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBvcGFjaXR5OiAoIWNhblN1Ym1pdCB8fCBpc0xvYWRpbmcpID8gMC41IDogMSwKICAgICAgICAgICAgY3Vyc29yOiAoIWNhblN1Ym1pdCB8fCBpc0xvYWRpbmcpID8gJ25vdC1hbGxvd2VkJyA6ICdwb2ludGVyJywKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAge2lzTG9hZGluZyA/IDw+PHNwYW4gY2xhc3NOYW1lPSJzcGlubmVyIiAvPiBQcm9jZXNzYW5kb+KApjwvPiA6ICdSb2RhciDihpInfQogICAgICAgIDwvYnV0dG9uPgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxMywgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknIH19PgogICAgICAgICAgMSBjcsOpZGl0byDCtyBjZXJjYSBkZSAxNXMKICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgogICAgPC9mb3JtPgogICk7Cn0KCi8vIFJ1biBhIHRvb2wgYWdhaW5zdCB0aGUgaHlicmlkIHRyYW5zbGF0aW9uIHNlcnZpY2UKYXN5bmMgZnVuY3Rpb24gcnVuVG9vbCh0b29sLCBmb3JtKSB7CiAgY29uc3QgdG9vbElkID0gdG9vbC5pZDsKICBjb25zdCB0ZXh0VG9UcmFuc2xhdGUgPSBleHRyYWN0VGV4dEZyb21Gb3JtKGZvcm0sIHRvb2xJZCk7CiAgCiAgaWYgKCF0ZXh0VG9UcmFuc2xhdGUgfHwgdGV4dFRvVHJhbnNsYXRlLnRyaW0oKS5sZW5ndGggPT09IDApIHsKICAgIHRocm93IG5ldyBFcnJvcignTm8gdGV4dCB0byB0cmFuc2xhdGUgcHJvdmlkZWQnKTsKICB9CgogIHRyeSB7CiAgICAvLyBVc2UgaHlicmlkIHRyYW5zbGF0aW9uIHNlcnZpY2UgKENsb3VkZmxhcmUgV29ya2VyKQogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnaHR0cHM6Ly9hbGVtZG9tYXItYXV0aC5sdWFuYWdiYy53b3JrZXJzLmRldi9hcGkvdHJhbnNsYXRlJywgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICB0ZXh0OiB0ZXh0VG9UcmFuc2xhdGUsCiAgICAgICAgdG9vbFR5cGU6IHRvb2xJZCwKICAgICAgICBzb3VyY2VMYW5nOiAncHQnLAogICAgICAgIHRhcmdldExhbmc6ICdlbicKICAgICAgfSkKICAgIH0pOwoKICAgIGlmICghcmVzcG9uc2Uub2spIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGBUcmFuc2xhdGlvbiBzZXJ2aWNlIGVycm9yOiAke3Jlc3BvbnNlLnN0YXR1c31gKTsKICAgIH0KCiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICAKICAgIC8vIEZvcm1hdCByZXN1bHQgdG8gbWF0Y2ggZXhwZWN0ZWQgc3RydWN0dXJlCiAgICByZXR1cm4gZm9ybWF0VHJhbnNsYXRpb25SZXN1bHQocmVzdWx0LCB0b29sLCBmb3JtKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcignSHlicmlkIHRyYW5zbGF0aW9uIGZhaWxlZCwgZmFsbGluZyBiYWNrIHRvIENsYXVkZTonLCBlcnJvcik7CiAgICAKICAgIC8vIEZhbGxiYWNrIHRvIG9yaWdpbmFsIENsYXVkZSBtZXRob2QKICAgIGNvbnN0IHByb21wdCA9IHRvb2wucHJvbXB0KGZvcm0pOwogICAgY29uc3QgcmF3ID0gYXdhaXQgd2luZG93LmNsYXVkZS5jb21wbGV0ZSh7IG1lc3NhZ2VzOiBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHByb21wdCB9XSB9KTsKICAgIGNvbnN0IGNsZWFuZWQgPSByYXcucmVwbGFjZSgvXmBgYCg/Ompzb24pP1xzKi9pLCAnJykucmVwbGFjZSgvXHMqYGBgXHMqJC9pLCAnJykudHJpbSgpOwogICAgdHJ5IHsgcmV0dXJuIEpTT04ucGFyc2UoY2xlYW5lZCk7IH0KICAgIGNhdGNoIChlKSB7CiAgICAgIGNvbnN0IHMgPSBjbGVhbmVkLmluZGV4T2YoJ3snKTsKICAgICAgY29uc3QgdCA9IGNsZWFuZWQubGFzdEluZGV4T2YoJ30nKTsKICAgICAgaWYgKHMgPj0gMCAmJiB0ID4gcykgcmV0dXJuIEpTT04ucGFyc2UoY2xlYW5lZC5zbGljZShzLCB0ICsgMSkpOwogICAgICB0aHJvdyBlOwogICAgfQogIH0KfQoKLy8gRXh0cmFjdCB0aGUgbWFpbiB0ZXh0IGZyb20gZm9ybSBiYXNlZCBvbiB0b29sIHR5cGUKZnVuY3Rpb24gZXh0cmFjdFRleHRGcm9tRm9ybShmb3JtLCB0b29sSWQpIHsKICBzd2l0Y2ggKHRvb2xJZCkgewogICAgY2FzZSAnY2FyZWVyJzoKICAgICAgcmV0dXJuIGZvcm0uY3ZCdWxsZXRzIHx8IGZvcm0uZXhwZXJpZW5jZSB8fCAnJzsKICAgIGNhc2UgJ2N1bHR1cmFsJzoKICAgICAgcmV0dXJuIGZvcm0uc2l0dWF0aW9uIHx8IGZvcm0uY29udGV4dCB8fCAnJzsKICAgIGNhc2UgJ3NheV9pdF9iZXR0ZXInOgogICAgICByZXR1cm4gZm9ybS5vcmlnaW5hbFRleHQgfHwgZm9ybS5tZXNzYWdlIHx8ICcnOwogICAgY2FzZSAnaWRlbnRpdHlfcmVmcmFtZSc6CiAgICAgIHJldHVybiBmb3JtLmNoYWxsZW5nZSB8fCBmb3JtLnNpdHVhdGlvbiB8fCAnJzsKICAgIGNhc2UgJ2F0c19jaGVjayc6CiAgICAgIHJldHVybiBmb3JtLmN2VGV4dCB8fCBmb3JtLnJlc3VtZSB8fCAnJzsKICAgIGNhc2UgJ3NhbGFyeV9yZWFsaXR5JzoKICAgICAgcmV0dXJuIGZvcm0ucm9sZSB8fCBmb3JtLnBvc2l0aW9uIHx8ICcnOwogICAgY2FzZSAnaGlyaW5nX3JlYWxpdHknOgogICAgICByZXR1cm4gZm9ybS5zaXR1YXRpb24gfHwgZm9ybS5jb250ZXh0IHx8ICcnOwogICAgY2FzZSAnaW50ZXJ2aWV3X3NpbSc6CiAgICAgIHJldHVybiBmb3JtLnJvbGUgfHwgZm9ybS5wb3NpdGlvbiB8fCAnJzsKICAgIGNhc2UgJ3JlamVjdGlvbl9kZWNvZGVyJzoKICAgICAgcmV0dXJuIGZvcm0ucmVqZWN0aW9uTWVzc2FnZSB8fCBmb3JtLm1lc3NhZ2UgfHwgJyc7CiAgICBkZWZhdWx0OgogICAgICAvLyBUcnkgdG8gZmluZCB0aGUgZmlyc3QgdGV4dCBmaWVsZAogICAgICBjb25zdCB0ZXh0RmllbGRzID0gT2JqZWN0LnZhbHVlcyhmb3JtKS5maWx0ZXIodmFsdWUgPT4gCiAgICAgICAgdHlwZW9mIHZhbHVlID09PSAnc3RyaW5nJyAmJiB2YWx1ZS5sZW5ndGggPiAwCiAgICAgICk7CiAgICAgIHJldHVybiB0ZXh0RmllbGRzWzBdIHx8ICcnOwogIH0KfQoKLy8gRm9ybWF0IHRyYW5zbGF0aW9uIHJlc3VsdCB0byBtYXRjaCBleHBlY3RlZCB0b29sIHN0cnVjdHVyZQpmdW5jdGlvbiBmb3JtYXRUcmFuc2xhdGlvblJlc3VsdCh0cmFuc2xhdGlvblJlc3VsdCwgdG9vbCwgb3JpZ2luYWxGb3JtKSB7CiAgY29uc3QgeyB0cmFuc2xhdGlvbiwgc2VydmljZSwgZXN0aW1hdGVkQ29zdCB9ID0gdHJhbnNsYXRpb25SZXN1bHQ7CiAgCiAgLy8gQ3JlYXRlIHJlc3VsdCBzdHJ1Y3R1cmUgYmFzZWQgb24gdG9vbCB0eXBlCiAgc3dpdGNoICh0b29sLmlkKSB7CiAgICBjYXNlICdjYXJlZXInOgogICAgICByZXR1cm4gewogICAgICAgIGN2QnVsbGV0czogdHJhbnNsYXRpb24uc3BsaXQoJ1xuJykuZmlsdGVyKGxpbmUgPT4gbGluZS50cmltKCkpLm1hcChsaW5lID0+IGxpbmUucmVwbGFjZSgvXlst4oCiKl1ccyovLCAnJykudHJpbSgpKSwKICAgICAgICBzZXJ2aWNlLAogICAgICAgIGVzdGltYXRlZENvc3QsCiAgICAgICAgb3JpZ2luYWxUZXh0OiBleHRyYWN0VGV4dEZyb21Gb3JtKG9yaWdpbmFsRm9ybSwgdG9vbC5pZCkKICAgICAgfTsKICAgIAogICAgY2FzZSAnY3VsdHVyYWwnOgogICAgICByZXR1cm4gewogICAgICAgIGFkYXB0YXRpb246IHRyYW5zbGF0aW9uLAogICAgICAgIHNlcnZpY2UsCiAgICAgICAgZXN0aW1hdGVkQ29zdCwKICAgICAgICBvcmlnaW5hbFRleHQ6IGV4dHJhY3RUZXh0RnJvbUZvcm0ob3JpZ2luYWxGb3JtLCB0b29sLmlkKQogICAgICB9OwogICAgCiAgICBjYXNlICdzYXlfaXRfYmV0dGVyJzoKICAgICAgcmV0dXJuIHsKICAgICAgICBpbXByb3ZlZFRleHQ6IHRyYW5zbGF0aW9uLAogICAgICAgIHNlcnZpY2UsCiAgICAgICAgZXN0aW1hdGVkQ29zdCwKICAgICAgICBvcmlnaW5hbFRleHQ6IGV4dHJhY3RUZXh0RnJvbUZvcm0ob3JpZ2luYWxGb3JtLCB0b29sLmlkKQogICAgICB9OwogICAgCiAgICBjYXNlICdpZGVudGl0eV9yZWZyYW1lJzoKICAgICAgcmV0dXJuIHsKICAgICAgICByZWZyYW1lZElkZW50aXR5OiB0cmFuc2xhdGlvbiwKICAgICAgICBzZXJ2aWNlLAogICAgICAgIGVzdGltYXRlZENvc3QsCiAgICAgICAgb3JpZ2luYWxUZXh0OiBleHRyYWN0VGV4dEZyb21Gb3JtKG9yaWdpbmFsRm9ybSwgdG9vbC5pZCkKICAgICAgfTsKICAgIAogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIHsKICAgICAgICByZXN1bHQ6IHRyYW5zbGF0aW9uLAogICAgICAgIHNlcnZpY2UsCiAgICAgICAgZXN0aW1hdGVkQ29zdCwKICAgICAgICBvcmlnaW5hbFRleHQ6IGV4dHJhY3RUZXh0RnJvbUZvcm0ob3JpZ2luYWxGb3JtLCB0b29sLmlkKQogICAgICB9OwogIH0KfQoKd2luZG93LkdlbmVyaWNUb29sRm9ybSA9IEdlbmVyaWNUb29sRm9ybTsKd2luZG93LnJ1blRvb2wgPSBydW5Ub29sOwo="}
+// Generic tool form + result runner. Drives any AdM_TOOLS[id] config.
+
+function ToolField({ field, value, onChange, direction }) {
+  const dirA = direction === 'a';
+  const opts = typeof field.options === 'string'
+    ? (window.AdM_RESOLVE_OPTIONS ? window.AdM_RESOLVE_OPTIONS(field.options) : [])
+    : field.options;
+
+  return (
+    <div>
+      <label className="field-label">
+        {field.label}
+        {field.required && <span style={{ color: '#dc2626' }}> *</span>}
+      </label>
+      {field.type === 'textarea' ? (
+        <textarea
+          className="field-textarea"
+          rows={field.rows || 5}
+          placeholder={field.placeholder}
+          value={value || ''}
+          onChange={(e) => onChange(e.target.value)}
+        />
+      ) : field.type === 'select' ? (
+        <select
+          className="field-select"
+          value={value || ''}
+          onChange={(e) => onChange(e.target.value)}
+        >
+          <option value="">Selecione...</option>
+          {(opts || []).map((o) => <option key={o} value={o}>{o}</option>)}
+        </select>
+      ) : (
+        <input
+          className="field-input"
+          type={field.type === 'number' ? 'number' : 'text'}
+          placeholder={field.placeholder}
+          value={value || ''}
+          onChange={(e) => onChange(e.target.value)}
+        />
+      )}
+    </div>
+  );
+}
+
+function GenericToolForm({ tool, direction, isLoading, onSubmit, initialValues }) {
+  const [form, setForm] = React.useState(initialValues || {});
+  const update = (id) => (v) => setForm({ ...form, [id]: v });
+
+  const canSubmit = tool.fields.every((f) => !f.required || (form[f.id] && String(form[f.id]).trim()));
+
+  const submit = (e) => {
+    e.preventDefault();
+    if (canSubmit && !isLoading) onSubmit(form);
+  };
+
+  const dirA = direction === 'a';
+  return (
+    <form onSubmit={submit} style={{ display: 'flex', flexDirection: 'column', gap: 22 }}>
+      {tool.fields.map((f) => (
+        <ToolField
+          key={f.id}
+          field={f}
+          direction={direction}
+          value={form[f.id]}
+          onChange={update(f.id)}
+        />
+      ))}
+      <div style={{ display: 'flex', gap: 12, alignItems: 'center', marginTop: 8, flexWrap: 'wrap' }}>
+        <button
+          type="submit"
+          className="btn btn-primary"
+          disabled={!canSubmit || isLoading}
+          style={{
+            opacity: (!canSubmit || isLoading) ? 0.5 : 1,
+            cursor: (!canSubmit || isLoading) ? 'not-allowed' : 'pointer',
+          }}
+        >
+          {isLoading ? <><span className="spinner" /> Processando…</> : 'Rodar →'}
+        </button>
+        <span style={{ fontSize: 13, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)' }}>
+          1 crédito · cerca de 15s
+        </span>
+      </div>
+    </form>
+  );
+}
+
+// Run a tool against the hybrid translation service
+async function runTool(tool, form) {
+  const toolId = tool.id;
+  const textToTranslate = extractTextFromForm(form, toolId);
+
+  if (!textToTranslate || textToTranslate.trim().length === 0) {
+    throw new Error('No text to translate provided');
+  }
+
+  const deviceId = window.AdM_CREDITS && window.AdM_CREDITS.getDeviceId();
+  const apiBase = (window.ADM_API_BASE || 'https://alemdomar-auth.luanagbc.workers.dev').replace(/\/+$/, '');
+
+  let response;
+  try {
+    response = await fetch(apiBase + '/api/translate', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-Device-Id': deviceId || '',
+      },
+      body: JSON.stringify({
+        text: textToTranslate,
+        toolType: toolId,
+        sourceLang: 'pt',
+        targetLang: 'en'
+      })
+    });
+  } catch (networkErr) {
+    return fallbackToClaude(tool, form, networkErr);
+  }
+
+  // 402 = server says no credits. Sync state from server, surface to UI, do NOT fall back.
+  if (response.status === 402) {
+    if (window.AdM_CREDITS && window.AdM_CREDITS.syncFromServer) {
+      try { await window.AdM_CREDITS.syncFromServer(); } catch (_) {}
+    }
+    const err = new Error('no_credits');
+    err.code = 'no_credits';
+    throw err;
+  }
+
+  if (!response.ok) {
+    return fallbackToClaude(tool, form, new Error('translation_service_error_' + response.status));
+  }
+
+  const result = await response.json();
+  if (result && result.credits && window.AdM_CREDITS && window.AdM_CREDITS.applyServerCredits) {
+    window.AdM_CREDITS.applyServerCredits(result.credits);
+  }
+  return formatTranslationResult(result, tool, form);
+}
+
+async function fallbackToClaude(tool, form, originalError) {
+  console.error('Hybrid translation failed, falling back to Claude:', originalError);
+  if (!(window.claude && typeof window.claude.complete === 'function')) {
+    throw originalError;
+  }
+  const prompt = tool.prompt(form);
+  const raw = await window.claude.complete({ messages: [{ role: 'user', content: prompt }] });
+  const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
+  try { return JSON.parse(cleaned); }
+  catch (e) {
+    const s = cleaned.indexOf('{');
+    const t = cleaned.lastIndexOf('}');
+    if (s >= 0 && t > s) return JSON.parse(cleaned.slice(s, t + 1));
+    throw e;
+  }
+}
+
+// Extract the main text from form based on tool type
+function extractTextFromForm(form, toolId) {
+  switch (toolId) {
+    case 'career':
+      return form.cvBullets || form.experience || '';
+    case 'cultural':
+      return form.situation || form.context || '';
+    case 'say_it_better':
+      return form.originalText || form.message || '';
+    case 'identity_reframe':
+      return form.challenge || form.situation || '';
+    case 'ats_check':
+      return form.cvText || form.resume || '';
+    case 'salary_reality':
+      return form.role || form.position || '';
+    case 'hiring_reality':
+      return form.situation || form.context || '';
+    case 'interview_sim':
+      return form.role || form.position || '';
+    case 'rejection_decoder':
+      return form.rejectionMessage || form.message || '';
+    default:
+      // Try to find the first text field
+      const textFields = Object.values(form).filter(value => 
+        typeof value === 'string' && value.length > 0
+      );
+      return textFields[0] || '';
+  }
+}
+
+// Format translation result to match expected tool structure
+function formatTranslationResult(translationResult, tool, originalForm) {
+  const { translation, service, estimatedCost } = translationResult;
+  
+  // Create result structure based on tool type
+  switch (tool.id) {
+    case 'career':
+      return {
+        cvBullets: translation.split('\n').filter(line => line.trim()).map(line => line.replace(/^[-•*]\s*/, '').trim()),
+        service,
+        estimatedCost,
+        originalText: extractTextFromForm(originalForm, tool.id)
+      };
+    
+    case 'cultural':
+      return {
+        adaptation: translation,
+        service,
+        estimatedCost,
+        originalText: extractTextFromForm(originalForm, tool.id)
+      };
+    
+    case 'say_it_better':
+      return {
+        improvedText: translation,
+        service,
+        estimatedCost,
+        originalText: extractTextFromForm(originalForm, tool.id)
+      };
+    
+    case 'identity_reframe':
+      return {
+        reframedIdentity: translation,
+        service,
+        estimatedCost,
+        originalText: extractTextFromForm(originalForm, tool.id)
+      };
+    
+    default:
+      return {
+        result: translation,
+        service,
+        estimatedCost,
+        originalText: extractTextFromForm(originalForm, tool.id)
+      };
+  }
+}
+
+window.GenericToolForm = GenericToolForm;
+window.runTool = runTool;

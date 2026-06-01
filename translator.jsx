@@ -1,1 +1,256 @@
-{"data":"Ly8gVHJhZHV0b3IgdmlldyDigJQgd3JhcHMgZm9ybSwgY2FsbHMgQUksIHNob3dzIHJlc3VsdAoKZnVuY3Rpb24gVHJhbnNsYXRvclZpZXcoeyBkaXJlY3Rpb24sIG9uQmFjaywgb25Hb0hpc3RvcnksIGluaXRpYWxSZXN1bHQsIGluaXRpYWxGb3JtLCBpbml0aWFsVG9uZSwgaW5pdGlhbE1vZGUgfSkgewogIGNvbnN0IFttb2RlLCBzZXRNb2RlXSA9IFJlYWN0LnVzZVN0YXRlKGluaXRpYWxNb2RlIHx8ICdjYXJlZXInKTsgLy8gJ2NhcmVlcicgfCAnY3VsdHVyYWwnIHwgdG9vbCBpZAogIGNvbnN0IFt2aWV3LCBzZXRWaWV3XSA9IFJlYWN0LnVzZVN0YXRlKGluaXRpYWxSZXN1bHQgPyAncmVzdWx0JyA6ICdmb3JtJyk7CiAgY29uc3QgW2Zvcm0sIHNldEZvcm1dID0gUmVhY3QudXNlU3RhdGUoaW5pdGlhbEZvcm0gfHwgbnVsbCk7CiAgY29uc3QgW3Jlc3VsdCwgc2V0UmVzdWx0XSA9IFJlYWN0LnVzZVN0YXRlKGluaXRpYWxSZXN1bHQgfHwgbnVsbCk7CiAgY29uc3QgW3RvbmUsIHNldFRvbmVdID0gUmVhY3QudXNlU3RhdGUoaW5pdGlhbFRvbmUgfHwgJ2NvbmZpZGVudCcpOwogIGNvbnN0IFtsb2FkaW5nLCBzZXRMb2FkaW5nXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbcmVnZW4sIHNldFJlZ2VuXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbZXJyb3IsIHNldEVycm9yXSA9IFJlYWN0LnVzZVN0YXRlKCcnKTsKICBjb25zdCBbc2hvd1RvYXN0LCB0b2FzdE5vZGVdID0gdXNlVG9hc3QoKTsKCiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwoKICAvLyBJcyBjdXJyZW50IG1vZGUgYSBnZW5lcmljIEFkTV9UT09MUyB0b29sPwogIGNvbnN0IHRvb2wgPSB3aW5kb3cuQWRNX1RPT0xTICYmIHdpbmRvdy5BZE1fVE9PTFNbbW9kZV07CgogIGNvbnN0IHRyYW5zbGF0ZSA9IGFzeW5jIChmb3JtRGF0YSwgb3B0cyA9IHt9KSA9PiB7CiAgICBzZXRFcnJvcignJyk7CiAgICBpZiAoIW9wdHMucmVnZW4pIHsKICAgICAgY29uc3Qgc3BlbnQgPSB3aW5kb3cuQWRNX0NSRURJVFMuc3BlbmRSdW4obW9kZSk7CiAgICAgIGlmICghc3BlbnQpIHsKICAgICAgICBpZiAod2luZG93LkFkTV9vcGVuUGF5d2FsbCkgd2luZG93LkFkTV9vcGVuUGF5d2FsbCgnb3V0Jyk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICB9CiAgICBpZiAob3B0cy5yZWdlbikgc2V0UmVnZW4odHJ1ZSk7IGVsc2Ugc2V0TG9hZGluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGxldCByOwogICAgICBpZiAobW9kZSA9PT0gJ2NhcmVlcicpIHsKICAgICAgICByID0gYXdhaXQgd2luZG93LkFkTV9QUk9NUFQudHJhbnNsYXRlKGZvcm1EYXRhLCB0b25lKTsKICAgICAgfSBlbHNlIGlmIChtb2RlID09PSAnY3VsdHVyYWwnKSB7CiAgICAgICAgciA9IGF3YWl0IHdpbmRvdy5BZE1fQ1VMVFVSQUwudHJhbnNsYXRlKGZvcm1EYXRhKTsKICAgICAgfSBlbHNlIGlmICh0b29sKSB7CiAgICAgICAgciA9IGF3YWl0IHdpbmRvdy5ydW5Ub29sKHRvb2wsIGZvcm1EYXRhKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ1Vua25vd24gbW9kZTogJyArIG1vZGUpOwogICAgICB9CiAgICAgIHNldFJlc3VsdChyKTsKICAgICAgc2V0Rm9ybShmb3JtRGF0YSk7CiAgICAgIHNldFZpZXcoJ3Jlc3VsdCcpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBjb25zb2xlLmVycm9yKGUpOwogICAgICBzZXRFcnJvcignQWxnbyBmYWxob3UuIFRlbnRlIGRlIG5vdm8gZW0gYWxndW5zIHNlZ3VuZG9zLicpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0TG9hZGluZyhmYWxzZSk7IHNldFJlZ2VuKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBzd2l0Y2hNb2RlID0gKG0pID0+IHsKICAgIGlmIChtID09PSBtb2RlKSByZXR1cm47CiAgICBzZXRNb2RlKG0pOwogICAgc2V0VmlldygnZm9ybScpOwogICAgc2V0UmVzdWx0KG51bGwpOwogICAgc2V0Rm9ybShudWxsKTsKICB9OwoKICBjb25zdCBzYXZlID0gKCkgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3QgcmF3ID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FkbS1oaXN0b3J5Jyk7CiAgICAgIGNvbnN0IGFyciA9IHJhdyA/IEpTT04ucGFyc2UocmF3KSA6IFtdOwogICAgICBjb25zdCBpdGVtID0geyBpZDogRGF0ZS5ub3coKS50b1N0cmluZygzNiksIHNhdmVkQXQ6IERhdGUubm93KCksIGZvcm0sIHJlc3VsdCwgdG9uZSB9OwogICAgICBhcnIudW5zaGlmdChpdGVtKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2FkbS1oaXN0b3J5JywgSlNPTi5zdHJpbmdpZnkoYXJyLnNsaWNlKDAsIDUwKSkpOwogICAgICBzaG93VG9hc3QoJ1NhbHZvIG5vIHNldSBuYXZlZ2Fkb3InKTsKICAgIH0gY2F0Y2ggewogICAgICBzaG93VG9hc3QoJ07Do28gZm9pIHBvc3PDrXZlbCBzYWx2YXInKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9IndyYXAiIHN0eWxlPXt7IHBhZGRpbmdCb3R0b206IDgwIH19PgogICAgICA8bmF2IGNsYXNzTmFtZT0ibmF2Ij4KICAgICAgICA8QnJhbmQgZGlyZWN0aW9uPXtkaXJlY3Rpb259IC8+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogMTYsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBmb250U2l6ZTogMTQgfX0+CiAgICAgICAgICB7d2luZG93LkNyZWRpdHNQaWxsICYmIDxDcmVkaXRzUGlsbCBkaXJlY3Rpb249e2RpcmVjdGlvbn0gb25DbGljaz17KCkgPT4gd2luZG93LkFkTV9vcGVuUGF5d2FsbCAmJiB3aW5kb3cuQWRNX29wZW5QYXl3YWxsKCdhZGQnKX0gLz59CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e29uR29IaXN0b3J5fSBzdHlsZT17eyBjb2xvcjogJ2luaGVyaXQnLCBvcGFjaXR5OiAwLjc1IH19PuKYhiBTYWx2YXM8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17b25CYWNrfSBzdHlsZT17eyBjb2xvcjogJ2luaGVyaXQnLCBvcGFjaXR5OiAwLjc1IH19PuKGkCBWb2x0YXIgYW8gaW7DrWNpbzwvYnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L25hdj4KCiAgICAgIHsvKiBUb29sIHBpY2tlciAqL30KICAgICAgPFRvb2xQaWNrZXIgZGlyZWN0aW9uPXtkaXJlY3Rpb259IG1vZGU9e21vZGV9IG9uQ2hhbmdlPXtzd2l0Y2hNb2RlfSAvPgoKICAgICAge3ZpZXcgPT09ICdmb3JtJyAmJiBtb2RlID09PSAnY2FyZWVyJyAmJiAoCiAgICAgICAgPGRpdiBzdHlsZT17eyBwYWRkaW5nVG9wOiAyOCwgbWF4V2lkdGg6IDc2MCwgbWFyZ2luOiAnMCBhdXRvJyB9fT4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGlsbCI+PHNwYW4gY2xhc3NOYW1lPSJwaWxsLWRvdCIgLz5UcmFkdXRvciBkZSBDYXJyZWlyYTwvc3Bhbj4KICAgICAgICAgIDxoMSBzdHlsZT17ewogICAgICAgICAgICBmb250RmFtaWx5OiAndmFyKC0tc2VyaWYpJywgZm9udFNpemU6ICdjbGFtcCgzNnB4LCA1LjV2dywgNjRweCknLAogICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsIGxldHRlclNwYWNpbmc6ICctMC4wMjVlbScsIG1hcmdpbjogJzIwcHggMCAxMnB4JywgbGluZUhlaWdodDogMS4wMiwKICAgICAgICAgIH19PgogICAgICAgICAgICBDb250YSBjb21vIGZvaSBzZXUgdHJhYmFsaG8uPGJyIC8+CiAgICAgICAgICAgIDxlbSBzdHlsZT17eyBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRlYWwpJyA6ICd2YXIoLS1iLWdvbGQpJyB9fT5FbSBwb3J0dWd1w6pzLCBkbyBqZWl0byBxdWUgdm9jw6ogZmFsYS48L2VtPgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgbGluZUhlaWdodDogMS41LCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScsIG1hcmdpbjogJzAgMCAzNnB4JywgbWF4V2lkdGg6IDYwMCB9fT4KICAgICAgICAgICAgU3VhIGV4cGVyacOqbmNpYSByZWVzY3JpdGEgZW0gdMOzcGljb3MgZGUgY3VycsOtY3VsbywgaGVhZGxpbmUgZGUgTGlua2VkSW4sIHZvY2FidWzDoXJpbyB0cmFkdXppZG8gZSBwb250b3MgZGUgZmFsYSBwcmEgZW50cmV2aXN0YS4gU2VtIG3DqXRyaWNhIGludmVudGFkYS4KICAgICAgICAgIDwvcD4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCIgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyMCB9fT4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+VG9tIGRhIGVzY3JpdGE8L3NwYW4+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDgsIGZsZXhXcmFwOiAnd3JhcCcsIG1hcmdpblRvcDogOCB9fT4KICAgICAgICAgICAgICB7WwogICAgICAgICAgICAgICAgWydjb25maWRlbnQnLCAnQ29uZmlhbnRlICYgYW1iaWNpb3NvJ10sCiAgICAgICAgICAgICAgICBbJ2JhbGFuY2VkJywgJ0VxdWlsaWJyYWRvICYgcHJvZmlzc2lvbmFsJ10sCiAgICAgICAgICAgICAgICBbJ2h1bWJsZScsICdEaXJldG8gJiBodW1pbGRlJ10sCiAgICAgICAgICAgICAgXS5tYXAoKFtrLCBsYWJlbF0pID0+ICgKICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAga2V5PXtrfSB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldFRvbmUoayl9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzhweCAxNHB4JywgYm9yZGVyUmFkaXVzOiA5OTksIGZvbnRTaXplOiAxMywgZm9udFdlaWdodDogNTAwLAogICAgICAgICAgICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke3RvbmUgPT09IGsgPyAoZGlyQSA/ICd2YXIoLS1hLWdyZWVuKScgOiAndmFyKC0tYi1nb2xkKScpIDogKGRpckEgPyAndmFyKC0tYS1ydWxlKScgOiAndmFyKC0tYi1ydWxlKScpfWAsCiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogdG9uZSA9PT0gayA/IChkaXJBID8gJ3ZhcigtLWEtZ3JlZW4pJyA6ICd2YXIoLS1iLWdvbGQpJykgOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgICAgICAgICAgIGNvbG9yOiB0b25lID09PSBrID8gJyNmZmYnIDogJ2luaGVyaXQnLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7bGFiZWx9CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgIDxUcmFuc2xhdG9yRm9ybQogICAgICAgICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgICAgICAgIGlzTG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICBvblN1Ym1pdD17KGYpID0+IHRyYW5zbGF0ZShmKX0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHtlcnJvciAmJiAoCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiAxNiwgcGFkZGluZzogMTQsIGJhY2tncm91bmQ6ICdyZ2JhKDIyMCwzOCwzOCwwLjA4KScsIGJvcmRlcjogJzFweCBzb2xpZCByZ2JhKDIyMCwzOCwzOCwwLjIpJywgYm9yZGVyUmFkaXVzOiA4LCBjb2xvcjogJyNkYzI2MjYnLCBmb250U2l6ZTogMTQgfX0+CiAgICAgICAgICAgICAge2Vycm9yfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICAgICl9CgogICAgICB7dmlldyA9PT0gJ2Zvcm0nICYmIG1vZGUgPT09ICdjdWx0dXJhbCcgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3sgcGFkZGluZ1RvcDogMjgsIG1heFdpZHRoOiA3NjAsIG1hcmdpbjogJzAgYXV0bycgfX0+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBpbGwiPjxzcGFuIGNsYXNzTmFtZT0icGlsbC1kb3QiIC8+VHJhZHV0b3IgQ3VsdHVyYWw8L3NwYW4+CiAgICAgICAgICA8aDEgc3R5bGU9e3sKICAgICAgICAgICAgZm9udEZhbWlseTogJ3ZhcigtLXNlcmlmKScsIGZvbnRTaXplOiAnY2xhbXAoMzZweCwgNS41dncsIDY0cHgpJywKICAgICAgICAgICAgZm9udFdlaWdodDogNDAwLCBsZXR0ZXJTcGFjaW5nOiAnLTAuMDI1ZW0nLCBtYXJnaW46ICcyMHB4IDAgMTJweCcsIGxpbmVIZWlnaHQ6IDEuMDIsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgQ29tcG9ydGFtZW50bywgbsOjbyBsw61uZ3VhLjxiciAvPgogICAgICAgICAgICA8ZW0gc3R5bGU9e3sgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZWFsKScgOiAndmFyKC0tYi1nb2xkKScgfX0+TyBxdWUgbmluZ3XDqW0gdGUgY29udGEuPC9lbT4KICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8cCBzdHlsZT17eyBmb250U2l6ZTogMTgsIGxpbmVIZWlnaHQ6IDEuNSwgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknLCBtYXJnaW46ICcwIDAgMzZweCcsIG1heFdpZHRoOiA2MDAgfX0+CiAgICAgICAgICAgIERpZmVyZW7Dp2FzIGN1bHR1cmFpcyByZWFpcyBubyB0cmFiYWxobywgc2NyaXB0cyBwcmEgcmV1bmnDtWVzLCBlcnJvcyBjb211bnMgbm8gcHJpbWVpcm8gYW5vLCBlIG8gcXVlIHZhaSBwYXJlY2VyIGVzdHJhbmhvIG1hcyDDqSBub3JtYWwuCiAgICAgICAgICA8L3A+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICA8Q3VsdHVyYWxGb3JtCiAgICAgICAgICAgICAgZGlyZWN0aW9uPXtkaXJlY3Rpb259CiAgICAgICAgICAgICAgaXNMb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgIG9uU3VibWl0PXsoZikgPT4gdHJhbnNsYXRlKGYpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAge2Vycm9yICYmICgKICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDE2LCBwYWRkaW5nOiAxNCwgYmFja2dyb3VuZDogJ3JnYmEoMjIwLDM4LDM4LDAuMDgpJywgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjIwLDM4LDM4LDAuMiknLCBib3JkZXJSYWRpdXM6IDgsIGNvbG9yOiAnI2RjMjYyNicsIGZvbnRTaXplOiAxNCB9fT4KICAgICAgICAgICAgICB7ZXJyb3J9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIHt2aWV3ID09PSAncmVzdWx0JyAmJiByZXN1bHQgJiYgbW9kZSA9PT0gJ2NhcmVlcicgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3sgcGFkZGluZ1RvcDogMzIsIG1heFdpZHRoOiA4ODAsIG1hcmdpbjogJzAgYXV0bycgfX0+CiAgICAgICAgICA8UmVzdWx0VmlldwogICAgICAgICAgICBkaXJlY3Rpb249e2RpcmVjdGlvbn0KICAgICAgICAgICAgcmVzdWx0PXtyZXN1bHR9CiAgICAgICAgICAgIGZvcm09e2Zvcm19CiAgICAgICAgICAgIHRvbmU9e3RvbmV9CiAgICAgICAgICAgIG9uUmVzdWx0Q2hhbmdlPXtzZXRSZXN1bHR9CiAgICAgICAgICAgIG9uUmVnZW49eygpID0+IHRyYW5zbGF0ZShmb3JtLCB7IHJlZ2VuOiB0cnVlIH0pfQogICAgICAgICAgICBvbkJhY2s9eygpID0+IHNldFZpZXcoJ2Zvcm0nKX0KICAgICAgICAgICAgb25TYXZlPXtzYXZlfQogICAgICAgICAgICBpc1JlZ2VuPXtyZWdlbn0KICAgICAgICAgICAgc2hvd1RvYXN0PXtzaG93VG9hc3R9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAge3ZpZXcgPT09ICdyZXN1bHQnICYmIHJlc3VsdCAmJiBtb2RlID09PSAnY3VsdHVyYWwnICYmICgKICAgICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmdUb3A6IDMyLCBtYXhXaWR0aDogODgwLCBtYXJnaW46ICcwIGF1dG8nIH19PgogICAgICAgICAgPEN1bHR1cmFsUmVzdWx0CiAgICAgICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgICAgICByZXN1bHQ9e3Jlc3VsdH0KICAgICAgICAgICAgZm9ybT17Zm9ybX0KICAgICAgICAgICAgb25CYWNrPXsoKSA9PiBzZXRWaWV3KCdmb3JtJyl9CiAgICAgICAgICAgIG9uUmVnZW49eygpID0+IHRyYW5zbGF0ZShmb3JtLCB7IHJlZ2VuOiB0cnVlIH0pfQogICAgICAgICAgICBpc1JlZ2VuPXtyZWdlbn0KICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CgogICAgICB7dmlldyA9PT0gJ2Zvcm0nICYmIHRvb2wgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3sgcGFkZGluZ1RvcDogMjgsIG1heFdpZHRoOiA3NjAsIG1hcmdpbjogJzAgYXV0bycgfX0+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBpbGwiPjxzcGFuIGNsYXNzTmFtZT0icGlsbC1kb3QiIC8+e3Rvb2wubGFiZWx9PC9zcGFuPgogICAgICAgICAgPGgxIHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLCBmb250U2l6ZTogJ2NsYW1wKDMycHgsIDQuOHZ3LCA1NHB4KScsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDQwMCwgbGV0dGVyU3BhY2luZzogJy0wLjAyNWVtJywgbWFyZ2luOiAnMjBweCAwIDEycHgnLCBsaW5lSGVpZ2h0OiAxLjA0LAogICAgICAgICAgfX0+CiAgICAgICAgICAgIHt0b29sLnRpdGxlfQogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgbGluZUhlaWdodDogMS41LCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScsIG1hcmdpbjogJzAgMCAzNnB4JywgbWF4V2lkdGg6IDYwMCB9fT4KICAgICAgICAgICAge3Rvb2wuaW50cm99CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgIDxHZW5lcmljVG9vbEZvcm0KICAgICAgICAgICAgICBkaXJlY3Rpb249e2RpcmVjdGlvbn0KICAgICAgICAgICAgICB0b29sPXt0b29sfQogICAgICAgICAgICAgIGlzTG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICBvblN1Ym1pdD17KGYpID0+IHRyYW5zbGF0ZShmKX0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAge2Vycm9yICYmICgKICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDE2LCBwYWRkaW5nOiAxNCwgYmFja2dyb3VuZDogJ3JnYmEoMjIwLDM4LDM4LDAuMDgpJywgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjIwLDM4LDM4LDAuMiknLCBib3JkZXJSYWRpdXM6IDgsIGNvbG9yOiAnI2RjMjYyNicsIGZvbnRTaXplOiAxNCB9fT4KICAgICAgICAgICAgICB7ZXJyb3J9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIHt2aWV3ID09PSAncmVzdWx0JyAmJiByZXN1bHQgJiYgdG9vbCAmJiAoCiAgICAgICAgPGRpdiBzdHlsZT17eyBwYWRkaW5nVG9wOiAzMiwgbWF4V2lkdGg6IDg4MCwgbWFyZ2luOiAnMCBhdXRvJyB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLCBhbGlnbkl0ZW1zOiAnYmFzZWxpbmUnLCBtYXJnaW5Cb3R0b206IDI0LCBnYXA6IDE2LCBmbGV4V3JhcDogJ3dyYXAnIH19PgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGlsbCI+PHNwYW4gY2xhc3NOYW1lPSJwaWxsLWRvdCIgLz57dG9vbC5sYWJlbH08L3NwYW4+CiAgICAgICAgICAgICAgPGgyIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLCBmb250U2l6ZTogMzIsIGZvbnRXZWlnaHQ6IDUwMCwgbWFyZ2luOiAnMTBweCAwIDAnLCBsZXR0ZXJTcGFjaW5nOiAnLTAuMDJlbScgfX0+CiAgICAgICAgICAgICAgICB7dG9vbC5yZXN1bHRUaXRsZSB8fCB0b29sLnRpdGxlfQogICAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgZ2FwOiAxMCB9fT4KICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldFZpZXcoJ2Zvcm0nKX0gc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc4cHggMTRweCcsIGJvcmRlclJhZGl1czogOCwgZm9udFNpemU6IDEzLCBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAsIGNvbG9yOiAnaW5oZXJpdCcsCiAgICAgICAgICAgICAgfX0+4oaQIEVkaXRhcjwvYnV0dG9uPgogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gdHJhbnNsYXRlKGZvcm0sIHsgcmVnZW46IHRydWUgfSl9IGRpc2FibGVkPXtyZWdlbn0gc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc4cHggMTRweCcsIGJvcmRlclJhZGl1czogOCwgZm9udFNpemU6IDEzLCBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJ3ZhcigtLWEtZ3JlZW4pJyA6ICd2YXIoLS1iLWdvbGQpJywgY29sb3I6ICcjZmZmJywKICAgICAgICAgICAgICAgIG9wYWNpdHk6IHJlZ2VuID8gMC41IDogMSwKICAgICAgICAgICAgICB9fT57cmVnZW4gPyAnR2VyYW5kb+KApicgOiAn4oa7IFJlZmF6ZXInfTwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPFRvb2xSZXN1bHQgZGlyZWN0aW9uPXtkaXJlY3Rpb259IHJlbmRlcj17dG9vbC5yZW5kZXJ9IHJlc3VsdD17cmVzdWx0fSAvPgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAge3RvYXN0Tm9kZX0KICAgIDwvZGl2PgogICk7Cn0KCndpbmRvdy5UcmFuc2xhdG9yVmlldyA9IFRyYW5zbGF0b3JWaWV3Owo="}
+// Tradutor view — wraps form, calls AI, shows result
+
+function TranslatorView({ direction, onBack, initialResult, initialForm, initialTone, initialMode }) {
+  const [mode, setMode] = React.useState(initialMode || 'career'); // 'career' | 'cultural' | tool id
+  const [view, setView] = React.useState(initialResult ? 'result' : 'form');
+  const [form, setForm] = React.useState(initialForm || null);
+  const [result, setResult] = React.useState(initialResult || null);
+  const [tone, setTone] = React.useState(initialTone || 'confident');
+  const [loading, setLoading] = React.useState(false);
+  const [regen, setRegen] = React.useState(false);
+  const [error, setError] = React.useState('');
+  const [showToast, toastNode] = useToast();
+
+  const dirA = direction === 'a';
+
+  // Is current mode a generic AdM_TOOLS tool?
+  const tool = window.AdM_TOOLS && window.AdM_TOOLS[mode];
+
+  const translate = async (formData, opts = {}) => {
+    setError('');
+    if (window.AdM_TRACK) window.AdM_TRACK.track('tool_started', { tool: mode, regen: !!opts.regen });
+    if (!opts.regen) {
+      const spent = window.AdM_CREDITS.spendRun(mode);
+      if (!spent) {
+        if (window.AdM_TRACK) window.AdM_TRACK.track('no_credits', { tool: mode });
+        if (window.AdM_openPaywall) window.AdM_openPaywall('out');
+        return;
+      }
+    }
+    if (opts.regen) setRegen(true); else setLoading(true);
+    try {
+      let r;
+      if (mode === 'career') {
+        r = await window.AdM_PROMPT.translate(formData, tone);
+      } else if (mode === 'cultural') {
+        r = await window.AdM_CULTURAL.translate(formData);
+      } else if (tool) {
+        r = await window.runTool(tool, formData);
+      } else {
+        throw new Error('Unknown mode: ' + mode);
+      }
+      setResult(r);
+      setForm(formData);
+      setView('result');
+    } catch (e) {
+      console.error(e);
+      if (e && e.code === 'no_credits') {
+        if (window.AdM_openPaywall) window.AdM_openPaywall('out');
+      } else {
+        setError('Algo falhou. Tente de novo em alguns segundos.');
+      }
+    } finally {
+      setLoading(false); setRegen(false);
+    }
+  };
+
+  const switchMode = (m) => {
+    if (m === mode) return;
+    setMode(m);
+    setView('form');
+    setResult(null);
+    setForm(null);
+  };
+
+  const Header = window.SiteHeader;
+
+  return (
+    <>
+      {Header && (
+        <Header label="Ferramentas">
+          <Brand direction="b" size="lg" />
+          <div className="nav-links" style={{ marginLeft: 'auto' }}>
+            {window.CreditsPill && <CreditsPill direction="a" onClick={() => window.AdM_openPaywall && window.AdM_openPaywall('add')} />}
+            <button type="button" className="adm-nav-link" onClick={onBack}>← Voltar ao início</button>
+          </div>
+        </Header>
+      )}
+    <div className="wrap" style={{ paddingBottom: 80 }}>
+
+      {/* Tool picker */}
+      <ToolPicker direction={direction} mode={mode} onChange={switchMode} />
+
+      {view === 'form' && mode === 'career' && (
+        <div style={{ paddingTop: 28, maxWidth: 760, margin: '0 auto' }}>
+          <span className="pill"><span className="pill-dot" />Tradutor de Carreira</span>
+          <h1 style={{
+            fontFamily: 'var(--serif)', fontSize: 'clamp(36px, 5.5vw, 64px)',
+            fontWeight: 400, letterSpacing: '-0.025em', margin: '20px 0 12px', lineHeight: 1.02,
+          }}>
+            Conta como foi seu trabalho.<br />
+            <em style={{ color: dirA ? 'var(--a-teal)' : 'var(--b-gold)' }}>Em português, do jeito que você fala.</em>
+          </h1>
+          <p style={{ fontSize: 18, lineHeight: 1.5, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', margin: '0 0 36px', maxWidth: 600 }}>
+            Sua experiência reescrita em tópicos de currículo, headline de LinkedIn, vocabulário traduzido e pontos de fala pra entrevista. Sem métrica inventada.
+          </p>
+
+          <div className="card" style={{ marginBottom: 20 }}>
+            <span className="field-label">Tom da escrita</span>
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginTop: 8 }}>
+              {[
+                ['confident', 'Confiante & ambicioso'],
+                ['balanced', 'Equilibrado & profissional'],
+                ['humble', 'Direto & humilde'],
+              ].map(([k, label]) => (
+                <button
+                  key={k} type="button"
+                  onClick={() => setTone(k)}
+                  style={{
+                    padding: '8px 14px', borderRadius: 999, fontSize: 13, fontWeight: 500,
+                    border: `1px solid ${tone === k ? (dirA ? 'var(--b-bg)' : 'var(--b-gold)') : (dirA ? 'var(--a-rule)' : 'var(--b-rule)')}`,
+                    background: tone === k ? (dirA ? 'var(--b-bg)' : 'var(--b-gold)') : 'transparent',
+                    color: tone === k ? (dirA ? 'var(--b-text)' : '#fff') : 'inherit',
+                  }}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="card">
+            <TranslatorForm
+              direction={direction}
+              isLoading={loading}
+              onSubmit={(f) => translate(f)}
+            />
+          </div>
+
+          {error && (
+            <div style={{ marginTop: 16, padding: 14, background: 'rgba(220,38,38,0.08)', border: '1px solid rgba(220,38,38,0.2)', borderRadius: 8, color: '#dc2626', fontSize: 14 }}>
+              {error}
+            </div>
+          )}
+        </div>
+      )}
+
+      {view === 'form' && mode === 'cultural' && (
+        <div style={{ paddingTop: 28, maxWidth: 760, margin: '0 auto' }}>
+          <span className="pill"><span className="pill-dot" />Tradutor Cultural</span>
+          <h1 style={{
+            fontFamily: 'var(--serif)', fontSize: 'clamp(36px, 5.5vw, 64px)',
+            fontWeight: 400, letterSpacing: '-0.025em', margin: '20px 0 12px', lineHeight: 1.02,
+          }}>
+            Comportamento, não língua.<br />
+            <em style={{ color: dirA ? 'var(--a-teal)' : 'var(--b-gold)' }}>O que ninguém te conta.</em>
+          </h1>
+          <p style={{ fontSize: 18, lineHeight: 1.5, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', margin: '0 0 36px', maxWidth: 600 }}>
+            Diferenças culturais reais no trabalho, scripts pra reuniões, erros comuns no primeiro ano, e o que vai parecer estranho mas é normal.
+          </p>
+
+          <div className="card">
+            <CulturalForm
+              direction={direction}
+              isLoading={loading}
+              onSubmit={(f) => translate(f)}
+            />
+          </div>
+
+          {error && (
+            <div style={{ marginTop: 16, padding: 14, background: 'rgba(220,38,38,0.08)', border: '1px solid rgba(220,38,38,0.2)', borderRadius: 8, color: '#dc2626', fontSize: 14 }}>
+              {error}
+            </div>
+          )}
+        </div>
+      )}
+
+      {view === 'result' && result && mode === 'career' && (
+        <div style={{ paddingTop: 32, maxWidth: 880, margin: '0 auto' }}>
+          <ResultView
+            direction={direction}
+            result={result}
+            form={form}
+            tone={tone}
+            onResultChange={setResult}
+            onRegen={() => translate(form, { regen: true })}
+            onBack={() => setView('form')}
+            isRegen={regen}
+            showToast={showToast}
+          />
+        </div>
+      )}
+
+      {view === 'result' && result && mode === 'cultural' && (
+        <div style={{ paddingTop: 32, maxWidth: 880, margin: '0 auto' }}>
+          <CulturalResult
+            direction={direction}
+            result={result}
+            form={form}
+            onBack={() => setView('form')}
+            onRegen={() => translate(form, { regen: true })}
+            isRegen={regen}
+          />
+        </div>
+      )}
+
+      {view === 'form' && tool && (
+        <div style={{ paddingTop: 28, maxWidth: 760, margin: '0 auto' }}>
+          <span className="pill"><span className="pill-dot" />{tool.label}</span>
+          <h1 style={{
+            fontFamily: 'var(--serif)', fontSize: 'clamp(32px, 4.8vw, 54px)',
+            fontWeight: 400, letterSpacing: '-0.025em', margin: '20px 0 12px', lineHeight: 1.04,
+          }}>
+            {tool.title}
+          </h1>
+          <p style={{ fontSize: 18, lineHeight: 1.5, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', margin: '0 0 36px', maxWidth: 600 }}>
+            {tool.intro}
+          </p>
+          <div className="card">
+            <GenericToolForm
+              direction={direction}
+              tool={tool}
+              isLoading={loading}
+              onSubmit={(f) => translate(f)}
+            />
+          </div>
+          {error && (
+            <div style={{ marginTop: 16, padding: 14, background: 'rgba(220,38,38,0.08)', border: '1px solid rgba(220,38,38,0.2)', borderRadius: 8, color: '#dc2626', fontSize: 14 }}>
+              {error}
+            </div>
+          )}
+        </div>
+      )}
+
+      {view === 'result' && result && tool && (
+        <div style={{ paddingTop: 32, maxWidth: 880, margin: '0 auto' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 24, gap: 16, flexWrap: 'wrap' }}>
+            <div>
+              <span className="pill"><span className="pill-dot" />{tool.label}</span>
+              <h2 style={{ fontFamily: 'var(--serif)', fontSize: 32, fontWeight: 500, margin: '10px 0 0', letterSpacing: '-0.02em' }}>
+                {tool.resultTitle || tool.title}
+              </h2>
+            </div>
+            <div style={{ display: 'flex', gap: 10 }}>
+              <button onClick={() => setView('form')} style={{
+                padding: '8px 14px', borderRadius: 8, fontSize: 13, fontWeight: 500,
+                border: `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`, color: 'inherit',
+              }}>← Editar</button>
+              <button onClick={() => translate(form, { regen: true })} disabled={regen} style={{
+                padding: '8px 14px', borderRadius: 8, fontSize: 13, fontWeight: 600,
+                background: dirA ? 'var(--b-bg)' : 'var(--b-gold)',
+                color: dirA ? 'var(--b-text)' : '#fff',
+                opacity: regen ? 0.5 : 1,
+              }}>{regen ? 'Gerando…' : '↻ Refazer'}</button>
+            </div>
+          </div>
+          <ToolResult direction={direction} render={tool.render} result={result} />
+        </div>
+      )}
+
+      {toastNode}
+    </div>
+    </>
+  );
+}
+
+window.TranslatorView = TranslatorView;

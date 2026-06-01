@@ -1,1 +1,292 @@
-{"data":"Ly8gQWzDqW0gZG8gTWFyIOKAlCBjcmVkaXRzICYgcGF5d2FsbCBlbmdpbmUuCi8vIEFsbCBjbGllbnQtc2lkZS4gTm8gYWNjb3VudHMsIG5vIFBJSS4gVHJhY2tzIGEgZGV2aWNlIFVVSUQgKyBjcmVkaXQgYmFsYW5jZSBpbiBsb2NhbFN0b3JhZ2UuCi8vIFN0cmlwZSBQYXltZW50IExpbmsgcmVkaXJlY3QgaGFuZGxlciByZWFkcyA/Y3JlZGl0cz1OJnRva2VuPS4uLiBvbiBsb2FkLgoKKGZ1bmN0aW9uICgpIHsKICBjb25zdCBMU19ERVZJQ0UgPSAnYWRtX2RldmljZV9pZCc7CiAgY29uc3QgTFNfQkFMQU5DRSA9ICdhZG1fY3JlZGl0cyc7CiAgY29uc3QgTFNfVVNFRF9GUkVFID0gJ2FkbV91c2VkX2ZyZWUnOwogIGNvbnN0IExTX0xFREdFUiA9ICdhZG1fbGVkZ2VyJzsKICBjb25zdCBMU19SRURFRU1FRF9UT0tFTlMgPSAnYWRtX3JlZGVlbWVkX3Rva2Vucyc7CiAgY29uc3QgTFNfQ1VSUkVOQ1kgPSAnYWRtX2N1cnJlbmN5JzsKCiAgLy8gLS0tIGRldmljZSBpZCAtLS0KICBmdW5jdGlvbiBnZXREZXZpY2VJZCgpIHsKICAgIGxldCBpZCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKExTX0RFVklDRSk7CiAgICBpZiAoIWlkKSB7CiAgICAgIGlkID0gJ2Rldl8nICsgTWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc2xpY2UoMikgKyBEYXRlLm5vdygpLnRvU3RyaW5nKDM2KTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oTFNfREVWSUNFLCBpZCk7CiAgICB9CiAgICByZXR1cm4gaWQ7CiAgfQoKICAvLyAtLS0gYmFsYW5jZSAvIGZyZWUgcnVuIC0tLQogIGZ1bmN0aW9uIGdldEJhbGFuY2UoKSB7CiAgICBjb25zdCB2ID0gcGFyc2VJbnQobG9jYWxTdG9yYWdlLmdldEl0ZW0oTFNfQkFMQU5DRSkgfHwgJzAnLCAxMCk7CiAgICByZXR1cm4gaXNOYU4odikgPyAwIDogdjsKICB9CiAgZnVuY3Rpb24gc2V0QmFsYW5jZShuKSB7CiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShMU19CQUxBTkNFLCBTdHJpbmcoTWF0aC5tYXgoMCwgbikpKTsKICAgIG5vdGlmeSgpOwogIH0KICBmdW5jdGlvbiBoYXNGcmVlUnVuKCkgewogICAgcmV0dXJuIGxvY2FsU3RvcmFnZS5nZXRJdGVtKExTX1VTRURfRlJFRSkgIT09ICcxJzsKICB9CiAgZnVuY3Rpb24gY29uc3VtZUZyZWVSdW4oKSB7CiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShMU19VU0VEX0ZSRUUsICcxJyk7CiAgICBhcHBlbmRMZWRnZXIoeyB0eXBlOiAnZnJlZV9ydW4nLCBhdDogRGF0ZS5ub3coKSB9KTsKICAgIG5vdGlmeSgpOwogIH0KCiAgLy8gdG90YWwgcnVucyBhdmFpbGFibGUgPSAoMSBpZiBmcmVlIG5vdCB1c2VkKSArIGJhbGFuY2UKICBmdW5jdGlvbiBydW5zQXZhaWxhYmxlKCkgewogICAgcmV0dXJuIChoYXNGcmVlUnVuKCkgPyAxIDogMCkgKyBnZXRCYWxhbmNlKCk7CiAgfQoKICAvLyB0cnkgdG8gc3BlbmQgb25lIHJ1bi4gcmV0dXJucyAnZnJlZScgfCAncGFpZCcgfCBudWxsIChubyBydW5zIGF2YWlsYWJsZSkuCiAgZnVuY3Rpb24gc3BlbmRSdW4odG9vbElkKSB7CiAgICBpZiAoaGFzRnJlZVJ1bigpKSB7CiAgICAgIGNvbnN1bWVGcmVlUnVuKCk7CiAgICAgIGFwcGVuZExlZGdlcih7IHR5cGU6ICdzcGVuZCcsIHNvdXJjZTogJ2ZyZWUnLCB0b29sOiB0b29sSWQsIGF0OiBEYXRlLm5vdygpIH0pOwogICAgICByZXR1cm4gJ2ZyZWUnOwogICAgfQogICAgY29uc3QgYiA9IGdldEJhbGFuY2UoKTsKICAgIGlmIChiID4gMCkgewogICAgICBzZXRCYWxhbmNlKGIgLSAxKTsKICAgICAgYXBwZW5kTGVkZ2VyKHsgdHlwZTogJ3NwZW5kJywgc291cmNlOiAncGFpZCcsIHRvb2w6IHRvb2xJZCwgYXQ6IERhdGUubm93KCkgfSk7CiAgICAgIHJldHVybiAncGFpZCc7CiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9CgogIGZ1bmN0aW9uIGFkZENyZWRpdHMobiwgc291cmNlKSB7CiAgICBzZXRCYWxhbmNlKGdldEJhbGFuY2UoKSArIG4pOwogICAgYXBwZW5kTGVkZ2VyKHsgdHlwZTogJ2NyZWRpdCcsIGFtb3VudDogbiwgc291cmNlOiBzb3VyY2UgfHwgJ3B1cmNoYXNlJywgYXQ6IERhdGUubm93KCkgfSk7CiAgfQoKICAvLyAtLS0gbGVkZ2VyIC0tLQogIGZ1bmN0aW9uIGFwcGVuZExlZGdlcihlbnRyeSkgewogICAgdHJ5IHsKICAgICAgY29uc3QgYXJyID0gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbShMU19MRURHRVIpIHx8ICdbXScpOwogICAgICBhcnIudW5zaGlmdChlbnRyeSk7CiAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKExTX0xFREdFUiwgSlNPTi5zdHJpbmdpZnkoYXJyLnNsaWNlKDAsIDIwMCkpKTsKICAgIH0gY2F0Y2ggKGUpIHsgLyogbm9vcCAqLyB9CiAgfQogIGZ1bmN0aW9uIGdldExlZGdlcigpIHsKICAgIHRyeSB7IHJldHVybiBKU09OLnBhcnNlKGxvY2FsU3RvcmFnZS5nZXRJdGVtKExTX0xFREdFUikgfHwgJ1tdJyk7IH0KICAgIGNhdGNoIChlKSB7IHJldHVybiBbXTsgfQogIH0KCiAgLy8gLS0tIGN1cnJlbmN5IHByZWZlcmVuY2UgLS0tCiAgZnVuY3Rpb24gZ2V0Q3VycmVuY3koKSB7CiAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oTFNfQ1VSUkVOQ1kpIHx8IGd1ZXNzQ3VycmVuY3koKTsKICB9CiAgZnVuY3Rpb24gc2V0Q3VycmVuY3koYykgewogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oTFNfQ1VSUkVOQ1ksIGMpOwogICAgbm90aWZ5KCk7CiAgfQogIGZ1bmN0aW9uIGd1ZXNzQ3VycmVuY3koKSB7CiAgICB0cnkgewogICAgICBjb25zdCB0eiA9IEludGwuRGF0ZVRpbWVGb3JtYXQoKS5yZXNvbHZlZE9wdGlvbnMoKS50aW1lWm9uZSB8fCAnJzsKICAgICAgaWYgKHR6LmluY2x1ZGVzKCdTYW9fUGF1bG8nKSB8fCB0ei5pbmNsdWRlcygnUmVjaWZlJykgfHwgdHouaW5jbHVkZXMoJ01hbmF1cycpIHx8IHR6LmluY2x1ZGVzKCdGb3J0YWxlemEnKSB8fCB0ei5pbmNsdWRlcygnQnJhemlsJykpIHJldHVybiAnQlJMJzsKICAgIH0gY2F0Y2ggKGUpIHsgLyogbm9vcCAqLyB9CiAgICByZXR1cm4gJ0VVUic7CiAgfQoKICAvLyAtLS0gY3JlZGl0IHBhY2tzIC0tLQogIC8vIFdpcmUgcmVhbCBTdHJpcGUgUGF5bWVudCBMaW5rcyBoZXJlIHdoZW4gcmVhZHkuIEZvciBub3cgdGhleSdyZSBwbGFjZWhvbGRlcnMgdGhhdAogIC8vIHJvdW5kLXRyaXAgdGhyb3VnaCB0aGUgcmVkaXJlY3QgaGFuZGxlciB3aXRoID9jcmVkaXRzPU4mdG9rZW49Li4uIG9uIHN1Y2Nlc3MuCiAgY29uc3QgUEFDS1MgPSBbCiAgICB7CiAgICAgIGlkOiAncGFja18xJywKICAgICAgY3JlZGl0czogMSwKICAgICAgbGFiZWw6ICdDcsOpZGl0byDDum5pY28nLAogICAgICBzdWI6ICdQcmEgdGVzdGFyIG1haXMgdW1hIHZlei4nLAogICAgICBFVVI6IHsgcHJpY2U6IDIsIGRpc3BsYXk6ICfigqwyJyB9LAogICAgICBCUkw6IHsgcHJpY2U6IDEyLCBkaXNwbGF5OiAnUiQgMTInIH0sCiAgICAgIC8vIHN0cmlwZVVybDogJ2h0dHBzOi8vYnV5LnN0cmlwZS5jb20vLi4uJwogICAgfSwKICAgIHsKICAgICAgaWQ6ICdwYWNrXzUnLAogICAgICBjcmVkaXRzOiA1LAogICAgICBsYWJlbDogJzUgY3LDqWRpdG9zJywKICAgICAgc3ViOiAnU2FsdmEgMjAlLicsCiAgICAgIEVVUjogeyBwcmljZTogOCwgZGlzcGxheTogJ+KCrDgnLCBwZXJDcmVkaXQ6ICfigqwxLjYwL2Nyw6lkaXRvJyB9LAogICAgICBCUkw6IHsgcHJpY2U6IDM5LCBkaXNwbGF5OiAnUiQgMzknLCBwZXJDcmVkaXQ6ICdSJCA3LDgwL2Nyw6lkaXRvJyB9LAogICAgICAvLyBzdHJpcGVVcmw6ICdodHRwczovL2J1eS5zdHJpcGUuY29tLy4uLicKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncGFja18xNScsCiAgICAgIGNyZWRpdHM6IDE1LAogICAgICBsYWJlbDogJzE1IGNyw6lkaXRvcycsCiAgICAgIHN1YjogJ1NhbHZhIDMzJS4gTWFpcyBwb3B1bGFyLicsCiAgICAgIHBvcHVsYXI6IHRydWUsCiAgICAgIEVVUjogeyBwcmljZTogMjAsIGRpc3BsYXk6ICfigqwyMCcsIHBlckNyZWRpdDogJ+KCrDEuMzMvY3LDqWRpdG8nIH0sCiAgICAgIEJSTDogeyBwcmljZTogOTksIGRpc3BsYXk6ICdSJCA5OScsIHBlckNyZWRpdDogJ1IkIDYsNjAvY3LDqWRpdG8nIH0sCiAgICAgIC8vIHN0cmlwZVVybDogJ2h0dHBzOi8vYnV5LnN0cmlwZS5jb20vLi4uJwogICAgfSwKICBdOwoKICAvLyBCdWlsZCBhIGNoZWNrb3V0IFVSTC4gSWYgYSByZWFsIFN0cmlwZSBQYXltZW50IExpbmsgaXMgY29uZmlndXJlZCwgcmVkaXJlY3QgdGhlcmUKICAvLyB3aXRoIHRoZSBkZXZpY2UgaWQgcGFzc2VkIGFzIGNsaWVudF9yZWZlcmVuY2VfaWQgc28gdGhlIHdlYmhvb2sgKG9yIHN1Y2Nlc3MgVVJMIHBhcmFtcykKICAvLyBjYW4gY3JlZGl0IHRoZSByaWdodCBkZXZpY2UuIE90aGVyd2lzZSBmYWxsIGJhY2sgdG8gdGhlIGRldi1tb2RlIG1vY2stc3VjY2VzcyBVUkwuCiAgZnVuY3Rpb24gYnVpbGRDaGVja291dFVybChwYWNrLCBjdXJyZW5jeSkgewogICAgY29uc3QgZGV2ID0gZ2V0RGV2aWNlSWQoKTsKICAgIGNvbnN0IHN1Y2Nlc3NCYXNlID0gd2luZG93LmxvY2F0aW9uLm9yaWdpbiArIHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZTsKICAgIGlmIChwYWNrLnN0cmlwZVVybCkgewogICAgICBjb25zdCB1cmwgPSBuZXcgVVJMKHBhY2suc3RyaXBlVXJsKTsKICAgICAgdXJsLnNlYXJjaFBhcmFtcy5zZXQoJ2NsaWVudF9yZWZlcmVuY2VfaWQnLCBkZXYpOwogICAgICB1cmwuc2VhcmNoUGFyYW1zLnNldCgncHJlZmlsbGVkX2VtYWlsJywgJycpOwogICAgICAvLyBzdWNjZXNzX3VybCBpcyBjb25maWd1cmVkIG9uIHRoZSBTdHJpcGUgc2lkZSwgYnV0IHdlIGFsc28gcGFzcyBiYWNrIHZpYSBtZXRhZGF0YS4KICAgICAgcmV0dXJuIHVybC50b1N0cmluZygpOwogICAgfQogICAgLy8gREVWLU1PREUgTU9DSzogZHJvcCBzdHJhaWdodCBiYWNrIHdpdGggY3JlZGl0cyBncmFudGVkLiBSZXBsYWNlIHdpdGggcmVhbCBTdHJpcGUgVVJMLgogICAgY29uc3QgbW9jayA9IG5ldyBVUkwoc3VjY2Vzc0Jhc2UpOwogICAgbW9jay5zZWFyY2hQYXJhbXMuc2V0KCdjcmVkaXRzJywgU3RyaW5nKHBhY2suY3JlZGl0cykpOwogICAgbW9jay5zZWFyY2hQYXJhbXMuc2V0KCd0b2tlbicsICdtb2NrXycgKyBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zbGljZSgyKSk7CiAgICBtb2NrLnNlYXJjaFBhcmFtcy5zZXQoJ21vY2snLCAnMScpOwogICAgcmV0dXJuIG1vY2sudG9TdHJpbmcoKTsKICB9CgogIC8vIC0tLSByZWRpcmVjdCBoYW5kbGVyIC0tLQogIC8vIE9uIHBhZ2UgbG9hZCwgaWYgVVJMIGhhcyA/Y3JlZGl0cz1OJnRva2VuPS4uLiwgZ3JhbnQgb25jZSBhbmQgY2xlYW4gdGhlIFVSTC4KICBmdW5jdGlvbiBoYW5kbGVTdHJpcGVSZXR1cm4oKSB7CiAgICBjb25zdCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOwogICAgY29uc3QgY3JlZGl0c1BhcmFtID0gcGFyYW1zLmdldCgnY3JlZGl0cycpOwogICAgY29uc3QgdG9rZW4gPSBwYXJhbXMuZ2V0KCd0b2tlbicpOwogICAgaWYgKCFjcmVkaXRzUGFyYW0gfHwgIXRva2VuKSByZXR1cm4gbnVsbDsKICAgIGNvbnN0IG4gPSBwYXJzZUludChjcmVkaXRzUGFyYW0sIDEwKTsKICAgIGlmIChpc05hTihuKSB8fCBuIDw9IDApIHJldHVybiBudWxsOwogICAgbGV0IHJlZGVlbWVkID0gW107CiAgICB0cnkgeyByZWRlZW1lZCA9IEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oTFNfUkVERUVNRURfVE9LRU5TKSB8fCAnW10nKTsgfQogICAgY2F0Y2ggKGUpIHsgcmVkZWVtZWQgPSBbXTsgfQogICAgaWYgKHJlZGVlbWVkLmluY2x1ZGVzKHRva2VuKSkgcmV0dXJuIG51bGw7IC8vIGFscmVhZHkgY3JlZGl0ZWQKICAgIGFkZENyZWRpdHMobiwgcGFyYW1zLmdldCgnbW9jaycpID09PSAnMScgPyAnbW9jaycgOiAnc3RyaXBlJyk7CiAgICByZWRlZW1lZC5wdXNoKHRva2VuKTsKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKExTX1JFREVFTUVEX1RPS0VOUywgSlNPTi5zdHJpbmdpZnkocmVkZWVtZWQuc2xpY2UoLTEwMCkpKTsKICAgIC8vIGNsZWFuIHRoZSBVUkwKICAgIHBhcmFtcy5kZWxldGUoJ2NyZWRpdHMnKTsKICAgIHBhcmFtcy5kZWxldGUoJ3Rva2VuJyk7CiAgICBwYXJhbXMuZGVsZXRlKCdtb2NrJyk7CiAgICBjb25zdCBuZXdTZWFyY2ggPSBwYXJhbXMudG9TdHJpbmcoKTsKICAgIGNvbnN0IG5ld1VybCA9IHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSArIChuZXdTZWFyY2ggPyAnPycgKyBuZXdTZWFyY2ggOiAnJykgKyB3aW5kb3cubG9jYXRpb24uaGFzaDsKICAgIHdpbmRvdy5oaXN0b3J5LnJlcGxhY2VTdGF0ZSh7fSwgJycsIG5ld1VybCk7CiAgICByZXR1cm4gbjsKICB9CgogIC8vIC0tLSBzdWJzY3JpYmVycyAobGV0IFVJIHBpZWNlcyByZS1yZW5kZXIgb24gYmFsYW5jZSBjaGFuZ2UpIC0tLQogIGNvbnN0IGxpc3RlbmVycyA9IG5ldyBTZXQoKTsKICBmdW5jdGlvbiBzdWJzY3JpYmUoZm4pIHsgbGlzdGVuZXJzLmFkZChmbik7IHJldHVybiAoKSA9PiBsaXN0ZW5lcnMuZGVsZXRlKGZuKTsgfQogIGZ1bmN0aW9uIG5vdGlmeSgpIHsgbGlzdGVuZXJzLmZvckVhY2goKGZuKSA9PiB7IHRyeSB7IGZuKCk7IH0gY2F0Y2ggKGUpIHt9IH0pOyB9CgogIC8vIC0tLSBkZWxldGUtbXktZGF0YSAoR0RQUikgLS0tCiAgZnVuY3Rpb24gZGVsZXRlQWxsRGF0YSgpIHsKICAgIGNvbnN0IGtleXMgPSBbJ2FkbV9kZXZpY2VfaWQnLCAnYWRtX2NyZWRpdHMnLCAnYWRtX3VzZWRfZnJlZScsICdhZG1fbGVkZ2VyJywKICAgICAgJ2FkbV9yZWRlZW1lZF90b2tlbnMnLCAnYWRtX2N1cnJlbmN5JywgJ2FkbV9oaXN0b3J5JywgJ2FkbV9zYXZlZCddOwogICAga2V5cy5mb3JFYWNoKChrKSA9PiBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbShrKSk7CiAgICBub3RpZnkoKTsKICB9CgogIHdpbmRvdy5BZE1fQ1JFRElUUyA9IHsKICAgIFBBQ0tTLAogICAgZ2V0RGV2aWNlSWQsCiAgICBnZXRCYWxhbmNlLCBzZXRCYWxhbmNlLAogICAgaGFzRnJlZVJ1biwgcnVuc0F2YWlsYWJsZSwKICAgIHNwZW5kUnVuLCBhZGRDcmVkaXRzLAogICAgZ2V0TGVkZ2VyLAogICAgZ2V0Q3VycmVuY3ksIHNldEN1cnJlbmN5LAogICAgYnVpbGRDaGVja291dFVybCwKICAgIGhhbmRsZVN0cmlwZVJldHVybiwKICAgIHN1YnNjcmliZSwKICAgIGRlbGV0ZUFsbERhdGEsCiAgfTsKfSkoKTsK"}
+// Além do Mar — credits & paywall engine.
+// Source of truth is the Cloudflare Worker (KV-backed, see worker.js). The
+// localStorage layer is just a snappy UI cache that we sync to/from the worker.
+// Anyone editing localStorage gets reverted on the next syncFromServer() call.
+// Stripe redirect handler syncs balance on ?checkout=success (webhook grants credits).
+// Mock mode (?credits=N&token=...) still works when STRIPE_SECRET_KEY isn't set.
+
+(function () {
+  const API_BASE = (window.ADM_API_BASE || 'https://alemdomar-auth.luanagbc.workers.dev').replace(/\/+$/, '');
+  const LS_DEVICE = 'adm_device_id';
+  const LS_BALANCE = 'adm_credits';
+  const LS_USED_FREE = 'adm_used_free';
+  const LS_LEDGER = 'adm_ledger';
+  const LS_REDEEMED_TOKENS = 'adm_redeemed_tokens';
+  const LS_CURRENCY = 'adm_currency';
+
+  // --- device id ---
+  function getDeviceId() {
+    let id = localStorage.getItem(LS_DEVICE);
+    if (!id) {
+      id = 'dev_' + Math.random().toString(36).slice(2) + Date.now().toString(36);
+      localStorage.setItem(LS_DEVICE, id);
+    }
+    return id;
+  }
+
+  // --- balance / free run ---
+  function getBalance() {
+    const v = parseInt(localStorage.getItem(LS_BALANCE) || '0', 10);
+    return isNaN(v) ? 0 : v;
+  }
+  function setBalance(n) {
+    localStorage.setItem(LS_BALANCE, String(Math.max(0, n)));
+    notify();
+  }
+  function hasFreeRun() {
+    return localStorage.getItem(LS_USED_FREE) !== '1';
+  }
+  function consumeFreeRun() {
+    localStorage.setItem(LS_USED_FREE, '1');
+    appendLedger({ type: 'free_run', at: Date.now() });
+    notify();
+  }
+
+  // total runs available = (1 if free not used) + balance
+  function runsAvailable() {
+    return (hasFreeRun() ? 1 : 0) + getBalance();
+  }
+
+  // try to spend one run. returns 'free' | 'paid' | null (no runs available).
+  function spendRun(toolId) {
+    if (hasFreeRun()) {
+      consumeFreeRun();
+      appendLedger({ type: 'spend', source: 'free', tool: toolId, at: Date.now() });
+      return 'free';
+    }
+    const b = getBalance();
+    if (b > 0) {
+      setBalance(b - 1);
+      appendLedger({ type: 'spend', source: 'paid', tool: toolId, at: Date.now() });
+      return 'paid';
+    }
+    return null;
+  }
+
+  function addCredits(n, source) {
+    setBalance(getBalance() + n);
+    appendLedger({ type: 'credit', amount: n, source: source || 'purchase', at: Date.now() });
+  }
+
+  // --- ledger ---
+  function appendLedger(entry) {
+    try {
+      const arr = JSON.parse(localStorage.getItem(LS_LEDGER) || '[]');
+      arr.unshift(entry);
+      localStorage.setItem(LS_LEDGER, JSON.stringify(arr.slice(0, 200)));
+    } catch (e) { /* noop */ }
+  }
+  function getLedger() {
+    try { return JSON.parse(localStorage.getItem(LS_LEDGER) || '[]'); }
+    catch (e) { return []; }
+  }
+
+  // --- currency preference ---
+  function getCurrency() {
+    return localStorage.getItem(LS_CURRENCY) || guessCurrency();
+  }
+  function setCurrency(c) {
+    localStorage.setItem(LS_CURRENCY, c);
+    notify();
+  }
+  function guessCurrency() {
+    try {
+      const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+      if (tz.includes('Sao_Paulo') || tz.includes('Recife') || tz.includes('Manaus') || tz.includes('Fortaleza') || tz.includes('Brazil')) return 'BRL';
+    } catch (e) { /* noop */ }
+    return 'EUR';
+  }
+
+  // --- credit packs ---
+  const PACKS = [
+    {
+      id: 'pack_1',
+      credits: 1,
+      label: 'Crédito único',
+      sub: 'Pra testar mais uma vez.',
+      EUR: { price: 3, display: '€3' },
+      BRL: { price: 15, display: 'R$ 15' },
+    },
+    {
+      id: 'pack_5',
+      credits: 5,
+      label: '5 créditos',
+      sub: 'Salva 47%.',
+      EUR: { price: 8, display: '€8', perCredit: '€1.60/crédito' },
+      BRL: { price: 39, display: 'R$ 39', perCredit: 'R$ 7,80/crédito' },
+    },
+    {
+      id: 'pack_15',
+      credits: 15,
+      label: '15 créditos',
+      sub: 'Salva 56%. Mais popular.',
+      popular: true,
+      EUR: { price: 20, display: '€20', perCredit: '€1.33/crédito' },
+      BRL: { price: 99, display: 'R$ 99', perCredit: 'R$ 6,60/crédito' },
+    },
+  ];
+
+  // Create a Stripe Checkout Session via the worker, then redirect.
+  async function startCheckout(pack, currency) {
+    const dev = getDeviceId();
+    if (window.AdM_TRACK) window.AdM_TRACK.track('pack_clicked', { packId: pack.id, currency });
+
+    try {
+      const r = await fetch(API_BASE + '/api/stripe/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ packId: pack.id, currency, deviceId: dev }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (r.ok && data.url) {
+        window.location.href = data.url;
+        return { ok: true };
+      }
+      if (data.error === 'stripe_not_configured') {
+        return { ok: false, error: 'stripe_not_configured' };
+      }
+      return { ok: false, error: data.error || 'checkout_failed', details: data.details };
+    } catch (e) {
+      return { ok: false, error: 'network_error' };
+    }
+  }
+
+  // Legacy mock URL builder — used only when Stripe secrets aren't set yet.
+  function buildCheckoutUrl(pack, currency) {
+    const dev = getDeviceId();
+    const successBase = window.location.origin + window.location.pathname;
+    // DEV-MODE MOCK: drop straight back with credits granted. Used when Stripe isn't configured.
+    const mock = new URL(successBase);
+    mock.searchParams.set('credits', String(pack.credits));
+    mock.searchParams.set('token', 'mock_' + Math.random().toString(36).slice(2));
+    mock.searchParams.set('mock', '1');
+    return mock.toString();
+  }
+
+  // --- redirect handler ---
+  // After Stripe checkout, credits are granted server-side via webhook — sync the balance.
+  // Mock mode (?credits=N&token=...) still works for local dev without Stripe secrets.
+  async function handleStripeReturn() {
+    const params = new URLSearchParams(window.location.search);
+
+    if (params.get('checkout') === 'success') {
+      const before = getBalance();
+      for (let i = 0; i < 12; i++) {
+        const data = await syncFromServer();
+        if (data && data.balance > before) break;
+        await new Promise((r) => setTimeout(r, 1000));
+      }
+      if (window.AdM_TRACK) {
+        window.AdM_TRACK.track('credits_purchased', { balance: getBalance() });
+      }
+      params.delete('checkout');
+      params.delete('session_id');
+      const newSearch = params.toString();
+      const newUrl = window.location.pathname + (newSearch ? '?' + newSearch : '') + window.location.hash;
+      window.history.replaceState({}, '', newUrl);
+      return getBalance() > before ? getBalance() - before : 'synced';
+    }
+
+    if (params.get('checkout') === 'cancel') {
+      params.delete('checkout');
+      const newSearch = params.toString();
+      const newUrl = window.location.pathname + (newSearch ? '?' + newSearch : '') + window.location.hash;
+      window.history.replaceState({}, '', newUrl);
+      return null;
+    }
+
+    const creditsParam = params.get('credits');
+    const token = params.get('token');
+    if (!creditsParam || !token) return null;
+    const n = parseInt(creditsParam, 10);
+    if (isNaN(n) || n <= 0) return null;
+    let redeemed = [];
+    try { redeemed = JSON.parse(localStorage.getItem(LS_REDEEMED_TOKENS) || '[]'); }
+    catch (e) { redeemed = []; }
+    if (redeemed.includes(token)) return null; // already credited
+    addCredits(n, params.get('mock') === '1' ? 'mock' : 'stripe');
+    redeemed.push(token);
+    localStorage.setItem(LS_REDEEMED_TOKENS, JSON.stringify(redeemed.slice(-100)));
+    // clean the URL
+    params.delete('credits');
+    params.delete('token');
+    params.delete('mock');
+    const newSearch = params.toString();
+    const newUrl = window.location.pathname + (newSearch ? '?' + newSearch : '') + window.location.hash;
+    window.history.replaceState({}, '', newUrl);
+    return n;
+  }
+
+  // --- server sync ---
+  // The worker is the source of truth. These helpers keep the local cache in sync
+  // so the UI shows the right numbers even when localStorage was tampered with.
+  async function syncFromServer() {
+    try {
+      const url = API_BASE + '/api/credits?deviceId=' + encodeURIComponent(getDeviceId());
+      const r = await fetch(url, { method: 'GET' });
+      if (!r.ok) return null;
+      const data = await r.json();
+      if (typeof data.balance === 'number') {
+        localStorage.setItem(LS_BALANCE, String(Math.max(0, data.balance)));
+      }
+      if (typeof data.hasFreeRun === 'boolean') {
+        if (data.hasFreeRun) localStorage.removeItem(LS_USED_FREE);
+        else localStorage.setItem(LS_USED_FREE, '1');
+      }
+      notify();
+      return data;
+    } catch (e) { return null; }
+  }
+  // Apply the {source, remaining} block the worker returns after a successful spend.
+  function applyServerCredits(creditsBlock) {
+    if (!creditsBlock) return;
+    if (typeof creditsBlock.remaining === 'number') {
+      localStorage.setItem(LS_BALANCE, String(Math.max(0, creditsBlock.remaining)));
+    }
+    if (creditsBlock.source === 'free' || creditsBlock.source === 'paid') {
+      localStorage.setItem(LS_USED_FREE, '1');
+    }
+    notify();
+  }
+
+  // --- subscribers (let UI pieces re-render on balance change) ---
+  const listeners = new Set();
+  function subscribe(fn) { listeners.add(fn); return () => listeners.delete(fn); }
+  function notify() { listeners.forEach((fn) => { try { fn(); } catch (e) {} }); }
+
+  // --- delete-my-data (GDPR) ---
+  function deleteAllData() {
+    const keys = ['adm_device_id', 'adm_credits', 'adm_used_free', 'adm_ledger',
+      'adm_redeemed_tokens', 'adm_currency', 'adm-history', 'adm_history', 'adm_saved',
+      'adm_users', 'adm_current_user', 'adm_auth_token', 'adm_content_overrides', 'adm_content_edit_mode'];
+    keys.forEach((k) => localStorage.removeItem(k));
+    notify();
+  }
+
+  window.AdM_CREDITS = {
+    PACKS,
+    getDeviceId,
+    getBalance, setBalance,
+    hasFreeRun, runsAvailable,
+    spendRun, addCredits,
+    getLedger,
+    getCurrency, setCurrency,
+    buildCheckoutUrl,
+    startCheckout,
+    handleStripeReturn,
+    syncFromServer,
+    applyServerCredits,
+    subscribe,
+    deleteAllData,
+  };
+
+  // Sync once on load so the UI shows the server-side balance from the start.
+  // If the worker is unreachable, the local cache is used as fallback.
+  if (typeof document !== 'undefined') {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', () => { syncFromServer(); });
+    } else {
+      syncFromServer();
+    }
+  }
+})();

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alemdomar.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://alemdomar.com/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://alemdomar.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alemdomar.com/" />
+  </url>
+  <!--
+    Add new URLs here as the site grows. Programmatic SEO pages
+    (e.g. /cv/brasileiro/irlanda, /salario/dev/dublin) and blog posts
+    should each get their own <url> block with a lastmod date.
+  -->
+</urlset>

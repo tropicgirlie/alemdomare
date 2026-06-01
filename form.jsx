@@ -1,1 +1,363 @@
-{"data":"Ly8gRm9ybTogcHJvZ3Jlc3NpdmUg4oCUIGF1dG8tZGV0ZWN0cyBzZWdtZW50IGZyb20gam9iIHRpdGxlLCBhZGFwdHMgcXVlc3Rpb25zIHBlciBzZWdtZW50LgoKZnVuY3Rpb24gU2VnbWVudEJhZGdlKHsgc2VnbWVudCwgZGlyZWN0aW9uLCBvbkNoYW5nZSB9KSB7CiAgaWYgKCFzZWdtZW50KSByZXR1cm4gbnVsbDsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sKICAgICAgZGlzcGxheTogJ2lubGluZS1mbGV4JywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGdhcDogMTAsCiAgICAgIHBhZGRpbmc6ICc4cHggMTRweCcsIGJvcmRlclJhZGl1czogOTk5LAogICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJ3JnYmEoNDIsMTU3LDE0MywwLjA4KScgOiAncmdiYSgyNDQsMTg1LDY2LDAuMDgpJywKICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7ZGlyQSA/ICdyZ2JhKDQyLDE1NywxNDMsMC4yNSknIDogJ3JnYmEoMjQ0LDE4NSw2NiwwLjMwKSd9YCwKICAgICAgZm9udFNpemU6IDEzLAogICAgfX0+CiAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxNiB9fT57c2VnbWVudC5pY29ufTwvc3Bhbj4KICAgICAgPHNwYW4+CiAgICAgICAgUGVyZmlsIGlkZW50aWZpY2FkbzogPGI+e3NlZ21lbnQubGFiZWx9PC9iPgogICAgICA8L3NwYW4+CiAgICAgIDxidXR0b24KICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgb25DbGljaz17b25DaGFuZ2V9CiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogNjAwLCBwYWRkaW5nOiAnMnB4IDhweCcsIGJvcmRlclJhZGl1czogOTk5LAogICAgICAgICAgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZWFsKScgOiAndmFyKC0tYi1nb2xkKScsCiAgICAgICAgICB0ZXh0RGVjb3JhdGlvbjogJ3VuZGVybGluZScsIHRleHRVbmRlcmxpbmVPZmZzZXQ6IDMsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIE11ZGFyCiAgICAgIDwvYnV0dG9uPgogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gU2VnbWVudFBpY2tlcih7IGRpcmVjdGlvbiwgb25QaWNrLCBvbkNsb3NlIH0pIHsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgY29uc3Qgc2VnbWVudHMgPSBPYmplY3QudmFsdWVzKHdpbmRvdy5BZE1fU0VHTUVOVFMpOwogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7CiAgICAgIHBhZGRpbmc6IDIwLAogICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAsCiAgICAgIGJvcmRlclJhZGl1czogMTIsCiAgICAgIGJhY2tncm91bmQ6IGRpckEgPyAncmdiYSg0MiwxNTcsMTQzLDAuMDQpJyA6ICdyZ2JhKDI1NSwyNTUsMjU1LDAuMDIpJywKICAgIH19PgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJywgYWxpZ25JdGVtczogJ2NlbnRlcicsIG1hcmdpbkJvdHRvbTogMTQgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmb250V2VpZ2h0OiA2MDAsIGZvbnRTaXplOiAxNSB9fT5RdWFsIMOhcmVhIGRlc2NyZXZlIG1lbGhvciBzZXUgdHJhYmFsaG8/PC9kaXY+CiAgICAgICAge29uQ2xvc2UgJiYgKAogICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIG9uQ2xpY2s9e29uQ2xvc2V9IHN0eWxlPXt7IGZvbnRTaXplOiAxMywgb3BhY2l0eTogMC42IH19PmZlY2hhcjwvYnV0dG9uPgogICAgICAgICl9CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ3JpZFRlbXBsYXRlQ29sdW1uczogJ3JlcGVhdChhdXRvLWZpbGwsIG1pbm1heCgxNjBweCwgMWZyKSknLCBnYXA6IDEwIH19PgogICAgICAgIHtzZWdtZW50cy5tYXAoKHMpID0+ICgKICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAga2V5PXtzLmlkfQogICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG9uUGljayhzLmlkKX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwYWRkaW5nOiAnMTZweCAxNHB4JywgYm9yZGVyUmFkaXVzOiAxMCwKICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAsCiAgICAgICAgICAgICAgYmFja2dyb3VuZDogZGlyQSA/ICcjZmZmJyA6ICdyZ2JhKDI1NSwyNTUsMjU1LDAuMDQpJywKICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdsZWZ0JywKICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDYsCiAgICAgICAgICAgICAgbWluSGVpZ2h0OiA5NiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udFNpemU6IDI0LCBsaW5lSGVpZ2h0OiAxIH19PntzLmljb259PC9zcGFuPgogICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250U2l6ZTogMTQsIGZvbnRXZWlnaHQ6IDYwMCwgbGluZUhlaWdodDogMS4yIH19PntzLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udFNpemU6IDEyLCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScsIGxpbmVIZWlnaHQ6IDEuMzUgfX0+CiAgICAgICAgICAgICAge3MuZGVzY3JpcHRpb259CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIFNlZ21lbnRGaWVsZCh7IGZpZWxkLCB2YWx1ZSwgb25DaGFuZ2UsIGRpcmVjdGlvbiB9KSB7CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+e2ZpZWxkLmxhYmVsfTwvbGFiZWw+CiAgICAgIHtmaWVsZC50ZXh0YXJlYSA/ICgKICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgIGNsYXNzTmFtZT0iZmllbGQtdGV4dGFyZWEiCiAgICAgICAgICBwbGFjZWhvbGRlcj17ZmllbGQucGxhY2Vob2xkZXJ9CiAgICAgICAgICB2YWx1ZT17dmFsdWUgfHwgJyd9CiAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAvPgogICAgICApIDogKAogICAgICAgIDxpbnB1dAogICAgICAgICAgY2xhc3NOYW1lPSJmaWVsZC1pbnB1dCIKICAgICAgICAgIHBsYWNlaG9sZGVyPXtmaWVsZC5wbGFjZWhvbGRlcn0KICAgICAgICAgIHZhbHVlPXt2YWx1ZSB8fCAnJ30KICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2UoZS50YXJnZXQudmFsdWUpfQogICAgICAgIC8+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9CgpmdW5jdGlvbiBUcmFuc2xhdG9yRm9ybSh7IGRpcmVjdGlvbiwgb25TdWJtaXQsIGlzTG9hZGluZywgaW5pdGlhbFZhbHVlcywgb25DaGFuZ2VQZXJzb25hIH0pIHsKICBjb25zdCBbZm9ybSwgc2V0Rm9ybV0gPSBSZWFjdC51c2VTdGF0ZShpbml0aWFsVmFsdWVzIHx8IHsKICAgIGJyVGl0bGU6ICcnLCBjb21wYW55OiAnJywgaW5kdXN0cnk6ICcnLCB5ZWFyczogJycsCiAgICBkdXRpZXM6ICcnLCB0YXJnZXRDb3VudHJ5OiAnSXJlbGFuZCcsIHRhcmdldFJvbGU6ICcnLAogICAgc2VnbWVudDogbnVsbCwgc2VnbWVudERhdGE6IHt9LAogIH0pOwogIGNvbnN0IFtzaG93UGlja2VyLCBzZXRTaG93UGlja2VyXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsKCiAgUmVhY3QudXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChpbml0aWFsVmFsdWVzKSBzZXRGb3JtKHsgc2VnbWVudERhdGE6IHt9LCAuLi5pbml0aWFsVmFsdWVzIH0pOwogIH0sIFtpbml0aWFsVmFsdWVzXSk7CgogIGNvbnN0IHVwZGF0ZSA9IChrKSA9PiAoZSkgPT4gc2V0Rm9ybSh7IC4uLmZvcm0sIFtrXTogZS50YXJnZXQudmFsdWUgfSk7CiAgY29uc3QgdXBkYXRlU2VnbWVudEZpZWxkID0gKGspID0+ICh2KSA9PiBzZXRGb3JtKHsgLi4uZm9ybSwgc2VnbWVudERhdGE6IHsgLi4uZm9ybS5zZWdtZW50RGF0YSwgW2tdOiB2IH0gfSk7CgogIC8vIEF1dG8tZGV0ZWN0IHNlZ21lbnQgd2hlbiBiclRpdGxlIGJsdXJzIChvciBjaGFuZ2VzIG1lYW5pbmdmdWxseSkKICBjb25zdCBvblRpdGxlQmx1ciA9ICgpID0+IHsKICAgIGlmIChmb3JtLnNlZ21lbnQpIHJldHVybjsgLy8gdXNlciBhbHJlYWR5IGNob3NlCiAgICBjb25zdCBkZXRlY3RlZCA9IHdpbmRvdy5BZE1fREVURUNUX1NFR01FTlQoZm9ybS5iclRpdGxlKTsKICAgIGlmIChkZXRlY3RlZCkgewogICAgICBzZXRGb3JtKChmKSA9PiAoeyAuLi5mLCBzZWdtZW50OiBkZXRlY3RlZCB9KSk7CiAgICB9IGVsc2UgaWYgKGZvcm0uYnJUaXRsZSAmJiBmb3JtLmJyVGl0bGUubGVuZ3RoID4gMikgewogICAgICBzZXRTaG93UGlja2VyKHRydWUpOwogICAgfQogIH07CgogIGNvbnN0IHBpY2tTZWdtZW50ID0gKGlkKSA9PiB7CiAgICBzZXRGb3JtKHsgLi4uZm9ybSwgc2VnbWVudDogaWQgfSk7CiAgICBzZXRTaG93UGlja2VyKGZhbHNlKTsKICB9OwoKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgY29uc3Qgc2VnT2JqID0gZm9ybS5zZWdtZW50ID8gd2luZG93LkFkTV9TRUdNRU5UU1tmb3JtLnNlZ21lbnRdIDogbnVsbDsKICBjb25zdCBzZWdGaWVsZHMgPSBmb3JtLnNlZ21lbnQgPyB3aW5kb3cuQWRNX1NFR01FTlRfRklFTERTW2Zvcm0uc2VnbWVudF0gOiBudWxsOwoKICBjb25zdCBjYW5TdWJtaXQgPSBmb3JtLmJyVGl0bGUgJiYgZm9ybS55ZWFycyAmJiBmb3JtLmR1dGllcyAmJiBmb3JtLnRhcmdldENvdW50cnkgJiYgZm9ybS5zZWdtZW50OwoKICBjb25zdCBzdWJtaXQgPSAoZSkgPT4gewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgaWYgKGNhblN1Ym1pdCAmJiAhaXNMb2FkaW5nKSBvblN1Ym1pdChmb3JtKTsKICB9OwoKICByZXR1cm4gKAogICAgPGZvcm0gb25TdWJtaXQ9e3N1Ym1pdH0gc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywgZ2FwOiAyOCB9fT4KICAgICAgey8qIFF1aWNrIHBlcnNvbmFzICovfQogICAgICA8ZGl2PgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmllbGQtbGFiZWwiPkV4ZW1wbG9zIHByb250b3MgKHByYSBwcmVlbmNoZXIgcsOhcGlkbyk8L3NwYW4+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhXcmFwOiAnd3JhcCcsIGdhcDogOCwgbWFyZ2luVG9wOiA0IH19PgogICAgICAgICAge1NBTVBMRV9QRVJTT05BUy5tYXAoKHApID0+ICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIGtleT17cC5pZH0KICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgY29uc3QgZGV0ZWN0ZWQgPSB3aW5kb3cuQWRNX0RFVEVDVF9TRUdNRU5UKHAuZm9ybS5iclRpdGxlKSB8fCAnYWRtaW4nOwogICAgICAgICAgICAgICAgc2V0Rm9ybSh7IC4uLnAuZm9ybSwgc2VnbWVudDogZGV0ZWN0ZWQsIHNlZ21lbnREYXRhOiB7fSB9KTsKICAgICAgICAgICAgICAgIG9uQ2hhbmdlUGVyc29uYSAmJiBvbkNoYW5nZVBlcnNvbmEocC5pZCk7CiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcGFkZGluZzogJzhweCAxNHB4JywgYm9yZGVyUmFkaXVzOiA5OTksIGZvbnRTaXplOiAxMywgZm9udFdlaWdodDogNTAwLAogICAgICAgICAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7ZGlyQSA/ICd2YXIoLS1hLXJ1bGUpJyA6ICd2YXIoLS1iLXJ1bGUpJ31gLAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogZGlyQSA/ICcjZmZmJyA6ICdyZ2JhKDI1NSwyNTUsMjU1LDAuMDQpJywKICAgICAgICAgICAgICAgIGNvbG9yOiBkaXJBID8gJ3ZhcigtLWEtdGV4dCknIDogJ3ZhcigtLWItdGV4dCknLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7cC5sYWJlbH0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0icnVsZS10aGluIiBzdHlsZT17eyBoZWlnaHQ6IDEsIGJhY2tncm91bmQ6IGRpckEgPyAndmFyKC0tYS1ydWxlKScgOiAndmFyKC0tYi1ydWxlKScgfX0gLz4KCiAgICAgIHsvKiBFc3NlbnRpYWxzICovfQogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ3JpZFRlbXBsYXRlQ29sdW1uczogJzJmciAxZnInLCBnYXA6IDIwIH19PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+Q2FyZ28gbm8gQnJhc2lsIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnI2RjMjYyNicgfX0+Kjwvc3Bhbj48L2xhYmVsPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZmllbGQtaW5wdXQiCiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJFeDogRWxldHJpY2lzdGEsIEFuYWxpc3RhIGRlIFByb2R1dG8sIENhYmVsZWlyZWlyYSIKICAgICAgICAgICAgdmFsdWU9e2Zvcm0uYnJUaXRsZX0KICAgICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZSgnYnJUaXRsZScpfQogICAgICAgICAgICBvbkJsdXI9e29uVGl0bGVCbHVyfQogICAgICAgICAgICByZXF1aXJlZAogICAgICAgICAgLz4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmaWVsZC1oaW50Ij5Db21vIGVzdMOhIG5vIHNldSBjdXJyw61jdWxvLCBlbSBwb3J0dWd1w6pzLjwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+QW5vcyBubyBjYXJnbyA8c3BhbiBzdHlsZT17eyBjb2xvcjogJyNkYzI2MjYnIH19Pio8L3NwYW4+PC9sYWJlbD4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICBjbGFzc05hbWU9ImZpZWxkLWlucHV0IgogICAgICAgICAgICB0eXBlPSJudW1iZXIiIG1pbj0iMCIgc3RlcD0iMC41IgogICAgICAgICAgICBwbGFjZWhvbGRlcj0iMyIKICAgICAgICAgICAgdmFsdWU9e2Zvcm0ueWVhcnN9CiAgICAgICAgICAgIG9uQ2hhbmdlPXt1cGRhdGUoJ3llYXJzJyl9CiAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBTZWdtZW50IGJhZGdlIG9yIHBpY2tlciAqL30KICAgICAge3NlZ09iaiAmJiAhc2hvd1BpY2tlciAmJiAoCiAgICAgICAgPFNlZ21lbnRCYWRnZSBzZWdtZW50PXtzZWdPYmp9IGRpcmVjdGlvbj17ZGlyZWN0aW9ufSBvbkNoYW5nZT17KCkgPT4gc2V0U2hvd1BpY2tlcih0cnVlKX0gLz4KICAgICAgKX0KICAgICAge3Nob3dQaWNrZXIgJiYgKAogICAgICAgIDxTZWdtZW50UGlja2VyCiAgICAgICAgICBkaXJlY3Rpb249e2RpcmVjdGlvbn0KICAgICAgICAgIG9uUGljaz17cGlja1NlZ21lbnR9CiAgICAgICAgICBvbkNsb3NlPXtzZWdPYmogPyAoKSA9PiBzZXRTaG93UGlja2VyKGZhbHNlKSA6IG51bGx9CiAgICAgICAgLz4KICAgICAgKX0KICAgICAgeyFzZWdPYmogJiYgIXNob3dQaWNrZXIgJiYgZm9ybS5iclRpdGxlICYmICgKICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRTaG93UGlja2VyKHRydWUpfQogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYWxpZ25TZWxmOiAnZmxleC1zdGFydCcsCiAgICAgICAgICAgIGZvbnRTaXplOiAxNCwgZm9udFdlaWdodDogNjAwLAogICAgICAgICAgICBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRlYWwpJyA6ICd2YXIoLS1iLWdvbGQpJywKICAgICAgICAgICAgdGV4dERlY29yYXRpb246ICd1bmRlcmxpbmUnLCB0ZXh0VW5kZXJsaW5lT2Zmc2V0OiA0LAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICBFc2NvbGhlciDDoXJlYSBkZSBhdHVhw6fDo28g4oaSCiAgICAgICAgPC9idXR0b24+CiAgICAgICl9CgogICAgICB7LyogRGFpbHkgZHV0aWVzICovfQogICAgICA8ZGl2PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImZpZWxkLWxhYmVsIj5PIHF1ZSB2b2PDqiBmYXppYSBubyBkaWEgYSBkaWEgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjZGMyNjI2JyB9fT4qPC9zcGFuPjwvbGFiZWw+CiAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICBjbGFzc05hbWU9ImZpZWxkLXRleHRhcmVhIgogICAgICAgICAgcGxhY2Vob2xkZXI9IkVzY3JldmEgY29tbyBmYWxhcmlhIHByYSB1bSBhbWlnby4gUG9kZSBzZXIgYmFndW7Dp2FkbywgZW0gcG9ydHVndcOqcywgc2VtIG3DqXRyaWNhcy4mIzEwOyYjMTA7RXg6IEF0ZW5kaWEgY2xpZW50ZXMsIG9yZ2FuaXphdmEgZXN0b3F1ZSwgZGF2YSBzdXBvcnRlIGFvIGNhaXhhLCBhanVkYXZhIG8gZ2VyZW50ZSBjb20gcGxhbmlsaGFzLi4uIgogICAgICAgICAgdmFsdWU9e2Zvcm0uZHV0aWVzfQogICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZSgnZHV0aWVzJyl9CiAgICAgICAgICByZXF1aXJlZAogICAgICAgIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkLWhpbnQiPk7Do28gcHJlY2lzYSBlc3RhciBib25pdG8uIFF1YW50byBtYWlzIGNydSwgbWVsaG9yLjwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXY+CiAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0iZmllbGQtbGFiZWwiPlBhw61zIGRlIGRlc3Rpbm8gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjZGMyNjI2JyB9fT4qPC9zcGFuPjwvbGFiZWw+CiAgICAgICAgPHNlbGVjdCBjbGFzc05hbWU9ImZpZWxkLXNlbGVjdCIgdmFsdWU9e2Zvcm0udGFyZ2V0Q291bnRyeX0gb25DaGFuZ2U9e3VwZGF0ZSgndGFyZ2V0Q291bnRyeScpfT4KICAgICAgICAgIHtUQVJHRVRfQ09VTlRSSUVTLm1hcCgoYykgPT4gPG9wdGlvbiBrZXk9e2N9IHZhbHVlPXtjfT57Y308L29wdGlvbj4pfQogICAgICAgIDwvc2VsZWN0PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBTZWdtZW50LXNwZWNpZmljIGZpZWxkcyAqL30KICAgICAge3NlZ0ZpZWxkcyAmJiAoCiAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywgZ2FwOiAyMCwgcGFkZGluZ1RvcDogOCwKICAgICAgICAgIGJvcmRlclRvcDogYDFweCBkYXNoZWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAsCiAgICAgICAgfX0+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAnMC4wOGVtJywgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIGNvbG9yOiBkaXJBID8gJ3ZhcigtLWEtdGV4dC0yKScgOiAndmFyKC0tYi10ZXh0LTIpJyB9fT4KICAgICAgICAgICAgRGV0YWxoZXMgZXNwZWPDrWZpY29zIHtzZWdPYmogJiYgYMK3ICR7c2VnT2JqLmxhYmVsfWB9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIHtzZWdGaWVsZHMubWFwKChmKSA9PiAoCiAgICAgICAgICAgIDxTZWdtZW50RmllbGQKICAgICAgICAgICAgICBrZXk9e2YuaWR9CiAgICAgICAgICAgICAgZmllbGQ9e2Z9CiAgICAgICAgICAgICAgZGlyZWN0aW9uPXtkaXJlY3Rpb259CiAgICAgICAgICAgICAgdmFsdWU9e2Zvcm0uc2VnbWVudERhdGFbZi5pZF19CiAgICAgICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZVNlZ21lbnRGaWVsZChmLmlkKX0KICAgICAgICAgICAgLz4KICAgICAgICAgICkpfQogICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdyaWRUZW1wbGF0ZUNvbHVtbnM6ICcxZnIgMWZyJywgZ2FwOiAyMCB9fT4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+RW1wcmVzYSAob3BjaW9uYWwpPC9sYWJlbD4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3NOYW1lPSJmaWVsZC1pbnB1dCIgcGxhY2Vob2xkZXI9Ik51YmFuaywgRHJvZ2FzaWwsIGF1dMO0bm9tYS4uLiIgdmFsdWU9e2Zvcm0uY29tcGFueX0gb25DaGFuZ2U9e3VwZGF0ZSgnY29tcGFueScpfSAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+Q2FyZ28tYWx2byAob3BjaW9uYWwpPC9sYWJlbD4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3NOYW1lPSJmaWVsZC1pbnB1dCIgcGxhY2Vob2xkZXI9IkV4OiBQcm9kdWN0IEFuYWx5c3QsIEVsZWN0cmljaWFuIiB2YWx1ZT17Zm9ybS50YXJnZXRSb2xlfSBvbkNoYW5nZT17dXBkYXRlKCd0YXJnZXRSb2xlJyl9IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgZ2FwOiAxMiwgYWxpZ25JdGVtczogJ2NlbnRlcicsIG1hcmdpblRvcDogOCwgZmxleFdyYXA6ICd3cmFwJyB9fT4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJzdWJtaXQiCiAgICAgICAgICBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICAgIGRpc2FibGVkPXshY2FuU3VibWl0IHx8IGlzTG9hZGluZ30KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIG9wYWNpdHk6ICghY2FuU3VibWl0IHx8IGlzTG9hZGluZykgPyAwLjUgOiAxLAogICAgICAgICAgICBjdXJzb3I6ICghY2FuU3VibWl0IHx8IGlzTG9hZGluZykgPyAnbm90LWFsbG93ZWQnIDogJ3BvaW50ZXInLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICB7aXNMb2FkaW5nID8gPD48c3BhbiBjbGFzc05hbWU9InNwaW5uZXIiIC8+IFRyYWR1emluZG/igKY8Lz4gOiA8PlRyYWR1emlyIG1pbmhhIGV4cGVyacOqbmNpYSDihpI8Lz59CiAgICAgICAgPC9idXR0b24+CiAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udFNpemU6IDEzLCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScgfX0+CiAgICAgICAgICB7IWZvcm0uc2VnbWVudCA/ICdQcmVlbmNoYSBvIGNhcmdvIHByYSBjb21lw6dhci4nIDogJ0xldmEgY2VyY2EgZGUgMTUgc2VndW5kb3MuIFNlbSBsb2dpbi4nfQogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICA8L2Zvcm0+CiAgKTsKfQoKd2luZG93LlRyYW5zbGF0b3JGb3JtID0gVHJhbnNsYXRvckZvcm07Cg=="}
+// Form: progressive — auto-detects segment from job title, adapts questions per segment.
+
+function SegmentBadge({ segment, direction, onChange }) {
+  if (!segment) return null;
+  const dirA = direction === 'a';
+  return (
+    <div style={{
+      display: 'inline-flex', alignItems: 'center', gap: 10,
+      padding: '8px 14px', borderRadius: 999,
+      background: dirA ? 'rgba(42,157,143,0.08)' : 'rgba(244,185,66,0.08)',
+      border: `1px solid ${dirA ? 'rgba(42,157,143,0.25)' : 'rgba(244,185,66,0.30)'}`,
+      fontSize: 13,
+    }}>
+      <span style={{ fontSize: 16 }}>{segment.icon}</span>
+      <span>
+        Perfil identificado: <b>{segment.label}</b>
+      </span>
+      <button
+        type="button"
+        onClick={onChange}
+        style={{
+          fontSize: 12, fontWeight: 600, padding: '2px 8px', borderRadius: 999,
+          color: dirA ? 'var(--a-teal)' : 'var(--b-gold)',
+          textDecoration: 'underline', textUnderlineOffset: 3,
+        }}
+      >
+        Mudar
+      </button>
+    </div>
+  );
+}
+
+function SegmentPicker({ direction, onPick, onClose }) {
+  const dirA = direction === 'a';
+  const segments = Object.values(window.AdM_SEGMENTS);
+  return (
+    <div style={{
+      padding: 20,
+      border: `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+      borderRadius: 12,
+      background: dirA ? 'rgba(42,157,143,0.04)' : 'rgba(255,255,255,0.02)',
+    }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 14 }}>
+        <div style={{ fontWeight: 600, fontSize: 15 }}>Qual área descreve melhor seu trabalho?</div>
+        {onClose && (
+          <button type="button" onClick={onClose} style={{ fontSize: 13, opacity: 0.6 }}>fechar</button>
+        )}
+      </div>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(160px, 1fr))', gap: 10 }}>
+        {segments.map((s) => (
+          <button
+            key={s.id}
+            type="button"
+            onClick={() => onPick(s.id)}
+            style={{
+              padding: '16px 14px', borderRadius: 10,
+              border: `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+              background: dirA ? '#fff' : 'rgba(255,255,255,0.04)',
+              textAlign: 'left',
+              display: 'flex', flexDirection: 'column', gap: 6,
+              minHeight: 96,
+            }}
+          >
+            <span style={{ fontSize: 24, lineHeight: 1 }}>{s.icon}</span>
+            <span style={{ fontSize: 14, fontWeight: 600, lineHeight: 1.2 }}>{s.label}</span>
+            <span style={{ fontSize: 12, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', lineHeight: 1.35 }}>
+              {s.description}
+            </span>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function SegmentField({ field, value, onChange, direction }) {
+  const dirA = direction === 'a';
+  return (
+    <div>
+      <label className="field-label">{field.label}</label>
+      {field.textarea ? (
+        <textarea
+          className="field-textarea"
+          placeholder={field.placeholder}
+          value={value || ''}
+          onChange={(e) => onChange(e.target.value)}
+        />
+      ) : (
+        <input
+          className="field-input"
+          placeholder={field.placeholder}
+          value={value || ''}
+          onChange={(e) => onChange(e.target.value)}
+        />
+      )}
+    </div>
+  );
+}
+
+function TranslatorForm({ direction, onSubmit, isLoading, initialValues, onChangePersona }) {
+  const defaultCity = (window.AdM_CITIES && window.AdM_CITIES.getPreferred()) || 'dublin';
+  const defaultCountry = window.AdM_CITIES
+    ? window.AdM_CITIES.countryForCity(defaultCity)
+    : 'Ireland';
+
+  const [form, setForm] = React.useState(initialValues || {
+    brTitle: '', company: '', industry: '', years: '',
+    duties: '', targetCountry: defaultCountry, targetCity: defaultCity, targetRole: '',
+    segment: null, segmentData: {},
+  });
+  const [showPicker, setShowPicker] = React.useState(false);
+  const [showOtherCountry, setShowOtherCountry] = React.useState(false);
+
+  React.useEffect(() => {
+    if (initialValues) {
+      setForm({ segmentData: {}, ...initialValues });
+      const cityIds = window.AdM_CITIES ? window.AdM_CITIES.list.map((c) => c.country) : [];
+      setShowOtherCountry(initialValues.targetCountry && !cityIds.includes(initialValues.targetCountry));
+    }
+  }, [initialValues]);
+
+  const selectCity = (cityId) => {
+    if (!window.AdM_CITIES) return;
+    window.AdM_CITIES.setPreferred(cityId);
+    setForm((f) => ({
+      ...f,
+      targetCity: cityId,
+      targetCountry: window.AdM_CITIES.countryForCity(cityId),
+    }));
+    setShowOtherCountry(false);
+  };
+
+  const onCountryChange = (country) => {
+    const match = window.AdM_CITIES && window.AdM_CITIES.list.find((c) => c.country === country);
+    setForm((f) => ({
+      ...f,
+      targetCountry: country,
+      targetCity: match ? match.id : null,
+    }));
+    if (match && window.AdM_CITIES) window.AdM_CITIES.setPreferred(match.id);
+  };
+
+  const update = (k) => (e) => setForm({ ...form, [k]: e.target.value });
+  const updateSegmentField = (k) => (v) => setForm({ ...form, segmentData: { ...form.segmentData, [k]: v } });
+
+  // Auto-detect segment when brTitle blurs (or changes meaningfully)
+  const onTitleBlur = () => {
+    if (form.segment) return; // user already chose
+    const detected = window.AdM_DETECT_SEGMENT(form.brTitle);
+    if (detected) {
+      setForm((f) => ({ ...f, segment: detected }));
+    } else if (form.brTitle && form.brTitle.length > 2) {
+      setShowPicker(true);
+    }
+  };
+
+  const pickSegment = (id) => {
+    setForm({ ...form, segment: id });
+    setShowPicker(false);
+  };
+
+  const dirA = direction === 'a';
+  const segObj = form.segment ? window.AdM_SEGMENTS[form.segment] : null;
+  const segFields = form.segment ? window.AdM_SEGMENT_FIELDS[form.segment] : null;
+
+  const canSubmit = form.brTitle && form.years && form.duties && form.targetCountry && form.segment;
+
+  const submit = (e) => {
+    e.preventDefault();
+    if (canSubmit && !isLoading) onSubmit(form);
+  };
+
+  return (
+    <form onSubmit={submit} style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
+      {/* Quick personas */}
+      <div>
+        <span className="field-label">Exemplos prontos (para preencher rápido)</span>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginTop: 4 }}>
+          {SAMPLE_PERSONAS.map((p) => (
+            <button
+              key={p.id}
+              type="button"
+              onClick={() => {
+                const detected = window.AdM_DETECT_SEGMENT(p.form.brTitle) || 'admin';
+                setForm({ ...p.form, segment: detected, segmentData: {} });
+                onChangePersona && onChangePersona(p.id);
+              }}
+              style={{
+                padding: '8px 14px', borderRadius: 999, fontSize: 13, fontWeight: 500,
+                border: `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+                background: dirA ? '#fff' : 'rgba(255,255,255,0.04)',
+                color: dirA ? 'var(--a-text)' : 'var(--b-text)',
+              }}
+            >
+              {p.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="rule-thin" style={{ height: 1, background: dirA ? 'var(--a-rule)' : 'var(--b-rule)' }} />
+
+      {/* Essentials */}
+      <div className="form-grid-2col">
+        <div>
+          <label className="field-label">Cargo no Brasil <span style={{ color: '#dc2626' }}>*</span></label>
+          <input
+            className="field-input"
+            placeholder="Ex: Eletricista, Analista de Produto, Cabeleireira"
+            value={form.brTitle}
+            onChange={update('brTitle')}
+            onBlur={onTitleBlur}
+            required
+          />
+          <div className="field-hint">Como está no seu currículo, em português.</div>
+        </div>
+        <div>
+          <label className="field-label">Anos no cargo <span style={{ color: '#dc2626' }}>*</span></label>
+          <input
+            className="field-input"
+            type="number" min="0" step="0.5"
+            placeholder="3"
+            value={form.years}
+            onChange={update('years')}
+            required
+          />
+        </div>
+      </div>
+
+      {/* Segment badge or picker */}
+      {segObj && !showPicker && (
+        <SegmentBadge segment={segObj} direction={direction} onChange={() => setShowPicker(true)} />
+      )}
+      {showPicker && (
+        <SegmentPicker
+          direction={direction}
+          onPick={pickSegment}
+          onClose={segObj ? () => setShowPicker(false) : null}
+        />
+      )}
+      {!segObj && !showPicker && form.brTitle && (
+        <button
+          type="button"
+          onClick={() => setShowPicker(true)}
+          style={{
+            alignSelf: 'flex-start',
+            fontSize: 14, fontWeight: 600,
+            color: dirA ? 'var(--a-teal)' : 'var(--b-gold)',
+            textDecoration: 'underline', textUnderlineOffset: 4,
+          }}
+        >
+          Escolher área de atuação →
+        </button>
+      )}
+
+      {/* Daily duties */}
+      <div>
+        <label className="field-label">O que você fazia no dia a dia <span style={{ color: '#dc2626' }}>*</span></label>
+        <textarea
+          className="field-textarea"
+          placeholder="Escreva como falaria pra um amigo. Pode ser bagunçado, em português, sem métricas.&#10;&#10;Ex: Atendia clientes, organizava estoque, dava suporte ao caixa, ajudava o gerente com planilhas..."
+          value={form.duties}
+          onChange={update('duties')}
+          required
+        />
+        <div className="field-hint">Não precisa estar bonito. Quanto mais cru, melhor.</div>
+      </div>
+
+      <div>
+        <label className="field-label">Cidade de destino <span style={{ color: '#dc2626' }}>*</span></label>
+        {window.CityChips && (
+          <CityChips
+            direction={direction}
+            value={form.targetCity || defaultCity}
+            onChange={selectCity}
+          />
+        )}
+        <div style={{ marginTop: 12 }}>
+          <button
+            type="button"
+            onClick={() => setShowOtherCountry((v) => !v)}
+            style={{
+              fontSize: 13,
+              fontWeight: 600,
+              color: dirA ? 'var(--a-teal)' : 'var(--b-gold)',
+              textDecoration: 'underline',
+              textUnderlineOffset: 3,
+            }}
+          >
+            {showOtherCountry ? 'Usar Dublin, Londres ou Berlim' : 'Outro país da UE →'}
+          </button>
+        </div>
+        {showOtherCountry && (
+          <div style={{ marginTop: 12 }}>
+            <select
+              className="field-select"
+              value={form.targetCountry}
+              onChange={(e) => onCountryChange(e.target.value)}
+            >
+              {TARGET_COUNTRIES.map((c) => <option key={c} value={c}>{c}</option>)}
+            </select>
+            <div className="field-hint">Portugal, Holanda, Espanha e outros. Sem guia por cidade ainda.</div>
+          </div>
+        )}
+        {!showOtherCountry && form.targetCity && window.AdM_CITIES && (
+          <div className="field-hint" style={{ marginTop: 8 }}>
+            Adaptando ao mercado de {window.AdM_CITIES.byId[form.targetCity].label} ({form.targetCountry}).
+          </div>
+        )}
+      </div>
+
+      {/* Segment-specific fields */}
+      {segFields && (
+        <div style={{
+          display: 'flex', flexDirection: 'column', gap: 20, paddingTop: 8,
+          borderTop: `1px dashed ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+        }}>
+          <div style={{ fontSize: 12, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)' }}>
+            Detalhes específicos {segObj && `· ${segObj.label}`}
+          </div>
+          {segFields.map((f) => (
+            <SegmentField
+              key={f.id}
+              field={f}
+              direction={direction}
+              value={form.segmentData[f.id]}
+              onChange={updateSegmentField(f.id)}
+            />
+          ))}
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 }}>
+            <div>
+              <label className="field-label">Empresa (opcional)</label>
+              <input className="field-input" placeholder="Nubank, Drogasil, autônoma..." value={form.company} onChange={update('company')} />
+            </div>
+            <div>
+              <label className="field-label">Cargo-alvo (opcional)</label>
+              <input className="field-input" placeholder="Ex: Product Analyst, Electrician" value={form.targetRole} onChange={update('targetRole')} />
+            </div>
+          </div>
+        </div>
+      )}
+
+      <div style={{ display: 'flex', gap: 12, alignItems: 'center', marginTop: 8, flexWrap: 'wrap' }}>
+        <button
+          type="submit"
+          className="btn btn-primary"
+          disabled={!canSubmit || isLoading}
+          style={{
+            opacity: (!canSubmit || isLoading) ? 0.5 : 1,
+            cursor: (!canSubmit || isLoading) ? 'not-allowed' : 'pointer',
+          }}
+        >
+          {isLoading ? <><span className="spinner" /> Traduzindo…</> : <>Traduzir minha experiência →</>}
+        </button>
+        <span style={{ fontSize: 13, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)' }}>
+          {!form.segment ? 'Informe o cargo para começar.' : 'Leva cerca de 15 segundos · sem login.'}
+        </span>
+      </div>
+    </form>
+  );
+}
+
+window.TranslatorForm = TranslatorForm;

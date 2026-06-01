@@ -1,1 +1,243 @@
-{"data":"Ly8gUmV1c2FibGUgdmlzdWFsIGF0b21zIOKAlCB3YXZlIGRlY29yYXRpb25zLCBicmFuZCBtYXJrLCBzYW1wbGUgZGF0YQoKY29uc3QgU0FNUExFX1BFUlNPTkFTID0gWwogIHsKICAgIGlkOiAncHJvZHVjdCcsCiAgICBsYWJlbDogJ0FuYWxpc3RhIGRlIFByb2R1dG8gwrcgTnViYW5rIMK3IDMgYW5vcycsCiAgICBmb3JtOiB7CiAgICAgIGJyVGl0bGU6ICdBbmFsaXN0YSBkZSBQcm9kdXRvJywKICAgICAgY29tcGFueTogJ051YmFuaycsCiAgICAgIGluZHVzdHJ5OiAnRmludGVjaCcsCiAgICAgIHllYXJzOiAnMycsCiAgICAgIHNjb3BlOiAnVGltZSBkZSBwcm9kdXRvIGNvbSA4IHBlc3NvYXMsIHNlbSByZXBvcnRlcyBkaXJldG9zJywKICAgICAgdG9vbHM6ICdKaXJhLCBGaWdtYSwgRXhjZWwsIENvbmZsdWVuY2UnLAogICAgICBkdXRpZXM6ICdSZXNwb25zw6F2ZWwgcG9yIGFwb2lhciBvIHRpbWUgZGUgcHJvZHV0bywgbGV2YW50YW1lbnRvIGRlIHJlcXVpc2l0b3MsIGNvbnRhdG8gY29tIHN0YWtlaG9sZGVycywgYWNvbXBhbmhhbWVudG8gZGUgZW50cmVnYXMsIHRlc3RlcyBkZSBmdW5jaW9uYWxpZGFkZXMsIGFwb2lvIGFvIHRpbWUgZGUgZGVzaWduIGUgdGVjbm9sb2dpYS4gUGFydGljaXBhw6fDo28gZW0gcmV1bmnDtWVzIGNvbSDDoXJlYXMgaW50ZXJuYXMuJywKICAgICAgb3V0Y29tZXM6ICdBanVkZWkgYSBsYW7Dp2FyIDIgZmVhdHVyZXMgbm92YXMgbm8gYXBwLiBBY2hvIHF1ZSByZWR1emltb3MgYnVncyByZXBvcnRhZG9zIGRlcG9pcyBxdWUgY29tZWNlaSBhIGZhemVyIHRlc3RlcyBtYWlzIHNpc3RlbcOhdGljb3MuJywKICAgICAgdGFyZ2V0Q291bnRyeTogJ0lyZWxhbmQnLAogICAgICB0YXJnZXRSb2xlOiAnUHJvZHVjdCBBbmFseXN0IC8gQXNzb2NpYXRlIFBNJywKICAgIH0sCiAgfSwKICB7CiAgICBpZDogJ3BoYXJtYWN5JywKICAgIGxhYmVsOiAnQXRlbmRlbnRlIGRlIEZhcm3DoWNpYSDCtyBEcm9nYXNpbCDCtyA0IGFub3MnLAogICAgZm9ybTogewogICAgICBiclRpdGxlOiAnQXRlbmRlbnRlIGRlIEZhcm3DoWNpYScsCiAgICAgIGNvbXBhbnk6ICdEcm9nYXNpbCcsCiAgICAgIGluZHVzdHJ5OiAnVmFyZWpvIC8gU2HDumRlJywKICAgICAgeWVhcnM6ICc0JywKICAgICAgc2NvcGU6ICdMb2phIGNvbSA2IGF0ZW5kZW50ZXMsIHNlbSBnZXN0w6NvIGRlIGVxdWlwZScsCiAgICAgIHRvb2xzOiAnUERWIGludGVybm8sIHNpc3RlbWEgZGUgY29udHJvbGUgZGUgZXN0b3F1ZSwgYmFsYW7Dp2EgZGlnaXRhbCcsCiAgICAgIGR1dGllczogJ0F0ZW5kaW1lbnRvIGFvIGNsaWVudGUsIG9yaWVudGHDp8OjbyBzb2JyZSBtZWRpY2FtZW50b3MsIG9yZ2FuaXphw6fDo28gZGUgZXN0b3F1ZSwgb3BlcmHDp8OjbyBkZSBjYWl4YSwgY29udGF0byBjb20gZXF1aXBlLCBjb250cm9sZSBkZSB2YWxpZGFkZSBkb3MgcHJvZHV0b3MuJywKICAgICAgb3V0Y29tZXM6ICdHYW5oZWkgcHLDqm1pbyBkZSBtZWxob3IgYXRlbmRlbnRlIGRvIHRyaW1lc3RyZSAyeC4gTG9qYSB0ZXZlIG1lbm9zIHBlcmRhcyBwb3IgdmFsaWRhZGUgZGVwb2lzIHF1ZSBhc3N1bWkgbyBjb250cm9sZS4nLAogICAgICB0YXJnZXRDb3VudHJ5OiAnSXJlbGFuZCcsCiAgICAgIHRhcmdldFJvbGU6ICcnLAogICAgfSwKICB9LAogIHsKICAgIGlkOiAnYWRtaW4nLAogICAgbGFiZWw6ICdBc3Npc3RlbnRlIEFkbWluaXN0cmF0aXZvIMK3IExvZ8Otc3RpY2EgwrcgNSBhbm9zJywKICAgIGZvcm06IHsKICAgICAgYnJUaXRsZTogJ0Fzc2lzdGVudGUgQWRtaW5pc3RyYXRpdm8nLAogICAgICBjb21wYW55OiAnRW1wcmVzYSBkZSBsb2fDrXN0aWNhIG3DqWRpbyBwb3J0ZSBlbSBTw6NvIFBhdWxvJywKICAgICAgaW5kdXN0cnk6ICdMb2fDrXN0aWNhJywKICAgICAgeWVhcnM6ICc1JywKICAgICAgc2NvcGU6ICdFc2NyaXTDs3JpbyBkZSAxMiBwZXNzb2FzLCBhcG9pbyBkaXJldG8gYSAzIGdlcmVudGVzJywKICAgICAgdG9vbHM6ICdFeGNlbCBhdmFuw6dhZG8sIFNBUCwgc2lzdGVtYSBkZSBub3RhcyBmaXNjYWlzLCBPdXRsb29rJywKICAgICAgZHV0aWVzOiAnQ29udHJvbGUgZGUgcGxhbmlsaGFzLCBzdXBvcnRlIGFvIGZpbmFuY2Vpcm8sIGVtaXNzw6NvIGRlIG5vdGFzIGZpc2NhaXMsIGNvbnRhdG8gY29tIGZvcm5lY2Vkb3Jlcywgb3JnYW5pemHDp8OjbyBkZSBkb2N1bWVudG9zLCBhcG9pbyBnZXJhbCBhbyBlc2NyaXTDs3Jpby4nLAogICAgICBvdXRjb21lczogJ0NyaWVpIHVtIGNvbnRyb2xlIG5vdm8gZGUgbm90YXMgcXVlIHJlZHV6aXUgZXJyb3MuIEFqdWRlaSBhIHJlbmVnb2NpYXIgMiBjb250cmF0b3MgY29tIGZvcm5lY2Vkb3Jlcy4nLAogICAgICB0YXJnZXRDb3VudHJ5OiAnVW5pdGVkIEtpbmdkb20nLAogICAgICB0YXJnZXRSb2xlOiAnT2ZmaWNlIENvb3JkaW5hdG9yJywKICAgIH0sCiAgfSwKICB7CiAgICBpZDogJ2Rlc2lnbmVyJywKICAgIGxhYmVsOiAnVVgvVUkgRGVzaWduZXIgwrcgU2HDumRlIMK3IDYgYW5vcycsCiAgICBmb3JtOiB7CiAgICAgIGJyVGl0bGU6ICdVWC9VSSBEZXNpZ25lcicsCiAgICAgIGNvbXBhbnk6ICdFbXByZXNhIGRlIHNhw7pkZSAodGlwbyBFdXJvZmlucyknLAogICAgICBpbmR1c3RyeTogJ1Nhw7pkZSAvIFNhYVMnLAogICAgICB5ZWFyczogJzYnLAogICAgICBzY29wZTogJ1RpbWUgZGUgZGVzaWduIGNvbSA0IHBlc3NvYXMsIG93bmVyc2hpcCBkbyBhcHAgcHJpbmNpcGFsJywKICAgICAgdG9vbHM6ICdGaWdtYSwgTWF6ZSwgSG90amFyLCBNaXJvLCBOb3Rpb24nLAogICAgICBkdXRpZXM6ICdQZXNxdWlzYSBjb20gdXN1w6FyaW9zLCBjcmlhw6fDo28gZGUgaW50ZXJmYWNlcywgY29sYWJvcmHDp8OjbyBjb20gcHJvZHV0byBlIGVuZ2VuaGFyaWEsIG1lbGhvcmlhIGRlIGZsdXhvcywgdGVzdGVzIGRlIHVzYWJpbGlkYWRlLCBkZXNpZ24gZGUgc2lzdGVtYXMuJywKICAgICAgb3V0Y29tZXM6ICdSZWZpeiBvIGZsdXhvIGRlIGFnZW5kYW1lbnRvIGUgYSB0YXhhIGRlIGNvbmNsdXPDo28gc3ViaXUgYmFzdGFudGUuIENvbnN0cnXDrSBhIHByaW1laXJhIHZlcnPDo28gZG8gZGVzaWduIHN5c3RlbSBkYSBlbXByZXNhLicsCiAgICAgIHRhcmdldENvdW50cnk6ICdHZXJtYW55JywKICAgICAgdGFyZ2V0Um9sZTogJ1NlbmlvciBQcm9kdWN0IERlc2lnbmVyJywKICAgIH0sCiAgfSwKXTsKCmNvbnN0IFRBUkdFVF9DT1VOVFJJRVMgPSBbCiAgJ0lyZWxhbmQnLCAnVW5pdGVkIEtpbmdkb20nLCAnR2VybWFueScsICdOZXRoZXJsYW5kcycsICdQb3J0dWdhbCcsCiAgJ1NwYWluJywgJ0ZyYW5jZScsICdTd2VkZW4nLCAnRGVubWFyaycsICdPdGhlciBFVScsCl07Cgpjb25zdCBJTkRVU1RSSUVTID0gWwogICdGaW50ZWNoJywgJ0JhbmNvcyAvIGZpbmFuY2Vpcm8nLCAnU2HDumRlJywgJ0Zhcm1hY8OqdXRpY2EnLCAnVmFyZWpvJywgJ0UtY29tbWVyY2UnLAogICdMb2fDrXN0aWNhJywgJ0luZMO6c3RyaWEnLCAnRWR1Y2HDp8OjbycsICdTYWFTIC8gVGVjbm9sb2dpYScsICdDb25zdWx0b3JpYScsCiAgJ0hvdGVsYXJpYScsICdDb25zdHJ1w6fDo28gY2l2aWwnLCAnU2V0b3IgcMO6YmxpY28nLCAnTcOtZGlhJywgJ091dHJvJywKXTsKCi8vIFdhdmUgU1ZHIOKAlCB1c2VkIGRlY29yYXRpdmVseSwgY29sb3IgdmlhIGN1cnJlbnRDb2xvcgpmdW5jdGlvbiBXYXZlKHsgaGVpZ2h0ID0gODAsIG9wYWNpdHkgPSAxLCBzdHlsZSA9IHt9IH0pIHsKICByZXR1cm4gKAogICAgPHN2ZyBjbGFzc05hbWU9IndhdmUtc3ZnIiB2aWV3Qm94PSIwIDAgMTIwMCA4MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgc3R5bGU9e3sgaGVpZ2h0LCBvcGFjaXR5LCAuLi5zdHlsZSB9fT4KICAgICAgPHBhdGggZD0iTTAsNDAgQzIwMCwxMCA0MDAsNzAgNjAwLDQwIEM4MDAsMTAgMTAwMCw3MCAxMjAwLDQwIEwxMjAwLDgwIEwwLDgwIFoiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICAgIDwvc3ZnPgogICk7Cn0KCi8vIENvbXBhc3MgLyBzdGFyIG1hcmsgZnJvbSBsb2dvCmZ1bmN0aW9uIFN0YXJNYXJrKHsgc2l6ZSA9IDE0LCBjb2xvciA9ICdjdXJyZW50Q29sb3InIH0pIHsKICByZXR1cm4gKAogICAgPHN2ZyB3aWR0aD17c2l6ZX0gaGVpZ2h0PXtzaXplfSB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9e2NvbG9yfT4KICAgICAgPHBhdGggZD0iTTEyIDAgTDEzLjUgMTAuNSBMMjQgMTIgTDEzLjUgMTMuNSBMMTIgMjQgTDEwLjUgMTMuNSBMMCAxMiBMMTAuNSAxMC41IFoiIC8+CiAgICA8L3N2Zz4KICApOwp9CgovLyBCcmFuZCBsb2NrdXAKZnVuY3Rpb24gQnJhbmQoeyBkaXJlY3Rpb24gPSAnYScsIHNpemUgPSAnbWQnIH0pIHsKICBjb25zdCBkaW1zID0gc2l6ZSA9PT0gJ2xnJyA/IDU2IDogc2l6ZSA9PT0gJ3NtJyA/IDMyIDogNDA7CiAgY29uc3QgZm9udFNpemUgPSBzaXplID09PSAnbGcnID8gMjggOiBzaXplID09PSAnc20nID8gMTggOiAyMjsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImJyYW5kIiBzdHlsZT17eyBmb250U2l6ZSB9fT4KICAgICAgPGltZyBzcmM9ImFzc2V0cy9sb2dvLnBuZyIgYWx0PSJBbMOpbSBkbyBNYXIiIHN0eWxlPXt7IHdpZHRoOiBkaW1zLCBoZWlnaHQ6IGRpbXMgfX0gLz4KICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBsaW5lSGVpZ2h0OiAxLjA1IH19PgogICAgICAgIDxzcGFuPkFsw6ltIGRvIE1hcjwvc3Bhbj4KICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgZm9udEZhbWlseTogJ3ZhcigtLXNhbnMpJywKICAgICAgICAgIGZvbnRTaXplOiAxMSwKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjA4ZW0nLAogICAgICAgICAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgICAgICAgICBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICBjb2xvcjogZGlyZWN0aW9uID09PSAnYScgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknLAogICAgICAgICAgZm9udFN0eWxlOiAnbm9ybWFsJywKICAgICAgICB9fT4KICAgICAgICAgIENhcnJlaXJhICYgcmVjb21lw6dvIG5vIGV4dGVyaW9yCiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCi8vIFRvYXN0IGhlbHBlcgpmdW5jdGlvbiB1c2VUb2FzdCgpIHsKICBjb25zdCBbbXNnLCBzZXRNc2ddID0gUmVhY3QudXNlU3RhdGUoJycpOwogIGNvbnN0IHNob3cgPSBSZWFjdC51c2VDYWxsYmFjaygobSkgPT4gewogICAgc2V0TXNnKG0pOwogICAgc2V0VGltZW91dCgoKSA9PiBzZXRNc2coJycpLCAxODAwKTsKICB9LCBbXSk7CiAgY29uc3Qgbm9kZSA9IG1zZyA/IDxkaXYgY2xhc3NOYW1lPSJ0b2FzdCBzaG93Ij57bXNnfTwvZGl2PiA6IG51bGw7CiAgcmV0dXJuIFtzaG93LCBub2RlXTsKfQoKT2JqZWN0LmFzc2lnbih3aW5kb3csIHsgU0FNUExFX1BFUlNPTkFTLCBUQVJHRVRfQ09VTlRSSUVTLCBJTkRVU1RSSUVTLCBXYXZlLCBTdGFyTWFyaywgQnJhbmQsIHVzZVRvYXN0IH0pOwo="}
+// Reusable visual atoms — wave decorations, brand mark, sample data
+
+const SAMPLE_PERSONAS = [
+  {
+    id: 'product',
+    label: 'Analista de Produto · Nubank · 3 anos',
+    form: {
+      brTitle: 'Analista de Produto',
+      company: 'Nubank',
+      industry: 'Fintech',
+      years: '3',
+      scope: 'Time de produto com 8 pessoas, sem reportes diretos',
+      tools: 'Jira, Figma, Excel, Confluence',
+      duties: 'Responsável por apoiar o time de produto, levantamento de requisitos, contato com stakeholders, acompanhamento de entregas, testes de funcionalidades, apoio ao time de design e tecnologia. Participação em reuniões com áreas internas.',
+      outcomes: 'Ajudei a lançar 2 features novas no app. Acho que reduzimos bugs reportados depois que comecei a fazer testes mais sistemáticos.',
+      targetCountry: 'Ireland',
+      targetCity: 'dublin',
+      targetRole: 'Product Analyst / Associate PM',
+    },
+  },
+  {
+    id: 'pharmacy',
+    label: 'Atendente de Farmácia · Drogasil · 4 anos',
+    form: {
+      brTitle: 'Atendente de Farmácia',
+      company: 'Drogasil',
+      industry: 'Varejo / Saúde',
+      years: '4',
+      scope: 'Loja com 6 atendentes, sem gestão de equipe',
+      tools: 'PDV interno, sistema de controle de estoque, balança digital',
+      duties: 'Atendimento ao cliente, orientação sobre medicamentos, organização de estoque, operação de caixa, contato com equipe, controle de validade dos produtos.',
+      outcomes: 'Ganhei prêmio de melhor atendente do trimestre 2x. Loja teve menos perdas por validade depois que assumi o controle.',
+      targetCountry: 'Ireland',
+      targetCity: 'dublin',
+      targetRole: '',
+    },
+  },
+  {
+    id: 'admin',
+    label: 'Assistente Administrativo · Logística · 5 anos',
+    form: {
+      brTitle: 'Assistente Administrativo',
+      company: 'Empresa de logística médio porte em São Paulo',
+      industry: 'Logística',
+      years: '5',
+      scope: 'Escritório de 12 pessoas, apoio direto a 3 gerentes',
+      tools: 'Excel avançado, SAP, sistema de notas fiscais, Outlook',
+      duties: 'Controle de planilhas, suporte ao financeiro, emissão de notas fiscais, contato com fornecedores, organização de documentos, apoio geral ao escritório.',
+      outcomes: 'Criei um controle novo de notas que reduziu erros. Ajudei a renegociar 2 contratos com fornecedores.',
+      targetCountry: 'United Kingdom',
+      targetCity: 'london',
+      targetRole: 'Office Coordinator',
+    },
+  },
+  {
+    id: 'designer',
+    label: 'UX/UI Designer · Saúde · 6 anos',
+    form: {
+      brTitle: 'UX/UI Designer',
+      company: 'Empresa de saúde (tipo Eurofins)',
+      industry: 'Saúde / SaaS',
+      years: '6',
+      scope: 'Time de design com 4 pessoas, ownership do app principal',
+      tools: 'Figma, Maze, Hotjar, Miro, Notion',
+      duties: 'Pesquisa com usuários, criação de interfaces, colaboração com produto e engenharia, melhoria de fluxos, testes de usabilidade, design de sistemas.',
+      outcomes: 'Refiz o fluxo de agendamento e a taxa de conclusão subiu bastante. Construí a primeira versão do design system da empresa.',
+      targetCountry: 'Germany',
+      targetCity: 'berlin',
+      targetRole: 'Senior Product Designer',
+    },
+  },
+];
+
+const TARGET_COUNTRIES = [
+  'Ireland', 'United Kingdom', 'Germany', 'Netherlands', 'Portugal',
+  'Spain', 'France', 'Sweden', 'Denmark', 'Other EU',
+];
+
+const INDUSTRIES = [
+  'Fintech', 'Bancos / financeiro', 'Saúde', 'Farmacêutica', 'Varejo', 'E-commerce',
+  'Logística', 'Indústria', 'Educação', 'SaaS / Tecnologia', 'Consultoria',
+  'Hotelaria', 'Construção civil', 'Setor público', 'Mídia', 'Outro',
+];
+
+// Wave SVG — used decoratively, color via currentColor
+function Wave({ height = 80, opacity = 1, style = {} }) {
+  return (
+    <svg className="wave-svg" viewBox="0 0 1200 80" preserveAspectRatio="none" style={{ height, opacity, ...style }}>
+      <path d="M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40 L1200,80 L0,80 Z" fill="currentColor" />
+    </svg>
+  );
+}
+
+// Compass / star mark from logo
+function StarMark({ size = 14, color = 'currentColor' }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill={color}>
+      <path d="M12 0 L13.5 10.5 L24 12 L13.5 13.5 L12 24 L10.5 13.5 L0 12 L10.5 10.5 Z" />
+    </svg>
+  );
+}
+
+// Maritime blue top bar (editorial is the default everywhere else)
+function SiteHeader({ children, label = 'Principal' }) {
+  return (
+    <header className="adm-header-maritime">
+      <div className="wrap">
+        <nav className="nav" aria-label={label}>{children}</nav>
+      </div>
+    </header>
+  );
+}
+
+// Brand lockup
+function Brand({ direction = 'a', size = 'md' }) {
+  const dims = size === 'lg' ? 56 : size === 'sm' ? 32 : 40;
+  const fontSize = size === 'lg' ? 28 : size === 'sm' ? 18 : 22;
+  return (
+    <div className="brand" style={{ fontSize }}>
+      <img src="assets/logo.png" alt="Além do Mar" style={{ width: dims, height: dims }} />
+      <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.05 }}>
+        <span>Além do Mar</span>
+        <span style={{
+          fontFamily: 'var(--sans)',
+          fontSize: 11,
+          letterSpacing: '0.08em',
+          textTransform: 'uppercase',
+          fontWeight: 500,
+          color: direction === 'a' ? 'var(--a-text-2)' : 'var(--b-text-2)',
+          fontStyle: 'normal',
+        }}>
+          Carreira & recomeço no exterior
+        </span>
+      </div>
+    </div>
+  );
+}
+
+// Toast helper
+function useToast() {
+  const [msg, setMsg] = React.useState('');
+  const show = React.useCallback((m) => {
+    setMsg(m);
+    setTimeout(() => setMsg(''), 1800);
+  }, []);
+  const node = msg ? <div className="toast show">{msg}</div> : null;
+  return [show, node];
+}
+
+function CityChips({ direction, value, onChange, size = 'md', activeVariant = 'city' }) {
+  const dirA = direction === 'a';
+  const maritime = activeVariant === 'maritime';
+  const cities = window.AdM_CITIES ? window.AdM_CITIES.list : [];
+  const pad = size === 'sm' ? '6px 12px' : '8px 16px';
+  const fontSize = size === 'sm' ? 12 : 13;
+
+  return (
+    <div
+      className={'city-chips' + (maritime ? ' city-chips--maritime-active' : '')}
+      role="group"
+      aria-label="Cidade de destino"
+    >
+      {cities.map((c) => {
+        const active = value === c.id;
+        const accent = dirA ? c.color : c.colorB;
+        const activeBg = maritime ? 'var(--b-bg)' : accent;
+        const activeBorder = maritime ? 'var(--b-bg)' : accent;
+        const activeColor = maritime ? 'var(--b-text)' : '#fff';
+        const idleBorder = maritime
+          ? 'rgba(11, 27, 46, 0.22)'
+          : `color-mix(in oklch, ${accent} 35%, transparent)`;
+        return (
+          <button
+            key={c.id}
+            type="button"
+            className={'city-chip' + (active ? ' active' : '')}
+            aria-pressed={active}
+            onClick={() => onChange(c.id)}
+            style={{
+              padding: pad,
+              fontSize,
+              '--chip-border': dirA ? 'var(--a-rule)' : 'var(--b-rule)',
+              '--chip-bg': dirA ? '#fff' : 'rgba(255,255,255,0.04)',
+              '--chip-color': dirA ? 'var(--a-text-2)' : 'var(--b-text-2)',
+              '--chip-active-bg': active ? activeBg : undefined,
+              '--chip-active-border': activeBorder,
+              '--chip-active-color': activeColor,
+              borderColor: !active ? idleBorder : activeBorder,
+            }}
+          >
+            <span
+              className="city-chip-dot"
+              style={{ background: active && maritime ? 'var(--b-teal)' : accent }}
+              aria-hidden="true"
+            />
+            {c.flag} {c.label}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function CvDiffGrid({ direction, highlightCity }) {
+  const dirA = direction === 'a';
+  if (!window.AdM_CITIES) return null;
+  const cityIds = ['dublin', 'london', 'berlin'];
+
+  return (
+    <div className="cv-diff-grid">
+      {cityIds.map((id) => {
+        const meta = window.AdM_CITIES.byId[id];
+        const block = window.AdM_CITIES.cvDiffTips[id];
+        const accent = dirA ? meta.color : meta.colorB;
+        const highlighted = highlightCity === id;
+        return (
+          <div
+            key={id}
+            className="cv-diff-card"
+            style={{
+              '--diff-accent': accent,
+              '--diff-border': highlighted
+                ? accent
+                : (dirA ? 'var(--a-rule)' : 'var(--b-rule)'),
+              '--diff-bg': highlighted
+                ? (dirA ? '#fff' : 'rgba(255,255,255,0.04)')
+                : (dirA ? '#fff' : 'rgba(255,255,255,0.02)'),
+              '--diff-text': dirA ? 'var(--a-text-2)' : 'var(--b-text-2)',
+              boxShadow: highlighted ? `0 0 0 1px ${accent}` : 'none',
+            }}
+          >
+            <h3><span aria-hidden="true">{meta.flag}</span> {block.title}</h3>
+            {block.tips.map((tip) => (
+              <div key={tip} className="cv-diff-item">{tip}</div>
+            ))}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+Object.assign(window, { SAMPLE_PERSONAS, TARGET_COUNTRIES, INDUSTRIES, Wave, StarMark, SiteHeader, Brand, useToast, CityChips, CvDiffGrid });

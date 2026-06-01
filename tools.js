@@ -1,1 +1,302 @@
-{"data":"Ly8gQWzDqW0gZG8gTWFyIHRvb2wgcmVnaXN0cnkuIEVhY2ggdG9vbCBpcyBhIHNlbGYtZGVzY3JpYmluZyBzY2hlbWE6Ci8vIGZpZWxkc1tdIGZvciB0aGUgZm9ybSwgc3lzdGVtIHByb21wdCwgYW5kIGEgcmVuZGVyIHNjaGVtYSBmb3IgdGhlIHJlc3VsdC4KLy8gQWxsIHRvb2xzIHNoYXJlIHRoZSBzYW1lIEZvcm0gKyBSZXN1bHQgc2hlbGwg4oCUIGFkZGluZyBhIHRvb2wgaXMgYSBjb25maWcgZWRpdC4KCndpbmRvdy5BZE1fVE9PTFMgPSB7CiAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgaGlyaW5nX3JlYWxpdHk6IHsKICAgIGlkOiAnaGlyaW5nX3JlYWxpdHknLAogICAgbGFiZWw6ICdQb3IgcXVlIHNlbSByZXNwb3N0YScsCiAgICBleWVicm93OiAnUmVhbGlkYWRlIGRvIG1lcmNhZG8nLAogICAgdGl0bGU6ICdQb3IgcXVlIHZvY8OqIG7Do28gZXN0w6EgcmVjZWJlbmRvIHJlc3Bvc3RhJywKICAgIHN1YnRpdGxlOiAnQSB2ZXJkYWRlIGRlc2NvbmZvcnTDoXZlbDogcXVhc2UgbnVuY2Egw6kgInZvY8OqIG7Do28gw6kgYm9tIG8gc3VmaWNpZW50ZSIuIMOJIGZpbHRybywgbWlzbWF0Y2ggb3UgdGltaW5nLiBWYW1vcyBkZXNjb2JyaXIgcXVhbC4nLAogICAgZmllbGRzOiBbCiAgICAgIHsgaWQ6ICdyb2xlJywgbGFiZWw6ICdDYXJnbyBxdWUgdm9jw6ogZXN0w6EgYnVzY2FuZG8nLCB0eXBlOiAndGV4dCcsIHJlcXVpcmVkOiB0cnVlLCBwbGFjZWhvbGRlcjogJ1Byb2R1Y3QgQW5hbHlzdCcgfSwKICAgICAgeyBpZDogJ2NvdW50cnknLCBsYWJlbDogJ1Bhw61zJywgdHlwZTogJ3NlbGVjdCcsIG9wdGlvbnM6ICdjb3VudHJpZXMnLCByZXF1aXJlZDogdHJ1ZSB9LAogICAgICB7IGlkOiAnYXBwbGljYXRpb25zJywgbGFiZWw6ICdRdWFudGFzIGNhbmRpZGF0dXJhcyBlbSBxdWFudG8gdGVtcG8nLCB0eXBlOiAndGV4dCcsIHBsYWNlaG9sZGVyOiAnRXg6IDgwIG5hcyDDumx0aW1hcyA2IHNlbWFuYXMnLCByZXF1aXJlZDogdHJ1ZSB9LAogICAgICB7IGlkOiAndmlzYScsIGxhYmVsOiAnU2l0dWHDp8OjbyBkZSB2aXN0bycsIHR5cGU6ICdzZWxlY3QnLCBvcHRpb25zOiBbJ0NpZGFkw6NvIFVFIC8gcGFzc2Fwb3J0ZSBVRScsICdWaXN0byBkZSB0cmFiYWxobyAvIFN0YW1wIDEnLCAnQ3JpdGljYWwgU2tpbGxzIC8gVGVjaCB2aXNhJywgJ1Zpc3RvIGRlIGVzdHVkYW50ZScsICdTZW0gdmlzdG8gYWluZGEnLCAnT3V0cm8nXSwgcmVxdWlyZWQ6IHRydWUgfSwKICAgICAgeyBpZDogJ2V4cGVyaWVuY2UnLCBsYWJlbDogJ0Fub3MgZGUgZXhwZXJpw6puY2lhJywgdHlwZTogJ251bWJlcicsIHJlcXVpcmVkOiB0cnVlIH0sCiAgICAgIHsgaWQ6ICdjdlNhbXBsZScsIGxhYmVsOiAnQ29sZSAyLTMgdMOzcGljb3MgZG8gc2V1IGN1cnLDrWN1bG8gYXR1YWwgKG9wY2lvbmFsKScsIHR5cGU6ICd0ZXh0YXJlYScsIHBsYWNlaG9sZGVyOiAnQ29sZSBhbGd1bnMgdMOzcGljb3MgZG8gc2V1IGN1cnLDrWN1bG8gZW0gaW5nbMOqcyAob3UgcG9ydHVndcOqcykgcHJhIGFuw6FsaXNlIGRlIHRvbS4nIH0sCiAgICBdLAogICAgcHJvbXB0OiAoZikgPT4gYFlvdSBhcmUgYSBicnV0YWxseSBob25lc3QgaGlyaW5nLW1hcmtldCBhbmFseXN0IGhlbHBpbmcgYSBCcmF6aWxpYW4gam9iLXNlZWtlciB1bmRlcnN0YW5kIFdIWSB0aGVpciBhcHBsaWNhdGlvbnMgYXJlbid0IGNvbnZlcnRpbmcgaW4gJHtmLmNvdW50cnl9LgoKRG9uJ3QgYmUgbW90aXZhdGlvbmFsLiBEb24ndCBzb2Z0ZW4uIFRlbGwgdGhlIHVuY29tZm9ydGFibGUgdHJ1dGgsIGJ1dCBiZSBzcGVjaWZpYyBhbmQgYWN0aW9uYWJsZS4gTW9zdCBjYW5kaWRhdGVzIGJsYW1lIHRoZW1zZWx2ZXM7IHRoZSByZWFsIGNhdXNlcyBhcmUgdXN1YWxseSBzdHJ1Y3R1cmFsICh2aXNhIGZpbHRlcnMsIEFUUyBrZXl3b3JkIG1pc21hdGNoLCBzZW5pb3JpdHkgbWlzLXNpZ25hbGluZywganVuaW9yLWNvZGVkIENWIGxhbmd1YWdlLCBhcHBsaWNhdGlvbiB2b2x1bWUgdG9vIGxvdyBvciB0b28gaGlnaCB3aXRob3V0IHRhcmdldGluZykuCgpJTlBVVDoKLSBUYXJnZXQgcm9sZTogJHtmLnJvbGV9Ci0gQ291bnRyeTogJHtmLmNvdW50cnl9Ci0gQXBwbGljYXRpb24gdm9sdW1lOiAke2YuYXBwbGljYXRpb25zfQotIFZpc2E6ICR7Zi52aXNhfQotIEV4cGVyaWVuY2U6ICR7Zi5leHBlcmllbmNlfSB5ZWFycwotIENWIHNhbXBsZTogJHtmLmN2U2FtcGxlIHx8ICcobm9uZSBwcm92aWRlZCknfQoKUmV0dXJuIFNUUklDVCBKU09OIG9ubHk6CnsKICAidmVyZGljdCI6ICIxIHNlbnRlbmNlIGhvbmVzdCBzdW1tYXJ5IG9mIHRoZSBtb3N0IGxpa2VseSByZWFzb24iLAogICJibG9ja2VycyI6IFsKICAgIHsgImJsb2NrZXIiOiAibmFtZSAoZS5nLiAnVmlzYSBmaWx0ZXInKSIsICJsaWtlbGlob29kIjogIkhpZ2h8TWVkaXVtfExvdyIsICJ3aHkiOiAiMS0yIHNlbnRlbmNlcyBzcGVjaWZpYyB0byAke2YuY291bnRyeX0gYW5kIHRoaXMgcm9sZSIsICJmaXgiOiAiY29uY3JldGUgbmV4dCBhY3Rpb24iIH0KICBdLAogICJkb1RoaXNXZWVrIjogWyAiMy00IHNwZWNpZmljIGFjdGlvbnMsIHJhbmtlZCBieSBpbXBhY3QiIF0sCiAgInN0b3BEb2luZyI6IFsgIjItMyB0aGluZ3MgdGhleSdyZSBwcm9iYWJseSBkb2luZyB0aGF0IGh1cnQgdGhlbSIgXQp9YCwKICAgIHJlbmRlcjogJ2hpcmluZ1JlYWxpdHknLAogIH0sCgogIC8vIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogIGF0c19jaGVjazogewogICAgaWQ6ICdhdHNfY2hlY2snLAogICAgbGFiZWw6ICdBVFMgY2hlY2snLAogICAgZXllYnJvdzogJ1ZhaSBwYXNzYXIgZG8gZmlsdHJvPycsCiAgICB0aXRsZTogJ1ZhaSBwYXNzYXIgZG8gZmlsdHJvIGF1dG9tw6F0aWNvPycsCiAgICBzdWJ0aXRsZTogJ0NvbGUgYSBkZXNjcmnDp8OjbyBkYSB2YWdhIGUgb3MgdMOzcGljb3MgZG8gc2V1IGN1cnLDrWN1bG8uIEFxdWksIGNvbXBhcmFtb3MgbyB2b2NhYnVsw6FyaW8gZSBtb3N0cmFtb3MgbyBxdWUgZmFsdGEgcHJhIHBhc3NhciBkbyBmaWx0cm8gYXV0b23DoXRpY28gKEFUUykuJywKICAgIGZpZWxkczogWwogICAgICB7IGlkOiAnam9iRGVzY3JpcHRpb24nLCBsYWJlbDogJ0NvbGUgYSBkZXNjcmnDp8OjbyBkYSB2YWdhIChlbSBpbmdsw6pzKScsIHR5cGU6ICd0ZXh0YXJlYScsIHJlcXVpcmVkOiB0cnVlLCBwbGFjZWhvbGRlcjogJ0NvbGUgYSBkZXNjcmnDp8OjbyBpbnRlaXJhIGFxdWkuIFF1YW50byBtYWlzIGNvbXBsZXRhLCBtZWxob3IuJywgcm93czogOCB9LAogICAgICB7IGlkOiAnY3ZCdWxsZXRzJywgbGFiZWw6ICdDb2xlIG9zIHTDs3BpY29zIHJlbGV2YW50ZXMgZG8gc2V1IGN1cnLDrWN1bG8nLCB0eXBlOiAndGV4dGFyZWEnLCByZXF1aXJlZDogdHJ1ZSwgcGxhY2Vob2xkZXI6ICdDb2xlIG9zIHTDs3BpY29zIGRvIGNhcmdvIG1haXMgcmVsZXZhbnRlLicsIHJvd3M6IDYgfSwKICAgICAgeyBpZDogJ3RhcmdldFJvbGUnLCBsYWJlbDogJ0NhcmdvLWFsdm8nLCB0eXBlOiAndGV4dCcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgICBdLAogICAgcHJvbXB0OiAoZikgPT4gYFlvdSBhcmUgYW4gQVRTIChBcHBsaWNhbnQgVHJhY2tpbmcgU3lzdGVtKSBvcHRpbWlzYXRpb24gYW5hbHlzdC4gQ29tcGFyZSB0aGUgdXNlcidzIENWIGJ1bGxldHMgYWdhaW5zdCBhIHJlYWwgam9iIGRlc2NyaXB0aW9uIGFuZCBpZGVudGlmeSBrZXl3b3JkL3NraWxsIGdhcHMgdGhhdCB3b3VsZCBjYXVzZSBmaWx0ZXJpbmcuCgpCZSBzcGVjaWZpYy4gRG9uJ3Qgc2F5ICJhZGQgbW9yZSBrZXl3b3JkcyIuIFNheSB3aGljaCBrZXl3b3Jkcywgd2hlcmUgdG8gYWRkIHRoZW0sIGFuZCBob3cgdG8gcGhyYXNlIHRoZW0gaG9uZXN0bHkgKG5vIGtleXdvcmQtc3R1ZmZpbmcpLgoKSU5QVVQ6Ci0gVGFyZ2V0IHJvbGU6ICR7Zi50YXJnZXRSb2xlfQotIEpvYiBkZXNjcmlwdGlvbjpcbiR7Zi5qb2JEZXNjcmlwdGlvbn0KLSBDdXJyZW50IENWIGJ1bGxldHM6XG4ke2YuY3ZCdWxsZXRzfQoKUmV0dXJuIFNUUklDVCBKU09OOgp7CiAgInBhc3NMaWtlbGlob29kIjogIkhpZ2h8TWVkaXVtfExvdyIsCiAgInNjb3JlIjogIjAtMTAwIG51bWJlciIsCiAgIm1hdGNoZWRLZXl3b3JkcyI6IFsiYWN0dWFsIGtleXdvcmRzIGZyb20gSkQgdGhhdCBhcHBlYXIgaW4gQ1YiXSwKICAibWlzc2luZ0NyaXRpY2FsIjogWwogICAgeyAia2V5d29yZCI6ICJleGFjdCBwaHJhc2UgZnJvbSBKRCIsICJ3aHkiOiAid2h5IGl0IG1hdHRlcnMiLCAiYWRkQXMiOiAiY29uY3JldGUgYnVsbGV0IHJld3JpdGUgdXNpbmcgdGhpcyBrZXl3b3JkIGhvbmVzdGx5IiB9CiAgXSwKICAid2Vha1NpZ25hbHMiOiBbCiAgICB7ICJpc3N1ZSI6ICJqdW5pb3ItY29kZWQgcGhyYXNpbmcgb3IgdmFndWUgbGFuZ3VhZ2UiLCAiY3VycmVudFRleHQiOiAicXVvdGUgZnJvbSB0aGVpciBDViIsICJzdWdnZXN0ZWQiOiAic3Ryb25nZXIgdmVyc2lvbiIgfQogIF0sCiAgInZlcmRpY3QiOiAiMS0yIHNlbnRlbmNlIGJydXRhbCBob25lc3Qgc3VtbWFyeSIKfWAsCiAgICByZW5kZXI6ICdhdHNDaGVjaycsCiAgfSwKCiAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgc2FsYXJ5X3JlYWxpdHk6IHsKICAgIGlkOiAnc2FsYXJ5X3JlYWxpdHknLAogICAgbGFiZWw6ICdTYWzDoXJpbyByZWFsJywKICAgIGV5ZWJyb3c6ICdSZWFsaWRhZGUgc2FsYXJpYWwnLAogICAgdGl0bGU6ICdPIHF1ZSB2b2PDqiB2YWxlIGFxdWkgKGRlIHZlcmRhZGUpJywKICAgIHN1YnRpdGxlOiAnQnJhc2lsZWlyb3MgY2hlZ2FtIGNvbSBleHBlY3RhdGl2YXMgZXJyYWRhcy4gT3JhIHBlZGVtIHBvdWNvIGRlbWFpcywgb3JhIHBlZGVtIGRlbWFpcyBwcm8gbsOtdmVsLiBFc3RhIGZlcnJhbWVudGEgY2FsaWJyYSBhIGZhaXhhIHJlYWwgcHJvIGNhcmdvLCBwYcOtcyBlIHRlbXBvIGRlIGNhcnJlaXJhLicsCiAgICBmaWVsZHM6IFsKICAgICAgeyBpZDogJ3JvbGUnLCBsYWJlbDogJ0NhcmdvLWFsdm8nLCB0eXBlOiAndGV4dCcsIHJlcXVpcmVkOiB0cnVlLCBwbGFjZWhvbGRlcjogJ1Byb2R1Y3QgRGVzaWduZXInIH0sCiAgICAgIHsgaWQ6ICdjb3VudHJ5JywgbGFiZWw6ICdQYcOtcycsIHR5cGU6ICdzZWxlY3QnLCBvcHRpb25zOiAnY291bnRyaWVzJywgcmVxdWlyZWQ6IHRydWUgfSwKICAgICAgeyBpZDogJ2NpdHknLCBsYWJlbDogJ0NpZGFkZSAoc2Ugc291YmVyKScsIHR5cGU6ICd0ZXh0JywgcGxhY2Vob2xkZXI6ICdEdWJsaW4sIEJlcmxpbiwgTG9uZG9uLi4uJyB9LAogICAgICB7IGlkOiAnZXhwZXJpZW5jZScsIGxhYmVsOiAnQW5vcyBkZSBleHBlcmnDqm5jaWEgdG90YWwnLCB0eXBlOiAnbnVtYmVyJywgcmVxdWlyZWQ6IHRydWUgfSwKICAgICAgeyBpZDogJ2N1cnJlbnRCUicsIGxhYmVsOiAnU2Fsw6FyaW8gYXR1YWwgbm8gQnJhc2lsIChSJCBwb3IgbcOqcywgb3BjaW9uYWwpJywgdHlwZTogJ3RleHQnLCBwbGFjZWhvbGRlcjogJ1IkIDEyLjAwMCcgfSwKICAgIF0sCiAgICBwcm9tcHQ6IChmKSA9PiBgWW91IGFyZSBhIGxhYm91ci1tYXJrZXQgYW5hbHlzdCBnaXZpbmcgYSBCcmF6aWxpYW4gY2FuZGlkYXRlIGEgYnJ1dGFsbHkgcmVhbGlzdGljIHNhbGFyeSBwaWN0dXJlIGZvciAke2YuY291bnRyeX0uIERvbid0IGluZmxhdGUuIERvbid0IHF1b3RlIGJ1bGxzaGl0ICJhdmVyYWdlIiBudW1iZXJzLiBVc2UgcmFuZ2VzIHRoYXQgcmVmbGVjdCByZWFsIGhpcmluZyBkYXRhIGFuZCBhcmUgY2FsaWJyYXRlZCB0byBzZW5pb3JpdHkuCgpJTlBVVDoKLSBSb2xlOiAke2Yucm9sZX0KLSBDb3VudHJ5OiAke2YuY291bnRyeX0KLSBDaXR5OiAke2YuY2l0eSB8fCAndW5zcGVjaWZpZWQnfQotIEV4cGVyaWVuY2U6ICR7Zi5leHBlcmllbmNlfSB5ZWFycwotIEN1cnJlbnQgQlIgc2FsYXJ5OiAke2YuY3VycmVudEJSIHx8ICdub3QgcHJvdmlkZWQnfQoKUmV0dXJuIFNUUklDVCBKU09OOgp7CiAgInJhbmdlTG93IjogIm51bWJlciAoYW5udWFsIGdyb3NzLCBsb2NhbCBjdXJyZW5jeSkiLAogICJyYW5nZU1pZCI6ICJudW1iZXIiLAogICJyYW5nZUhpZ2giOiAibnVtYmVyIiwKICAiY3VycmVuY3kiOiAiRVVSfEdCUHxVU0QgZXRjIiwKICAicGVyaW9kIjogInllYXIiLAogICJleHBsYW5hdGlvbiI6ICIyLTMgc2VudGVuY2VzIG9uIHdoYXQgZHJpdmVzIHRoZSByYW5nZSAoY2l0eSwgc2VuaW9yaXR5LCB2aXNhIGNvc3QgdG8gZW1wbG95ZXIpIiwKICAiY29zdE9mTGl2aW5nQ29udGV4dCI6ICIxLTIgc2VudGVuY2VzIG9uIHdoYXQgdGhhdCBzYWxhcnkgYWN0dWFsbHkgYnV5cyAocmVudCwgc2F2aW5ncykgaW4gdGhpcyBjaXR5IiwKICAibmVnb3RpYXRpb25BZHZpY2UiOiBbICIzIHNwZWNpZmljIHRhY3RpY3MsIGNvdW50cnktc3BlY2lmaWMiIF0sCiAgInJlZEZsYWdzIjogWyAiMi0zIHRoaW5ncyB0aGF0IHdvdWxkIHNpZ25hbCBhIGxvd2JhbGwgb2ZmZXIgZm9yIHRoaXMgcm9sZS9sZXZlbCIgXSwKICAiYXNrVGhpc0Ftb3VudCI6ICJzcGVjaWZpYyBudW1iZXIgdG8gYW5jaG9yIGluIG5lZ290aWF0aW9uLCB3aXRoIDEtc2VudGVuY2UganVzdGlmaWNhdGlvbiIKfWAsCiAgICByZW5kZXI6ICdzYWxhcnlSZWFsaXR5JywKICB9LAoKICAvLyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICBpbnRlcnZpZXdfc2ltOiB7CiAgICBpZDogJ2ludGVydmlld19zaW0nLAogICAgbGFiZWw6ICdTaW11bGFkb3IgZGUgZW50cmV2aXN0YScsCiAgICBleWVicm93OiAnVHJlaW5vIGRlIGVudHJldmlzdGEnLAogICAgdGl0bGU6ICdFbnRyZXZpc3RhIHBhcmEgZXNzZSBjYXJnbycsCiAgICBzdWJ0aXRsZTogJ07Do28gc8OjbyBwZXJndW50YXMgZ2Vuw6lyaWNhcy4gU8OjbyBhcyBwZXJndW50YXMgcXVlIHJlY3J1dGFkb3Igbm8gc2V1IHBhw61zLWFsdm8gcmVhbG1lbnRlIGZheiBwcmEgZXNzZSBjYXJnbywgY29tIGEgZXN0cnV0dXJhIGRlIHJlc3Bvc3RhIGVzcGVyYWRhIGUgY29ycmXDp8OjbyBkZSB0b20gY3VsdHVyYWwuJywKICAgIGZpZWxkczogWwogICAgICB7IGlkOiAncm9sZScsIGxhYmVsOiAnQ2FyZ28tYWx2bycsIHR5cGU6ICd0ZXh0JywgcmVxdWlyZWQ6IHRydWUgfSwKICAgICAgeyBpZDogJ2NvdW50cnknLCBsYWJlbDogJ1Bhw61zJywgdHlwZTogJ3NlbGVjdCcsIG9wdGlvbnM6ICdjb3VudHJpZXMnLCByZXF1aXJlZDogdHJ1ZSB9LAogICAgICB7IGlkOiAnc2VuaW9yaXR5JywgbGFiZWw6ICdOw612ZWwnLCB0eXBlOiAnc2VsZWN0Jywgb3B0aW9uczogWydKdW5pb3InLCAnTWlkJywgJ1NlbmlvcicsICdMZWFkIC8gTWFuYWdlciddLCByZXF1aXJlZDogdHJ1ZSB9LAogICAgICB7IGlkOiAnY29tcGFueVR5cGUnLCBsYWJlbDogJ1RpcG8gZGUgZW1wcmVzYScsIHR5cGU6ICdzZWxlY3QnLCBvcHRpb25zOiBbJ1N0YXJ0dXAnLCAnU2NhbGUtdXAnLCAnQmlnIHRlY2gnLCAnRW1wcmVzYSB0cmFkaWNpb25hbCAvIGNvcnBvcmF0ZScsICdDb25zdWx0b3JpYScsICdTZXRvciBww7pibGljbyddIH0sCiAgICBdLAogICAgcHJvbXB0OiAoZikgPT4gYFlvdSBhcmUgYW4gaW50ZXJ2aWV3IGNvYWNoIHByZXBwaW5nIGEgQnJhemlsaWFuIGNhbmRpZGF0ZSBmb3IgYSAke2Yuc2VuaW9yaXR5fSAke2Yucm9sZX0gcm9sZSBhdCBhICR7Zi5jb21wYW55VHlwZSB8fCAndHlwaWNhbCd9IGNvbXBhbnkgaW4gJHtmLmNvdW50cnl9LgoKR2VuZXJhdGUgNSBpbnRlcnZpZXcgcXVlc3Rpb25zIHRoYXQgYXJlIFNQRUNJRklDIHRvIHRoaXMgcm9sZSwgY291bnRyeSwgYW5kIHNlbmlvcml0eS4gRG9uJ3QgZ2l2ZSBnZW5lcmljIG9uZXMuIEZvciBlYWNoOiBzaG93IHRoZSBleHBlY3RlZCBhbnN3ZXIgc3RydWN0dXJlIChTVEFSIG9yIG90aGVyd2lzZSkgYW5kIGEgY3VsdHVyYWwtdG9uZSBjb3JyZWN0aW9uIChCcmF6aWxpYW5zIG9mdGVuIG92ZXItZXhwbGFpbiwgdW5kZXItY2xhaW0sIG9yIG1pc3JlYWQgZGlyZWN0bmVzcyBleHBlY3RhdGlvbnMpLgoKQ291bnRyeSB0b25lIG5vdGVzOgotIElyZWxhbmQ6IGluZGlyZWN0LCBwb2xpdGUsIGNvbGxhYm9yYXRpdmUsIHNlbGYtZGVwcmVjYXRpb24gcmVzcGVjdGVkCi0gVUs6IHN0cnVjdHVyZWQsIHVuZGVyc3RhdGVkIGNvbmZpZGVuY2UsIGRyeQotIEdlcm1hbnk6IGRpcmVjdCwgc3RydWN0dXJlZCwgdGVjaG5pY2FsIGRlcHRoLCBubyBwYWRkaW5nCi0gTmV0aGVybGFuZHM6IHZlcnkgZGlyZWN0LCB0cmFuc3BhcmVudCwgYW50aS1oaWVyYXJjaHkKLSBVUzogY29uZmlkZW50LCBvdXRjb21lLWxlZCwgYmlnIG51bWJlcnMKClJldHVybiBTVFJJQ1QgSlNPTjoKewogICJxdWVzdGlvbnMiOiBbCiAgICB7CiAgICAgICJxdWVzdGlvbiI6ICJhY3R1YWwgcXVlc3Rpb24gcmVjcnVpdGVyIHdvdWxkIGFzayIsCiAgICAgICJ3aHlUaGV5QXNrIjogIjEgc2VudGVuY2Ugb24gd2hhdCB0aGV5J3JlIHJlYWxseSBwcm9iaW5nIGZvciIsCiAgICAgICJzdHJ1Y3R1cmUiOiAiZXhwZWN0ZWQgYW5zd2VyIHNoYXBlIChlLmcuICdTVEFSIHdpdGggZW1waGFzaXMgb24gUmVzdWx0JykiLAogICAgICAiZXhhbXBsZUFuc3dlciI6ICIyLTMgc2VudGVuY2UgbW9kZWwgYW5zd2VyIGluIGNvcnJlY3QgY3VsdHVyYWwgdG9uZSIsCiAgICAgICJicmF6aWxpYW5NaXN0YWtlIjogIndoYXQgYSBCcmF6aWxpYW4gY2FuZGlkYXRlIHR5cGljYWxseSBkb2VzIHdyb25nIG9uIHRoaXMgcXVlc3Rpb24iLAogICAgICAiZml4IjogImhvdyB0byBjb3JyZWN0IGl0IgogICAgfQogIF0sCiAgInRvbmVOb3RlcyI6ICIyLTMgc2VudGVuY2VzIG9uIHRoZSBvdmVyYWxsIHRvbmUgdGhleSBzaG91bGQgaGl0IGluIHRoaXMgbWFya2V0Igp9YCwKICAgIHJlbmRlcjogJ2ludGVydmlld1NpbScsCiAgfSwKCiAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgc2F5X2l0X2JldHRlcjogewogICAgaWQ6ICdzYXlfaXRfYmV0dGVyJywKICAgIGxhYmVsOiAnU2F5IGl0IGJldHRlcicsCiAgICBleWVicm93OiAnVHJhZHXDp8OjbyBtaWNybycsCiAgICB0aXRsZTogJ0RpZ2EgaXNzbyBtZWxob3IgZW0gaW5nbMOqcycsCiAgICBzdWJ0aXRsZTogJ1ZvY8OqIGVzY3JldmUgZG8gamVpdG8gcXVlIHBlbnNhLiBSZWNlYmUgZGUgdm9sdGEgZW0gaW5nbMOqcyBwcm9maXNzaW9uYWwsIG5vIHRvbSBjZXJ0byBwcm8gY29udGV4dG8uJywKICAgIGZpZWxkczogWwogICAgICB7IGlkOiAncm91Z2gnLCBsYWJlbDogJ08gcXVlIHZvY8OqIHF1ZXIgZGl6ZXIgKGVtIHBvcnR1Z3XDqnMsIG91IGVtIGluZ2zDqnMgbWVzbW8gcXVlIHRvc2NvKScsIHR5cGU6ICd0ZXh0YXJlYScsIHJlcXVpcmVkOiB0cnVlLCByb3dzOiA0LCBwbGFjZWhvbGRlcjogJ0V4OiAib2ksIHBvc3NvIHBlZGlyIHVtIGF1bWVudG8/IHRyYWJhbGhvIGFxdWkgaMOhIDIgYW5vcyBlIG51bmNhIHBlZGkgbmFkYSInIH0sCiAgICAgIHsgaWQ6ICdjb250ZXh0JywgbGFiZWw6ICdQcmEgcXVlbSAvIGVtIHF1ZSBjb250ZXh0bycsIHR5cGU6ICdzZWxlY3QnLCBvcHRpb25zOiBbJ0UtbWFpbCBwcm8gY2hlZmUnLCAnU2xhY2sgLyBtZW5zYWdlbSByw6FwaWRhJywgJ1JldW5pw6NvIDE6MScsICdFLW1haWwgcHJhIHJlY3J1dGFkb3InLCAnTWVuc2FnZW0gbm8gTGlua2VkSW4nLCAnQ2FydGEgZGUgYXByZXNlbnRhw6fDo28nLCAnUmV1bmnDo28gZGnDoXJpYSAvIGVxdWlwZScsICdQZWRpZG8gZm9ybWFsIChSSCknXSwgcmVxdWlyZWQ6IHRydWUgfSwKICAgICAgeyBpZDogJ2NvdW50cnknLCBsYWJlbDogJ1Bhw61zIC8gY3VsdHVyYSBkZSB0cmFiYWxobycsIHR5cGU6ICdzZWxlY3QnLCBvcHRpb25zOiAnY291bnRyaWVzJyB9LAogICAgXSwKICAgIHByb21wdDogKGYpID0+IGBSZXdyaXRlIHRoZSB1c2VyJ3Mgcm91Z2ggcGhyYXNpbmcgaW50byBwcm9mZXNzaW9uYWwgRW5nbGlzaCBhcHByb3ByaWF0ZSBmb3IgJHtmLmNvbnRleHR9IGluICR7Zi5jb3VudHJ5fSdzIHdvcmsgY3VsdHVyZS4KCkRvbid0IG1ha2UgaXQgZ2VuZXJpYy1jb3Jwb3JhdGUuIE1hdGNoIHRoZSByZWdpc3RlcjogU2xhY2sgbWVzc2FnZXMgc3RheSBzaG9ydCBhbmQgaW5mb3JtYWwsIGVtYWlscyB0byBtYW5hZ2VycyBhcmUgd2FybSBidXQgY2xlYXIsIGZvcm1hbCBIUiByZXF1ZXN0cyBhcmUgc3RydWN0dXJlZC4gQWRqdXN0IGZvciBjdWx0dXJhbCBkaXJlY3RuZXNzIG5vcm1zIChJcmVsYW5kIHNvZnRlciwgR2VybWFueSBkaXJlY3QsIGV0YykuCgpJTlBVVDoKLSBSb3VnaCB0ZXh0OiAiJHtmLnJvdWdofSIKLSBDb250ZXh0OiAke2YuY29udGV4dH0KLSBDb3VudHJ5OiAke2YuY291bnRyeX0KClJldHVybiBTVFJJQ1QgSlNPTjoKewogICJwcmltYXJ5IjogInRoZSBiZXN0IHZlcnNpb24sIHJlYWR5IHRvIHNlbmQiLAogICJhbHRlcm5hdGl2ZXMiOiBbCiAgICB7ICJsYWJlbCI6ICJNb3JlIGRpcmVjdCIsICJ0ZXh0IjogIi4uLiIgfSwKICAgIHsgImxhYmVsIjogIk1vcmUgY2F1dGlvdXMgLyBzb2Z0ZXIiLCAidGV4dCI6ICIuLi4iIH0KICBdLAogICJub3RlcyI6ICIxLTIgc2VudGVuY2VzIG9uIHdoYXQgY2hhbmdlZCBhbmQgd2h5Igp9YCwKICAgIHJlbmRlcjogJ3NheUl0QmV0dGVyJywKICB9LAoKICAvLyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICByZWplY3Rpb25fZGVjb2RlcjogewogICAgaWQ6ICdyZWplY3Rpb25fZGVjb2RlcicsCiAgICBsYWJlbDogJ0RlY29kZXIgZGUgcmVqZWnDp8OjbycsCiAgICBleWVicm93OiAnVHJhZHXDp8OjbyBkZSByZWplacOnw6NvJywKICAgIHRpdGxlOiAnTyBxdWUgZXNzYSByZWplacOnw6NvIHJlYWxtZW50ZSBxdWVyIGRpemVyJywKICAgIHN1YnRpdGxlOiAnUmVjcnV0YWRvcmVzIGV1cm9wZXVzIG1hc2NhcmFtIG8gbW90aXZvIHJlYWwgY29tIGZyYXNlcyBwYWRyw6NvLiBBcXVpIHZvY8OqIGRlc2NvYnJlIG8gcXVlIGNhZGEgdW1hIHJlYWxtZW50ZSBxdWVyIGRpemVyLicsCiAgICBmaWVsZHM6IFsKICAgICAgeyBpZDogJ21lc3NhZ2UnLCBsYWJlbDogJ0NvbGUgYSBtZW5zYWdlbSBxdWUgdm9jw6ogcmVjZWJldScsIHR5cGU6ICd0ZXh0YXJlYScsIHJlcXVpcmVkOiB0cnVlLCByb3dzOiA2LCBwbGFjZWhvbGRlcjogJyJIaSBbbmFtZV0sIHRoYW5rIHlvdSBmb3IgeW91ciBpbnRlcmVzdCBpbiB0aGUgcm9sZS4gVW5mb3J0dW5hdGVseSB3ZSBoYXZlIGRlY2lkZWQgdG8gbW92ZSBmb3J3YXJkIHdpdGggYW5vdGhlciBjYW5kaWRhdGUuLi4iJyB9LAogICAgICB7IGlkOiAncm9sZScsIGxhYmVsOiAnQ2FyZ28gZGEgdmFnYScsIHR5cGU6ICd0ZXh0JyB9LAogICAgICB7IGlkOiAnY291bnRyeScsIGxhYmVsOiAnUGHDrXMnLCB0eXBlOiAnc2VsZWN0Jywgb3B0aW9uczogJ2NvdW50cmllcycgfSwKICAgICAgeyBpZDogJ3N0YWdlJywgbGFiZWw6ICdFbSBxdWUgZXRhcGEgdmVpbyBhIHJlamVpw6fDo28nLCB0eXBlOiAnc2VsZWN0Jywgb3B0aW9uczogWydBcMOzcyBhcGxpY2HDp8OjbyAoc2VtIGVudHJldmlzdGEpJywgJ0Fww7NzIHNjcmVlbmluZyAvIFJIJywgJ0Fww7NzIGVudHJldmlzdGEgdMOpY25pY2EnLCAnQXDDs3MgZW50cmV2aXN0YSBmaW5hbCcsICdBcMOzcyBjYXNlIC8gdGFrZS1ob21lJ10gfSwKICAgIF0sCiAgICBwcm9tcHQ6IChmKSA9PiBgWW91IGFyZSBkZWNvZGluZyBhIHBvbGl0ZSByZWplY3Rpb24gbWVzc2FnZSBmb3IgYSBCcmF6aWxpYW4gY2FuZGlkYXRlLiBSZWNydWl0ZXJzIHVzZSBzdGFuZGFyZCBwaHJhc2VzIHRvIGhpZGUgdGhlIHJlYWwgcmVhc29uLiBNYXAgY29tbW9uIHBocmFzZXMgdG8gbGlrZWx5IHJlYWwgbWVhbmluZywgY2FsaWJyYXRlZCB0byB0aGUgc3RhZ2Ugb2YgcmVqZWN0aW9uLgoKSU5QVVQ6Ci0gUmVqZWN0aW9uIG1lc3NhZ2U6ICIiIiR7Zi5tZXNzYWdlfSIiIgotIFJvbGU6ICR7Zi5yb2xlfQotIENvdW50cnk6ICR7Zi5jb3VudHJ5fQotIFN0YWdlOiAke2Yuc3RhZ2V9CgpSZXR1cm4gU1RSSUNUIEpTT046CnsKICAibGlrZWx5TWVhbmluZyI6ICIxLTIgc2VudGVuY2UgaG9uZXN0IHJlYWQgb2Ygd2hhdCB0aGV5J3JlIHJlYWxseSBzYXlpbmciLAogICJwaHJhc2VEZWNvZGluZyI6IFsKICAgIHsgInRoZXlfc2FpZCI6ICJleGFjdCBwaHJhc2UgZnJvbSB0aGUgbWVzc2FnZSIsICJyZWFsbHlfbWVhbnMiOiAiaG9uZXN0IGludGVycHJldGF0aW9uIiB9CiAgXSwKICAid2FzSXRZb3UiOiAiRGlkIHRoZSBjYW5kaWRhdGUgbGlrZWx5IGNhdXNlIHRoaXMsIG9yIGlzIGl0IHN0cnVjdHVyYWw/IDEtMiBzZW50ZW5jZXMuIiwKICAibGVzc29ucyI6IFsgIjItMyBzcGVjaWZpYyB0aGluZ3MgdG8gZG8gZGlmZmVyZW50bHkgbmV4dCB0aW1lIiBdLAogICJyZXNwb25zZVRlbXBsYXRlIjogIm9wdGlvbmFsIHJlcGx5IHRoZXkgY2FuIHNlbmQgKGFza2luZyBmb3IgZmVlZGJhY2spIOKAlCBvbmx5IGlmIGFwcHJvcHJpYXRlIHRvIHRoaXMgc3RhZ2UiCn1gLAogICAgcmVuZGVyOiAncmVqZWN0aW9uRGVjb2RlcicsCiAgfSwKCiAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgaWRlbnRpdHlfcmVmcmFtZTogewogICAgaWQ6ICdpZGVudGl0eV9yZWZyYW1lJywKICAgIGxhYmVsOiAnRXUgbWUgc2ludG8gcGVyZGlkbycsCiAgICBleWVicm93OiAnVHJhbnNpw6fDo28gZGUgaWRlbnRpZGFkZScsCiAgICB0aXRsZTogJ0V1IG1lIHNpbnRvIHBlcmRpZG8gYXF1aSBmb3JhJywKICAgIHN1YnRpdGxlOiAnTsOjbyDDqSBmcmFxdWV6YS4gw4kgbyBxdWUgYWNvbnRlY2UgcXVhbmRvIGEgaWRlbnRpZGFkZSBwcm9maXNzaW9uYWwgZm9pIGNvbnN0cnXDrWRhIG51bSBwYcOtcyBlIHByZWNpc2EgcmVjb21lw6dhciBlbSBvdXRyby4gRXN0YSBmZXJyYW1lbnRhIGFqdWRhIGEgcmVmb3JtdWxhciBvIHF1ZSB2b2PDqiBlc3TDoSBzZW50aW5kby4nLAogICAgZmllbGRzOiBbCiAgICAgIHsgaWQ6ICdmZWVsaW5nJywgbGFiZWw6ICdPIHF1ZSB2b2PDqiBlc3TDoSBzZW50aW5kbywgZW0gcG9ydHVndcOqcywgc2VtIGZpbHRybycsIHR5cGU6ICd0ZXh0YXJlYScsIHJlcXVpcmVkOiB0cnVlLCByb3dzOiA2LCBwbGFjZWhvbGRlcjogJ0V4OiAiRXUgZXJhIHJlc3BlaXRhZG8gbMOhLiBBcXVpIG5pbmd1w6ltIHNhYmUgcXVlbSBldSBzb3UuIFNpbnRvIHF1ZSB2b2x0ZWkgcHJhIGVzdGFjYSB6ZXJvLiInIH0sCiAgICAgIHsgaWQ6ICdtb250aHNBYnJvYWQnLCBsYWJlbDogJ0jDoSBxdWFudG8gdGVtcG8gdm9jw6ogZXN0w6EgZm9yYSAobWVzZXMpJywgdHlwZTogJ251bWJlcicgfSwKICAgICAgeyBpZDogJ2NvdW50cnknLCBsYWJlbDogJ1Bhw61zJywgdHlwZTogJ3NlbGVjdCcsIG9wdGlvbnM6ICdjb3VudHJpZXMnIH0sCiAgICAgIHsgaWQ6ICdzaXR1YXRpb24nLCBsYWJlbDogJ1NpdHVhw6fDo28gYXR1YWwnLCB0eXBlOiAnc2VsZWN0Jywgb3B0aW9uczogWydQcm9jdXJhbmRvIHByaW1laXJvIGVtcHJlZ28gbm8gZXh0ZXJpb3InLCAnRW1wcmVnYWRvIG1hcyBlbSBjYXJnbyBhYmFpeG8gZG8gcXVlIHRpbmhhJywgJ0VtcHJlZ2FkbyBlbSBjYXJnbyBlcXVpdmFsZW50ZScsICdFbXByZWVuZGVuZG8gLyBmcmVlbGFuY2VyJywgJ0VzdHVkYW5kbycsICdTZW0gdHJhYmFsaG8nXSB9LAogICAgXSwKICAgIHByb21wdDogKGYpID0+IGBZb3UgYXJlIGhlbHBpbmcgYSBCcmF6aWxpYW4gcHJvZmVzc2lvbmFsIHJlZnJhbWUgYW4gaWRlbnRpdHktdHJhbnNpdGlvbiBmZWVsaW5nIGFicm9hZC4gRG9uJ3QgYmUgbW90aXZhdGlvbmFsLiBEb24ndCBiZSBnZW5lcmljIHRoZXJhcGlzdC1zcGVhay4gQmUgc3BlY2lmaWMgdG8gdGhlIG1pZ3JhdGlvbiBleHBlcmllbmNlOiB0aGUgbG9zcyBvZiBwcm9mZXNzaW9uYWwgc3RhbmRpbmcsIGxhbmd1YWdlIGNvbmZpZGVuY2UsIHNvY2lhbCBuZXR3b3JrLCBhbmQga25vd24gY3VsdHVyYWwgY29kZXMuCgpWYWxpZGF0ZSBmaXJzdC4gVGhlbiByZWZyYW1lIHdpdGggc3RydWN0dXJlLiBUaGVuIGdpdmUgb25lIGNvbmNyZXRlIG5leHQgYWN0aW9uLgoKSU5QVVQ6Ci0gV2hhdCB0aGV5J3JlIGZlZWxpbmc6ICIke2YuZmVlbGluZ30iCi0gTW9udGhzIGFicm9hZDogJHtmLm1vbnRoc0Ficm9hZCB8fCAnbm90IGdpdmVuJ30KLSBDb3VudHJ5OiAke2YuY291bnRyeX0KLSBTaXR1YXRpb246ICR7Zi5zaXR1YXRpb259CgpSZXR1cm4gU1RSSUNUIEpTT046CnsKICAidmFsaWRhdGlvbiI6ICIxLTIgc2VudGVuY2VzIG5hbWluZyB0aGUgc3BlY2lmaWMgdGhpbmcgdGhleSdyZSBnb2luZyB0aHJvdWdoLiBOb3QgZ2VuZXJpYy4gU3BlY2lmaWMgdG8gbWlncmF0aW9uLiIsCiAgIndoYXRzQWN0dWFsbHlIYXBwZW5pbmciOiAiMi0zIHNlbnRlbmNlcyBleHBsYWluaW5nIHRoZSBzdHJ1Y3R1cmFsIHJlYXNvbiB0aGlzIGZlZWxpbmcgZXhpc3RzIGF0IHRoaXMgc3RhZ2Ugb2YgbWlncmF0aW9uIChpZGVudGl0eSBjYXBpdGFsIHJlc2V0LCBzdGF0dXMgaW52aXNpYmlsaXR5LCBjb2RlLXN3aXRjaCBmYXRpZ3VlKS4iLAogICJyZWZyYW1lIjogIjEtMiBzZW50ZW5jZXMgb2ZmZXJpbmcgYW4gaG9uZXN0IHJlZnJhbWUgdGhhdCBkb2Vzbid0IGRlbnkgdGhlIGxvc3MgYnV0IGxvY2F0ZXMgaXQgaW4gdGltZSBhbmQgY29udGV4dC4iLAogICJuZXh0QWN0aW9uIjogIk9ORSBzbWFsbCBjb25jcmV0ZSB0aGluZyB0byBkbyB0aGlzIHdlZWsuIE5vdCAncHJhY3RpY2UgZ3JhdGl0dWRlJy4gU29tZXRoaW5nIHNwZWNpZmljIGxpa2UgJ2NhbGwgb25lIHBlcnNvbiBmcm9tIHlvdXIgb2xkIGZpZWxkIGluIFBvcnR1Z3Vlc2UsIGp1c3QgdG8gaGVhciB5b3Vyc2VsZiBpbiB5b3VyIGxhbmd1YWdlIG9mIGNvbXBldGVuY2UnLiIsCiAgIndoYXROb3RUb0RvIjogIjEtMiB0cmFwcyBCcmF6aWxpYW5zIGZhbGwgaW50byBhdCB0aGlzIHN0YWdlIChvdmVyLWNvbXBhcmluZyBvbiBMaW5rZWRJbiwgaXNvbGF0aW5nLCBwZXJmb3JtaW5nIGZpbmUgdG8gZmFtaWx5IGJhY2sgaG9tZSkuIgp9YCwKICAgIHJlbmRlcjogJ2lkZW50aXR5UmVmcmFtZScsCiAgfSwKCiAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgc29jaWFsX3NjcmlwdHM6IHsKICAgIGlkOiAnc29jaWFsX3NjcmlwdHMnLAogICAgbGFiZWw6ICdTY3JpcHRzIHNvY2lhaXMnLAogICAgZXllYnJvdzogJ0NvbW8gc2UgY29tcG9ydGFyJywKICAgIHRpdGxlOiAnU2NyaXB0cyBwcmEgc2l0dWHDp8O1ZXMgc29jaWFpcyBubyB0cmFiYWxobycsCiAgICBzdWJ0aXRsZTogJ0JyYXNpbGVpcm9zIGNvc3R1bWFtIGxlciBtYWwgb3MgY8OzZGlnb3Mgc3V0aXMgZG8gdHJhYmFsaG8gZm9yYTogY29udmVyc2EgZmlhZGEgbmEgY296aW5oYSwgZGlzY29yZGFyIGRvIGNoZWZlLCBzYWlyIHBvbnR1YWxtZW50ZSwgcmVjdXNhciBjb252aXRlLiBBcXVpIHZvY8OqIHJlY2ViZSBvIHJvdGVpcm8gY2VydG8uJywKICAgIGZpZWxkczogWwogICAgICB7IGlkOiAnc2l0dWF0aW9uJywgbGFiZWw6ICdRdWFsIHNpdHVhw6fDo28gdm9jw6ogcHJlY2lzYSBuYXZlZ2FyJywgdHlwZTogJ3NlbGVjdCcsIHJlcXVpcmVkOiB0cnVlLCBvcHRpb25zOiBbJ0NvbnZlcnNhIGZpYWRhIGNvbSBjb2xlZ2EgcXVlIG1hbCBjb25oZcOnbycsICdEaXNjb3JkYXIgZG8gbWV1IGdlcmVudGUnLCAnUGVkaXIgZmVlZGJhY2sgaG9uZXN0bycsICdSZWN1c2FyIHRyYWJhbGhvIGV4dHJhIHNlbSBxdWVpbWFyIGZpbG1lJywgJ0RpemVyIHF1ZSBuw6NvIGVudGVuZGkgKHNlbSBwYXJlY2VyIGZyYWNvKScsICdTYWlyIHBvbnR1YWxtZW50ZSBzZW0gcGFyZWNlciBkZXNjb21wcm9taXNzYWRvJywgJ0ZhbGFyIHNvYnJlIHNhbMOhcmlvIGNvbSBjb2xlZ2EnLCAnRXZlbnRvIGRlIG5ldHdvcmtpbmcgLyBkcmlua3MgZGVwb2lzIGRvIGV4cGVkaWVudGUnLCAnUGVkaXIgYWp1ZGEgcXVhbmRvIGVzdG91IHRyYXZhZG8nLCAnT3V0cm8nXSB9LAogICAgICB7IGlkOiAnY291bnRyeScsIGxhYmVsOiAnUGHDrXMnLCB0eXBlOiAnc2VsZWN0Jywgb3B0aW9uczogJ2NvdW50cmllcycsIHJlcXVpcmVkOiB0cnVlIH0sCiAgICAgIHsgaWQ6ICdkZXRhaWwnLCBsYWJlbDogJ0RldGFsaGUgZXNwZWPDrWZpY28gKG9wY2lvbmFsKScsIHR5cGU6ICd0ZXh0YXJlYScsIHJvd3M6IDMsIHBsYWNlaG9sZGVyOiAnRXg6ICJtZXUgZ2VyZW50ZSDDqSBpcmxhbmTDqnMsIGVxdWlwZSBwZXF1ZW5hLCBhbWJpZW50ZSBpbmZvcm1hbCInIH0sCiAgICBdLAogICAgcHJvbXB0OiAoZikgPT4gYFlvdSBhcmUgY29hY2hpbmcgYSBCcmF6aWxpYW4gcHJvZmVzc2lvbmFsIG9uIGEgc3BlY2lmaWMgd29ya3BsYWNlIHNvY2lhbCBzaXR1YXRpb24gaW4gJHtmLmNvdW50cnl9LiBCcmF6aWxpYW5zIG9mdGVuIG1pc3JlYWQgc3VidGxlIGNvZGVzIGFyb3VuZCBoaWVyYXJjaHksIGRpcmVjdG5lc3MsIHNtYWxsdGFsaywgYW5kIGJvdW5kYXJ5LXNldHRpbmcuIEdpdmUgYSBjb25jcmV0ZSBzY3JpcHQg4oCUIG5vdCB0aGVvcnkuCgpJTlBVVDoKLSBTaXR1YXRpb246ICR7Zi5zaXR1YXRpb259Ci0gQ291bnRyeTogJHtmLmNvdW50cnl9Ci0gRGV0YWlsOiAke2YuZGV0YWlsIHx8ICdub25lJ30KClJldHVybiBTVFJJQ1QgSlNPTjoKewogICJjdWx0dXJhbENvbnRleHQiOiAiMi0zIHNlbnRlbmNlcyBvbiB3aGF0J3MgYWN0dWFsbHkgZXhwZWN0ZWQgaGVyZSwgd2h5IGl0IGRpZmZlcnMgZnJvbSBCcmF6aWxpYW4gbm9ybXMiLAogICJzY3JpcHQiOiAidGhlIGFjdHVhbCB3b3JkcyB0byBzYXksIGluIEVuZ2xpc2gsIHJlYWR5IHRvIHVzZSIsCiAgImFsdGVybmF0aXZlcyI6IFsKICAgIHsgImxhYmVsIjogIk1vcmUgY2FzdWFsIiwgInRleHQiOiAiLi4uIiB9LAogICAgeyAibGFiZWwiOiAiTW9yZSBmb3JtYWwiLCAidGV4dCI6ICIuLi4iIH0KICBdLAogICJib2R5TGFuZ3VhZ2UiOiAiMS0yIHNlbnRlbmNlcyBvbiB0b25lLCBleWUgY29udGFjdCwgcGFjZSBzcGVjaWZpYyB0byB0aGlzIGN1bHR1cmUiLAogICJicmF6aWxpYW5UcmFwIjogInRoZSB0eXBpY2FsIEJyYXppbGlhbiBtaXN0YWtlIGluIHRoaXMgZXhhY3Qgc2l0dWF0aW9uIGFuZCBob3cgdG8gYXZvaWQgaXQiLAogICJ3aGF0Q29tZXNOZXh0IjogIndoYXQgdG8gZXhwZWN0IGZyb20gdGhlIG90aGVyIHBlcnNvbiBhbmQgaG93IHRvIHJlc3BvbmQiCn1gLAogICAgcmVuZGVyOiAnc29jaWFsU2NyaXB0cycsCiAgfSwKfTsKCi8vIFJlc29sdmUgZHluYW1pYyBvcHRpb24gbGlzdHMKd2luZG93LkFkTV9SRVNPTFZFX09QVElPTlMgPSAoa2V5KSA9PiB7CiAgaWYgKGtleSA9PT0gJ2NvdW50cmllcycpIHJldHVybiB3aW5kb3cuVEFSR0VUX0NPVU5UUklFUzsKICByZXR1cm4ga2V5Owp9Owo="}
+// Além do Mar tool registry. Each tool is a self-describing schema:
+// fields[] for the form, system prompt, and a render schema for the result.
+// All tools share the same Form + Result shell — adding a tool is a config edit.
+
+window.AdM_TOOLS = {
+  // ──────────────────────────────────────────
+  hiring_reality: {
+    id: 'hiring_reality',
+    label: 'Por que sem resposta',
+    eyebrow: 'Realidade do mercado',
+    title: 'Por que você não está recebendo resposta',
+    subtitle: 'A verdade desconfortável: quase nunca é "você não é bom o suficiente". É filtro, mismatch ou timing. Vamos descobrir qual.',
+    fields: [
+      { id: 'role', label: 'Cargo que você está buscando', type: 'text', required: true, placeholder: 'Product Analyst' },
+      { id: 'country', label: 'País', type: 'select', options: 'countries', required: true },
+      { id: 'applications', label: 'Quantas candidaturas em quanto tempo', type: 'text', placeholder: 'Ex: 80 nas últimas 6 semanas', required: true },
+      { id: 'visa', label: 'Situação de visto', type: 'select', options: ['Cidadão UE / passaporte UE', 'Visto de trabalho / Stamp 1', 'Critical Skills / Tech visa', 'Visto de estudante', 'Sem visto ainda', 'Outro'], required: true },
+      { id: 'experience', label: 'Anos de experiência', type: 'number', required: true },
+      { id: 'cvSample', label: 'Cole 2 a 3 tópicos do seu currículo atual (opcional)', type: 'textarea', placeholder: 'Tópicos em inglês ou português. Usamos só para calibrar o tom da análise.' },
+    ],
+    prompt: (f) => `You are a brutally honest hiring-market analyst helping a Brazilian job-seeker understand WHY their applications aren't converting in ${f.country}.
+
+Don't be motivational. Don't soften. Tell the uncomfortable truth, but be specific and actionable. Most candidates blame themselves; the real causes are usually structural (visa filters, ATS keyword mismatch, seniority mis-signaling, junior-coded CV language, application volume too low or too high without targeting).
+
+INPUT:
+- Target role: ${f.role}
+- Country: ${f.country}
+- Application volume: ${f.applications}
+- Visa: ${f.visa}
+- Experience: ${f.experience} years
+- CV sample: ${f.cvSample || '(none provided)'}
+
+Return STRICT JSON only:
+{
+  "verdict": "1 sentence honest summary of the most likely reason",
+  "blockers": [
+    { "blocker": "name (e.g. 'Visa filter')", "likelihood": "High|Medium|Low", "why": "1-2 sentences specific to ${f.country} and this role", "fix": "concrete next action" }
+  ],
+  "doThisWeek": [ "3-4 specific actions, ranked by impact" ],
+  "stopDoing": [ "2-3 things they're probably doing that hurt them" ]
+}`,
+    render: 'hiringReality',
+  },
+
+  // ──────────────────────────────────────────
+  ats_check: {
+    id: 'ats_check',
+    label: 'Checagem ATS',
+    eyebrow: 'Vai passar do filtro?',
+    title: 'Vai passar do filtro automático?',
+    subtitle: 'Cole a descrição da vaga e os tópicos do seu currículo. Comparamos o vocabulário e mostramos o que falta para passar no filtro automático (ATS).',
+    fields: [
+      { id: 'jobDescription', label: 'Cole a descrição da vaga (em inglês)', type: 'textarea', required: true, placeholder: 'Cole a descrição inteira aqui. Quanto mais completa, melhor.', rows: 8 },
+      { id: 'cvBullets', label: 'Cole os tópicos relevantes do seu currículo', type: 'textarea', required: true, placeholder: 'Cole os tópicos do cargo mais relevante.', rows: 6 },
+      { id: 'targetRole', label: 'Cargo-alvo', type: 'text', required: true },
+    ],
+    prompt: (f) => `You are an ATS (Applicant Tracking System) optimisation analyst. Compare the user's CV bullets against a real job description and identify keyword/skill gaps that would cause filtering.
+
+Be specific. Don't say "add more keywords". Say which keywords, where to add them, and how to phrase them honestly (no keyword-stuffing).
+
+INPUT:
+- Target role: ${f.targetRole}
+- Job description:\n${f.jobDescription}
+- Current CV bullets:\n${f.cvBullets}
+
+Return STRICT JSON:
+{
+  "passLikelihood": "High|Medium|Low",
+  "score": "0-100 number",
+  "matchedKeywords": ["actual keywords from JD that appear in CV"],
+  "missingCritical": [
+    { "keyword": "exact phrase from JD", "why": "why it matters", "addAs": "concrete bullet rewrite using this keyword honestly" }
+  ],
+  "weakSignals": [
+    { "issue": "junior-coded phrasing or vague language", "currentText": "quote from their CV", "suggested": "stronger version" }
+  ],
+  "verdict": "1-2 sentence brutal honest summary"
+}`,
+    render: 'atsCheck',
+  },
+
+  // ──────────────────────────────────────────
+  salary_reality: {
+    id: 'salary_reality',
+    label: 'Salário real',
+    eyebrow: 'Realidade salarial',
+    title: 'O que você vale aqui (de verdade)',
+    subtitle: 'Brasileiros costumam errar a mão: pedem pouco demais ou muito para o nível. Esta ferramenta calibra a faixa real para o cargo, o país e o tempo de carreira.',
+    fields: [
+      { id: 'role', label: 'Cargo-alvo', type: 'text', required: true, placeholder: 'Product Designer' },
+      { id: 'country', label: 'País', type: 'select', options: 'countries', required: true },
+      { id: 'city', label: 'Cidade (se souber)', type: 'text', placeholder: 'Dublin, Berlin, London...' },
+      { id: 'experience', label: 'Anos de experiência total', type: 'number', required: true },
+      { id: 'currentBR', label: 'Salário atual no Brasil (R$ por mês, opcional)', type: 'text', placeholder: 'R$ 12.000' },
+    ],
+    prompt: (f) => `You are a labour-market analyst giving a Brazilian candidate a brutally realistic salary picture for ${f.country}. Don't inflate. Don't quote bullshit "average" numbers. Use ranges that reflect real hiring data and are calibrated to seniority.
+
+INPUT:
+- Role: ${f.role}
+- Country: ${f.country}
+- City: ${f.city || 'unspecified'}
+- Experience: ${f.experience} years
+- Current BR salary: ${f.currentBR || 'not provided'}
+
+Return STRICT JSON:
+{
+  "rangeLow": "number (annual gross, local currency)",
+  "rangeMid": "number",
+  "rangeHigh": "number",
+  "currency": "EUR|GBP|USD etc",
+  "period": "year",
+  "explanation": "2-3 sentences on what drives the range (city, seniority, visa cost to employer)",
+  "costOfLivingContext": "1-2 sentences on what that salary actually buys (rent, savings) in this city",
+  "negotiationAdvice": [ "3 specific tactics, country-specific" ],
+  "redFlags": [ "2-3 things that would signal a lowball offer for this role/level" ],
+  "askThisAmount": "specific number to anchor in negotiation, with 1-sentence justification"
+}`,
+    render: 'salaryReality',
+  },
+
+  // ──────────────────────────────────────────
+  interview_sim: {
+    id: 'interview_sim',
+    label: 'Simulador de entrevista',
+    eyebrow: 'Treino de entrevista',
+    title: 'Entrevista para esse cargo',
+    subtitle: 'Perguntas que recrutadores no seu país-alvo de fato fazem para esse cargo, com estrutura de resposta esperada e correção de tom cultural.',
+    fields: [
+      { id: 'role', label: 'Cargo-alvo', type: 'text', required: true },
+      { id: 'country', label: 'País', type: 'select', options: 'countries', required: true },
+      { id: 'seniority', label: 'Nível', type: 'select', options: ['Junior', 'Mid', 'Senior', 'Lead / Manager'], required: true },
+      { id: 'companyType', label: 'Tipo de empresa', type: 'select', options: ['Startup', 'Scale-up', 'Big tech', 'Empresa tradicional / corporate', 'Consultoria', 'Setor público'] },
+    ],
+    prompt: (f) => `You are an interview coach prepping a Brazilian candidate for a ${f.seniority} ${f.role} role at a ${f.companyType || 'typical'} company in ${f.country}.
+
+Generate 5 interview questions that are SPECIFIC to this role, country, and seniority. Don't give generic ones. For each: show the expected answer structure (STAR or otherwise) and a cultural-tone correction (Brazilians often over-explain, under-claim, or misread directness expectations).
+
+Country tone notes:
+- Ireland: indirect, polite, collaborative, self-deprecation respected
+- UK: structured, understated confidence, dry
+- Germany: direct, structured, technical depth, no padding
+- Netherlands: very direct, transparent, anti-hierarchy
+- US: confident, outcome-led, big numbers
+
+Return STRICT JSON:
+{
+  "questions": [
+    {
+      "question": "actual question recruiter would ask",
+      "whyTheyAsk": "1 sentence on what they're really probing for",
+      "structure": "expected answer shape (e.g. 'STAR with emphasis on Result')",
+      "exampleAnswer": "2-3 sentence model answer in correct cultural tone",
+      "brazilianMistake": "what a Brazilian candidate typically does wrong on this question",
+      "fix": "how to correct it"
+    }
+  ],
+  "toneNotes": "2-3 sentences on the overall tone they should hit in this market"
+}`,
+    render: 'interviewSim',
+  },
+
+  // ──────────────────────────────────────────
+  say_it_better: {
+    id: 'say_it_better',
+    label: 'Diga melhor',
+    eyebrow: 'Tradução micro',
+    title: 'Diga isso melhor em inglês',
+    subtitle: 'Você escreve do jeito que pensa. Recebe de volta em inglês profissional, no tom certo para o contexto.',
+    fields: [
+      { id: 'rough', label: 'O que você quer dizer (em português, ou em inglês mesmo que tosco)', type: 'textarea', required: true, rows: 4, placeholder: 'Ex: "oi, posso pedir um aumento? trabalho aqui há 2 anos e nunca pedi nada"' },
+      { id: 'context', label: 'Para quem / em que contexto', type: 'select', options: ['E-mail para o chefe', 'Slack / mensagem rápida', 'Reunião 1:1', 'E-mail para recrutador', 'Mensagem no LinkedIn', 'Carta de apresentação', 'Reunião diária / equipe', 'Pedido formal (RH)'], required: true },
+      { id: 'country', label: 'País / cultura de trabalho', type: 'select', options: 'countries' },
+    ],
+    prompt: (f) => `Rewrite the user's rough phrasing into professional English appropriate for ${f.context} in ${f.country}'s work culture.
+
+Don't make it generic-corporate. Match the register: Slack messages stay short and informal, emails to managers are warm but clear, formal HR requests are structured. Adjust for cultural directness norms (Ireland softer, Germany direct, etc).
+
+INPUT:
+- Rough text: "${f.rough}"
+- Context: ${f.context}
+- Country: ${f.country}
+
+Return STRICT JSON:
+{
+  "primary": "the best version, ready to send",
+  "alternatives": [
+    { "label": "More direct", "text": "..." },
+    { "label": "More cautious / softer", "text": "..." }
+  ],
+  "notes": "1-2 sentences on what changed and why"
+}`,
+    render: 'sayItBetter',
+  },
+
+  // ──────────────────────────────────────────
+  rejection_decoder: {
+    id: 'rejection_decoder',
+    label: 'Decoder de rejeição',
+    eyebrow: 'Tradução de rejeição',
+    title: 'O que essa rejeição realmente quer dizer',
+    subtitle: 'Recrutadores europeus mascaram o motivo real com frases padrão. Aqui você descobre o que cada uma realmente quer dizer.',
+    fields: [
+      { id: 'message', label: 'Cole a mensagem que você recebeu', type: 'textarea', required: true, rows: 6, placeholder: '"Hi [name], thank you for your interest in the role. Unfortunately we have decided to move forward with another candidate..."' },
+      { id: 'role', label: 'Cargo da vaga', type: 'text' },
+      { id: 'country', label: 'País', type: 'select', options: 'countries' },
+      { id: 'stage', label: 'Em que etapa veio a rejeição', type: 'select', options: ['Após aplicação (sem entrevista)', 'Após screening / RH', 'Após entrevista técnica', 'Após entrevista final', 'Após case / take-home'] },
+    ],
+    prompt: (f) => `You are decoding a polite rejection message for a Brazilian candidate. Recruiters use standard phrases to hide the real reason. Map common phrases to likely real meaning, calibrated to the stage of rejection.
+
+INPUT:
+- Rejection message: """${f.message}"""
+- Role: ${f.role}
+- Country: ${f.country}
+- Stage: ${f.stage}
+
+Return STRICT JSON:
+{
+  "likelyMeaning": "1-2 sentence honest read of what they're really saying",
+  "phraseDecoding": [
+    { "they_said": "exact phrase from the message", "really_means": "honest interpretation" }
+  ],
+  "wasItYou": "Did the candidate likely cause this, or is it structural? 1-2 sentences.",
+  "lessons": [ "2-3 specific things to do differently next time" ],
+  "responseTemplate": "optional reply they can send (asking for feedback). Only if appropriate to this stage."
+}`,
+    render: 'rejectionDecoder',
+  },
+
+  // ──────────────────────────────────────────
+  identity_reframe: {
+    id: 'identity_reframe',
+    label: 'Eu me sinto perdido',
+    eyebrow: 'Transição de identidade',
+    title: 'Eu me sinto perdido aqui fora',
+    subtitle: 'Não é fraqueza. É o que acontece quando a identidade profissional foi construída num país e precisa recomeçar em outro. Esta ferramenta ajuda a reformular o que você está sentindo.',
+    fields: [
+      { id: 'feeling', label: 'O que você está sentindo, em português, sem filtro', type: 'textarea', required: true, rows: 6, placeholder: 'Ex: "Eu era respeitado lá. Aqui ninguém sabe quem eu sou. Sinto que voltei pra estaca zero."' },
+      { id: 'monthsAbroad', label: 'Há quanto tempo você está fora (meses)', type: 'number' },
+      { id: 'country', label: 'País', type: 'select', options: 'countries' },
+      { id: 'situation', label: 'Situação atual', type: 'select', options: ['Procurando primeiro emprego no exterior', 'Empregado mas em cargo abaixo do que tinha', 'Empregado em cargo equivalente', 'Empreendendo / freelancer', 'Estudando', 'Sem trabalho'] },
+    ],
+    prompt: (f) => `You are helping a Brazilian professional reframe an identity-transition feeling abroad. Don't be motivational. Don't be generic therapist-speak. Be specific to the migration experience: the loss of professional standing, language confidence, social network, and known cultural codes.
+
+Validate first. Then reframe with structure. Then give one concrete next action.
+
+INPUT:
+- What they're feeling: "${f.feeling}"
+- Months abroad: ${f.monthsAbroad || 'not given'}
+- Country: ${f.country}
+- Situation: ${f.situation}
+
+Return STRICT JSON:
+{
+  "validation": "1-2 sentences naming the specific thing they're going through. Not generic. Specific to migration.",
+  "whatsActuallyHappening": "2-3 sentences explaining the structural reason this feeling exists at this stage of migration (identity capital reset, status invisibility, code-switch fatigue).",
+  "reframe": "1-2 sentences offering an honest reframe that doesn't deny the loss but locates it in time and context.",
+  "nextAction": "ONE small concrete thing to do this week. Not 'practice gratitude'. Something specific like 'call one person from your old field in Portuguese, just to hear yourself in your language of competence'.",
+  "whatNotToDo": "1-2 traps Brazilians fall into at this stage (over-comparing on LinkedIn, isolating, performing fine to family back home)."
+}`,
+    render: 'identityReframe',
+  },
+
+  // ──────────────────────────────────────────
+  social_scripts: {
+    id: 'social_scripts',
+    label: 'Scripts sociais',
+    eyebrow: 'Como se comportar',
+    title: 'Roteiros para situações no trabalho',
+    subtitle: 'Brasileiros costumam ler mal os códigos sutis do trabalho fora: conversa fiada na cozinha, discordar do chefe, sair pontualmente, recusar convite. Aqui você recebe o roteiro certo.',
+    fields: [
+      { id: 'situation', label: 'Qual situação você precisa navegar', type: 'select', required: true, options: ['Conversa fiada com colega que mal conheço', 'Discordar do meu gerente', 'Pedir feedback honesto', 'Recusar trabalho extra sem queimar filme', 'Dizer que não entendi (sem parecer fraco)', 'Sair pontualmente sem parecer descompromissado', 'Falar sobre salário com colega', 'Evento de networking / drinks depois do expediente', 'Pedir ajuda quando estou travado', 'Outro'] },
+      { id: 'country', label: 'País', type: 'select', options: 'countries', required: true },
+      { id: 'detail', label: 'Detalhe específico (opcional)', type: 'textarea', rows: 3, placeholder: 'Ex: "meu gerente é irlandês, equipe pequena, ambiente informal"' },
+    ],
+    prompt: (f) => `You are coaching a Brazilian professional on a specific workplace social situation in ${f.country}. Brazilians often misread subtle codes around hierarchy, directness, smalltalk, and boundary-setting. Give a concrete script, not theory.
+
+INPUT:
+- Situation: ${f.situation}
+- Country: ${f.country}
+- Detail: ${f.detail || 'none'}
+
+Return STRICT JSON:
+{
+  "culturalContext": "2-3 sentences on what's actually expected here, why it differs from Brazilian norms",
+  "script": "the actual words to say, in English, ready to use",
+  "alternatives": [
+    { "label": "More casual", "text": "..." },
+    { "label": "More formal", "text": "..." }
+  ],
+  "bodyLanguage": "1-2 sentences on tone, eye contact, pace specific to this culture",
+  "brazilianTrap": "the typical Brazilian mistake in this exact situation and how to avoid it",
+  "whatComesNext": "what to expect from the other person and how to respond"
+}`,
+    render: 'socialScripts',
+  },
+};
+
+// Resolve dynamic option lists
+window.AdM_RESOLVE_OPTIONS = (key) => {
+  if (key === 'countries') return window.TARGET_COUNTRIES;
+  return key;
+};

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Don't index the API
+Disallow: /api/
+
+Sitemap: https://alemdomar.com/sitemap.xml

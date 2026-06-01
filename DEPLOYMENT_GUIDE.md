@@ -1,1 +1,229 @@
-{"data":"IyBEZXBsb3ltZW50IEd1aWRlOiBSZWFsIERhdGFiYXNlIEF1dGhlbnRpY2F0aW9uICsgSHlicmlkIFRyYW5zbGF0aW9uIFN5c3RlbQoKIyMgQ3VycmVudCBTdGF0dXM6IE1vY2sgKGxvY2FsU3RvcmFnZSkg4oaSIFJlYWwgKENsb3VkZmxhcmUgS1YgKyBIeWJyaWQgQUkpCgojIyMgV2hhdCBZb3UgSGF2ZSBOb3c6Ci0g4pyFIE1vY2sgYXV0aGVudGljYXRpb24gdXNpbmcgbG9jYWxTdG9yYWdlCi0g4pyFIFVJIGFuZCBmbG93IHdvcmtpbmcKLSDinIUgSHlicmlkIHRyYW5zbGF0aW9uIHN5c3RlbSBpbXBsZW1lbnRlZAotIOKdjCBObyByZWFsIGRhdGFiYXNlIHBlcnNpc3RlbmNlCi0g4p2MIE5vIEFQSSBrZXlzIGNvbmZpZ3VyZWQgZm9yIHRyYW5zbGF0aW9uIHNlcnZpY2VzCgojIyMgV2hhdCBZb3UgTmVlZDoKLSDinIUgQ2xvdWRmbGFyZSBXb3JrZXJzIGFjY291bnQKLSDinIUgS1YgbmFtZXNwYWNlIGZvciB1c2VycwotIOKchSBEZXBsb3llZCB3b3JrZXIgd2l0aCBhdXRoIGVuZHBvaW50cwotIOKchSBVcGRhdGVkIGZyb250ZW5kIGNhbGxpbmcgcmVhbCBBUEkKCiMjIFN0ZXAgMTogU2V0IFVwIENsb3VkZmxhcmUgV29ya2VycwoKIyMjIDEuIENyZWF0ZSBBY2NvdW50CjEuIEdvIHRvIFtjbG91ZGZsYXJlLmNvbV0oaHR0cHM6Ly9jbG91ZGZsYXJlLmNvbSkKMi4gU2lnbiB1cCBmb3IgZnJlZSBhY2NvdW50CjMuIEdvIHRvIFdvcmtlcnMgJiBQYWdlcwoKIyMjIDIuIENyZWF0ZSBLViBOYW1lc3BhY2UKYGBgYmFzaAojIEluc3RhbGwgV3JhbmdsZXIgQ0xJCm5wbSBpbnN0YWxsIC1nIHdyYW5nbGVyCgojIExvZ2luIHRvIENsb3VkZmxhcmUKd3JhbmdsZXIgbG9naW4KCiMgQ3JlYXRlIEtWIG5hbWVzcGFjZQp3cmFuZ2xlciBrdjpuYW1lc3BhY2UgY3JlYXRlICJBRE1fVVNFUlMiCndyYW5nbGVyIGt2Om5hbWVzcGFjZSBjcmVhdGUgIkFETV9ISVNUT1JZIiAtLXByZXZpZXcKYGBgCgojIyMgMy4gQ3JlYXRlIHdyYW5nbGVyLnRvbWwKYGBgdG9tbApuYW1lID0gImFsZW1kb21hci1hdXRoIgptYWluID0gIndvcmtlci5qcyIKY29tcGF0aWJpbGl0eV9kYXRlID0gIjIwMjMtMTAtMzAiCgpbW2t2X25hbWVzcGFjZXNdXQpiaW5kaW5nID0gIkFETV9VU0VSUyIKaWQgPSAieW91ci1rdi1uYW1lc3BhY2UtaWQiCnByZXZpZXdfaWQgPSAieW91ci1wcmV2aWV3LWt2LW5hbWVzcGFjZS1pZCIKCltba3ZfbmFtZXNwYWNlc11dCmJpbmRpbmcgPSAiQURNX0hJU1RPUlkiCmlkID0gInlvdXItaGlzdG9yeS1rdi1uYW1lc3BhY2UtaWQiCnByZXZpZXdfaWQgPSAieW91ci1oaXN0b3J5LXByZXZpZXcta3YtbmFtZXNwYWNlLWlkIgpgYGAKCiMjIFN0ZXAgMjogRGVwbG95IHRoZSBXb3JrZXIKCiMjIyAxLiBUZXN0IExvY2FsbHkKYGBgYmFzaAojIFN0YXJ0IGxvY2FsIGRldmVsb3BtZW50CndyYW5nbGVyIGRldgoKIyBUZXN0IGVuZHBvaW50cwpjdXJsIC1YIFBPU1QgaHR0cDovL2xvY2FsaG9zdDo4Nzg3L2FwaS9hdXRoL2xvZ2luIFwKICAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBcCiAgLWQgJ3siZW1haWwiOiAidGVzdEBleGFtcGxlLmNvbSIsICJwYXNzd29yZCI6ICJwYXNzd29yZCJ9JwpgYGAKCiMjIyAyLiBEZXBsb3kgdG8gUHJvZHVjdGlvbgpgYGBiYXNoCiMgRGVwbG95IHRvIENsb3VkZmxhcmUKd3JhbmdsZXIgZGVwbG95CgojIFlvdXIgd29ya2VyIHdpbGwgYmUgYXZhaWxhYmxlIGF0OgojIGh0dHBzOi8vYWxlbWRvbWFyLWF1dGgueW91ci1zdWJkb21haW4ud29ya2Vycy5kZXYKYGBgCgojIyBTdGVwIDM6IFVwZGF0ZSBGcm9udGVuZAoKIyMjIDEuIFJlcGxhY2Ugc2ltcGxlLWF1dGguanN4IHdpdGggcmVhbC1hdXRoLmpzeApgYGBodG1sCjwhLS0gUmVtb3ZlIHRoaXMgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCIgc3JjPSJzaW1wbGUtYXV0aC5qc3giPjwvc2NyaXB0PgoKPCEtLSBBZGQgdGhpcyAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2JhYmVsIiBzcmM9InJlYWwtYXV0aC5qc3giPjwvc2NyaXB0PgpgYGAKCiMjIyAyLiBVcGRhdGUgQXBwIENvbXBvbmVudApgYGBqYXZhc2NyaXB0Ci8vIEluIGluZGV4Lmh0bWwsIGNoYW5nZToKPFNpbXBsZUF1dGggLi4uIC8+CgovLyBUbzoKPFJlYWxBdXRoIC4uLiAvPgpgYGAKCiMjIyAzLiBVcGRhdGUgQVBJIEJhc2UgVVJMCmBgYGphdmFzY3JpcHQKLy8gSW4gcmVhbC1hdXRoLmpzeCwgdXBkYXRlIGZldGNoIGNhbGxzIHRvIHVzZSB5b3VyIHdvcmtlciBVUkw6CmNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJ2h0dHBzOi8vYWxlbWRvbWFyLWF1dGgueW91ci1zdWJkb21haW4ud29ya2Vycy5kZXYvYXBpL2F1dGgvbG9naW4nLCB7CiAgbWV0aG9kOiAnUE9TVCcsCiAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBlbWFpbCwgcGFzc3dvcmQgfSkKfSk7CmBgYAoKIyMgU3RlcCA0OiBUZXN0IHRoZSBJbnRlZ3JhdGlvbgoKIyMjIDEuIENyZWF0ZSBUZXN0IFVzZXIKYGBgYmFzaApjdXJsIC1YIFBPU1QgaHR0cHM6Ly95b3VyLXdvcmtlci53b3JrZXJzLmRldi9hcGkvYXV0aC9zaWdudXAgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAneyJlbWFpbCI6ICJ0ZXN0QGFsZW1kb21hci5jb20iLCAicGFzc3dvcmQiOiAidGVzdDEyMyIsICJuYW1lIjogIlRlc3QgVXNlciJ9JwpgYGAKCiMjIyAyLiBUZXN0IExvZ2luCmBgYGJhc2gKY3VybCAtWCBQT1NUIGh0dHBzOi8veW91ci13b3JrZXIud29ya2Vycy5kZXYvYXBpL2F1dGgvbG9naW4gXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAneyJlbWFpbCI6ICJ0ZXN0QGFsZW1kb21hci5jb20iLCAicGFzc3dvcmQiOiAidGVzdDEyMyJ9JwpgYGAKCiMjIyAzLiBUZXN0IGluIEJyb3dzZXIKMS4gT3BlbiB5b3VyIGFwcAoyLiBDbGljayAiRW50cmFyIgozLiBVc2UgdGVzdCBjcmVkZW50aWFscwo0LiBWZXJpZnkgbG9naW4gd29ya3MKCiMjIFN0ZXAgNTogU2VjdXJpdHkgSW1wcm92ZW1lbnRzCgojIyMgMS4gQWRkIFBhc3N3b3JkIEhhc2hpbmcKYGBgamF2YXNjcmlwdAovLyBJbiB3b3JrZXIuanMsIGFkZCBiY3J5cHQ6CmltcG9ydCBiY3J5cHQgZnJvbSAnYmNyeXB0anMnOwoKLy8gSGFzaCBwYXNzd29yZCB3aGVuIGNyZWF0aW5nIHVzZXI6CmNvbnN0IGhhc2hlZFBhc3N3b3JkID0gYXdhaXQgYmNyeXB0Lmhhc2gocGFzc3dvcmQsIDEwKTsKCi8vIFZlcmlmeSBwYXNzd29yZCB3aGVuIGxvZ2dpbmcgaW46CmNvbnN0IGlzVmFsaWQgPSBhd2FpdCBiY3J5cHQuY29tcGFyZShwYXNzd29yZCwgdXNlci5wYXNzd29yZCk7CmBgYAoKIyMjIDIuIEFkZCBKV1QgVG9rZW5zCmBgYGphdmFzY3JpcHQKLy8gSW4gd29ya2VyLmpzLCBhZGQgSldUOgppbXBvcnQgand0IGZyb20gJ0B0c25kci9jbG91ZGZsYXJlLXdvcmtlci1qd3QnOwoKLy8gQ3JlYXRlIHByb3BlciBKV1Q6CmNvbnN0IHRva2VuID0gYXdhaXQgand0LnNpZ24oCiAgeyBpZDogdXNlci5pZCwgZW1haWw6IHVzZXIuZW1haWwgfSwgCiAgSldUX1NFQ1JFVCwKICB7IGV4cGlyZXNJbjogJzdkJyB9Cik7CmBgYAoKIyMjIDMuIEFkZCBSYXRlIExpbWl0aW5nCmBgYGphdmFzY3JpcHQKLy8gSW4gd29ya2VyLmpzLCBhZGQgcmF0ZSBsaW1pdGluZzoKY29uc3QgcmF0ZUxpbWl0ID0gbmV3IE1hcCgpOwoKaWYgKHJhdGVMaW1pdC5oYXMoZW1haWwpKSB7CiAgY29uc3QgY291bnQgPSByYXRlTGltaXQuZ2V0KGVtYWlsKTsKICBpZiAoY291bnQgPiA1KSB7CiAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdUb28gbWFueSByZXF1ZXN0cycsIHsgc3RhdHVzOiA0MjkgfSk7CiAgfQogIHJhdGVMaW1pdC5zZXQoZW1haWwsIGNvdW50ICsgMSk7Cn0gZWxzZSB7CiAgcmF0ZUxpbWl0LnNldChlbWFpbCwgMSk7Cn0KYGBgCgojIyBBbHRlcm5hdGl2ZTogU3VwYWJhc2UgSW50ZWdyYXRpb24KCklmIHlvdSBwcmVmZXIgU3VwYWJhc2Ugb3ZlciBDbG91ZGZsYXJlIEtWOgoKIyMjIDEuIENyZWF0ZSBTdXBhYmFzZSBQcm9qZWN0CjEuIEdvIHRvIFtzdXBhYmFzZS5jb21dKGh0dHBzOi8vc3VwYWJhc2UuY29tKQoyLiBDcmVhdGUgbmV3IHByb2plY3QKMy4gR2V0IHlvdXIgcHJvamVjdCBVUkwgYW5kIGFub24ga2V5CgojIyMgMi4gVXBkYXRlIEZyb250ZW5kCmBgYGphdmFzY3JpcHQKLy8gUmVwbGFjZSByZWFsLWF1dGguanN4IHdpdGggU3VwYWJhc2UgY2xpZW50OgppbXBvcnQgeyBjcmVhdGVDbGllbnQgfSBmcm9tICdAc3VwYWJhc2Uvc3VwYWJhc2UtanMnOwoKY29uc3Qgc3VwYWJhc2UgPSBjcmVhdGVDbGllbnQoCiAgJ1lPVVJfU1VQQUJBU0VfVVJMJywKICAnWU9VUl9TVVBBQkFTRV9BTk9OX0tFWScKKTsKCi8vIExvZ2luIGZ1bmN0aW9uOgphc3luYyBmdW5jdGlvbiBsb2dpbihlbWFpbCwgcGFzc3dvcmQpIHsKICBjb25zdCB7IGRhdGEsIGVycm9yIH0gPSBhd2FpdCBzdXBhYmFzZS5hdXRoLnNpZ25JbldpdGhQYXNzd29yZCh7CiAgICBlbWFpbCwKICAgIHBhc3N3b3JkLAogIH0pOwogIAogIGlmIChlcnJvcikgdGhyb3cgZXJyb3I7CiAgcmV0dXJuIGRhdGEudXNlcjsKfQpgYGAKCiMjIFF1aWNrIFNldHVwIENoZWNrbGlzdAoKLSBbIF0gQ3JlYXRlIENsb3VkZmxhcmUgV29ya2VycyBhY2NvdW50Ci0gWyBdIENyZWF0ZSBLViBuYW1lc3BhY2VzIChBRE1fVVNFUlMsIEFETV9ISVNUT1JZKQotIFsgXSBEZXBsb3kgd29ya2VyLmpzIHRvIENsb3VkZmxhcmUKLSBbIF0gVXBkYXRlIGZyb250ZW5kIHRvIHVzZSByZWFsLWF1dGguanN4Ci0gWyBdIFRlc3QgYXV0aGVudGljYXRpb24gZmxvdwotIFsgXSBBZGQgcGFzc3dvcmQgaGFzaGluZwotIFsgXSBBZGQgcHJvcGVyIEpXVCB0b2tlbnMKLSBbIF0gVGVzdCB3aXRoIG11bHRpcGxlIHVzZXJzCi0gWyBdIERlcGxveSB0byBwcm9kdWN0aW9uCgojIyBXaGF0IFRoaXMgR2l2ZXMgWW91CgrinIUgKipSZWFsIGRhdGFiYXNlIHBlcnNpc3RlbmNlKiogIArinIUgKipNdWx0aS1kZXZpY2Ugc3luYyoqICAK4pyFICoqUHJvZHVjdGlvbi1yZWFkeSBhdXRoZW50aWNhdGlvbioqICAK4pyFICoqU2NhbGFibGUgdXNlciBtYW5hZ2VtZW50KiogIArinIUgKipBUEkgZW5kcG9pbnRzIGZvciBtb2JpbGUgYXBwcyoqICAK4pyFICoqRm91bmRhdGlvbiBmb3IgcHJlbWl1bSBmZWF0dXJlcyoqICAKClRoZSBtb2NrIGF1dGhlbnRpY2F0aW9uIHdvcmtzIGZvciBkZXZlbG9wbWVudCwgYnV0IHlvdSdsbCB3YW50IHRvIGRlcGxveSB0aGUgcmVhbCBkYXRhYmFzZSBiZWZvcmUgbGF1bmNoaW5nIHRvIHVzZXJzLgoKV291bGQgeW91IGxpa2UgbWUgdG8gaGVscCB5b3U6CjEuICoqU2V0IHVwIENsb3VkZmxhcmUgV29ya2VycyoqIG5vdz8KMi4gKipTd2l0Y2ggdG8gU3VwYWJhc2UqKiBpbnN0ZWFkPwozLiAqKktlZXAgdGhlIG1vY2sgc3lzdGVtKiogYW5kIGZvY3VzIG9uIG90aGVyIGZlYXR1cmVzIGZpcnN0Pwo="}
+# Deployment Guide: Real Database Authentication + Hybrid Translation System
+
+## Current Status: Mock (localStorage) → Real (Cloudflare KV + Hybrid AI)
+
+### What You Have Now:
+- ✅ Mock authentication using localStorage
+- ✅ UI and flow working
+- ✅ Hybrid translation system implemented
+- ❌ No real database persistence
+- ❌ No API keys configured for translation services
+
+### What You Need:
+- ✅ Cloudflare Workers account
+- ✅ KV namespace for users
+- ✅ Deployed worker with auth endpoints
+- ✅ Updated frontend calling real API
+
+## Step 1: Set Up Cloudflare Workers
+
+### 1. Create Account
+1. Go to [cloudflare.com](https://cloudflare.com)
+2. Sign up for free account
+3. Go to Workers & Pages
+
+### 2. Create KV Namespace
+```bash
+# Install Wrangler CLI
+npm install -g wrangler
+
+# Login to Cloudflare
+wrangler login
+
+# Create KV namespace
+wrangler kv:namespace create "ADM_USERS"
+wrangler kv:namespace create "ADM_HISTORY" --preview
+```
+
+### 3. Create wrangler.toml
+```toml
+name = "alemdomar-auth"
+main = "worker.js"
+compatibility_date = "2023-10-30"
+
+[[kv_namespaces]]
+binding = "ADM_USERS"
+id = "your-kv-namespace-id"
+preview_id = "your-preview-kv-namespace-id"
+
+[[kv_namespaces]]
+binding = "ADM_HISTORY"
+id = "your-history-kv-namespace-id"
+preview_id = "your-history-preview-kv-namespace-id"
+```
+
+## Step 2: Deploy the Worker
+
+### 1. Test Locally
+```bash
+# Start local development
+wrangler dev
+
+# Test endpoints
+curl -X POST http://localhost:8787/api/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"email": "test@example.com", "password": "password"}'
+```
+
+### 2. Deploy to Production
+```bash
+# Deploy to Cloudflare
+wrangler deploy
+
+# Your worker will be available at:
+# https://alemdomar-auth.your-subdomain.workers.dev
+```
+
+## Step 3: Update Frontend
+
+### 1. Replace simple-auth.jsx with real-auth.jsx
+```html
+<!-- Remove this -->
+<script type="text/babel" src="simple-auth.jsx"></script>
+
+<!-- Add this -->
+<script type="text/babel" src="real-auth.jsx"></script>
+```
+
+### 2. Update App Component
+```javascript
+// In index.html, change:
+<SimpleAuth ... />
+
+// To:
+<RealAuth ... />
+```
+
+### 3. Update API Base URL
+```javascript
+// In real-auth.jsx, update fetch calls to use your worker URL:
+const response = await fetch('https://alemdomar-auth.your-subdomain.workers.dev/api/auth/login', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ email, password })
+});
+```
+
+## Step 4: Test the Integration
+
+### 1. Create Test User
+```bash
+curl -X POST https://your-worker.workers.dev/api/auth/signup \
+  -H "Content-Type: application/json" \
+  -d '{"email": "test@alemdomar.com", "password": "test123", "name": "Test User"}'
+```
+
+### 2. Test Login
+```bash
+curl -X POST https://your-worker.workers.dev/api/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"email": "test@alemdomar.com", "password": "test123"}'
+```
+
+### 3. Test in Browser
+1. Open your app
+2. Click "Entrar"
+3. Use test credentials
+4. Verify login works
+
+## Step 5: Security Improvements
+
+### 1. Add Password Hashing
+```javascript
+// In worker.js, add bcrypt:
+import bcrypt from 'bcryptjs';
+
+// Hash password when creating user:
+const hashedPassword = await bcrypt.hash(password, 10);
+
+// Verify password when logging in:
+const isValid = await bcrypt.compare(password, user.password);
+```
+
+### 2. Add JWT Tokens
+```javascript
+// In worker.js, add JWT:
+import jwt from '@tsndr/cloudflare-worker-jwt';
+
+// Create proper JWT:
+const token = await jwt.sign(
+  { id: user.id, email: user.email }, 
+  JWT_SECRET,
+  { expiresIn: '7d' }
+);
+```
+
+### 3. Add Rate Limiting
+```javascript
+// In worker.js, add rate limiting:
+const rateLimit = new Map();
+
+if (rateLimit.has(email)) {
+  const count = rateLimit.get(email);
+  if (count > 5) {
+    return new Response('Too many requests', { status: 429 });
+  }
+  rateLimit.set(email, count + 1);
+} else {
+  rateLimit.set(email, 1);
+}
+```
+
+## Alternative: Supabase Integration
+
+If you prefer Supabase over Cloudflare KV:
+
+### 1. Create Supabase Project
+1. Go to [supabase.com](https://supabase.com)
+2. Create new project
+3. Get your project URL and anon key
+
+### 2. Update Frontend
+```javascript
+// Replace real-auth.jsx with Supabase client:
+import { createClient } from '@supabase/supabase-js';
+
+const supabase = createClient(
+  'YOUR_SUPABASE_URL',
+  'YOUR_SUPABASE_ANON_KEY'
+);
+
+// Login function:
+async function login(email, password) {
+  const { data, error } = await supabase.auth.signInWithPassword({
+    email,
+    password,
+  });
+  
+  if (error) throw error;
+  return data.user;
+}
+```
+
+## Quick Setup Checklist
+
+- [ ] Create Cloudflare Workers account
+- [ ] Create KV namespaces (ADM_USERS, ADM_HISTORY)
+- [ ] Deploy worker.js to Cloudflare
+- [ ] Update frontend to use real-auth.jsx
+- [ ] Test authentication flow
+- [ ] Add password hashing
+- [ ] Add proper JWT tokens
+- [ ] Test with multiple users
+- [ ] Deploy to production
+
+## What This Gives You
+
+✅ **Real database persistence**  
+✅ **Multi-device sync**  
+✅ **Production-ready authentication**  
+✅ **Scalable user management**  
+✅ **API endpoints for mobile apps**  
+✅ **Foundation for premium features**  
+
+The mock authentication works for development, but you'll want to deploy the real database before launching to users.
+
+Would you like me to help you:
+1. **Set up Cloudflare Workers** now?
+2. **Switch to Supabase** instead?
+3. **Keep the mock system** and focus on other features first?

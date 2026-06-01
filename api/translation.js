@@ -1,1 +1,142 @@
-{"data":"Ly8gQ2xvdWRmbGFyZSBXb3JrZXJzIEFQSSBmb3IgSHlicmlkIFRyYW5zbGF0aW9uIFNlcnZpY2UKLy8gUm91dGVzIGJldHdlZW4gR29vZ2xlIFRyYW5zbGF0ZSBhbmQgQ2xhdWRlIGJhc2VkIG9uIGNvbnRlbnQgY29tcGxleGl0eQoKaW1wb3J0IHsgVHJhbnNsYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vdHJhbnNsYXRpb24tc2VydmljZS5qcyc7CgpleHBvcnQgZGVmYXVsdCB7CiAgYXN5bmMgZmV0Y2gocmVxdWVzdCwgZW52LCBjdHgpIHsKICAgIGNvbnN0IHVybCA9IG5ldyBVUkwocmVxdWVzdC51cmwpOwogICAgCiAgICAvLyBDT1JTIGhlYWRlcnMKICAgIGNvbnN0IGNvcnNIZWFkZXJzID0gewogICAgICAnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJzogJyonLAogICAgICAnQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcyc6ICdHRVQsIFBPU1QsIFBVVCwgREVMRVRFLCBPUFRJT05TJywKICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMnOiAnQ29udGVudC1UeXBlLCBBdXRob3JpemF0aW9uJywKICAgIH07CgogICAgLy8gSGFuZGxlIENPUlMgcHJlZmxpZ2h0IHJlcXVlc3RzCiAgICBpZiAocmVxdWVzdC5tZXRob2QgPT09ICdPUFRJT05TJykgewogICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKG51bGwsIHsgaGVhZGVyczogY29yc0hlYWRlcnMgfSk7CiAgICB9CgogICAgdHJ5IHsKICAgICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy9hcGkvdHJhbnNsYXRlJyAmJiByZXF1ZXN0Lm1ldGhvZCA9PT0gJ1BPU1QnKSB7CiAgICAgICAgcmV0dXJuIGF3YWl0IGhhbmRsZVRyYW5zbGF0aW9uKHJlcXVlc3QsIGVudiwgY29yc0hlYWRlcnMpOwogICAgICB9CiAgICAgIAogICAgICBpZiAodXJsLnBhdGhuYW1lID09PSAnL2FwaS90cmFuc2xhdGUvYmF0Y2gnICYmIHJlcXVlc3QubWV0aG9kID09PSAnUE9TVCcpIHsKICAgICAgICByZXR1cm4gYXdhaXQgaGFuZGxlQmF0Y2hUcmFuc2xhdGlvbihyZXF1ZXN0LCBlbnYsIGNvcnNIZWFkZXJzKTsKICAgICAgfQoKICAgICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy9hcGkvdHJhbnNsYXRlL2Nvc3QtZXN0aW1hdGUnICYmIHJlcXVlc3QubWV0aG9kID09PSAnUE9TVCcpIHsKICAgICAgICByZXR1cm4gYXdhaXQgaGFuZGxlQ29zdEVzdGltYXRlKHJlcXVlc3QsIGVudiwgY29yc0hlYWRlcnMpOwogICAgICB9CgogICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdOb3QgRm91bmQnLCB7IHN0YXR1czogNDA0LCBoZWFkZXJzOiBjb3JzSGVhZGVycyB9KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoJ1RyYW5zbGF0aW9uIEFQSSBlcnJvcjonLCBlcnJvcik7CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoCiAgICAgICAgSlNPTi5zdHJpbmdpZnkoeyBlcnJvcjogJ0ludGVybmFsIHNlcnZlciBlcnJvcicgfSksIAogICAgICAgIHsgc3RhdHVzOiA1MDAsIGhlYWRlcnM6IHsgLi4uY29yc0hlYWRlcnMsICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSB9CiAgICAgICk7CiAgICB9CiAgfQp9OwoKYXN5bmMgZnVuY3Rpb24gaGFuZGxlVHJhbnNsYXRpb24ocmVxdWVzdCwgZW52LCBjb3JzSGVhZGVycykgewogIGNvbnN0IHsgdGV4dCwgdG9vbFR5cGUgPSAnZGVmYXVsdCcsIHNvdXJjZUxhbmcgPSAncHQnLCB0YXJnZXRMYW5nID0gJ2VuJyB9ID0gYXdhaXQgcmVxdWVzdC5qc29uKCk7CiAgCiAgaWYgKCF0ZXh0KSB7CiAgICByZXR1cm4gbmV3IFJlc3BvbnNlKAogICAgICBKU09OLnN0cmluZ2lmeSh7IGVycm9yOiAnVGV4dCBpcyByZXF1aXJlZCcgfSksIAogICAgICB7IHN0YXR1czogNDAwLCBoZWFkZXJzOiB7IC4uLmNvcnNIZWFkZXJzLCAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0gfQogICAgKTsKICB9CgogIGNvbnN0IHRyYW5zbGF0aW9uU2VydmljZSA9IG5ldyBUcmFuc2xhdGlvblNlcnZpY2UoKTsKICB0cmFuc2xhdGlvblNlcnZpY2UuZ29vZ2xlQXBpS2V5ID0gZW52LkdPT0dMRV9UUkFOU0xBVEVfQVBJX0tFWTsKICB0cmFuc2xhdGlvblNlcnZpY2UuY2xhdWRlQXBpS2V5ID0gZW52LkNMQVVERV9BUElfS0VZOwoKICB0cnkgewogICAgY29uc3QgdHJhbnNsYXRpb24gPSBhd2FpdCB0cmFuc2xhdGlvblNlcnZpY2UudHJhbnNsYXRlKHRleHQsIHRvb2xUeXBlKTsKICAgIGNvbnN0IGNvc3RFc3RpbWF0ZSA9IHRyYW5zbGF0aW9uU2VydmljZS5nZXRDb3N0RXN0aW1hdGUodGV4dCwgdG9vbFR5cGUpOwogICAgCiAgICByZXR1cm4gbmV3IFJlc3BvbnNlKAogICAgICBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgdHJhbnNsYXRpb24sCiAgICAgICAgdG9vbFR5cGUsCiAgICAgICAgc2VydmljZTogY29zdEVzdGltYXRlLnNlcnZpY2UsCiAgICAgICAgZXN0aW1hdGVkQ29zdDogY29zdEVzdGltYXRlLmVzdGltYXRlZENvc3QsCiAgICAgICAgY2hhcmFjdGVyczogY29zdEVzdGltYXRlLmNoYXJhY3RlcnMKICAgICAgfSksCiAgICAgIHsgaGVhZGVyczogeyAuLi5jb3JzSGVhZGVycywgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IH0KICAgICk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ1RyYW5zbGF0aW9uIGVycm9yOicsIGVycm9yKTsKICAgIHJldHVybiBuZXcgUmVzcG9uc2UoCiAgICAgIEpTT04uc3RyaW5naWZ5KHsgZXJyb3I6ICdUcmFuc2xhdGlvbiBmYWlsZWQnLCBkZXRhaWxzOiBlcnJvci5tZXNzYWdlIH0pLCAKICAgICAgeyBzdGF0dXM6IDUwMCwgaGVhZGVyczogeyAuLi5jb3JzSGVhZGVycywgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IH0KICAgICk7CiAgfQp9Cgphc3luYyBmdW5jdGlvbiBoYW5kbGVCYXRjaFRyYW5zbGF0aW9uKHJlcXVlc3QsIGVudiwgY29yc0hlYWRlcnMpIHsKICBjb25zdCB7IHRleHRzLCB0b29sVHlwZSA9ICdkZWZhdWx0JyB9ID0gYXdhaXQgcmVxdWVzdC5qc29uKCk7CiAgCiAgaWYgKCFBcnJheS5pc0FycmF5KHRleHRzKSB8fCB0ZXh0cy5sZW5ndGggPT09IDApIHsKICAgIHJldHVybiBuZXcgUmVzcG9uc2UoCiAgICAgIEpTT04uc3RyaW5naWZ5KHsgZXJyb3I6ICdUZXh0cyBhcnJheSBpcyByZXF1aXJlZCcgfSksIAogICAgICB7IHN0YXR1czogNDAwLCBoZWFkZXJzOiB7IC4uLmNvcnNIZWFkZXJzLCAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0gfQogICAgKTsKICB9CgogIGlmICh0ZXh0cy5sZW5ndGggPiAxMCkgewogICAgcmV0dXJuIG5ldyBSZXNwb25zZSgKICAgICAgSlNPTi5zdHJpbmdpZnkoeyBlcnJvcjogJ01heGltdW0gMTAgdGV4dHMgcGVyIGJhdGNoJyB9KSwgCiAgICAgIHsgc3RhdHVzOiA0MDAsIGhlYWRlcnM6IHsgLi4uY29yc0hlYWRlcnMsICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSB9CiAgICApOwogIH0KCiAgY29uc3QgdHJhbnNsYXRpb25TZXJ2aWNlID0gbmV3IFRyYW5zbGF0aW9uU2VydmljZSgpOwogIHRyYW5zbGF0aW9uU2VydmljZS5nb29nbGVBcGlLZXkgPSBlbnYuR09PR0xFX1RSQU5TTEFURV9BUElfS0VZOwogIHRyYW5zbGF0aW9uU2VydmljZS5jbGF1ZGVBcGlLZXkgPSBlbnYuQ0xBVURFX0FQSV9LRVk7CgogIHRyeSB7CiAgICBjb25zdCByZXN1bHRzID0gYXdhaXQgdHJhbnNsYXRpb25TZXJ2aWNlLnRyYW5zbGF0ZUJhdGNoKHRleHRzLCB0b29sVHlwZSk7CiAgICAKICAgIHJldHVybiBuZXcgUmVzcG9uc2UoCiAgICAgIEpTT04uc3RyaW5naWZ5KHsKICAgICAgICByZXN1bHRzLAogICAgICAgIHRvdGFsVGV4dHM6IHRleHRzLmxlbmd0aCwKICAgICAgICBzdWNjZXNzZnVsOiByZXN1bHRzLmZpbHRlcihyID0+IHIuc3VjY2VzcykubGVuZ3RoLAogICAgICAgIGZhaWxlZDogcmVzdWx0cy5maWx0ZXIociA9PiAhci5zdWNjZXNzKS5sZW5ndGgKICAgICAgfSksCiAgICAgIHsgaGVhZGVyczogeyAuLi5jb3JzSGVhZGVycywgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IH0KICAgICk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ0JhdGNoIHRyYW5zbGF0aW9uIGVycm9yOicsIGVycm9yKTsKICAgIHJldHVybiBuZXcgUmVzcG9uc2UoCiAgICAgIEpTT04uc3RyaW5naWZ5KHsgZXJyb3I6ICdCYXRjaCB0cmFuc2xhdGlvbiBmYWlsZWQnLCBkZXRhaWxzOiBlcnJvci5tZXNzYWdlIH0pLCAKICAgICAgeyBzdGF0dXM6IDUwMCwgaGVhZGVyczogeyAuLi5jb3JzSGVhZGVycywgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IH0KICAgICk7CiAgfQp9Cgphc3luYyBmdW5jdGlvbiBoYW5kbGVDb3N0RXN0aW1hdGUocmVxdWVzdCwgZW52LCBjb3JzSGVhZGVycykgewogIGNvbnN0IHsgdGV4dCwgdG9vbFR5cGUgPSAnZGVmYXVsdCcgfSA9IGF3YWl0IHJlcXVlc3QuanNvbigpOwogIAogIGlmICghdGV4dCkgewogICAgcmV0dXJuIG5ldyBSZXNwb25zZSgKICAgICAgSlNPTi5zdHJpbmdpZnkoeyBlcnJvcjogJ1RleHQgaXMgcmVxdWlyZWQnIH0pLCAKICAgICAgeyBzdGF0dXM6IDQwMCwgaGVhZGVyczogeyAuLi5jb3JzSGVhZGVycywgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IH0KICAgICk7CiAgfQoKICBjb25zdCB0cmFuc2xhdGlvblNlcnZpY2UgPSBuZXcgVHJhbnNsYXRpb25TZXJ2aWNlKCk7CiAgY29uc3QgY29zdEVzdGltYXRlID0gdHJhbnNsYXRpb25TZXJ2aWNlLmdldENvc3RFc3RpbWF0ZSh0ZXh0LCB0b29sVHlwZSk7CiAgCiAgcmV0dXJuIG5ldyBSZXNwb25zZSgKICAgIEpTT04uc3RyaW5naWZ5KGNvc3RFc3RpbWF0ZSksCiAgICB7IGhlYWRlcnM6IHsgLi4uY29yc0hlYWRlcnMsICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSB9CiAgKTsKfQo="}
+// Cloudflare Workers API for Hybrid Translation Service
+// Routes between Google Translate and Claude based on content complexity
+
+import { TranslationService } from '../translation-service.js';
+
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    
+    // CORS headers
+    const corsHeaders = {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    };
+
+    // Handle CORS preflight requests
+    if (request.method === 'OPTIONS') {
+      return new Response(null, { headers: corsHeaders });
+    }
+
+    try {
+      if (url.pathname === '/api/translate' && request.method === 'POST') {
+        return await handleTranslation(request, env, corsHeaders);
+      }
+      
+      if (url.pathname === '/api/translate/batch' && request.method === 'POST') {
+        return await handleBatchTranslation(request, env, corsHeaders);
+      }
+
+      if (url.pathname === '/api/translate/cost-estimate' && request.method === 'POST') {
+        return await handleCostEstimate(request, env, corsHeaders);
+      }
+
+      return new Response('Not Found', { status: 404, headers: corsHeaders });
+    } catch (error) {
+      console.error('Translation API error:', error);
+      return new Response(
+        JSON.stringify({ error: 'Internal server error' }), 
+        { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      );
+    }
+  }
+};
+
+async function handleTranslation(request, env, corsHeaders) {
+  const { text, toolType = 'default', sourceLang = 'pt', targetLang = 'en' } = await request.json();
+  
+  if (!text) {
+    return new Response(
+      JSON.stringify({ error: 'Text is required' }), 
+      { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+
+  const translationService = new TranslationService();
+  translationService.googleApiKey = env.GOOGLE_TRANSLATE_API_KEY;
+  translationService.claudeApiKey = env.CLAUDE_API_KEY;
+
+  try {
+    const translation = await translationService.translate(text, toolType);
+    const costEstimate = translationService.getCostEstimate(text, toolType);
+    
+    return new Response(
+      JSON.stringify({
+        translation,
+        toolType,
+        service: costEstimate.service,
+        estimatedCost: costEstimate.estimatedCost,
+        characters: costEstimate.characters
+      }),
+      { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  } catch (error) {
+    console.error('Translation error:', error);
+    return new Response(
+      JSON.stringify({ error: 'Translation failed', details: error.message }), 
+      { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+}
+
+async function handleBatchTranslation(request, env, corsHeaders) {
+  const { texts, toolType = 'default' } = await request.json();
+  
+  if (!Array.isArray(texts) || texts.length === 0) {
+    return new Response(
+      JSON.stringify({ error: 'Texts array is required' }), 
+      { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+
+  if (texts.length > 10) {
+    return new Response(
+      JSON.stringify({ error: 'Maximum 10 texts per batch' }), 
+      { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+
+  const translationService = new TranslationService();
+  translationService.googleApiKey = env.GOOGLE_TRANSLATE_API_KEY;
+  translationService.claudeApiKey = env.CLAUDE_API_KEY;
+
+  try {
+    const results = await translationService.translateBatch(texts, toolType);
+    
+    return new Response(
+      JSON.stringify({
+        results,
+        totalTexts: texts.length,
+        successful: results.filter(r => r.success).length,
+        failed: results.filter(r => !r.success).length
+      }),
+      { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  } catch (error) {
+    console.error('Batch translation error:', error);
+    return new Response(
+      JSON.stringify({ error: 'Batch translation failed', details: error.message }), 
+      { status: 500, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+}
+
+async function handleCostEstimate(request, env, corsHeaders) {
+  const { text, toolType = 'default' } = await request.json();
+  
+  if (!text) {
+    return new Response(
+      JSON.stringify({ error: 'Text is required' }), 
+      { status: 400, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+    );
+  }
+
+  const translationService = new TranslationService();
+  const costEstimate = translationService.getCostEstimate(text, toolType);
+  
+  return new Response(
+    JSON.stringify(costEstimate),
+    { headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+  );
+}

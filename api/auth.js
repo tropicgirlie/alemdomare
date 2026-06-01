@@ -1,1 +1,199 @@
-{"data":"Ly8gQ2xvdWRmbGFyZSBXb3JrZXJzIEFQSSBmb3IgQXV0aGVudGljYXRpb24KLy8gSGFuZGxlcyB1c2VyIHNpZ251cCwgbG9naW4sIGFuZCBzZXNzaW9uIG1hbmFnZW1lbnQgd2l0aCBLViBzdG9yYWdlCgovLyBUaGlzIHdvdWxkIGJlIGRlcGxveWVkIGFzIGEgQ2xvdWRmbGFyZSBXb3JrZXIKLy8gRm9yIG5vdywgd2UnbGwgY3JlYXRlIGEgbW9jayBpbXBsZW1lbnRhdGlvbiB0aGF0IHdvcmtzIHdpdGggbG9jYWxTdG9yYWdlCgpjbGFzcyBBdXRoQVBJIHsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHRoaXMuS1ZfTkFNRVNQQUNFID0gJ0FETV9BVVRIJzsKICAgIHRoaXMudXNlcnMgPSB0aGlzLmxvYWRVc2VycygpOwogIH0KCiAgbG9hZFVzZXJzKCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FkbV91c2VycycpIHx8ICd7fScpOwogICAgfSBjYXRjaCB7CiAgICAgIHJldHVybiB7fTsKICAgIH0KICB9CgogIHNhdmVVc2VycygpIHsKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhZG1fdXNlcnMnLCBKU09OLnN0cmluZ2lmeSh0aGlzLnVzZXJzKSk7CiAgfQoKICAvLyBHZW5lcmF0ZSBKV1QtbGlrZSB0b2tlbiAoc2ltcGxpZmllZCBmb3IgZGVtbykKICBnZW5lcmF0ZVRva2VuKHVzZXIpIHsKICAgIGNvbnN0IHBheWxvYWQgPSB7CiAgICAgIGlkOiB1c2VyLmlkLAogICAgICBlbWFpbDogdXNlci5lbWFpbCwKICAgICAgcm9sZTogdXNlci5yb2xlLAogICAgICBleHA6IERhdGUubm93KCkgKyAoNyAqIDI0ICogNjAgKiA2MCAqIDEwMDApIC8vIDcgZGF5cwogICAgfTsKICAgIHJldHVybiBidG9hKEpTT04uc3RyaW5naWZ5KHBheWxvYWQpKTsKICB9CgogIHZlcmlmeVRva2VuKHRva2VuKSB7CiAgICB0cnkgewogICAgICBjb25zdCBwYXlsb2FkID0gSlNPTi5wYXJzZShhdG9iKHRva2VuKSk7CiAgICAgIGlmIChwYXlsb2FkLmV4cCA8IERhdGUubm93KCkpIHJldHVybiBudWxsOwogICAgICByZXR1cm4gcGF5bG9hZDsKICAgIH0gY2F0Y2ggewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KICB9CgogIC8vIEhhc2ggcGFzc3dvcmQgKHNpbXBsaWZpZWQpCiAgaGFzaFBhc3N3b3JkKHBhc3N3b3JkKSB7CiAgICByZXR1cm4gYnRvYShwYXNzd29yZCArICdzYWx0Jyk7IC8vIEluIHByb2R1Y3Rpb24sIHVzZSBwcm9wZXIgaGFzaGluZwogIH0KCiAgLy8gVXNlciBzaWdudXAKICBhc3luYyBzaWdudXAoZW1haWwsIHBhc3N3b3JkLCBuYW1lKSB7CiAgICBpZiAodGhpcy51c2Vyc1tlbWFpbF0pIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCdFbWFpbCBqw6EgY2FkYXN0cmFkbycpOwogICAgfQoKICAgIGNvbnN0IHVzZXIgPSB7CiAgICAgIGlkOiAndXNlcl8nICsgRGF0ZS5ub3coKSwKICAgICAgZW1haWwsCiAgICAgIG5hbWUsCiAgICAgIHBhc3N3b3JkOiB0aGlzLmhhc2hQYXNzd29yZChwYXNzd29yZCksCiAgICAgIHJvbGU6ICd1c2VyJywKICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIHVzYWdlQ291bnQ6IDAsCiAgICAgIHVubGltaXRlZDogZmFsc2UKICAgIH07CgogICAgdGhpcy51c2Vyc1tlbWFpbF0gPSB1c2VyOwogICAgdGhpcy5zYXZlVXNlcnMoKTsKCiAgICBjb25zdCB0b2tlbiA9IHRoaXMuZ2VuZXJhdGVUb2tlbih1c2VyKTsKICAgIHJldHVybiB7IHRva2VuLCB1c2VyOiB7IC4uLnVzZXIsIHBhc3N3b3JkOiB1bmRlZmluZWQgfSB9OwogIH0KCiAgLy8gVXNlciBsb2dpbgogIGFzeW5jIGxvZ2luKGVtYWlsLCBwYXNzd29yZCkgewogICAgY29uc3QgdXNlciA9IHRoaXMudXNlcnNbZW1haWxdOwogICAgaWYgKCF1c2VyIHx8IHVzZXIucGFzc3dvcmQgIT09IHRoaXMuaGFzaFBhc3N3b3JkKHBhc3N3b3JkKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoJ0VtYWlsIG91IHNlbmhhIGluY29ycmV0b3MnKTsKICAgIH0KCiAgICBjb25zdCB0b2tlbiA9IHRoaXMuZ2VuZXJhdGVUb2tlbih1c2VyKTsKICAgIHJldHVybiB7IHRva2VuLCB1c2VyOiB7IC4uLnVzZXIsIHBhc3N3b3JkOiB1bmRlZmluZWQgfSB9OwogIH0KCiAgLy8gVmVyaWZ5IHRva2VuCiAgYXN5bmMgdmVyaWZ5KHRva2VuKSB7CiAgICBjb25zdCBwYXlsb2FkID0gdGhpcy52ZXJpZnlUb2tlbih0b2tlbik7CiAgICBpZiAoIXBheWxvYWQpIHRocm93IG5ldyBFcnJvcignVG9rZW4gaW52w6FsaWRvJyk7CiAgICAKICAgIGNvbnN0IHVzZXIgPSB0aGlzLnVzZXJzW3BheWxvYWQuZW1haWxdOwogICAgaWYgKCF1c2VyKSB0aHJvdyBuZXcgRXJyb3IoJ1VzdcOhcmlvIG7Do28gZW5jb250cmFkbycpOwogICAgCiAgICByZXR1cm4geyAuLi51c2VyLCBwYXNzd29yZDogdW5kZWZpbmVkIH07CiAgfQp9CgovLyBNb2NrIEFQSSBlbmRwb2ludHMgZm9yIGRldmVsb3BtZW50CndpbmRvdy5BdXRoQVBJID0gQXV0aEFQSTsKCi8vIE1vY2sgZmV0Y2ggaW50ZXJjZXB0b3JzIGZvciBkZXZlbG9wbWVudAppZiAodHlwZW9mIHdpbmRvdyAhPT0gJ3VuZGVmaW5lZCcpIHsKICBjb25zdCBvcmlnaW5hbEZldGNoID0gd2luZG93LmZldGNoOwogIGNvbnN0IGF1dGhBUEkgPSBuZXcgQXV0aEFQSSgpOwoKICB3aW5kb3cuZmV0Y2ggPSBhc3luYyBmdW5jdGlvbih1cmwsIG9wdGlvbnMgPSB7fSkgewogICAgLy8gSGFuZGxlIGF1dGggZW5kcG9pbnRzCiAgICBpZiAodXJsID09PSAnL2FwaS9hdXRoL3NpZ251cCcpIHsKICAgICAgY29uc3QgeyBlbWFpbCwgcGFzc3dvcmQsIG5hbWUgfSA9IEpTT04ucGFyc2Uob3B0aW9ucy5ib2R5KTsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBhdXRoQVBJLnNpZ251cChlbWFpbCwgcGFzc3dvcmQsIG5hbWUpOwogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoSlNPTi5zdHJpbmdpZnkocmVzdWx0KSwgewogICAgICAgICAgc3RhdHVzOiAyMDAsCiAgICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgICAgIH0pOwogICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoSlNPTi5zdHJpbmdpZnkoeyBtZXNzYWdlOiBlcnJvci5tZXNzYWdlIH0pLCB7CiAgICAgICAgICBzdGF0dXM6IDQwMCwKICAgICAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9CiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0KCiAgICBpZiAodXJsID09PSAnL2FwaS9hdXRoL2xvZ2luJykgewogICAgICBjb25zdCB7IGVtYWlsLCBwYXNzd29yZCB9ID0gSlNPTi5wYXJzZShvcHRpb25zLmJvZHkpOwogICAgICB0cnkgewogICAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGF1dGhBUEkubG9naW4oZW1haWwsIHBhc3N3b3JkKTsKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKEpTT04uc3RyaW5naWZ5KHJlc3VsdCksIHsKICAgICAgICAgIHN0YXR1czogMjAwLAogICAgICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KICAgICAgICB9KTsKICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKEpTT04uc3RyaW5naWZ5KHsgbWVzc2FnZTogZXJyb3IubWVzc2FnZSB9KSwgewogICAgICAgICAgc3RhdHVzOiA0MDAsCiAgICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgICAgIH0pOwogICAgICB9CiAgICB9CgogICAgaWYgKHVybCA9PT0gJy9hcGkvYXV0aC92ZXJpZnknKSB7CiAgICAgIGNvbnN0IHRva2VuID0gb3B0aW9ucy5oZWFkZXJzPy5BdXRob3JpemF0aW9uPy5yZXBsYWNlKCdCZWFyZXIgJywgJycpOwogICAgICB0cnkgewogICAgICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBhdXRoQVBJLnZlcmlmeSh0b2tlbik7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZShKU09OLnN0cmluZ2lmeSh1c2VyKSwgewogICAgICAgICAgc3RhdHVzOiAyMDAsCiAgICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgICAgIH0pOwogICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoSlNPTi5zdHJpbmdpZnkoeyBtZXNzYWdlOiBlcnJvci5tZXNzYWdlIH0pLCB7CiAgICAgICAgICBzdGF0dXM6IDQwMSwKICAgICAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9CiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0KCiAgICAvLyBIYW5kbGUgdXNlciBoaXN0b3J5IGVuZHBvaW50cwogICAgaWYgKHVybCA9PT0gJy9hcGkvdXNlci9oaXN0b3J5JykgewogICAgICBjb25zdCB0b2tlbiA9IG9wdGlvbnMuaGVhZGVycz8uQXV0aG9yaXphdGlvbj8ucmVwbGFjZSgnQmVhcmVyICcsICcnKTsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCB1c2VyID0gYXdhaXQgYXV0aEFQSS52ZXJpZnkodG9rZW4pOwogICAgICAgIGNvbnN0IGhpc3RvcnkgPSBKU09OLnBhcnNlKGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdhZG0taGlzdG9yeScpIHx8ICdbXScpOwogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoSlNPTi5zdHJpbmdpZnkoaGlzdG9yeSksIHsKICAgICAgICAgIHN0YXR1czogMjAwLAogICAgICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KICAgICAgICB9KTsKICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKEpTT04uc3RyaW5naWZ5KHsgbWVzc2FnZTogJ1VuYXV0aG9yaXplZCcgfSksIHsKICAgICAgICAgIHN0YXR1czogNDAxLAogICAgICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KICAgICAgICB9KTsKICAgICAgfQogICAgfQoKICAgIGlmICh1cmwuc3RhcnRzV2l0aCgnL2FwaS91c2VyL2hpc3RvcnkvJykgJiYgb3B0aW9ucy5tZXRob2QgPT09ICdERUxFVEUnKSB7CiAgICAgIGNvbnN0IHRva2VuID0gb3B0aW9ucy5oZWFkZXJzPy5BdXRob3JpemF0aW9uPy5yZXBsYWNlKCdCZWFyZXIgJywgJycpOwogICAgICBjb25zdCBpdGVtSWQgPSB1cmwuc3BsaXQoJy8nKS5wb3AoKTsKICAgICAgCiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgdXNlciA9IGF3YWl0IGF1dGhBUEkudmVyaWZ5KHRva2VuKTsKICAgICAgICBjb25zdCBoaXN0b3J5ID0gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYWRtLWhpc3RvcnknKSB8fCAnW10nKTsKICAgICAgICBjb25zdCB1cGRhdGVkID0gaGlzdG9yeS5maWx0ZXIoaXRlbSA9PiBpdGVtLmlkICE9PSBpdGVtSWQpOwogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhZG0taGlzdG9yeScsIEpTT04uc3RyaW5naWZ5KHVwZGF0ZWQpKTsKICAgICAgICAKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlKEpTT04uc3RyaW5naWZ5KHsgc3VjY2VzczogdHJ1ZSB9KSwgewogICAgICAgICAgc3RhdHVzOiAyMDAsCiAgICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgICAgIH0pOwogICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoSlNPTi5zdHJpbmdpZnkoeyBtZXNzYWdlOiAnVW5hdXRob3JpemVkJyB9KSwgewogICAgICAgICAgc3RhdHVzOiA0MDEsCiAgICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgICAgIH0pOwogICAgICB9CiAgICB9CgogICAgLy8gRm9yIGFsbCBvdGhlciByZXF1ZXN0cywgdXNlIG9yaWdpbmFsIGZldGNoCiAgICByZXR1cm4gb3JpZ2luYWxGZXRjaC5hcHBseSh0aGlzLCBhcmd1bWVudHMpOwogIH07Cn0K"}
+// Cloudflare Workers API for Authentication
+// Handles user signup, login, and session management with KV storage
+
+// This would be deployed as a Cloudflare Worker
+// For now, we'll create a mock implementation that works with localStorage
+
+class AuthAPI {
+  constructor() {
+    this.KV_NAMESPACE = 'ADM_AUTH';
+    this.users = this.loadUsers();
+  }
+
+  loadUsers() {
+    try {
+      return JSON.parse(localStorage.getItem('adm_users') || '{}');
+    } catch {
+      return {};
+    }
+  }
+
+  saveUsers() {
+    localStorage.setItem('adm_users', JSON.stringify(this.users));
+  }
+
+  // Generate JWT-like token (simplified for demo)
+  generateToken(user) {
+    const payload = {
+      id: user.id,
+      email: user.email,
+      role: user.role,
+      exp: Date.now() + (7 * 24 * 60 * 60 * 1000) // 7 days
+    };
+    return btoa(JSON.stringify(payload));
+  }
+
+  verifyToken(token) {
+    try {
+      const payload = JSON.parse(atob(token));
+      if (payload.exp < Date.now()) return null;
+      return payload;
+    } catch {
+      return null;
+    }
+  }
+
+  // Hash password (simplified)
+  hashPassword(password) {
+    return btoa(password + 'salt'); // In production, use proper hashing
+  }
+
+  // User signup
+  async signup(email, password, name) {
+    if (this.users[email]) {
+      throw new Error('Email já cadastrado');
+    }
+
+    const user = {
+      id: 'user_' + Date.now(),
+      email,
+      name,
+      password: this.hashPassword(password),
+      role: 'user',
+      createdAt: new Date().toISOString(),
+      usageCount: 0,
+      unlimited: false
+    };
+
+    this.users[email] = user;
+    this.saveUsers();
+
+    const token = this.generateToken(user);
+    return { token, user: { ...user, password: undefined } };
+  }
+
+  // User login
+  async login(email, password) {
+    const user = this.users[email];
+    if (!user || user.password !== this.hashPassword(password)) {
+      throw new Error('Email ou senha incorretos');
+    }
+
+    const token = this.generateToken(user);
+    return { token, user: { ...user, password: undefined } };
+  }
+
+  // Verify token
+  async verify(token) {
+    const payload = this.verifyToken(token);
+    if (!payload) throw new Error('Token inválido');
+    
+    const user = this.users[payload.email];
+    if (!user) throw new Error('Usuário não encontrado');
+    
+    return { ...user, password: undefined };
+  }
+}
+
+// Mock API endpoints for development
+window.AuthAPI = AuthAPI;
+
+// Mock fetch interceptors for development
+if (typeof window !== 'undefined') {
+  const originalFetch = window.fetch;
+  const authAPI = new AuthAPI();
+
+  window.fetch = async function(url, options = {}) {
+    // Handle auth endpoints
+    if (url === '/api/auth/signup') {
+      const { email, password, name } = JSON.parse(options.body);
+      try {
+        const result = await authAPI.signup(email, password, name);
+        return new Response(JSON.stringify(result), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      } catch (error) {
+        return new Response(JSON.stringify({ message: error.message }), {
+          status: 400,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+    }
+
+    if (url === '/api/auth/login') {
+      const { email, password } = JSON.parse(options.body);
+      try {
+        const result = await authAPI.login(email, password);
+        return new Response(JSON.stringify(result), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      } catch (error) {
+        return new Response(JSON.stringify({ message: error.message }), {
+          status: 400,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+    }
+
+    if (url === '/api/auth/verify') {
+      const token = options.headers?.Authorization?.replace('Bearer ', '');
+      try {
+        const user = await authAPI.verify(token);
+        return new Response(JSON.stringify(user), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      } catch (error) {
+        return new Response(JSON.stringify({ message: error.message }), {
+          status: 401,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+    }
+
+    // Handle user history endpoints
+    if (url === '/api/user/history') {
+      const token = options.headers?.Authorization?.replace('Bearer ', '');
+      try {
+        const user = await authAPI.verify(token);
+        const history = JSON.parse(localStorage.getItem('adm-history') || '[]');
+        return new Response(JSON.stringify(history), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      } catch (error) {
+        return new Response(JSON.stringify({ message: 'Unauthorized' }), {
+          status: 401,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+    }
+
+    if (url.startsWith('/api/user/history/') && options.method === 'DELETE') {
+      const token = options.headers?.Authorization?.replace('Bearer ', '');
+      const itemId = url.split('/').pop();
+      
+      try {
+        const user = await authAPI.verify(token);
+        const history = JSON.parse(localStorage.getItem('adm-history') || '[]');
+        const updated = history.filter(item => item.id !== itemId);
+        localStorage.setItem('adm-history', JSON.stringify(updated));
+        
+        return new Response(JSON.stringify({ success: true }), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      } catch (error) {
+        return new Response(JSON.stringify({ message: 'Unauthorized' }), {
+          status: 401,
+          headers: { 'Content-Type': 'application/json' }
+        });
+      }
+    }
+
+    // For all other requests, use original fetch
+    return originalFetch.apply(this, arguments);
+  };
+}

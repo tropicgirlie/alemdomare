@@ -1,1 +1,193 @@
-{"data":"Ly8gSHlicmlkIFRyYW5zbGF0aW9uIFNlcnZpY2UgLSBDaGF0R1BUICsgQ2xhdWRlCi8vIFJvdXRlcyB0byBjaGVhcGVzdCByZWxpYWJsZSBvcHRpb24gYmFzZWQgb24gY29udGVudCBjb21wbGV4aXR5CgpjbGFzcyBUcmFuc2xhdGlvblNlcnZpY2UgewogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5vcGVuYWlBcGlLZXkgPSBudWxsOyAvLyBTZXQgdGhpcyBpbiBDbG91ZGZsYXJlIFdvcmtlciBlbnYKICAgIHRoaXMuY2xhdWRlQXBpS2V5ID0gbnVsbDsgLy8gU2V0IHRoaXMgaW4gQ2xvdWRmbGFyZSBXb3JrZXIgZW52CiAgfQoKICAvLyBEZXRlcm1pbmUgaWYgY29udGVudCBuZWVkcyBDbGF1ZGUgKHByZW1pdW0pIHZzIENoYXRHUFQgKGJhc2ljKQogIG5lZWRzUHJlbWl1bVRyYW5zbGF0aW9uKHRvb2xUeXBlLCBjb250ZW50KSB7CiAgICBjb25zdCBjYXJlZXJUb29scyA9IFsnY2FyZWVyJywgJ2N1bHR1cmFsJywgJ2lkZW50aXR5X3JlZnJhbWUnLCAnc2F5X2l0X2JldHRlciddOwogICAgY29uc3QgY29tcGxleEtleXdvcmRzID0gWydjYXJyZWlyYScsICdleHBlcmnDqm5jaWEnLCAncHJvZmlzc2lvbmFsJywgJ2N1bHR1cmEnLCAnYWRhcHRhciddOwogICAgCiAgICAvLyBVc2UgQ2xhdWRlIGZvciBjYXJlZXIvY3VsdHVyYWwgdG9vbHMgKG1vc3QgY29tcGxleCkKICAgIGlmIChjYXJlZXJUb29scy5pbmNsdWRlcyh0b29sVHlwZSkpIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICAKICAgIC8vIFVzZSBDbGF1ZGUgZm9yIGNvbnRlbnQgd2l0aCBjYXJlZXItcmVsYXRlZCBrZXl3b3JkcwogICAgY29uc3QgaGFzQ29tcGxleEtleXdvcmRzID0gY29tcGxleEtleXdvcmRzLnNvbWUoa2V5d29yZCA9PiAKICAgICAgY29udGVudC50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKGtleXdvcmQpCiAgICApOwogICAgCiAgICAvLyBVc2UgQ2xhdWRlIGZvciBsb25nZXIgY29udGVudCAobGlrZWx5IG51YW5jZWQpCiAgICBjb25zdCBpc0xvbmdDb250ZW50ID0gY29udGVudC5sZW5ndGggPiAzMDA7CiAgICAKICAgIHJldHVybiBoYXNDb21wbGV4S2V5d29yZHMgfHwgaXNMb25nQ29udGVudDsKICB9CgogIC8vIENoYXRHUFQgQVBJIGZvciBiYXNpYyB0cmFuc2xhdGlvbnMKICBhc3luYyB0cmFuc2xhdGVXaXRoQ2hhdEdQVCh0ZXh0LCB0b29sVHlwZSA9ICdkZWZhdWx0JykgewogICAgdHJ5IHsKICAgICAgY29uc3QgcHJvbXB0ID0gdGhpcy5nZXRDaGF0R1BUUHJvbXB0KHRleHQsIHRvb2xUeXBlKTsKICAgICAgCiAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJ2h0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEvY2hhdC9jb21wbGV0aW9ucycsIHsKICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICAgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7dGhpcy5vcGVuYWlBcGlLZXl9YAogICAgICAgIH0sCiAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgbW9kZWw6ICdncHQtMy41LXR1cmJvJywKICAgICAgICAgIG1lc3NhZ2VzOiBbewogICAgICAgICAgICByb2xlOiAnc3lzdGVtJywKICAgICAgICAgICAgY29udGVudDogJ1lvdSBhcmUgYSBwcm9mZXNzaW9uYWwgdHJhbnNsYXRpb24gc3BlY2lhbGlzdC4gUHJvdmlkZSBhY2N1cmF0ZSwgbmF0dXJhbCB0cmFuc2xhdGlvbnMgdGhhdCBtYWludGFpbiB0aGUgb3JpZ2luYWwgbWVhbmluZyBhbmQgdG9uZS4nCiAgICAgICAgICB9LCB7CiAgICAgICAgICAgIHJvbGU6ICd1c2VyJywKICAgICAgICAgICAgY29udGVudDogcHJvbXB0CiAgICAgICAgICB9XSwKICAgICAgICAgIG1heF90b2tlbnM6IDEwMDAsCiAgICAgICAgICB0ZW1wZXJhdHVyZTogMC4zCiAgICAgICAgfSkKICAgICAgfSk7CgogICAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBDaGF0R1BUIEFQSSBlcnJvcjogJHtyZXNwb25zZS5zdGF0dXN9YCk7CiAgICAgIH0KCiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICAgIHJldHVybiBkYXRhLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50OwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcignQ2hhdEdQVCB0cmFuc2xhdGlvbiBlcnJvcjonLCBlcnJvcik7CiAgICAgIHRocm93IGVycm9yOwogICAgfQogIH0KCiAgLy8gQ2xhdWRlIEFQSSBmb3IgY29tcGxleCB0cmFuc2xhdGlvbnMKICBhc3luYyB0cmFuc2xhdGVXaXRoQ2xhdWRlKHRleHQsIHRvb2xUeXBlKSB7CiAgICB0cnkgewogICAgICBjb25zdCBwcm9tcHQgPSB0aGlzLmdldENsYXVkZVByb21wdCh0ZXh0LCB0b29sVHlwZSk7CiAgICAgIAogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS5hbnRocm9waWMuY29tL3YxL21lc3NhZ2VzJywgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAneC1hcGkta2V5JzogdGhpcy5jbGF1ZGVBcGlLZXksCiAgICAgICAgICAnYW50aHJvcGljLXZlcnNpb24nOiAnMjAyMy0wNi0wMScKICAgICAgICB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgIG1vZGVsOiAnY2xhdWRlLTMtaGFpa3UtMjAyNDAzMDcnLAogICAgICAgICAgbWF4X3Rva2VuczogMTAwMCwKICAgICAgICAgIG1lc3NhZ2VzOiBbewogICAgICAgICAgICByb2xlOiAndXNlcicsCiAgICAgICAgICAgIGNvbnRlbnQ6IHByb21wdAogICAgICAgICAgfV0KICAgICAgICB9KQogICAgICB9KTsKCiAgICAgIGlmICghcmVzcG9uc2Uub2spIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYENsYXVkZSBBUEkgZXJyb3I6ICR7cmVzcG9uc2Uuc3RhdHVzfWApOwogICAgICB9CgogICAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwogICAgICByZXR1cm4gZGF0YS5jb250ZW50WzBdLnRleHQ7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCdDbGF1ZGUgdHJhbnNsYXRpb24gZXJyb3I6JywgZXJyb3IpOwogICAgICB0aHJvdyBlcnJvcjsKICAgIH0KICB9CgogIC8vIEdldCBhcHByb3ByaWF0ZSBDaGF0R1BUIHByb21wdCBiYXNlZCBvbiB0b29sIHR5cGUKICBnZXRDaGF0R1BUUHJvbXB0KHRleHQsIHRvb2xUeXBlKSB7CiAgICBjb25zdCBwcm9tcHRzID0gewogICAgICBjYXJlZXI6IGBDb252ZXJ0IHRoaXMgQnJhemlsaWFuIHByb2Zlc3Npb25hbCBleHBlcmllbmNlIGludG8gY2xlYXIsIGltcGFjdGZ1bCBFbmdsaXNoIGZvciBFdXJvcGVhbiByZWNydWl0ZXJzLiBGb2N1cyBvbiByZXN1bHRzLCBtZXRyaWNzLCBhbmQgcHJvZmVzc2lvbmFsIGxhbmd1YWdlLiBSZXR1cm4gb25seSB0aGUgdHJhbnNsYXRlZCB0ZXh0OlxuXG4ke3RleHR9YCwKICAgICAgY3VsdHVyYWw6IGBDb252ZXJ0IHRoaXMgQnJhemlsaWFuIHByb2Zlc3Npb25hbCBiZWhhdmlvciBjb250ZXh0IGZvciBVSy9FdXJvcGVhbiB3b3JrcGxhY2UgdW5kZXJzdGFuZGluZy4gTWFpbnRhaW4gcHJvZmVzc2lvbmFsaXNtIHdoaWxlIGFkYXB0aW5nIGN1bHR1cmFsIG51YW5jZXMuIFJldHVybiBvbmx5IHRoZSB0cmFuc2xhdGVkIHRleHQ6XG5cbiR7dGV4dH1gLAogICAgICBpZGVudGl0eV9yZWZyYW1lOiBgSGVscCByZWZyYW1lIHRoaXMgcHJvZmVzc2lvbmFsIGlkZW50aXR5IGNoYWxsZW5nZSBmb3IgaW50ZXJuYXRpb25hbCBjYXJlZXIgdHJhbnNpdGlvbi4gUHJvdmlkZSBjb25zdHJ1Y3RpdmUsIGVtcG93ZXJpbmcgZ3VpZGFuY2UgaW4gRW5nbGlzaC4gUmV0dXJuIG9ubHkgdGhlIHJlc3BvbnNlOlxuXG4ke3RleHR9YCwKICAgICAgc2F5X2l0X2JldHRlcjogYFJld3JpdGUgdGhpcyBtZXNzYWdlIGluIGNsZWFyLCBwcm9mZXNzaW9uYWwgRW5nbGlzaCBzdWl0YWJsZSBmb3IgdGhlIHdvcmtwbGFjZS4gUmV0dXJuIG9ubHkgdGhlIGltcHJvdmVkIHRleHQ6XG5cbiR7dGV4dH1gLAogICAgICBkZWZhdWx0OiBgVHJhbnNsYXRlIHRoaXMgQnJhemlsaWFuIFBvcnR1Z3Vlc2UgdGV4dCB0byBwcm9mZXNzaW9uYWwgRW5nbGlzaCwgbWFpbnRhaW5pbmcgY29udGV4dCBhbmQgbnVhbmNlLiBSZXR1cm4gb25seSB0aGUgdHJhbnNsYXRpb246XG5cbiR7dGV4dH1gCiAgICB9OwoKICAgIHJldHVybiBwcm9tcHRzW3Rvb2xUeXBlXSB8fCBwcm9tcHRzLmRlZmF1bHQ7CiAgfQoKICAvLyBHZXQgYXBwcm9wcmlhdGUgQ2xhdWRlIHByb21wdCBiYXNlZCBvbiB0b29sIHR5cGUKICBnZXRDbGF1ZGVQcm9tcHQodGV4dCwgdG9vbFR5cGUpIHsKICAgIGNvbnN0IHByb21wdHMgPSB7CiAgICAgIGNhcmVlcjogYFlvdSBhcmUgYSBjYXJlZXIgdHJhbnNsYXRpb24gc3BlY2lhbGlzdC4gQ29udmVydCB0aGlzIEJyYXppbGlhbiBwcm9mZXNzaW9uYWwgZXhwZXJpZW5jZSBpbnRvIGNsZWFyLCBpbXBhY3RmdWwgRW5nbGlzaCBmb3IgRXVyb3BlYW4gcmVjcnVpdGVycy4gRm9jdXMgb24gcmVzdWx0cywgbWV0cmljcywgYW5kIHByb2Zlc3Npb25hbCBsYW5ndWFnZTpcblxuJHt0ZXh0fWAsCiAgICAgIGN1bHR1cmFsOiBgWW91IGFyZSBhIGN1bHR1cmFsIGFkYXB0YXRpb24gc3BlY2lhbGlzdC4gQ29udmVydCB0aGlzIEJyYXppbGlhbiBwcm9mZXNzaW9uYWwgYmVoYXZpb3IgY29udGV4dCBmb3IgVUsvRXVyb3BlYW4gd29ya3BsYWNlIHVuZGVyc3RhbmRpbmcuIE1haW50YWluIHByb2Zlc3Npb25hbGlzbSB3aGlsZSBhZGFwdGluZyBjdWx0dXJhbCBudWFuY2VzOlxuXG4ke3RleHR9YCwKICAgICAgaWRlbnRpdHlfcmVmcmFtZTogYFlvdSBhcmUgYSBjYXJlZXIgaWRlbnRpdHkgc3BlY2lhbGlzdC4gSGVscCByZWZyYW1lIHRoaXMgcHJvZmVzc2lvbmFsIGlkZW50aXR5IGNoYWxsZW5nZSBmb3IgaW50ZXJuYXRpb25hbCBjYXJlZXIgdHJhbnNpdGlvbi4gUHJvdmlkZSBjb25zdHJ1Y3RpdmUsIGVtcG93ZXJpbmcgZ3VpZGFuY2U6XG5cbiR7dGV4dH1gLAogICAgICBzYXlfaXRfYmV0dGVyOiBgWW91IGFyZSBhIHByb2Zlc3Npb25hbCBjb21tdW5pY2F0aW9uIHNwZWNpYWxpc3QuIFJld3JpdGUgdGhpcyBtZXNzYWdlIGluIGNsZWFyLCBwcm9mZXNzaW9uYWwgRW5nbGlzaCBzdWl0YWJsZSBmb3IgdGhlIHdvcmtwbGFjZTpcblxuJHt0ZXh0fWAsCiAgICAgIGRlZmF1bHQ6IGBUcmFuc2xhdGUgdGhpcyBCcmF6aWxpYW4gUG9ydHVndWVzZSB0ZXh0IHRvIHByb2Zlc3Npb25hbCBFbmdsaXNoLCBtYWludGFpbmluZyBjb250ZXh0IGFuZCBudWFuY2U6XG5cbiR7dGV4dH1gCiAgICB9OwoKICAgIHJldHVybiBwcm9tcHRzW3Rvb2xUeXBlXSB8fCBwcm9tcHRzLmRlZmF1bHQ7CiAgfQoKICAvLyBNYWluIHRyYW5zbGF0aW9uIG1ldGhvZCB3aXRoIHNtYXJ0IHJvdXRpbmcKICBhc3luYyB0cmFuc2xhdGUodGV4dCwgdG9vbFR5cGUgPSAnZGVmYXVsdCcpIHsKICAgIHRyeSB7CiAgICAgIC8vIFJvdXRlIHRvIGFwcHJvcHJpYXRlIHNlcnZpY2UKICAgICAgaWYgKHRoaXMubmVlZHNQcmVtaXVtVHJhbnNsYXRpb24odG9vbFR5cGUsIHRleHQpKSB7CiAgICAgICAgY29uc29sZS5sb2coYFVzaW5nIENsYXVkZSBmb3IgJHt0b29sVHlwZX0gLSBjb21wbGV4IGNvbnRlbnRgKTsKICAgICAgICByZXR1cm4gYXdhaXQgdGhpcy50cmFuc2xhdGVXaXRoQ2xhdWRlKHRleHQsIHRvb2xUeXBlKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZyhgVXNpbmcgQ2hhdEdQVCBmb3IgJHt0b29sVHlwZX0gLSBiYXNpYyBjb250ZW50YCk7CiAgICAgICAgcmV0dXJuIGF3YWl0IHRoaXMudHJhbnNsYXRlV2l0aENoYXRHUFQodGV4dCwgdG9vbFR5cGUpOwogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCdUcmFuc2xhdGlvbiBzZXJ2aWNlIGVycm9yOicsIGVycm9yKTsKICAgICAgCiAgICAgIC8vIEZhbGxiYWNrOiB0cnkgdGhlIG90aGVyIHNlcnZpY2UgaWYgcHJpbWFyeSBmYWlscwogICAgICBpZiAodGhpcy5uZWVkc1ByZW1pdW1UcmFuc2xhdGlvbih0b29sVHlwZSwgdGV4dCkpIHsKICAgICAgICBjb25zb2xlLmxvZygnQ2xhdWRlIGZhaWxlZCwgZmFsbGluZyBiYWNrIHRvIENoYXRHUFQnKTsKICAgICAgICByZXR1cm4gYXdhaXQgdGhpcy50cmFuc2xhdGVXaXRoQ2hhdEdQVCh0ZXh0LCB0b29sVHlwZSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc29sZS5sb2coJ0NoYXRHUFQgZmFpbGVkLCBmYWxsaW5nIGJhY2sgdG8gQ2xhdWRlJyk7CiAgICAgICAgcmV0dXJuIGF3YWl0IHRoaXMudHJhbnNsYXRlV2l0aENsYXVkZSh0ZXh0LCB0b29sVHlwZSk7CiAgICAgIH0KICAgIH0KICB9CgogIC8vIEJhdGNoIHRyYW5zbGF0aW9uIGZvciBtdWx0aXBsZSB0ZXh0cwogIGFzeW5jIHRyYW5zbGF0ZUJhdGNoKHRleHRzLCB0b29sVHlwZSA9ICdkZWZhdWx0JykgewogICAgY29uc3QgcmVzdWx0cyA9IFtdOwogICAgCiAgICBmb3IgKGNvbnN0IHRleHQgb2YgdGV4dHMpIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCB0cmFuc2xhdGlvbiA9IGF3YWl0IHRoaXMudHJhbnNsYXRlKHRleHQsIHRvb2xUeXBlKTsKICAgICAgICByZXN1bHRzLnB1c2goeyBzdWNjZXNzOiB0cnVlLCB0cmFuc2xhdGlvbiwgb3JpZ2luYWw6IHRleHQgfSk7CiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgcmVzdWx0cy5wdXNoKHsgc3VjY2VzczogZmFsc2UsIGVycm9yOiBlcnJvci5tZXNzYWdlLCBvcmlnaW5hbDogdGV4dCB9KTsKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gcmVzdWx0czsKICB9CgogIC8vIEdldCBjb3N0IGVzdGltYXRlIGZvciB0cmFuc2xhdGlvbgogIGdldENvc3RFc3RpbWF0ZSh0ZXh0LCB0b29sVHlwZSkgewogICAgY29uc3QgdXNlc1ByZW1pdW0gPSB0aGlzLm5lZWRzUHJlbWl1bVRyYW5zbGF0aW9uKHRvb2xUeXBlLCB0ZXh0KTsKICAgIGNvbnN0IGNoYXJDb3VudCA9IHRleHQubGVuZ3RoOwogICAgCiAgICBpZiAodXNlc1ByZW1pdW0pIHsKICAgICAgLy8gQ2xhdWRlIHByaWNpbmc6IH4kMyBwZXIgMU0gY2hhcmFjdGVycyAocm91Z2ggZXN0aW1hdGUpCiAgICAgIHJldHVybiB7CiAgICAgICAgc2VydmljZTogJ0NsYXVkZScsCiAgICAgICAgZXN0aW1hdGVkQ29zdDogKGNoYXJDb3VudCAvIDEwMDAwMDApICogMywKICAgICAgICBjaGFyYWN0ZXJzOiBjaGFyQ291bnQKICAgICAgfTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIENoYXRHUFQgcHJpY2luZzogfiQwLjUwIHBlciAxTSB0b2tlbnMgKHJvdWdoIGVzdGltYXRlKQogICAgICByZXR1cm4gewogICAgICAgIHNlcnZpY2U6ICdDaGF0R1BUJywKICAgICAgICBlc3RpbWF0ZWRDb3N0OiAoY2hhckNvdW50IC8gMTAwMDAwMCkgKiAwLjUwLAogICAgICAgIGNoYXJhY3RlcnM6IGNoYXJDb3VudAogICAgICB9OwogICAgfQogIH0KfQoKLy8gRXhwb3J0IGZvciB1c2UgaW4gQ2xvdWRmbGFyZSBXb3JrZXIKbW9kdWxlLmV4cG9ydHMgPSBUcmFuc2xhdGlvblNlcnZpY2U7Cg=="}
+// Hybrid Translation Service - ChatGPT + Claude
+// Routes to cheapest reliable option based on content complexity
+
+class TranslationService {
+  constructor() {
+    this.openaiApiKey = null; // Set this in Cloudflare Worker env
+    this.claudeApiKey = null; // Set this in Cloudflare Worker env
+  }
+
+  // Determine if content needs Claude (premium) vs ChatGPT (basic)
+  needsPremiumTranslation(toolType, content) {
+    const careerTools = ['career', 'cultural', 'identity_reframe', 'say_it_better'];
+    const complexKeywords = ['carreira', 'experiência', 'profissional', 'cultura', 'adaptar'];
+    
+    // Use Claude for career/cultural tools (most complex)
+    if (careerTools.includes(toolType)) {
+      return true;
+    }
+    
+    // Use Claude for content with career-related keywords
+    const hasComplexKeywords = complexKeywords.some(keyword => 
+      content.toLowerCase().includes(keyword)
+    );
+    
+    // Use Claude for longer content (likely nuanced)
+    const isLongContent = content.length > 300;
+    
+    return hasComplexKeywords || isLongContent;
+  }
+
+  // ChatGPT API for basic translations
+  async translateWithChatGPT(text, toolType = 'default') {
+    try {
+      const prompt = this.getChatGPTPrompt(text, toolType);
+      
+      const response = await fetch('https://api.openai.com/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${this.openaiApiKey}`
+        },
+        body: JSON.stringify({
+          model: 'gpt-3.5-turbo',
+          messages: [{
+            role: 'system',
+            content: 'You are a professional translation specialist. Provide accurate, natural translations that maintain the original meaning and tone.'
+          }, {
+            role: 'user',
+            content: prompt
+          }],
+          max_tokens: 1000,
+          temperature: 0.3
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`ChatGPT API error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data.choices[0].message.content;
+    } catch (error) {
+      console.error('ChatGPT translation error:', error);
+      throw error;
+    }
+  }
+
+  // Claude API for complex translations
+  async translateWithClaude(text, toolType) {
+    try {
+      const prompt = this.getClaudePrompt(text, toolType);
+      
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': this.claudeApiKey,
+          'anthropic-version': '2023-06-01'
+        },
+        body: JSON.stringify({
+          model: 'claude-3-haiku-20240307',
+          max_tokens: 1000,
+          messages: [{
+            role: 'user',
+            content: prompt
+          }]
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error(`Claude API error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data.content[0].text;
+    } catch (error) {
+      console.error('Claude translation error:', error);
+      throw error;
+    }
+  }
+
+  // Get appropriate ChatGPT prompt based on tool type
+  getChatGPTPrompt(text, toolType) {
+    const prompts = {
+      career: `Convert this Brazilian professional experience into clear, impactful English for European recruiters. Focus on results, metrics, and professional language. Return only the translated text:\n\n${text}`,
+      cultural: `Convert this Brazilian professional behavior context for UK/European workplace understanding. Maintain professionalism while adapting cultural nuances. Return only the translated text:\n\n${text}`,
+      identity_reframe: `Help reframe this professional identity challenge for international career transition. Provide constructive, empowering guidance in English. Return only the response:\n\n${text}`,
+      say_it_better: `Rewrite this message in clear, professional English suitable for the workplace. Return only the improved text:\n\n${text}`,
+      default: `Translate this Brazilian Portuguese text to professional English, maintaining context and nuance. Return only the translation:\n\n${text}`
+    };
+
+    return prompts[toolType] || prompts.default;
+  }
+
+  // Get appropriate Claude prompt based on tool type
+  getClaudePrompt(text, toolType) {
+    const prompts = {
+      career: `You are a career translation specialist. Convert this Brazilian professional experience into clear, impactful English for European recruiters. Focus on results, metrics, and professional language:\n\n${text}`,
+      cultural: `You are a cultural adaptation specialist. Convert this Brazilian professional behavior context for UK/European workplace understanding. Maintain professionalism while adapting cultural nuances:\n\n${text}`,
+      identity_reframe: `You are a career identity specialist. Help reframe this professional identity challenge for international career transition. Provide constructive, empowering guidance:\n\n${text}`,
+      say_it_better: `You are a professional communication specialist. Rewrite this message in clear, professional English suitable for the workplace:\n\n${text}`,
+      default: `Translate this Brazilian Portuguese text to professional English, maintaining context and nuance:\n\n${text}`
+    };
+
+    return prompts[toolType] || prompts.default;
+  }
+
+  // Main translation method with smart routing
+  async translate(text, toolType = 'default') {
+    try {
+      // Route to appropriate service
+      if (this.needsPremiumTranslation(toolType, text)) {
+        console.log(`Using Claude for ${toolType} - complex content`);
+        return await this.translateWithClaude(text, toolType);
+      } else {
+        console.log(`Using ChatGPT for ${toolType} - basic content`);
+        return await this.translateWithChatGPT(text, toolType);
+      }
+    } catch (error) {
+      console.error('Translation service error:', error);
+      
+      // Fallback: try the other service if primary fails
+      if (this.needsPremiumTranslation(toolType, text)) {
+        console.log('Claude failed, falling back to ChatGPT');
+        return await this.translateWithChatGPT(text, toolType);
+      } else {
+        console.log('ChatGPT failed, falling back to Claude');
+        return await this.translateWithClaude(text, toolType);
+      }
+    }
+  }
+
+  // Batch translation for multiple texts
+  async translateBatch(texts, toolType = 'default') {
+    const results = [];
+    
+    for (const text of texts) {
+      try {
+        const translation = await this.translate(text, toolType);
+        results.push({ success: true, translation, original: text });
+      } catch (error) {
+        results.push({ success: false, error: error.message, original: text });
+      }
+    }
+    
+    return results;
+  }
+
+  // Get cost estimate for translation
+  getCostEstimate(text, toolType) {
+    const usesPremium = this.needsPremiumTranslation(toolType, text);
+    const charCount = text.length;
+    
+    if (usesPremium) {
+      // Claude pricing: ~$3 per 1M characters (rough estimate)
+      return {
+        service: 'Claude',
+        estimatedCost: (charCount / 1000000) * 3,
+        characters: charCount
+      };
+    } else {
+      // ChatGPT pricing: ~$0.50 per 1M tokens (rough estimate)
+      return {
+        service: 'ChatGPT',
+        estimatedCost: (charCount / 1000000) * 0.50,
+        characters: charCount
+      };
+    }
+  }
+}
+
+// Export for use in Cloudflare Worker
+module.exports = TranslationService;

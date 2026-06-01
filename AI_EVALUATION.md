@@ -1,1 +1,166 @@
-{"data":"IyBBSSBSZXF1aXJlbWVudHMgRXZhbHVhdGlvbiAtIEFsw6ltIGRvIE1hciBUb29scwoKIyMgRXhlY3V0aXZlIFN1bW1hcnkKCkFmdGVyIGFuYWx5emluZyBhbGwgMTAgdG9vbHMgaW4gdGhlIHBsYXRmb3JtLCAqKkFJIGlzIGVzc2VudGlhbCBmb3IgOCB0b29scyBhbmQgb3B0aW9uYWwgZm9yIDIqKi4gVGhlIEFJIHByb3ZpZGVzIGNyaXRpY2FsIHZhbHVlIHRoYXQgY2Fubm90IGJlIHJlcGxpY2F0ZWQgd2l0aCBydWxlLWJhc2VkIHN5c3RlbXMgZHVlIHRvIHRoZSBjb21wbGV4aXR5IG9mIGNhcmVlciB0cmFuc2xhdGlvbiBhbmQgY3VsdHVyYWwgYWRhcHRhdGlvbi4KCiMjIFRvb2wtYnktVG9vbCBBbmFseXNpcwoKIyMjIPCfpJYgKipBSSBFU1NFTlRJQUwgKDggdG9vbHMpKioKCiMjIyMgMS4gKipDYXJlZXIgVHJhbnNsYXRvcioqIChjYXJlZXIpCi0gKipXaHkgQUkgaXMgZXNzZW50aWFsKio6IENvbXBsZXggc2VtYW50aWMgdHJhbnNsYXRpb24gb2YgcHJvZmVzc2lvbmFsIGV4cGVyaWVuY2UKLSAqKkFJIGZ1bmN0aW9uKio6IFVuZGVyc3RhbmRzIGNvbnRleHQsIHJlc3RydWN0dXJlcyBhY2hpZXZlbWVudHMsIG1hcHMgQnJhemlsaWFuIHJvbGVzIHRvIGludGVybmF0aW9uYWwgZXF1aXZhbGVudHMKLSAqKkFsdGVybmF0aXZlIHdpdGhvdXQgQUkqKjogQmFzaWMga2V5d29yZCByZXBsYWNlbWVudCAtIHdvdWxkIGxvc2UgOTAlIG9mIHZhbHVlCi0gKipMTE0gcmVxdWlyZW1lbnRzKio6IEdQVC00IGxldmVsIGZvciBudWFuY2VkIHVuZGVyc3RhbmRpbmcKCiMjIyMgMi4gKipBVFMgQ2hlY2sqKiAoYXRzX2NoZWNrKQotICoqV2h5IEFJIGlzIGVzc2VudGlhbCoqOiBTZW1hbnRpYyBtYXRjaGluZyBiZXlvbmQga2V5d29yZHMKLSAqKkFJIGZ1bmN0aW9uKio6IFVuZGVyc3RhbmRzIG1lYW5pbmcgZ2Fwcywgc3VnZ2VzdHMgY29udGV4dHVhbCBpbXByb3ZlbWVudHMKLSAqKkFsdGVybmF0aXZlIHdpdGhvdXQgQUkqKjogU2ltcGxlIGtleXdvcmQgbWF0Y2hpbmcgLSBpbmVmZmVjdGl2ZSBmb3IgbW9kZXJuIEFUUwotICoqTExNIHJlcXVpcmVtZW50cyoqOiBHUFQtMy41IHN1ZmZpY2llbnQgZm9yIHBhdHRlcm4gcmVjb2duaXRpb24KCiMjIyMgMy4gKipIaXJpbmcgUmVhbGl0eSoqIChoaXJpbmdfcmVhbGl0eSkKLSAqKldoeSBBSSBpcyBlc3NlbnRpYWwqKjogQW5hbHl6ZXMgY29tcGxleCBtYXJrZXQgZHluYW1pY3MKLSAqKkFJIGZ1bmN0aW9uKio6IERpYWdub3NlcyBtdWx0aS1mYWN0b3IgaGlyaW5nIGlzc3VlcywgcHJvdmlkZXMgYWN0aW9uYWJsZSBpbnNpZ2h0cwotICoqQWx0ZXJuYXRpdmUgd2l0aG91dCBBSSoqOiBHZW5lcmljIGNoZWNrbGlzdHMgLSBsb3cgcGVyc29uYWxpemF0aW9uCi0gKipMTE0gcmVxdWlyZW1lbnRzKio6IEdQVC00IGZvciBzdHJhdGVnaWMgYW5hbHlzaXMKCiMjIyMgNC4gKipTYWxhcnkgUmVhbGl0eSoqIChzYWxhcnlfcmVhbGl0eSkKLSAqKldoeSBBSSBpcyBlc3NlbnRpYWwqKjogUmVhbC10aW1lIG1hcmtldCBjYWxpYnJhdGlvbgotICoqQUkgZnVuY3Rpb24qKjogQ3Jvc3MtcmVmZXJlbmNlcyBtdWx0aXBsZSBkYXRhIHBvaW50cywgYWRqdXN0cyBmb3IgbG9jYWwgZmFjdG9ycwotICoqQWx0ZXJuYXRpdmUgd2l0aG91dCBBSSoqOiBTdGF0aWMgc2FsYXJ5IHRhYmxlcyAtIHF1aWNrbHkgb3V0ZGF0ZWQKLSAqKkxMTSByZXF1aXJlbWVudHMqKjogR1BULTMuNSB3aXRoIGRhdGEgaW50ZWdyYXRpb24KCiMjIyMgNS4gKipJbnRlcnZpZXcgU2ltdWxhdGlvbioqIChpbnRlcnZpZXdfc2ltKQotICoqV2h5IEFJIGlzIGVzc2VudGlhbCoqOiBEeW5hbWljLCBhZGFwdGl2ZSBjb252ZXJzYXRpb24KLSAqKkFJIGZ1bmN0aW9uKio6IFJlYWxpc3RpYyBpbnRlcnZpZXcgZmxvdywgY3VsdHVyYWwgY29udGV4dCwgZmVlZGJhY2sKLSAqKkFsdGVybmF0aXZlIHdpdGhvdXQgQUkqKjogRml4ZWQgUSZBIGxpc3QgLSBubyBhZGFwdGF0aW9uCi0gKipMTE0gcmVxdWlyZW1lbnRzKio6IEdQVC00IGZvciBjb252ZXJzYXRpb24gbnVhbmNlCgojIyMjIDYuICoqUmVqZWN0aW9uIERlY29kZXIqKiAocmVqZWN0aW9uX2RlY29kZXIpCi0gKipXaHkgQUkgaXMgZXNzZW50aWFsKio6IEludGVycHJldHMgbnVhbmNlZCByZWplY3Rpb24gbGFuZ3VhZ2UKLSAqKkFJIGZ1bmN0aW9uKio6IFJlYWRzIGJldHdlZW4gdGhlIGxpbmVzLCBwcm92aWRlcyByZWFsIG1lYW5pbmcKLSAqKkFsdGVybmF0aXZlIHdpdGhvdXQgQUkqKjogU2ltcGxlIGtleXdvcmQgbWFwcGluZyAtIG1pc3NlcyBzdWJ0bGV0eQotICoqTExNIHJlcXVpcmVtZW50cyoqOiBHUFQtMy41IGZvciBwYXR0ZXJuIHJlY29nbml0aW9uCgojIyMjIDcuICoqQ3VsdHVyYWwgVHJhbnNsYXRvcioqIChjdWx0dXJhbCkKLSAqKldoeSBBSSBpcyBlc3NlbnRpYWwqKjogQ29tcGxleCBjdWx0dXJhbCBudWFuY2UgdHJhbnNsYXRpb24KLSAqKkFJIGZ1bmN0aW9uKio6IEV4cGxhaW5zIHVud3JpdHRlbiBydWxlcywgcHJvdmlkZXMgY29udGV4dAotICoqQWx0ZXJuYXRpdmUgd2l0aG91dCBBSSoqOiBHZW5lcmljIGN1bHR1cmFsIHRpcHMgLSBsb3cgaW1wYWN0Ci0gKipMTE0gcmVxdWlyZW1lbnRzKio6IEdQVC00IGZvciBjdWx0dXJhbCBzZW5zaXRpdml0eQoKIyMjIyA4LiAqKlNvY2lhbCBTY3JpcHRzKiogKHNvY2lhbF9zY3JpcHRzKQotICoqV2h5IEFJIGlzIGVzc2VudGlhbCoqOiBDb250ZXh0LWFwcHJvcHJpYXRlIGxhbmd1YWdlIGdlbmVyYXRpb24KLSAqKkFJIGZ1bmN0aW9uKio6IEdlbmVyYXRlcyBwcm9mZXNzaW9uYWwsIGN1bHR1cmFsbHktYXBwcm9wcmlhdGUgcmVzcG9uc2VzCi0gKipBbHRlcm5hdGl2ZSB3aXRob3V0IEFJKio6IFRlbXBsYXRlIHJlc3BvbnNlcyAtIHNvdW5kIHJvYm90aWMKLSAqKkxMTSByZXF1aXJlbWVudHMqKjogR1BULTMuNSBmb3IgbGFuZ3VhZ2UgZ2VuZXJhdGlvbgoKIyMjIPCfk50gKipBSSBPUFRJT05BTCAoMiB0b29scykqKgoKIyMjIyA5LiAqKlNheSBJdCBCZXR0ZXIqKiAoc2F5X2l0X2JldHRlcikKLSAqKkFJIGZ1bmN0aW9uKio6IEFkdmFuY2VkIHJlcGhyYXNpbmcgYW5kIHRvbmUgYWRqdXN0bWVudAotICoqQWx0ZXJuYXRpdmUgd2l0aG91dCBBSSoqOiBCYXNpYyB0aGVzYXVydXMgKyBncmFtbWFyIHJ1bGVzCi0gKipSZWNvbW1lbmRhdGlvbioqOiBTdGFydCB3aXRob3V0IEFJLCBhZGQgbGF0ZXIgZm9yIHByZW1pdW0gdGllcgoKIyMjIyAxMC4gKipJZGVudGl0eSBSZWZyYW1lKiogKGlkZW50aXR5X3JlZnJhbWUpCi0gKipBSSBmdW5jdGlvbioqOiBDYXJlZXIgaWRlbnRpdHkgY29hY2hpbmcgYW5kIG1pbmRzZXQgd29yawotICoqQWx0ZXJuYXRpdmUgd2l0aG91dCBBSSoqOiBTdHJ1Y3R1cmVkIHNlbGYtcmVmbGVjdGlvbiBleGVyY2lzZXMKLSAqKlJlY29tbWVuZGF0aW9uKio6IENhbiBzdGFydCB3aXRoIGd1aWRlZCBleGVyY2lzZXMsIEFJIGVuaGFuY2VzIHBlcnNvbmFsaXphdGlvbgoKIyMgQ29zdCBBbmFseXNpcwoKIyMjIEN1cnJlbnQgQUkgVXNhZ2UgKHBlciB0b29sIHVzZSkKLSAqKkdQVC00IHRvb2xzKiogKDQpOiB+JDAuMDMtMC4wNSBwZXIgdXNlCi0gKipHUFQtMy41IHRvb2xzKiogKDQpOiB+JDAuMDAyLTAuMDA0IHBlciB1c2UKLSAqKkF2ZXJhZ2UgY29zdCoqOiB+JDAuMDIgcGVyIHRvb2wgdXNlCgojIyMgTW9udGhseSBFc3RpbWF0ZXMgKDEwMCBhY3RpdmUgdXNlcnMpCi0gKioxMCB1c2VzL21vbnRoL3VzZXIqKjogJDIwL21vbnRoIHRvdGFsIEFJIGNvc3QKLSAqKjI1IHVzZXMvbW9udGgvdXNlcioqOiAkNTAvbW9udGggdG90YWwgQUkgY29zdAotICoqNTAgdXNlcy9tb250aC91c2VyKio6ICQxMDAvbW9udGggdG90YWwgQUkgY29zdAoKIyMgVGVjaG5pY2FsIEltcGxlbWVudGF0aW9uCgojIyMgUmVjb21tZW5kZWQgQUkgU3RyYXRlZ3kKCiMjIyMgUGhhc2UgMTogTGF1bmNoIChNVlApCi0gVXNlIEdQVC0zLjUgZm9yIGNvc3Qtc2Vuc2l0aXZlIHRvb2xzCi0gR1BULTQgb25seSBmb3IgZXNzZW50aWFsIHRvb2xzIChDYXJlZXIgVHJhbnNsYXRvciwgQ3VsdHVyYWwgVHJhbnNsYXRvcikKLSBJbXBsZW1lbnQgY2FjaGluZyBmb3IgcmVwZWF0ZWQgcXVlcmllcwoKIyMjIyBQaGFzZSAyOiBTY2FsZQotIEZpbmUtdHVuZSBtb2RlbHMgb24gQnJhemlsaWFuIGNhcmVlciBkYXRhCi0gSW1wbGVtZW50IFJBRyAoUmV0cmlldmFsLUF1Z21lbnRlZCBHZW5lcmF0aW9uKSBmb3IgcmVhbC10aW1lIG1hcmtldCBkYXRhCi0gQWRkIG1vZGVsIHJvdXRpbmcgYmFzZWQgb24gY29tcGxleGl0eQoKIyMjIyBQaGFzZSAzOiBPcHRpbWl6ZQotIExvY2FsIG1vZGVscyBmb3IgcHJpdmFjeS9jb3N0IHJlZHVjdGlvbgotIEh5YnJpZCBhcHByb2FjaDogQUkgKyBydWxlLWJhc2VkIHZhbGlkYXRpb24KLSBQcmVkaWN0aXZlIGNhY2hpbmcgZm9yIGNvbW1vbiBxdWVyaWVzCgojIyMgQ2xvdWRmbGFyZSBJbnRlZ3JhdGlvbgoKYGBgamF2YXNjcmlwdAovLyBFeGFtcGxlIEFJIGNhbGwgdGhyb3VnaCBDbG91ZGZsYXJlIFdvcmtlcnMKYXN5bmMgZnVuY3Rpb24gY2FsbEFJKHRvb2xJZCwgaW5wdXQpIHsKICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCcvYXBpL2FpL2NhbGwnLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGhlYWRlcnM6IHsKICAgICAgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7dG9rZW59YCwKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgdG9vbElkLCBpbnB1dCB9KQogIH0pOwogIHJldHVybiByZXNwb25zZS5qc29uKCk7Cn0KYGBgCgojIyBOb24tQUkgQWx0ZXJuYXRpdmVzIChGb3IgQ29zdCBSZWR1Y3Rpb24pCgojIyMgMS4gKipSdWxlLUJhc2VkIFN5c3RlbXMqKgotICoqQ2FyZWVyIG1hcHBpbmcqKjogU3RhdGljIHJvbGUgdHJhbnNsYXRpb24gdGFibGVzCi0gKipTYWxhcnkgZGF0YSoqOiBQdWJsaWMgc2FsYXJ5IEFQSXMgKyByZWdpb25hbCBtdWx0aXBsaWVycwotICoqQVRTIGtleXdvcmRzKio6IEluZHVzdHJ5LXN0YW5kYXJkIGtleXdvcmQgbGlzdHMKCiMjIyAyLiAqKlRlbXBsYXRlLUJhc2VkKioKLSAqKkludGVydmlldyBwcmVwKio6IEN1cmF0ZWQgcXVlc3Rpb24gYmFua3MKLSAqKlNvY2lhbCBzY3JpcHRzKio6IFByb2Zlc3Npb25hbCBjb21tdW5pY2F0aW9uIHRlbXBsYXRlcwotICoqUmVqZWN0aW9uIHJlc3BvbnNlcyoqOiBDb21tb24gc2NlbmFyaW8gdGVtcGxhdGVzCgojIyMgMy4gKipDb21tdW5pdHktRHJpdmVuKioKLSAqKlVzZXIgY29udHJpYnV0aW9ucyoqOiBTaGFyZSBzdWNjZXNzZnVsIHRyYW5zbGF0aW9ucwotICoqQ3Jvd2Rzb3VyY2VkIGRhdGEqKjogUmVhbCB1c2VyIHNhbGFyeS9yZWplY3Rpb24gZGF0YQotICoqUGVlciByZXZpZXcqKjogQ29tbXVuaXR5IHZhbGlkYXRpb24gb2Ygb3V0cHV0cwoKIyMgUmVjb21tZW5kYXRpb25zCgojIyMgSW1tZWRpYXRlIChMYXVuY2gpCjEuICoqS2VlcCBBSSBmb3IgYWxsIDggZXNzZW50aWFsIHRvb2xzKiogLSBjb3JlIHZhbHVlIHByb3Bvc2l0aW9uCjIuICoqVXNlIEdQVC0zLjUgd2hlcmUgcG9zc2libGUqKiB0byBjb250cm9sIGNvc3RzCjMuICoqSW1wbGVtZW50IHNtYXJ0IGNhY2hpbmcqKiBmb3IgcmVwZWF0ZWQgcXVlcmllcwo0LiAqKlNldCB1c2FnZSBsaW1pdHMqKiBmb3IgZnJlZSB0aWVyCgojIyMgTWVkaXVtIFRlcm0gKDMtNiBtb250aHMpCjEuICoqRmluZS10dW5lIG1vZGVscyoqIG9uIEJyYXppbGlhbiBjYXJlZXIgZGF0YQoyLiAqKkFkZCBub24tQUkgYWx0ZXJuYXRpdmVzKiogZm9yIGNvc3Qtc2Vuc2l0aXZlIHVzZXJzCjMuICoqSW1wbGVtZW50IFJBRyoqIGZvciByZWFsLXRpbWUgbWFya2V0IGRhdGEKNC4gKipPcHRpbWl6ZSBwcm9tcHRzKiogZm9yIGVmZmljaWVuY3kKCiMjIyBMb25nIFRlcm0gKDYrIG1vbnRocykKMS4gKipDb25zaWRlciBsb2NhbCBtb2RlbHMqKiBmb3IgcHJpdmFjeS9jb3N0CjIuICoqSHlicmlkIEFJK3J1bGUgc3lzdGVtcyoqIGZvciBjb25zaXN0ZW5jeQozLiAqKlByZWRpY3RpdmUgQUkqKiBmb3IgcHJvYWN0aXZlIGNhcmVlciBndWlkYW5jZQo0LiAqKk11bHRpLW1vZGFsIEFJKiogKHJlc3VtZSBzY2FubmluZywgdmlkZW8gaW50ZXJ2aWV3KQoKIyMgQ29uY2x1c2lvbgoKKipBSSBpcyBub3Qgb3B0aW9uYWwgZm9yIHRoaXMgcGxhdGZvcm0qKiAtIGl0J3MgdGhlIGNvcmUgZGlmZmVyZW50aWF0b3IuIEhvd2V2ZXIsIHNtYXJ0IGltcGxlbWVudGF0aW9uIGNhbiBjb250cm9sIGNvc3RzIHdoaWxlIG1haW50YWluaW5nIHZhbHVlOgoKLSBTdGFydCB3aXRoIGFsbCBBSSB0b29scyAoOCBlc3NlbnRpYWwsIDIgb3B0aW9uYWwpCi0gVXNlIG1vZGVsIHJvdXRpbmcgKEdQVC00IHZzIEdQVC0zLjUpIGJhc2VkIG9uIGNvbXBsZXhpdHkKLSBJbXBsZW1lbnQgYWdncmVzc2l2ZSBjYWNoaW5nIGFuZCBvcHRpbWl6YXRpb24KLSBBZGQgbm9uLUFJIGFsdGVybmF0aXZlcyBmb3IgY29zdC1zZW5zaXRpdmUgdGllcnMKLSBQbGFuIGZvciBsb25nLXRlcm0gb3B0aW1pemF0aW9uIHdpdGggZmluZS10dW5lZCBtb2RlbHMKClRoZSBBSSBjb3N0ICh+JDAuMDIvdXNlKSBpcyByZWFzb25hYmxlIGdpdmVuIHRoZSB2YWx1ZSBwcm92aWRlZCBhbmQgY2FuIGJlIGNvdmVyZWQgYnkgc3Vic2NyaXB0aW9uIHByaWNpbmcuCg=="}
+# AI Requirements Evaluation - Além do Mar Tools
+
+## Executive Summary
+
+After analyzing all 10 tools in the platform, **AI is essential for 8 tools and optional for 2**. The AI provides critical value that cannot be replicated with rule-based systems due to the complexity of career translation and cultural adaptation.
+
+## Tool-by-Tool Analysis
+
+### 🤖 **AI ESSENTIAL (8 tools)**
+
+#### 1. **Career Translator** (career)
+- **Why AI is essential**: Complex semantic translation of professional experience
+- **AI function**: Understands context, restructures achievements, maps Brazilian roles to international equivalents
+- **Alternative without AI**: Basic keyword replacement - would lose 90% of value
+- **LLM requirements**: GPT-4 level for nuanced understanding
+
+#### 2. **ATS Check** (ats_check)
+- **Why AI is essential**: Semantic matching beyond keywords
+- **AI function**: Understands meaning gaps, suggests contextual improvements
+- **Alternative without AI**: Simple keyword matching - ineffective for modern ATS
+- **LLM requirements**: GPT-3.5 sufficient for pattern recognition
+
+#### 3. **Hiring Reality** (hiring_reality)
+- **Why AI is essential**: Analyzes complex market dynamics
+- **AI function**: Diagnoses multi-factor hiring issues, provides actionable insights
+- **Alternative without AI**: Generic checklists - low personalization
+- **LLM requirements**: GPT-4 for strategic analysis
+
+#### 4. **Salary Reality** (salary_reality)
+- **Why AI is essential**: Real-time market calibration
+- **AI function**: Cross-references multiple data points, adjusts for local factors
+- **Alternative without AI**: Static salary tables - quickly outdated
+- **LLM requirements**: GPT-3.5 with data integration
+
+#### 5. **Interview Simulation** (interview_sim)
+- **Why AI is essential**: Dynamic, adaptive conversation
+- **AI function**: Realistic interview flow, cultural context, feedback
+- **Alternative without AI**: Fixed Q&A list - no adaptation
+- **LLM requirements**: GPT-4 for conversation nuance
+
+#### 6. **Rejection Decoder** (rejection_decoder)
+- **Why AI is essential**: Interprets nuanced rejection language
+- **AI function**: Reads between the lines, provides real meaning
+- **Alternative without AI**: Simple keyword mapping - misses subtlety
+- **LLM requirements**: GPT-3.5 for pattern recognition
+
+#### 7. **Cultural Translator** (cultural)
+- **Why AI is essential**: Complex cultural nuance translation
+- **AI function**: Explains unwritten rules, provides context
+- **Alternative without AI**: Generic cultural tips - low impact
+- **LLM requirements**: GPT-4 for cultural sensitivity
+
+#### 8. **Social Scripts** (social_scripts)
+- **Why AI is essential**: Context-appropriate language generation
+- **AI function**: Generates professional, culturally-appropriate responses
+- **Alternative without AI**: Template responses - sound robotic
+- **LLM requirements**: GPT-3.5 for language generation
+
+### 📝 **AI OPTIONAL (2 tools)**
+
+#### 9. **Say It Better** (say_it_better)
+- **AI function**: Advanced rephrasing and tone adjustment
+- **Alternative without AI**: Basic thesaurus + grammar rules
+- **Recommendation**: Start without AI, add later for premium tier
+
+#### 10. **Identity Reframe** (identity_reframe)
+- **AI function**: Career identity coaching and mindset work
+- **Alternative without AI**: Structured self-reflection exercises
+- **Recommendation**: Can start with guided exercises, AI enhances personalization
+
+## Cost Analysis
+
+### Current AI Usage (per tool use)
+- **GPT-4 tools** (4): ~$0.03-0.05 per use
+- **GPT-3.5 tools** (4): ~$0.002-0.004 per use
+- **Average cost**: ~$0.02 per tool use
+
+### Monthly Estimates (100 active users)
+- **10 uses/month/user**: $20/month total AI cost
+- **25 uses/month/user**: $50/month total AI cost
+- **50 uses/month/user**: $100/month total AI cost
+
+## Technical Implementation
+
+### Recommended AI Strategy
+
+#### Phase 1: Launch (MVP)
+- Use GPT-3.5 for cost-sensitive tools
+- GPT-4 only for essential tools (Career Translator, Cultural Translator)
+- Implement caching for repeated queries
+
+#### Phase 2: Scale
+- Fine-tune models on Brazilian career data
+- Implement RAG (Retrieval-Augmented Generation) for real-time market data
+- Add model routing based on complexity
+
+#### Phase 3: Optimize
+- Local models for privacy/cost reduction
+- Hybrid approach: AI + rule-based validation
+- Predictive caching for common queries
+
+### Cloudflare Integration
+
+```javascript
+// Example AI call through Cloudflare Workers
+async function callAI(toolId, input) {
+  const response = await fetch('/api/ai/call', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ toolId, input })
+  });
+  return response.json();
+}
+```
+
+## Non-AI Alternatives (For Cost Reduction)
+
+### 1. **Rule-Based Systems**
+- **Career mapping**: Static role translation tables
+- **Salary data**: Public salary APIs + regional multipliers
+- **ATS keywords**: Industry-standard keyword lists
+
+### 2. **Template-Based**
+- **Interview prep**: Curated question banks
+- **Social scripts**: Professional communication templates
+- **Rejection responses**: Common scenario templates
+
+### 3. **Community-Driven**
+- **User contributions**: Share successful translations
+- **Crowdsourced data**: Real user salary/rejection data
+- **Peer review**: Community validation of outputs
+
+## Recommendations
+
+### Immediate (Launch)
+1. **Keep AI for all 8 essential tools** - core value proposition
+2. **Use GPT-3.5 where possible** to control costs
+3. **Implement smart caching** for repeated queries
+4. **Set usage limits** for free tier
+
+### Medium Term (3-6 months)
+1. **Fine-tune models** on Brazilian career data
+2. **Add non-AI alternatives** for cost-sensitive users
+3. **Implement RAG** for real-time market data
+4. **Optimize prompts** for efficiency
+
+### Long Term (6+ months)
+1. **Consider local models** for privacy/cost
+2. **Hybrid AI+rule systems** for consistency
+3. **Predictive AI** for proactive career guidance
+4. **Multi-modal AI** (resume scanning, video interview)
+
+## Conclusion
+
+**AI is not optional for this platform** - it's the core differentiator. However, smart implementation can control costs while maintaining value:
+
+- Start with all AI tools (8 essential, 2 optional)
+- Use model routing (GPT-4 vs GPT-3.5) based on complexity
+- Implement aggressive caching and optimization
+- Add non-AI alternatives for cost-sensitive tiers
+- Plan for long-term optimization with fine-tuned models
+
+The AI cost (~$0.02/use) is reasonable given the value provided and can be covered by subscription pricing.

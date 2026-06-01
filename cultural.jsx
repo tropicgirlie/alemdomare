@@ -1,1 +1,240 @@
-{"data":"Ly8gQ3VsdHVyYWwgdHJhbnNsYXRvcjogYmVoYXZpb3VyLCBub3QgbGFuZ3VhZ2UKCmNvbnN0IFdPUktfQ09OVEVYVFMgPSBbCiAgJ0VzY3JpdMOzcmlvIC8gY29ycG9yYXRpdm8nLAogICdUZWNub2xvZ2lhIC8gc3RhcnR1cCcsCiAgJ1Nhw7pkZSAvIGNsw61uaWNvJywKICAnSG90ZWxhcmlhIC8gYXRlbmRpbWVudG8nLAogICdWYXJlam8nLAogICdDb25zdHJ1w6fDo28gLyBtYW51dGVuw6fDo28nLAogICdBY2Fkw6ptaWNvIC8gcGVzcXVpc2EnLAogICdSZW1vdG8gLyB0aW1lIGRpc3RyaWJ1w61kbycsCl07CgpmdW5jdGlvbiBDdWx0dXJhbEZvcm0oeyBkaXJlY3Rpb24sIG9uU3VibWl0LCBpc0xvYWRpbmcgfSkgewogIGNvbnN0IFtmb3JtLCBzZXRGb3JtXSA9IFJlYWN0LnVzZVN0YXRlKHsKICAgIHRhcmdldENvdW50cnk6ICdJcmVsYW5kJywKICAgIHdvcmtDb250ZXh0OiAnRXNjcml0w7NyaW8gLyBjb3Jwb3JhdGl2bycsCiAgICB5ZWFyc0JSOiAnJywKICAgIGluZHVzdHJ5OiAnJywKICAgIGNvbmNlcm46ICcnLAogIH0pOwogIGNvbnN0IHVwZGF0ZSA9IChrKSA9PiAoZSkgPT4gc2V0Rm9ybSh7IC4uLmZvcm0sIFtrXTogZS50YXJnZXQudmFsdWUgfSk7CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwoKICBjb25zdCBzdWJtaXQgPSAoZSkgPT4gewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgaWYgKCFpc0xvYWRpbmcpIG9uU3VibWl0KGZvcm0pOwogIH07CgogIHJldHVybiAoCiAgICA8Zm9ybSBvblN1Ym1pdD17c3VibWl0fSBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDIyIH19PgogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ3JpZFRlbXBsYXRlQ29sdW1uczogJzFmciAxZnInLCBnYXA6IDIwIH19PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+UGHDrXMgZGUgZGVzdGlubzwvbGFiZWw+CiAgICAgICAgICA8c2VsZWN0IGNsYXNzTmFtZT0iZmllbGQtc2VsZWN0IiB2YWx1ZT17Zm9ybS50YXJnZXRDb3VudHJ5fSBvbkNoYW5nZT17dXBkYXRlKCd0YXJnZXRDb3VudHJ5Jyl9PgogICAgICAgICAgICB7VEFSR0VUX0NPVU5UUklFUy5tYXAoKGMpID0+IDxvcHRpb24ga2V5PXtjfSB2YWx1ZT17Y30+e2N9PC9vcHRpb24+KX0KICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+Q29udGV4dG8gZGUgdHJhYmFsaG88L2xhYmVsPgogICAgICAgICAgPHNlbGVjdCBjbGFzc05hbWU9ImZpZWxkLXNlbGVjdCIgdmFsdWU9e2Zvcm0ud29ya0NvbnRleHR9IG9uQ2hhbmdlPXt1cGRhdGUoJ3dvcmtDb250ZXh0Jyl9PgogICAgICAgICAgICB7V09SS19DT05URVhUUy5tYXAoKGMpID0+IDxvcHRpb24ga2V5PXtjfSB2YWx1ZT17Y30+e2N9PC9vcHRpb24+KX0KICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2dyaWQnLCBncmlkVGVtcGxhdGVDb2x1bW5zOiAnMWZyIDFmcicsIGdhcDogMjAgfX0+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImZpZWxkLWxhYmVsIj5Bbm9zIGRlIGNhcnJlaXJhIG5vIEJyYXNpbDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgY2xhc3NOYW1lPSJmaWVsZC1pbnB1dCIgdHlwZT0ibnVtYmVyIiBtaW49IjAiIHBsYWNlaG9sZGVyPSI1IiB2YWx1ZT17Zm9ybS55ZWFyc0JSfSBvbkNoYW5nZT17dXBkYXRlKCd5ZWFyc0JSJyl9IC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImZpZWxkLWxhYmVsIj5TZXRvcjwvbGFiZWw+CiAgICAgICAgICA8c2VsZWN0IGNsYXNzTmFtZT0iZmllbGQtc2VsZWN0IiB2YWx1ZT17Zm9ybS5pbmR1c3RyeX0gb25DaGFuZ2U9e3VwZGF0ZSgnaW5kdXN0cnknKX0+CiAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+U2VsZWNpb25lLi4uPC9vcHRpb24+CiAgICAgICAgICAgIHtJTkRVU1RSSUVTLm1hcCgoaSkgPT4gPG9wdGlvbiBrZXk9e2l9IHZhbHVlPXtpfT57aX08L29wdGlvbj4pfQogICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmaWVsZC1sYWJlbCI+TyBxdWUgbWFpcyB0ZSBwcmVvY3VwYT8gKG9wY2lvbmFsKTwvbGFiZWw+CiAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICBjbGFzc05hbWU9ImZpZWxkLXRleHRhcmVhIgogICAgICAgICAgcGxhY2Vob2xkZXI9IkV4OiB0ZW5obyBtZWRvIGRlIHBhcmVjZXIgcnVkZSBzZSBmb3IgbXVpdG8gZGlyZXRvLiBOw6NvIHNlaSBjb21vIGRhciBmZWVkYmFjayBuZWdhdGl2by4gTsOjbyBlbnRlbmRvIGEgaG9yYSBjZXJ0YSBkZSBpciBlbWJvcmEgZG8gdHJhYmFsaG8uIE7Do28gc2VpIHNlIHBvc3NvIGRpc2NvcmRhciBkbyBtZXUgY2hlZmUuLi4iCiAgICAgICAgICB2YWx1ZT17Zm9ybS5jb25jZXJufQogICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZSgnY29uY2VybicpfQogICAgICAgIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkLWhpbnQiPlF1YW50byBtYWlzIGVzcGVjw61maWNvLCBtYWlzIMO6dGlsIGEgcmVzcG9zdGEuPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGJ1dHRvbgogICAgICAgIHR5cGU9InN1Ym1pdCIKICAgICAgICBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSIKICAgICAgICBkaXNhYmxlZD17aXNMb2FkaW5nfQogICAgICAgIHN0eWxlPXt7IGFsaWduU2VsZjogJ2ZsZXgtc3RhcnQnLCBvcGFjaXR5OiBpc0xvYWRpbmcgPyAwLjUgOiAxIH19CiAgICAgID4KICAgICAgICB7aXNMb2FkaW5nID8gPD48c3BhbiBjbGFzc05hbWU9InNwaW5uZXIiIC8+IEFuYWxpc2FuZG8uLi48Lz4gOiA8PkdlcmFyIGd1aWEgY3VsdHVyYWw8Lz59CiAgICAgIDwvYnV0dG9uPgogICAgPC9mb3JtPgogICk7Cn0KCmZ1bmN0aW9uIEN1bHR1cmFsU2VjdGlvbih7IGRpcmVjdGlvbiwgZXllYnJvdywgdGl0bGUsIGNoaWxkcmVuIH0pIHsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iY2FyZCIgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyMCB9fT4KICAgICAgPGRpdiBjbGFzc05hbWU9ImV5ZWJyb3ciIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogNCB9fT57ZXllYnJvd308L2Rpdj4KICAgICAgPGgzIHN0eWxlPXt7CiAgICAgICAgbWFyZ2luOiAnMCAwIDE4cHgnLAogICAgICAgIGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLAogICAgICAgIGZvbnRTaXplOiAyNCwgZm9udFdlaWdodDogNTAwLCBsZXR0ZXJTcGFjaW5nOiAnLTAuMDFlbScsCiAgICAgIH19Pnt0aXRsZX08L2gzPgogICAgICB7Y2hpbGRyZW59CiAgICA8L3NlY3Rpb24+CiAgKTsKfQoKZnVuY3Rpb24gQ3VsdHVyYWxSZXN1bHQoeyBkaXJlY3Rpb24sIHJlc3VsdCwgZm9ybSwgb25CYWNrLCBvblJlZ2VuLCBpc1JlZ2VuIH0pIHsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgY29uc3QgYWNjZW50ID0gZGlyQSA/ICd2YXIoLS1hLXRlYWwpJyA6ICd2YXIoLS1iLXRlYWwpJzsKICBjb25zdCBnb2xkID0gZGlyQSA/ICd2YXIoLS1hLWdvbGQpJyA6ICd2YXIoLS1iLWdvbGQpJzsKICBjb25zdCB0ZXh0MiA9IGRpckEgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknOwogIGNvbnN0IHJ1bGUgPSBkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknOwoKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBtYXJnaW5Cb3R0b206IDI4LCBmbGV4V3JhcDogJ3dyYXAnLCBnYXA6IDEyIH19PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e29uQmFja30gc3R5bGU9e3sgZm9udFNpemU6IDE0LCBjb2xvcjogJ2luaGVyaXQnLCBvcGFjaXR5OiAwLjcgfX0+4oaQIFZvbHRhcjwvYnV0dG9uPgogICAgICAgICAgPGgxIHN0eWxlPXt7CiAgICAgICAgICAgIGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLAogICAgICAgICAgICBmb250U2l6ZTogJ2NsYW1wKDM2cHgsIDV2dywgNTZweCknLAogICAgICAgICAgICBmb250V2VpZ2h0OiA0MDAsIGxldHRlclNwYWNpbmc6ICctMC4wMmVtJywKICAgICAgICAgICAgbWFyZ2luOiAnMTJweCAwIDRweCcsIGxpbmVIZWlnaHQ6IDEuMDUsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgR3VpYSBjdWx0dXJhbDogQnJhc2lsIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiBnb2xkIH19PuKGlDwvc3Bhbj4ge2Zvcm0udGFyZ2V0Q291bnRyeX0KICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8cCBzdHlsZT17eyBtYXJnaW46IDAsIGNvbG9yOiB0ZXh0MiwgZm9udFNpemU6IDE2IH19PgogICAgICAgICAgICBDb21wb3J0YW1lbnRvLCBuw6NvIGzDrW5ndWEuIEVzcGVjw61maWNvLCBuw6NvIGdlbsOpcmljby4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGJ0bi1naG9zdCIgb25DbGljaz17b25SZWdlbn0gZGlzYWJsZWQ9e2lzUmVnZW59IHN0eWxlPXt7IHBhZGRpbmc6ICcxMHB4IDE2cHgnLCBmb250U2l6ZTogMTQgfX0+CiAgICAgICAgICB7aXNSZWdlbiA/ICfihrsgLi4uJyA6ICfihrsgUmVnZW5lcmFyJ30KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICB7LyogMS4gRGlmZmVyZW5jZXMgKi99CiAgICAgIDxDdWx0dXJhbFNlY3Rpb24gZGlyZWN0aW9uPXtkaXJlY3Rpb259IGV5ZWJyb3c9IjAxIMK3IERpZmVyZW7Dp2FzIHF1ZSB2b2PDqiB2YWkgc2VudGlyIiB0aXRsZT0iTm8gdHJhYmFsaG8sIG5hIHByw6F0aWNhIj4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ2FwOiAxNCB9fT4KICAgICAgICAgIHtyZXN1bHQuZGlmZmVyZW5jZXMubWFwKChkLCBpKSA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17eyBib3JkZXJMZWZ0OiBgM3B4IHNvbGlkICR7YWNjZW50fWAsIHBhZGRpbmdMZWZ0OiAxNiB9fT4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRXZWlnaHQ6IDYwMCwgZm9udFNpemU6IDE2LCBtYXJnaW5Cb3R0b206IDggfX0+e2QudGl0bGV9PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdyaWRUZW1wbGF0ZUNvbHVtbnM6ICcxZnIgMWZyJywgZ2FwOiAxNiwgZm9udFNpemU6IDE0LCBsaW5lSGVpZ2h0OiAxLjU1IH19PgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgbGV0dGVyU3BhY2luZzogJzAuMDhlbScsIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLCBjb2xvcjogdGV4dDIsIG1hcmdpbkJvdHRvbTogNCB9fT5ObyBCcmFzaWw8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBjb2xvcjogdGV4dDIgfX0+e2QuYnJ9PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICcwLjA4ZW0nLCB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywgY29sb3I6IGFjY2VudCwgbWFyZ2luQm90dG9tOiA0IH19PkVtIHtmb3JtLnRhcmdldENvdW50cnl9PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXY+e2QudGFyZ2V0fTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvQ3VsdHVyYWxTZWN0aW9uPgoKICAgICAgey8qIDIuIENvbW11bmljYXRpb24gZXhhbXBsZXMgKi99CiAgICAgIDxDdWx0dXJhbFNlY3Rpb24gZGlyZWN0aW9uPXtkaXJlY3Rpb259IGV5ZWJyb3c9IjAyIMK3IENvbXVuaWNhw6fDo28gcXVlIGZ1bmNpb25hIiB0aXRsZT0iRW0gdmV6IGRpc3NvLi4uIHRlbnRlIGFzc2ltIj4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ2FwOiAxNCB9fT4KICAgICAgICAgIHtyZXN1bHQuY29tbXVuaWNhdGlvbkV4YW1wbGVzLm1hcCgoYywgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aX0gc3R5bGU9e3sgcGFkZGluZzogJzE0cHggMCcsIGJvcmRlckJvdHRvbTogaSA8IHJlc3VsdC5jb21tdW5pY2F0aW9uRXhhbXBsZXMubGVuZ3RoIC0gMSA/IGAxcHggc29saWQgJHtydWxlfWAgOiAnbm9uZScgfX0+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDYwMCwgbGV0dGVyU3BhY2luZzogJzAuMDZlbScsIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLCBjb2xvcjogdGV4dDIsIG1hcmdpbkJvdHRvbTogOCB9fT4KICAgICAgICAgICAgICAgIHtjLnNpdHVhdGlvbn0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ3JpZFRlbXBsYXRlQ29sdW1uczogJzFmciBhdXRvIDFmcicsIGdhcDogMTQsIGFsaWduSXRlbXM6ICdzdGFydCcgfX0+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHBhZGRpbmc6ICcxMnB4IDE0cHgnLCBib3JkZXJSYWRpdXM6IDgsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGRpckEgPyAncmdiYSgyMjAsMzgsMzgsMC4wNSknIDogJ3JnYmEoMjIwLDM4LDM4LDAuMTApJywKICAgICAgICAgICAgICAgICAgZm9udFNpemU6IDE0LCBsaW5lSGVpZ2h0OiAxLjUsIGZvbnRTdHlsZTogJ2l0YWxpYycsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiB0ZXh0MiwKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMSwgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAnMC4wNmVtJywgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIG1hcmdpbkJvdHRvbTogNiwgY29sb3I6ICcjZGMyNjI2JywgZm9udFN0eWxlOiAnbm9ybWFsJyB9fT5FbSB2ZXogZGlzc288L2Rpdj4KICAgICAgICAgICAgICAgICAgIntjLmluc3RlYWR9IgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGFsaWduU2VsZjogJ2NlbnRlcicsIGZvbnRTaXplOiAyMCwgY29sb3I6IGFjY2VudCB9fT7ihpI8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzEycHggMTRweCcsIGJvcmRlclJhZGl1czogOCwKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogZGlyQSA/ICdyZ2JhKDQyLDE1NywxNDMsMC4wNiknIDogJ3JnYmEoNzksMTc5LDE4NCwwLjEwKScsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxNCwgbGluZUhlaWdodDogMS41LAogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGxldHRlclNwYWNpbmc6ICcwLjA2ZW0nLCB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywgbWFyZ2luQm90dG9tOiA2LCBjb2xvcjogYWNjZW50IH19PlRlbnRlIGFzc2ltPC9kaXY+CiAgICAgICAgICAgICAgICAgICJ7Yy50cnlUaGlzfSIKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L0N1bHR1cmFsU2VjdGlvbj4KCiAgICAgIHsvKiAzLiBTY3JpcHRzICovfQogICAgICA8Q3VsdHVyYWxTZWN0aW9uIGRpcmVjdGlvbj17ZGlyZWN0aW9ufSBleWVicm93PSIwMyDCtyBSb3RlaXJvcyBwcm9udG9zIiB0aXRsZT0iUHJhIHNpdHVhw6fDo28gcmVhbCI+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdhcDogMTIgfX0+CiAgICAgICAgICB7cmVzdWx0LnNjcmlwdHMubWFwKChzLCBpKSA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17eyBwYWRkaW5nOiAnMTRweCAxNnB4JywgYm9yZGVyOiBgMXB4IHNvbGlkICR7cnVsZX1gLCBib3JkZXJSYWRpdXM6IDEwIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLCBnYXA6IDEyLCBhbGlnbkl0ZW1zOiAnZmxleC1zdGFydCcgfX0+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMywgZm9udFdlaWdodDogNzAwLCBsZXR0ZXJTcGFjaW5nOiAnMC4wNGVtJywgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIGNvbG9yOiBnb2xkLCBtYXJnaW5Cb3R0b206IDggfX0+CiAgICAgICAgICAgICAgICAgIHtzLnRpdGxlfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KHMuc2NyaXB0KX0KICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udFNpemU6IDEyLCBjb2xvcjogdGV4dDIsIHBhZGRpbmc6ICc0cHggMTBweCcsIGJvcmRlclJhZGl1czogOTk5LCBib3JkZXI6IGAxcHggc29saWQgJHtydWxlfWAgfX0KICAgICAgICAgICAgICAgID5Db3BpYXI8L2J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLCBmb250U2l6ZTogMTcsIGxpbmVIZWlnaHQ6IDEuNTUsIGZvbnRTdHlsZTogJ2l0YWxpYycgfX0+CiAgICAgICAgICAgICAgICAie3Muc2NyaXB0fSIKICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9DdWx0dXJhbFNlY3Rpb24+CgogICAgICB7LyogNC4gTWlzdGFrZXMgKi99CiAgICAgIDxDdWx0dXJhbFNlY3Rpb24gZGlyZWN0aW9uPXtkaXJlY3Rpb259IGV5ZWJyb3c9IjA0IMK3IEVycm9zIGNvbXVucyIgdGl0bGU9Ik8gcXVlIGJyYXNpbGVpcm8gZmF6IG5vIHByaW1laXJvIGFubyI+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdhcDogMTQgfX0+CiAgICAgICAgICB7cmVzdWx0Lm1pc3Rha2VzLm1hcCgobSwgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aX0gc3R5bGU9e3sgZGlzcGxheTogJ2dyaWQnLCBncmlkVGVtcGxhdGVDb2x1bW5zOiAnYXV0byAxZnInLCBnYXA6IDE0LCBwYWRkaW5nOiAnMTJweCAwJywgYm9yZGVyQm90dG9tOiBpIDwgcmVzdWx0Lm1pc3Rha2VzLmxlbmd0aCAtIDEgPyBgMXB4IHNvbGlkICR7cnVsZX1gIDogJ25vbmUnIH19PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogJ3ZhcigtLXNlcmlmKScsIGZvbnRTaXplOiAyNCwgZm9udFN0eWxlOiAnaXRhbGljJywgY29sb3I6ICcjZGMyNjI2JywgbGluZUhlaWdodDogMSwgcGFkZGluZ1RvcDogMiwgbWluV2lkdGg6IDMyIH19PgogICAgICAgICAgICAgICAge1N0cmluZyhpICsgMSkucGFkU3RhcnQoMiwgJzAnKX0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTUsIGZvbnRXZWlnaHQ6IDYwMCwgbWFyZ2luQm90dG9tOiA0IH19PnttLm1pc3Rha2V9PC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxNCwgY29sb3I6IHRleHQyLCBsaW5lSGVpZ2h0OiAxLjU1LCBtYXJnaW5Cb3R0b206IDYgfX0+e20ud2h5fTwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTQsIGxpbmVIZWlnaHQ6IDEuNTUgfX0+CiAgICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRXZWlnaHQ6IDYwMCwgY29sb3I6IGFjY2VudCB9fT5FbSB2ZXogZGlzc286IDwvc3Bhbj57bS5maXh9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9DdWx0dXJhbFNlY3Rpb24+CgogICAgICB7LyogNS4gVW5jb21mb3J0YWJsZSBidXQgbm9ybWFsICovfQogICAgICA8Q3VsdHVyYWxTZWN0aW9uIGRpcmVjdGlvbj17ZGlyZWN0aW9ufSBleWVicm93PSIwNSDCtyBWYWkgcGFyZWNlciBlc3RyYW5obyIgdGl0bGU9Ik1hcyDDqSBub3JtYWwgbMOhIj4KICAgICAgICA8dWwgc3R5bGU9e3sgbWFyZ2luOiAwLCBwYWRkaW5nTGVmdDogMCwgbGlzdFN0eWxlOiAnbm9uZScsIGRpc3BsYXk6ICdncmlkJywgZ2FwOiA4IH19PgogICAgICAgICAge3Jlc3VsdC51bmNvbWZvcnRhYmxlQnV0Tm9ybWFsLm1hcCgodSwgaSkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfSBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogMTIsIHBhZGRpbmc6ICc4cHggMCcsIGZvbnRTaXplOiAxNSwgbGluZUhlaWdodDogMS41NSB9fT4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogZ29sZCwgZm9udFNpemU6IDE4IH19PuKcpjwvc3Bhbj4KICAgICAgICAgICAgICA8c3Bhbj57dX08L3NwYW4+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApKX0KICAgICAgICA8L3VsPgogICAgICA8L0N1bHR1cmFsU2VjdGlvbj4KICAgIDwvZGl2PgogICk7Cn0KCndpbmRvdy5DdWx0dXJhbEZvcm0gPSBDdWx0dXJhbEZvcm07CndpbmRvdy5DdWx0dXJhbFJlc3VsdCA9IEN1bHR1cmFsUmVzdWx0Owo="}
+// Cultural translator: behaviour, not language
+
+const WORK_CONTEXTS = [
+  'Escritório / corporativo',
+  'Tecnologia / startup',
+  'Saúde / clínico',
+  'Hotelaria / atendimento',
+  'Varejo',
+  'Construção / manutenção',
+  'Acadêmico / pesquisa',
+  'Remoto / time distribuído',
+];
+
+function CulturalForm({ direction, onSubmit, isLoading }) {
+  const [form, setForm] = React.useState({
+    targetCountry: 'Ireland',
+    workContext: 'Escritório / corporativo',
+    yearsBR: '',
+    industry: '',
+    concern: '',
+  });
+  const update = (k) => (e) => setForm({ ...form, [k]: e.target.value });
+  const dirA = direction === 'a';
+
+  const submit = (e) => {
+    e.preventDefault();
+    if (!isLoading) onSubmit(form);
+  };
+
+  return (
+    <form onSubmit={submit} style={{ display: 'flex', flexDirection: 'column', gap: 22 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 }}>
+        <div>
+          <label className="field-label">País de destino</label>
+          <select className="field-select" value={form.targetCountry} onChange={update('targetCountry')}>
+            {TARGET_COUNTRIES.map((c) => <option key={c} value={c}>{c}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="field-label">Contexto de trabalho</label>
+          <select className="field-select" value={form.workContext} onChange={update('workContext')}>
+            {WORK_CONTEXTS.map((c) => <option key={c} value={c}>{c}</option>)}
+          </select>
+        </div>
+      </div>
+
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20 }}>
+        <div>
+          <label className="field-label">Anos de carreira no Brasil</label>
+          <input className="field-input" type="number" min="0" placeholder="5" value={form.yearsBR} onChange={update('yearsBR')} />
+        </div>
+        <div>
+          <label className="field-label">Setor</label>
+          <select className="field-select" value={form.industry} onChange={update('industry')}>
+            <option value="">Selecione...</option>
+            {INDUSTRIES.map((i) => <option key={i} value={i}>{i}</option>)}
+          </select>
+        </div>
+      </div>
+
+      <div>
+        <label className="field-label">O que mais te preocupa? (opcional)</label>
+        <textarea
+          className="field-textarea"
+          placeholder="Ex: tenho medo de parecer rude se for muito direto. Não sei como dar feedback negativo. Não entendo a hora certa de ir embora do trabalho. Não sei se posso discordar do meu chefe..."
+          value={form.concern}
+          onChange={update('concern')}
+        />
+        <div className="field-hint">Quanto mais específico, mais útil a resposta.</div>
+      </div>
+
+      <button
+        type="submit"
+        className="btn btn-primary"
+        disabled={isLoading}
+        style={{ alignSelf: 'flex-start', opacity: isLoading ? 0.5 : 1 }}
+      >
+        {isLoading ? <><span className="spinner" /> Analisando...</> : <>Gerar guia cultural</>}
+      </button>
+    </form>
+  );
+}
+
+function CulturalSection({ direction, eyebrow, title, children }) {
+  const dirA = direction === 'a';
+  return (
+    <section className="card" style={{ marginBottom: 20 }}>
+      <div className="eyebrow" style={{ marginBottom: 4 }}>{eyebrow}</div>
+      <h3 style={{
+        margin: '0 0 18px',
+        fontFamily: 'var(--serif)',
+        fontSize: 24, fontWeight: 500, letterSpacing: '-0.01em',
+      }}>{title}</h3>
+      {children}
+    </section>
+  );
+}
+
+function CulturalResult({ direction, result, form, onBack, onRegen, isRegen }) {
+  const dirA = direction === 'a';
+  const accent = dirA ? 'var(--a-teal)' : 'var(--b-teal)';
+  const gold = dirA ? 'var(--a-gold)' : 'var(--b-gold)';
+  const text2 = dirA ? 'var(--a-text-2)' : 'var(--b-text-2)';
+  const rule = dirA ? 'var(--a-rule)' : 'var(--b-rule)';
+
+  return (
+    <div>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 28, flexWrap: 'wrap', gap: 12 }}>
+        <div>
+          <button onClick={onBack} style={{ fontSize: 14, color: 'inherit', opacity: 0.7 }}>← Voltar</button>
+          <h1 style={{
+            fontFamily: 'var(--serif)',
+            fontSize: 'clamp(36px, 5vw, 56px)',
+            fontWeight: 400, letterSpacing: '-0.02em',
+            margin: '12px 0 4px', lineHeight: 1.05,
+          }}>
+            Guia cultural: Brasil <span style={{ color: gold }}>↔</span> {form.targetCountry}
+          </h1>
+          <p style={{ margin: 0, color: text2, fontSize: 16 }}>
+            Comportamento, não língua. Específico, não genérico.
+          </p>
+        </div>
+        <button className="btn btn-ghost" onClick={onRegen} disabled={isRegen} style={{ padding: '10px 16px', fontSize: 14 }}>
+          {isRegen ? '↻ ...' : '↻ Regenerar'}
+        </button>
+      </div>
+
+      {/* 1. Differences */}
+      <CulturalSection direction={direction} eyebrow="01 · Diferenças que você vai sentir" title="No trabalho, na prática">
+        <div style={{ display: 'grid', gap: 14 }}>
+          {result.differences.map((d, i) => (
+            <div key={i} style={{ borderLeft: `3px solid ${accent}`, paddingLeft: 16 }}>
+              <div style={{ fontWeight: 600, fontSize: 16, marginBottom: 8 }}>{d.title}</div>
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16, fontSize: 14, lineHeight: 1.55 }}>
+                <div>
+                  <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: text2, marginBottom: 4 }}>No Brasil</div>
+                  <div style={{ color: text2 }}>{d.br}</div>
+                </div>
+                <div>
+                  <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: accent, marginBottom: 4 }}>Em {form.targetCountry}</div>
+                  <div>{d.target}</div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </CulturalSection>
+
+      {/* 2. Communication examples */}
+      <CulturalSection direction={direction} eyebrow="02 · Comunicação que funciona" title="Em vez disso... tente assim">
+        <div style={{ display: 'grid', gap: 14 }}>
+          {result.communicationExamples.map((c, i) => (
+            <div key={i} style={{ padding: '14px 0', borderBottom: i < result.communicationExamples.length - 1 ? `1px solid ${rule}` : 'none' }}>
+              <div style={{ fontSize: 12, fontWeight: 600, letterSpacing: '0.06em', textTransform: 'uppercase', color: text2, marginBottom: 8 }}>
+                {c.situation}
+              </div>
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr auto 1fr', gap: 14, alignItems: 'start' }}>
+                <div style={{
+                  padding: '12px 14px', borderRadius: 8,
+                  background: dirA ? 'rgba(220,38,38,0.05)' : 'rgba(220,38,38,0.10)',
+                  fontSize: 14, lineHeight: 1.5, fontStyle: 'italic',
+                  color: text2,
+                }}>
+                  <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: 6, color: '#dc2626', fontStyle: 'normal' }}>Em vez disso</div>
+                  "{c.instead}"
+                </div>
+                <div style={{ alignSelf: 'center', fontSize: 20, color: accent }}>→</div>
+                <div style={{
+                  padding: '12px 14px', borderRadius: 8,
+                  background: dirA ? 'rgba(42,157,143,0.06)' : 'rgba(79,179,184,0.10)',
+                  fontSize: 14, lineHeight: 1.5,
+                }}>
+                  <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: 6, color: accent }}>Tente assim</div>
+                  "{c.tryThis}"
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </CulturalSection>
+
+      {/* 3. Scripts */}
+      <CulturalSection direction={direction} eyebrow="03 · Roteiros prontos" title="Pra situação real">
+        <div style={{ display: 'grid', gap: 12 }}>
+          {result.scripts.map((s, i) => (
+            <div key={i} style={{ padding: '14px 16px', border: `1px solid ${rule}`, borderRadius: 10 }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12, alignItems: 'flex-start' }}>
+                <div style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.04em', textTransform: 'uppercase', color: gold, marginBottom: 8 }}>
+                  {s.title}
+                </div>
+                <button
+                  onClick={() => navigator.clipboard.writeText(s.script)}
+                  style={{ fontSize: 12, color: text2, padding: '4px 10px', borderRadius: 999, border: `1px solid ${rule}` }}
+                >Copiar</button>
+              </div>
+              <div style={{ fontFamily: 'var(--serif)', fontSize: 17, lineHeight: 1.55, fontStyle: 'italic' }}>
+                "{s.script}"
+              </div>
+            </div>
+          ))}
+        </div>
+      </CulturalSection>
+
+      {/* 4. Mistakes */}
+      <CulturalSection direction={direction} eyebrow="04 · Erros comuns" title="O que brasileiro faz no primeiro ano">
+        <div style={{ display: 'grid', gap: 14 }}>
+          {result.mistakes.map((m, i) => (
+            <div key={i} style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: 14, padding: '12px 0', borderBottom: i < result.mistakes.length - 1 ? `1px solid ${rule}` : 'none' }}>
+              <div style={{ fontFamily: 'var(--serif)', fontSize: 24, fontStyle: 'italic', color: '#dc2626', lineHeight: 1, paddingTop: 2, minWidth: 32 }}>
+                {String(i + 1).padStart(2, '0')}
+              </div>
+              <div>
+                <div style={{ fontSize: 15, fontWeight: 600, marginBottom: 4 }}>{m.mistake}</div>
+                <div style={{ fontSize: 14, color: text2, lineHeight: 1.55, marginBottom: 6 }}>{m.why}</div>
+                <div style={{ fontSize: 14, lineHeight: 1.55 }}>
+                  <span style={{ fontWeight: 600, color: accent }}>Em vez disso: </span>{m.fix}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </CulturalSection>
+
+      {/* 5. Uncomfortable but normal */}
+      <CulturalSection direction={direction} eyebrow="05 · Vai parecer estranho" title="Mas é normal lá">
+        <ul style={{ margin: 0, paddingLeft: 0, listStyle: 'none', display: 'grid', gap: 8 }}>
+          {result.uncomfortableButNormal.map((u, i) => (
+            <li key={i} style={{ display: 'flex', gap: 12, padding: '8px 0', fontSize: 15, lineHeight: 1.55 }}>
+              <span style={{ color: gold, fontSize: 18 }}>✦</span>
+              <span>{u}</span>
+            </li>
+          ))}
+        </ul>
+      </CulturalSection>
+    </div>
+  );
+}
+
+window.CulturalForm = CulturalForm;
+window.CulturalResult = CulturalResult;

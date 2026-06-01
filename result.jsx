@@ -1,1 +1,400 @@
-{"data":"Ly8gUmVzdWx0IHZpZXcg4oCUIDUgb3V0cHV0IGJsb2NrcywgY29weS9lZGl0L3JlZ2VuL3NhdmUvc2hhcmUvZG93bmxvYWQKCmZ1bmN0aW9uIFJlc3VsdEJsb2NrKHsgZGlyZWN0aW9uLCB0aXRsZSwgZXllYnJvdywgY2hpbGRyZW4sIG9uQ29weSwgY29weVRleHQsIGFjdGlvbnMgfSkgewogIGNvbnN0IFtjb3BpZWQsIHNldENvcGllZF0gPSBSZWFjdC51c2VTdGF0ZShmYWxzZSk7CgogIGNvbnN0IGRvQ29weSA9ICgpID0+IHsKICAgIGlmIChvbkNvcHkpIHsgb25Db3B5KCk7IH0KICAgIGVsc2UgaWYgKGNvcHlUZXh0KSB7CiAgICAgIG5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KGNvcHlUZXh0KTsKICAgIH0KICAgIHNldENvcGllZCh0cnVlKTsKICAgIHNldFRpbWVvdXQoKCkgPT4gc2V0Q29waWVkKGZhbHNlKSwgMTQwMCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iY2FyZCIgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyMCB9fT4KICAgICAgPGhlYWRlciBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsIGFsaWduSXRlbXM6ICdmbGV4LXN0YXJ0JywgZ2FwOiAxNiwgbWFyZ2luQm90dG9tOiAxNiB9fT4KICAgICAgICA8ZGl2PgogICAgICAgICAge2V5ZWJyb3cgJiYgPGRpdiBjbGFzc05hbWU9ImV5ZWJyb3ciIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogNCB9fT57ZXllYnJvd308L2Rpdj59CiAgICAgICAgICA8aDMgc3R5bGU9e3sKICAgICAgICAgICAgbWFyZ2luOiAwLAogICAgICAgICAgICBmb250RmFtaWx5OiAndmFyKC0tc2VyaWYpJywKICAgICAgICAgICAgZm9udFNpemU6IDI0LAogICAgICAgICAgICBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgIGxldHRlclNwYWNpbmc6ICctMC4wMWVtJywKICAgICAgICAgIH19Pnt0aXRsZX08L2gzPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDYsIGZsZXhTaHJpbms6IDAgfX0+CiAgICAgICAgICB7YWN0aW9uc30KICAgICAgICAgIHsoY29weVRleHQgfHwgb25Db3B5KSAmJiAoCiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXtkb0NvcHl9CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc3cHggMTJweCcsCiAgICAgICAgICAgICAgICBmb250U2l6ZTogMTMsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDk5OSwKICAgICAgICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2RpcmVjdGlvbiA9PT0gJ2EnID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAsCiAgICAgICAgICAgICAgICBjb2xvcjogY29waWVkID8gKGRpcmVjdGlvbiA9PT0gJ2EnID8gJ3ZhcigtLWEtdGVhbCknIDogJ3ZhcigtLWItdGVhbCknKSA6ICdpbmhlcml0JywKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtjb3BpZWQgPyAn4pyTIENvcGlhZG8nIDogJ0NvcGlhcid9CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9oZWFkZXI+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvc2VjdGlvbj4KICApOwp9CgovLyBFZGl0YWJsZSB0ZXh0IGNvbXBvbmVudApmdW5jdGlvbiBFZGl0YWJsZSh7IHZhbHVlLCBvbkNoYW5nZSwgbXVsdGlsaW5lLCBzdHlsZSB9KSB7CiAgY29uc3QgcmVmID0gUmVhY3QudXNlUmVmKG51bGwpOwogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIHJlZj17cmVmfQogICAgICBjb250ZW50RWRpdGFibGUKICAgICAgc3VwcHJlc3NDb250ZW50RWRpdGFibGVXYXJuaW5nCiAgICAgIG9uQmx1cj17KGUpID0+IG9uQ2hhbmdlKGUuY3VycmVudFRhcmdldC5pbm5lclRleHQpfQogICAgICBzdHlsZT17ewogICAgICAgIG91dGxpbmU6ICdub25lJywKICAgICAgICBib3JkZXJSYWRpdXM6IDQsCiAgICAgICAgcGFkZGluZzogJzRweCA2cHgnLAogICAgICAgIG1hcmdpbjogJy00cHggLTZweCcsCiAgICAgICAgY3Vyc29yOiAndGV4dCcsCiAgICAgICAgLi4uc3R5bGUsCiAgICAgIH19CiAgICAgIG9uRm9jdXM9eyhlKSA9PiB7CiAgICAgICAgZS5jdXJyZW50VGFyZ2V0LnN0eWxlLmJhY2tncm91bmQgPSAncmdiYSgyMzMsMTk2LDEwNiwwLjEyKSc7CiAgICAgIH19CiAgICAgIG9uTW91c2VMZWF2ZT17KGUpID0+IHsKICAgICAgICBpZiAoZG9jdW1lbnQuYWN0aXZlRWxlbWVudCAhPT0gZS5jdXJyZW50VGFyZ2V0KSB7CiAgICAgICAgICBlLmN1cnJlbnRUYXJnZXQuc3R5bGUuYmFja2dyb3VuZCA9ICd0cmFuc3BhcmVudCc7CiAgICAgICAgfQogICAgICB9fQogICAgPgogICAgICB7dmFsdWV9CiAgICA8L2Rpdj4KICApOwp9CgpmdW5jdGlvbiBSZXN1bHRWaWV3KHsgZGlyZWN0aW9uLCByZXN1bHQsIGZvcm0sIHRvbmUsIG9uUmVzdWx0Q2hhbmdlLCBvblJlZ2VuLCBvbkJhY2ssIG9uU2F2ZSwgaXNSZWdlbiwgc2hvd1RvYXN0IH0pIHsKICBjb25zdCBkaXJBID0gZGlyZWN0aW9uID09PSAnYSc7CiAgY29uc3QgYWNjZW50ID0gZGlyQSA/ICd2YXIoLS1hLXRlYWwpJyA6ICd2YXIoLS1iLXRlYWwpJzsKICBjb25zdCBnb2xkID0gZGlyQSA/ICd2YXIoLS1hLWdvbGQpJyA6ICd2YXIoLS1iLWdvbGQpJzsKCiAgLy8gTG9jYWwgZWRpdHMKICBjb25zdCB1cGRhdGUgPSAoaywgdikgPT4gb25SZXN1bHRDaGFuZ2UoeyAuLi5yZXN1bHQsIFtrXTogdiB9KTsKICBjb25zdCB1cGRhdGVCdWxsZXQgPSAoaSwgdikgPT4gewogICAgY29uc3QgbmV4dCA9IFsuLi5yZXN1bHQuY3ZCdWxsZXRzXTsKICAgIG5leHRbaV0gPSB2OwogICAgdXBkYXRlKCdjdkJ1bGxldHMnLCBuZXh0KTsKICB9OwoKICBjb25zdCBmdWxsVGV4dCA9IFJlYWN0LnVzZU1lbW8oKCkgPT4gewogICAgY29uc3QgbGluZXMgPSBbXTsKICAgIGxpbmVzLnB1c2goYCMgJHtyZXN1bHQuaW50ZXJuYXRpb25hbFRpdGxlfWApOwogICAgaWYgKHJlc3VsdC50aXRsZUFsdGVybmF0aXZlcz8ubGVuZ3RoKSB7CiAgICAgIGxpbmVzLnB1c2goYEFsdGVybmF0aXZhczogJHtyZXN1bHQudGl0bGVBbHRlcm5hdGl2ZXMuam9pbignIMK3ICcpfWApOwogICAgfQogICAgbGluZXMucHVzaCgnJyk7CiAgICBsaW5lcy5wdXNoKCcjIyBDViBidWxsZXRzJyk7CiAgICByZXN1bHQuY3ZCdWxsZXRzPy5mb3JFYWNoKChiKSA9PiBsaW5lcy5wdXNoKGDigKIgJHtifWApKTsKICAgIGxpbmVzLnB1c2goJycpOwogICAgbGluZXMucHVzaCgnIyMgTGlua2VkSW4gaGVhZGxpbmUnKTsKICAgIGxpbmVzLnB1c2gocmVzdWx0LmxpbmtlZGluSGVhZGxpbmUgfHwgJycpOwogICAgbGluZXMucHVzaCgnJyk7CiAgICBsaW5lcy5wdXNoKCcjIyBBYm91dCcpOwogICAgbGluZXMucHVzaChyZXN1bHQuc2hvcnRBYm91dCB8fCAnJyk7CiAgICBsaW5lcy5wdXNoKCcnKTsKICAgIGxpbmVzLnB1c2goJyMjIFNraWxscyB0cmFuc2xhdGlvbicpOwogICAgcmVzdWx0LnNraWxsc1RyYW5zbGF0aW9uPy5mb3JFYWNoKChzKSA9PiBsaW5lcy5wdXNoKGDigKIgJHtzLmJyfSDihpIgJHtzLmVufWApKTsKICAgIGxpbmVzLnB1c2goJycpOwogICAgbGluZXMucHVzaCgnIyMgSW50ZXJ2aWV3IHRhbGtpbmcgcG9pbnRzJyk7CiAgICByZXN1bHQuaW50ZXJ2aWV3VGFsa2luZ1BvaW50cz8uZm9yRWFjaCgodCwgaSkgPT4gbGluZXMucHVzaChgJHtpICsgMX0uICR7dH1gKSk7CiAgICBpZiAocmVzdWx0LmhvbmVzdHlOb3Rlcz8ubGVuZ3RoKSB7CiAgICAgIGxpbmVzLnB1c2goJycpOwogICAgICBsaW5lcy5wdXNoKCcjIyBWZXJpZmljYXIgYW50ZXMgZGUgdXNhcicpOwogICAgICByZXN1bHQuaG9uZXN0eU5vdGVzLmZvckVhY2goKG4pID0+IGxpbmVzLnB1c2goYOKAoiAke259YCkpOwogICAgfQogICAgcmV0dXJuIGxpbmVzLmpvaW4oJ1xuJyk7CiAgfSwgW3Jlc3VsdF0pOwoKICBjb25zdCBkb3dubG9hZFR4dCA9ICgpID0+IHsKICAgIGNvbnN0IGJsb2IgPSBuZXcgQmxvYihbZnVsbFRleHRdLCB7IHR5cGU6ICd0ZXh0L3BsYWluJyB9KTsKICAgIGNvbnN0IHVybCA9IFVSTC5jcmVhdGVPYmplY3RVUkwoYmxvYik7CiAgICBjb25zdCBhID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnYScpOwogICAgYS5ocmVmID0gdXJsOwogICAgYS5kb3dubG9hZCA9IGBhbGVtZG9tYXItJHsocmVzdWx0LmludGVybmF0aW9uYWxUaXRsZSB8fCAnY3YnKS50b0xvd2VyQ2FzZSgpLnJlcGxhY2UoL1xzKy9nLCAnLScpfS50eHRgOwogICAgYS5jbGljaygpOwogICAgVVJMLnJldm9rZU9iamVjdFVSTCh1cmwpOwogICAgc2hvd1RvYXN0KCdCYWl4YWRvIGNvbW8gLnR4dCcpOwogIH07CgogIGNvbnN0IGRvd25sb2FkUGRmID0gKCkgPT4gewogICAgLy8gT3BlbiBwcmludCBkaWFsb2cgd2l0aCBmb3JtYXR0ZWQgdmlldzsgdXNlciBzYXZlcyBhcyBQREYKICAgIGNvbnN0IHcgPSB3aW5kb3cub3BlbignJywgJ19ibGFuaycpOwogICAgdy5kb2N1bWVudC53cml0ZShgPCFkb2N0eXBlIGh0bWw+PGh0bWw+PGhlYWQ+PHRpdGxlPiR7cmVzdWx0LmludGVybmF0aW9uYWxUaXRsZX08L3RpdGxlPgogICAgICA8c3R5bGU+CiAgICAgICAgYm9keSB7IGZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBzZXJpZjsgbWF4LXdpZHRoOiA2ODBweDsgbWFyZ2luOiA2MHB4IGF1dG87IHBhZGRpbmc6IDAgNDBweDsgY29sb3I6ICMxRjI5MzM7IGxpbmUtaGVpZ2h0OiAxLjU1OyB9CiAgICAgICAgaDEgeyBmb250LXNpemU6IDMycHg7IG1hcmdpbjogMCAwIDhweDsgbGV0dGVyLXNwYWNpbmc6IC0wLjAyZW07IH0KICAgICAgICBoMiB7IGZvbnQtc2l6ZTogMTRweDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgbGV0dGVyLXNwYWNpbmc6IDAuMDhlbTsgY29sb3I6ICM2QjcyODA7IG1hcmdpbjogMzJweCAwIDEycHg7IGZvbnQtd2VpZ2h0OiA2MDA7IH0KICAgICAgICB1bCB7IHBhZGRpbmctbGVmdDogMjBweDsgfSBsaSB7IG1hcmdpbi1ib3R0b206IDhweDsgfQogICAgICAgIC5hbHQgeyBjb2xvcjogIzZCNzI4MDsgZm9udC1zaXplOiAxNHB4OyBtYXJnaW4tYm90dG9tOiAyNHB4OyB9CiAgICAgICAgLm5vdGUgeyBmb250LXNpemU6IDEzcHg7IGNvbG9yOiAjNkI3MjgwOyBwYWRkaW5nOiAxMnB4IDE2cHg7IGJhY2tncm91bmQ6ICNGN0Y3RjU7IGJvcmRlci1sZWZ0OiAzcHggc29saWQgI0U5QzQ2QTsgbWFyZ2luOiA4cHggMDsgfQogICAgICA8L3N0eWxlPjwvaGVhZD48Ym9keT4KICAgICAgPGgxPiR7cmVzdWx0LmludGVybmF0aW9uYWxUaXRsZX08L2gxPgogICAgICAke3Jlc3VsdC50aXRsZUFsdGVybmF0aXZlcz8ubGVuZ3RoID8gYDxkaXYgY2xhc3M9ImFsdCI+YWxzbzogJHtyZXN1bHQudGl0bGVBbHRlcm5hdGl2ZXMuam9pbignIMK3ICcpfTwvZGl2PmAgOiAnJ30KICAgICAgPGgyPkNWIGJ1bGxldHM8L2gyPjx1bD4ke3Jlc3VsdC5jdkJ1bGxldHMubWFwKGIgPT4gYDxsaT4ke2J9PC9saT5gKS5qb2luKCcnKX08L3VsPgogICAgICA8aDI+TGlua2VkSW4gaGVhZGxpbmU8L2gyPjxwPiR7cmVzdWx0LmxpbmtlZGluSGVhZGxpbmV9PC9wPgogICAgICA8aDI+QWJvdXQ8L2gyPjxwPiR7cmVzdWx0LnNob3J0QWJvdXR9PC9wPgogICAgICA8aDI+U2tpbGxzIHRyYW5zbGF0aW9uPC9oMj48dWw+JHtyZXN1bHQuc2tpbGxzVHJhbnNsYXRpb24ubWFwKHMgPT4gYDxsaT48Yj4ke3MuYnJ9PC9iPiDihpIgJHtzLmVufTwvbGk+YCkuam9pbignJyl9PC91bD4KICAgICAgPGgyPkludGVydmlldyB0YWxraW5nIHBvaW50czwvaDI+PHVsPiR7cmVzdWx0LmludGVydmlld1RhbGtpbmdQb2ludHMubWFwKHQgPT4gYDxsaT4ke3R9PC9saT5gKS5qb2luKCcnKX08L3VsPgogICAgICAke3Jlc3VsdC5ob25lc3R5Tm90ZXM/Lmxlbmd0aCA/IGA8aDI+VmVyaWZpY2FyIGFudGVzIGRlIHVzYXI8L2gyPiR7cmVzdWx0LmhvbmVzdHlOb3Rlcy5tYXAobiA9PiBgPGRpdiBjbGFzcz0ibm90ZSI+JHtufTwvZGl2PmApLmpvaW4oJycpfWAgOiAnJ30KICAgICAgPC9ib2R5PjwvaHRtbD5gKTsKICAgIHcuZG9jdW1lbnQuY2xvc2UoKTsKICAgIHNldFRpbWVvdXQoKCkgPT4gdy5wcmludCgpLCA1MDApOwogICAgc2hvd1RvYXN0KCdBYnJpbmRvIFBERi4uLicpOwogIH07CgogIGNvbnN0IGVtYWlsU2VsZiA9ICgpID0+IHsKICAgIGNvbnN0IHN1YmplY3QgPSBlbmNvZGVVUklDb21wb25lbnQoYEFsw6ltIGRvIE1hcjogJHtyZXN1bHQuaW50ZXJuYXRpb25hbFRpdGxlfWApOwogICAgY29uc3QgYm9keSA9IGVuY29kZVVSSUNvbXBvbmVudChmdWxsVGV4dCk7CiAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGBtYWlsdG86P3N1YmplY3Q9JHtzdWJqZWN0fSZib2R5PSR7Ym9keX1gOwogICAgc2hvd1RvYXN0KCdBYnJpbmRvIGUtbWFpbC4uLicpOwogIH07CgogIGNvbnN0IHNoYXJlTGluayA9IGFzeW5jICgpID0+IHsKICAgIGNvbnN0IGRhdGEgPSBidG9hKHVuZXNjYXBlKGVuY29kZVVSSUNvbXBvbmVudChKU09OLnN0cmluZ2lmeSh7IHJlc3VsdCwgZm9ybSB9KSkpKTsKICAgIGNvbnN0IHVybCA9IGAke3dpbmRvdy5sb2NhdGlvbi5vcmlnaW59JHt3aW5kb3cubG9jYXRpb24ucGF0aG5hbWV9P3NoYXJlPSR7ZGF0YX1gOwogICAgdHJ5IHsKICAgICAgYXdhaXQgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQodXJsKTsKICAgICAgc2hvd1RvYXN0KCdMaW5rIGNvcGlhZG8nKTsKICAgIH0gY2F0Y2ggewogICAgICBwcm9tcHQoJ0NvcGllIG8gbGluazonLCB1cmwpOwogICAgfQogIH07CgogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICB7LyogSGVhZGVyIGJhciAqL30KICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgIGRpc3BsYXk6ICdmbGV4JywganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJywgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgbWFyZ2luQm90dG9tOiAzMiwgZmxleFdyYXA6ICd3cmFwJywgZ2FwOiAxNiwKICAgICAgfX0+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17b25CYWNrfSBzdHlsZT17eyBmb250U2l6ZTogMTQsIGNvbG9yOiAnaW5oZXJpdCcsIG9wYWNpdHk6IDAuNyB9fT4KICAgICAgICAgICAg4oaQIEVkaXRhciByZXNwb3N0YXMKICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPGgxIHN0eWxlPXt7CiAgICAgICAgICAgIG1hcmdpbjogJzEycHggMCA0cHgnLAogICAgICAgICAgICBmb250RmFtaWx5OiAndmFyKC0tc2VyaWYpJywKICAgICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgzNnB4LCA1dncsIDU2cHgpJywKICAgICAgICAgICAgZm9udFdlaWdodDogNDAwLAogICAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjA1LAogICAgICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnLTAuMDJlbScsCiAgICAgICAgICB9fT4KICAgICAgICAgICAgU3VhIHRyYWR1w6fDo28gZXN0w6EgcHJvbnRhLgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIHN0eWxlPXt7IG1hcmdpbjogMCwgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknLCBmb250U2l6ZTogMTYgfX0+CiAgICAgICAgICAgIENsaXF1ZSBlbSBxdWFscXVlciB0cmVjaG8gcHJhIGVkaXRhciBhbnRlcyBkZSBjb3BpYXIuIE5hZGEgZm9pIGludmVudGFkbywgc8OzIHJlZm9ybXVsYWRvLgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDYsIGZsZXhXcmFwOiAnd3JhcCcgfX0+CiAgICAgICAgICB7WwogICAgICAgICAgICBbJ+KYhicsICdTYWx2YXInLCBvblNhdmVdLAogICAgICAgICAgICBbJ+KciScsICdFLW1haWwnLCBlbWFpbFNlbGZdLAogICAgICAgICAgICBbJ+KGlycsICdMaW5rJywgc2hhcmVMaW5rXSwKICAgICAgICAgICAgWyfihpMnLCAnLnR4dCcsIGRvd25sb2FkVHh0XSwKICAgICAgICAgICAgWyfihpMnLCAnUERGJywgZG93bmxvYWRQZGZdLAogICAgICAgICAgXS5tYXAoKFtpY29uLCBsYWJlbCwgZm5dKSA9PiAoCiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBrZXk9e2xhYmVsfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuIGJ0bi1naG9zdCIKICAgICAgICAgICAgICBvbkNsaWNrPXtmbn0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgcGFkZGluZzogJzhweCAxNHB4JywKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMywKICAgICAgICAgICAgICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICAgICAgbGluZUhlaWdodDogMSwKICAgICAgICAgICAgICAgIGdhcDogNiwKICAgICAgICAgICAgICAgIGZsZXg6ICcwIDAgYXV0bycsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fT57aWNvbn08L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+e2xhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogSG9uZXN0eSBiYW5uZXIgKi99CiAgICAgIHtyZXN1bHQuaG9uZXN0eU5vdGVzPy5sZW5ndGggPiAwICYmICgKICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJ3JnYmEoMjMzLDE5NiwxMDYsMC4xOCknIDogJ3JnYmEoMjQ0LDE4NSw2NiwwLjEwKScsCiAgICAgICAgICBib3JkZXJMZWZ0OiBgM3B4IHNvbGlkICR7Z29sZH1gLAogICAgICAgICAgcGFkZGluZzogJzE0cHggMThweCcsCiAgICAgICAgICBib3JkZXJSYWRpdXM6ICcwIDhweCA4cHggMCcsCiAgICAgICAgICBtYXJnaW5Cb3R0b206IDI0LAogICAgICAgICAgZm9udFNpemU6IDE0LAogICAgICAgIH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250V2VpZ2h0OiA2MDAsIG1hcmdpbkJvdHRvbTogNiwgZm9udFNpemU6IDEyLCB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywgbGV0dGVyU3BhY2luZzogJzAuMDZlbScgfX0+CiAgICAgICAgICAgIOKaoCBWZXJpZmljYXIgYW50ZXMgZGUgdXNhcgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8dWwgc3R5bGU9e3sgbWFyZ2luOiAwLCBwYWRkaW5nTGVmdDogMjAsIGxpbmVIZWlnaHQ6IDEuNTUgfX0+CiAgICAgICAgICAgIHtyZXN1bHQuaG9uZXN0eU5vdGVzLm1hcCgobiwgaSkgPT4gPGxpIGtleT17aX0+e259PC9saT4pfQogICAgICAgICAgPC91bD4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIHsvKiBCbG9jayAxOiBKb2IgdGl0bGUgKi99CiAgICAgIDxSZXN1bHRCbG9jawogICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgIGV5ZWJyb3c9IjAxIMK3IEVxdWl2YWxlbnRlIGludGVybmFjaW9uYWwiCiAgICAgICAgdGl0bGU9IlTDrXR1bG8gZG8gY2FyZ28iCiAgICAgICAgY29weVRleHQ9e3Jlc3VsdC5pbnRlcm5hdGlvbmFsVGl0bGV9CiAgICAgID4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLCBmb250U2l6ZTogMzYsIGZvbnRXZWlnaHQ6IDQwMCwgbGV0dGVyU3BhY2luZzogJy0wLjAyZW0nLCBsaW5lSGVpZ2h0OiAxLjEgfX0+CiAgICAgICAgICA8RWRpdGFibGUgdmFsdWU9e3Jlc3VsdC5pbnRlcm5hdGlvbmFsVGl0bGV9IG9uQ2hhbmdlPXsodikgPT4gdXBkYXRlKCdpbnRlcm5hdGlvbmFsVGl0bGUnLCB2KX0gLz4KICAgICAgICA8L2Rpdj4KICAgICAgICB7cmVzdWx0LnRpdGxlQWx0ZXJuYXRpdmVzPy5sZW5ndGggPiAwICYmICgKICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiAxMiwgZm9udFNpemU6IDE0LCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScgfX0+CiAgICAgICAgICAgIEFsdGVybmF0aXZhczoge3Jlc3VsdC50aXRsZUFsdGVybmF0aXZlcy5tYXAoKGEsIGkpID0+ICgKICAgICAgICAgICAgICA8c3BhbiBrZXk9e2l9PgogICAgICAgICAgICAgICAge2kgPiAwICYmIDxzcGFuIHN0eWxlPXt7IG9wYWNpdHk6IDAuNSB9fT4gwrcgPC9zcGFuPn0KICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTdHlsZTogJ2l0YWxpYycgfX0+e2F9PC9zcGFuPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L1Jlc3VsdEJsb2NrPgoKICAgICAgey8qIEJsb2NrIDI6IENWIGJ1bGxldHMgKi99CiAgICAgIDxSZXN1bHRCbG9jawogICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgIGV5ZWJyb3c9IjAyIMK3IFBhcmEgbyBjdXJyw61jdWxvIgogICAgICAgIHRpdGxlPSJUw7NwaWNvcyBwcm8gQ1YiCiAgICAgICAgY29weVRleHQ9e3Jlc3VsdC5jdkJ1bGxldHMubWFwKChiKSA9PiBg4oCiICR7Yn1gKS5qb2luKCdcbicpfQogICAgICAgIGFjdGlvbnM9ewogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtvblJlZ2VufQogICAgICAgICAgICBkaXNhYmxlZD17aXNSZWdlbn0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwYWRkaW5nOiAnN3B4IDEycHgnLCBmb250U2l6ZTogMTMsIGZvbnRXZWlnaHQ6IDUwMCwgYm9yZGVyUmFkaXVzOiA5OTksCiAgICAgICAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7ZGlyQSA/ICd2YXIoLS1hLXJ1bGUpJyA6ICd2YXIoLS1iLXJ1bGUpJ31gLAogICAgICAgICAgICAgIG9wYWNpdHk6IGlzUmVnZW4gPyAwLjUgOiAxLAogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7aXNSZWdlbiA/ICfihrsgLi4uJyA6ICfihrsgUmVnZW5lcmFyJ30KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIH0KICAgICAgPgogICAgICAgIDx1bCBzdHlsZT17eyBtYXJnaW46IDAsIHBhZGRpbmdMZWZ0OiAwLCBsaXN0U3R5bGU6ICdub25lJyB9fT4KICAgICAgICAgIHtyZXN1bHQuY3ZCdWxsZXRzLm1hcCgoYiwgaSkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfSBzdHlsZT17ewogICAgICAgICAgICAgIHBhZGRpbmc6ICcxMHB4IDAnLAogICAgICAgICAgICAgIGJvcmRlckJvdHRvbTogaSA8IHJlc3VsdC5jdkJ1bGxldHMubGVuZ3RoIC0gMSA/IGAxcHggc29saWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAgOiAnbm9uZScsCiAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDEyLCBhbGlnbkl0ZW1zOiAnZmxleC1zdGFydCcsCiAgICAgICAgICAgIH19PgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiBhY2NlbnQsIG1hcmdpblRvcDogMiwgZm9udFNpemU6IDEyIH19PuKXhjwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmbGV4OiAxLCBmb250U2l6ZTogMTUsIGxpbmVIZWlnaHQ6IDEuNTUgfX0+CiAgICAgICAgICAgICAgICA8RWRpdGFibGUgdmFsdWU9e2J9IG9uQ2hhbmdlPXsodikgPT4gdXBkYXRlQnVsbGV0KGksIHYpfSAvPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICkpfQogICAgICAgIDwvdWw+CiAgICAgIDwvUmVzdWx0QmxvY2s+CgogICAgICB7LyogQmxvY2sgMzogTGlua2VkSW4gKi99CiAgICAgIDxSZXN1bHRCbG9jawogICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgIGV5ZWJyb3c9IjAzIMK3IFBhcmEgbyBMaW5rZWRJbiIKICAgICAgICB0aXRsZT0iSGVhZGxpbmUgKyBzb2JyZSB2b2PDqiIKICAgICAgICBjb3B5VGV4dD17YCR7cmVzdWx0LmxpbmtlZGluSGVhZGxpbmV9XG5cbiR7cmVzdWx0LnNob3J0QWJvdXR9YH0KICAgICAgPgogICAgICAgIDxkaXYgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyMCB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDEyLCBmb250V2VpZ2h0OiA2MDAsIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLCBsZXR0ZXJTcGFjaW5nOiAnMC4wNmVtJywgY29sb3I6IGRpckEgPyAndmFyKC0tYS10ZXh0LTIpJyA6ICd2YXIoLS1iLXRleHQtMiknLCBtYXJnaW5Cb3R0b206IDggfX0+CiAgICAgICAgICAgIEhlYWRsaW5lCiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDE4LCBmb250V2VpZ2h0OiA1MDAsIGxpbmVIZWlnaHQ6IDEuNCB9fT4KICAgICAgICAgICAgPEVkaXRhYmxlIHZhbHVlPXtyZXN1bHQubGlua2VkaW5IZWFkbGluZX0gb25DaGFuZ2U9eyh2KSA9PiB1cGRhdGUoJ2xpbmtlZGluSGVhZGxpbmUnLCB2KX0gLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGNvbG9yOiBkaXJBID8gJ3ZhcigtLWEtdGV4dC0yKScgOiAndmFyKC0tYi10ZXh0LTIpJywgbWFyZ2luVG9wOiA4IH19PgogICAgICAgICAgICB7cmVzdWx0LmxpbmtlZGluSGVhZGxpbmU/Lmxlbmd0aCB8fCAwfSAvIDIyMCBjYXJhY3RlcmVzCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDYwMCwgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIGxldHRlclNwYWNpbmc6ICcwLjA2ZW0nLCBjb2xvcjogZGlyQSA/ICd2YXIoLS1hLXRleHQtMiknIDogJ3ZhcigtLWItdGV4dC0yKScsIG1hcmdpbkJvdHRvbTogOCB9fT4KICAgICAgICAgICAgU29icmUgdm9jw6oKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTUsIGxpbmVIZWlnaHQ6IDEuNiB9fT4KICAgICAgICAgICAgPEVkaXRhYmxlIHZhbHVlPXtyZXN1bHQuc2hvcnRBYm91dH0gb25DaGFuZ2U9eyh2KSA9PiB1cGRhdGUoJ3Nob3J0QWJvdXQnLCB2KX0gbXVsdGlsaW5lIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9SZXN1bHRCbG9jaz4KCiAgICAgIHsvKiBCbG9jayA0OiBTa2lsbHMgdHJhbnNsYXRpb24gKi99CiAgICAgIDxSZXN1bHRCbG9jawogICAgICAgIGRpcmVjdGlvbj17ZGlyZWN0aW9ufQogICAgICAgIGV5ZWJyb3c9IjA0IMK3IFZvY2FidWzDoXJpbyIKICAgICAgICB0aXRsZT0iVHJhZHXDp8OjbyBkZSBoYWJpbGlkYWRlcyIKICAgICAgICBjb3B5VGV4dD17cmVzdWx0LnNraWxsc1RyYW5zbGF0aW9uLm1hcCgocykgPT4gYCR7cy5icn0g4oaSICR7cy5lbn1gKS5qb2luKCdcbicpfQogICAgICA+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdhcDogMTAgfX0+CiAgICAgICAgICB7cmVzdWx0LnNraWxsc1RyYW5zbGF0aW9uLm1hcCgocywgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aX0gc3R5bGU9e3sKICAgICAgICAgICAgICBkaXNwbGF5OiAnZ3JpZCcsCiAgICAgICAgICAgICAgZ3JpZFRlbXBsYXRlQ29sdW1uczogJzFmciBhdXRvIDFmcicsCiAgICAgICAgICAgICAgZ2FwOiAxNiwgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgcGFkZGluZzogJzhweCAwJywKICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTQsIGNvbG9yOiBkaXJBID8gJ3ZhcigtLWEtdGV4dC0yKScgOiAndmFyKC0tYi10ZXh0LTIpJywgZm9udFN0eWxlOiAnaXRhbGljJyB9fT4KICAgICAgICAgICAgICAgIHtzLmJyfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxOCwgY29sb3I6IGFjY2VudCB9fT7ihpI8L3NwYW4+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTUsIGZvbnRXZWlnaHQ6IDUwMCB9fT4KICAgICAgICAgICAgICAgIHtzLmVufQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L1Jlc3VsdEJsb2NrPgoKICAgICAgey8qIEJsb2NrIDU6IEludGVydmlldyB0YWxraW5nIHBvaW50cyAqL30KICAgICAgPFJlc3VsdEJsb2NrCiAgICAgICAgZGlyZWN0aW9uPXtkaXJlY3Rpb259CiAgICAgICAgZXllYnJvdz0iMDUgwrcgUGFyYSBhIGVudHJldmlzdGEiCiAgICAgICAgdGl0bGU9IlBvbnRvcyBkZSBmYWxhIChtw6l0b2RvIFNUQVIpIgogICAgICAgIGNvcHlUZXh0PXtyZXN1bHQuaW50ZXJ2aWV3VGFsa2luZ1BvaW50cy5tYXAoKHQsIGkpID0+IGAke2kgKyAxfS4gJHt0fWApLmpvaW4oJ1xuXG4nKX0KICAgICAgPgogICAgICAgIDxvbCBzdHlsZT17eyBtYXJnaW46IDAsIHBhZGRpbmdMZWZ0OiAwLCBsaXN0U3R5bGU6ICdub25lJywgY291bnRlclJlc2V0OiAndHAnIH19PgogICAgICAgICAge3Jlc3VsdC5pbnRlcnZpZXdUYWxraW5nUG9pbnRzLm1hcCgodCwgaSkgPT4gKAogICAgICAgICAgICA8bGkga2V5PXtpfSBzdHlsZT17ewogICAgICAgICAgICAgIGNvdW50ZXJJbmNyZW1lbnQ6ICd0cCcsCiAgICAgICAgICAgICAgcGFkZGluZzogJzE0cHggMCcsCiAgICAgICAgICAgICAgYm9yZGVyQm90dG9tOiBpIDwgcmVzdWx0LmludGVydmlld1RhbGtpbmdQb2ludHMubGVuZ3RoIC0gMSA/IGAxcHggc29saWQgJHtkaXJBID8gJ3ZhcigtLWEtcnVsZSknIDogJ3ZhcigtLWItcnVsZSknfWAgOiAnbm9uZScsCiAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDE2LAogICAgICAgICAgICB9fT4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgICAgICBmb250RmFtaWx5OiAndmFyKC0tc2VyaWYpJywKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAyNCwKICAgICAgICAgICAgICAgIGZvbnRTdHlsZTogJ2l0YWxpYycsCiAgICAgICAgICAgICAgICBjb2xvcjogZ29sZCwKICAgICAgICAgICAgICAgIGxpbmVIZWlnaHQ6IDEsIG1pbldpZHRoOiAzMCwKICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIHtTdHJpbmcoaSArIDEpLnBhZFN0YXJ0KDIsICcwJyl9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTUsIGxpbmVIZWlnaHQ6IDEuNiwgZmxleDogMSB9fT4KICAgICAgICAgICAgICAgIHt0fQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgKSl9CiAgICAgICAgPC9vbD4KICAgICAgPC9SZXN1bHRCbG9jaz4KICAgIDwvZGl2PgogICk7Cn0KCndpbmRvdy5SZXN1bHRWaWV3ID0gUmVzdWx0VmlldzsK"}
+// Result view — output blocks, copy/edit/regen/share/download
+
+function ResultBlock({ direction, title, eyebrow, children, onCopy, copyText, actions }) {
+  const [copied, setCopied] = React.useState(false);
+
+  const doCopy = () => {
+    if (onCopy) { onCopy(); }
+    else if (copyText) {
+      navigator.clipboard.writeText(copyText);
+    }
+    setCopied(true);
+    setTimeout(() => setCopied(false), 1400);
+  };
+
+  return (
+    <section className="card" style={{ marginBottom: 20 }}>
+      <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 16, marginBottom: 16 }}>
+        <div>
+          {eyebrow && <div className="eyebrow" style={{ marginBottom: 4 }}>{eyebrow}</div>}
+          <h3 style={{
+            margin: 0,
+            fontFamily: 'var(--serif)',
+            fontSize: 24,
+            fontWeight: 500,
+            letterSpacing: '-0.01em',
+          }}>{title}</h3>
+        </div>
+        <div style={{ display: 'flex', gap: 6, flexShrink: 0 }}>
+          {actions}
+          {(copyText || onCopy) && (
+            <button
+              onClick={doCopy}
+              style={{
+                padding: '7px 12px',
+                fontSize: 13,
+                fontWeight: 500,
+                borderRadius: 999,
+                border: `1px solid ${direction === 'a' ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+                color: copied ? (direction === 'a' ? 'var(--a-teal)' : 'var(--b-teal)') : 'inherit',
+                background: 'transparent',
+              }}
+            >
+              {copied ? '✓ Copiado' : 'Copiar'}
+            </button>
+          )}
+        </div>
+      </header>
+      {children}
+    </section>
+  );
+}
+
+// Editable text component
+function Editable({ value, onChange, multiline, style }) {
+  const ref = React.useRef(null);
+  return (
+    <div
+      ref={ref}
+      contentEditable
+      suppressContentEditableWarning
+      onBlur={(e) => onChange(e.currentTarget.innerText)}
+      style={{
+        outline: 'none',
+        borderRadius: 4,
+        padding: '4px 6px',
+        margin: '-4px -6px',
+        cursor: 'text',
+        ...style,
+      }}
+      onFocus={(e) => {
+        e.currentTarget.style.background = 'rgba(233,196,106,0.12)';
+      }}
+      onMouseLeave={(e) => {
+        if (document.activeElement !== e.currentTarget) {
+          e.currentTarget.style.background = 'transparent';
+        }
+      }}
+    >
+      {value}
+    </div>
+  );
+}
+
+function ResultView({ direction, result, form, tone, onResultChange, onRegen, onBack, onSave, isRegen, showToast }) {
+  const dirA = direction === 'a';
+  const accent = dirA ? 'var(--a-teal)' : 'var(--b-teal)';
+  const gold = dirA ? 'var(--a-gold)' : 'var(--b-gold)';
+
+  // Local edits
+  const update = (k, v) => onResultChange({ ...result, [k]: v });
+  const updateBullet = (i, v) => {
+    const next = [...result.cvBullets];
+    next[i] = v;
+    update('cvBullets', next);
+  };
+
+  const fullText = React.useMemo(() => {
+    const lines = [];
+    lines.push(`# ${result.internationalTitle}`);
+    if (result.titleAlternatives?.length) {
+      lines.push(`Alternativas: ${result.titleAlternatives.join(' · ')}`);
+    }
+    lines.push('');
+    lines.push('## CV bullets');
+    result.cvBullets?.forEach((b) => lines.push(`• ${b}`));
+    lines.push('');
+    lines.push('## LinkedIn headline');
+    lines.push(result.linkedinHeadline || '');
+    lines.push('');
+    lines.push('## About');
+    lines.push(result.shortAbout || '');
+    lines.push('');
+    lines.push('## Skills translation');
+    result.skillsTranslation?.forEach((s) => lines.push(`• ${s.br} → ${s.en}`));
+    lines.push('');
+    lines.push('## Interview talking points');
+    result.interviewTalkingPoints?.forEach((t, i) => lines.push(`${i + 1}. ${t}`));
+    if (result.honestyNotes?.length) {
+      lines.push('');
+      lines.push('## Verificar antes de usar');
+      result.honestyNotes.forEach((n) => lines.push(`• ${n}`));
+    }
+    return lines.join('\n');
+  }, [result]);
+
+  const downloadTxt = () => {
+    const blob = new Blob([fullText], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `alemdomar-${(result.internationalTitle || 'cv').toLowerCase().replace(/\s+/g, '-')}.txt`;
+    a.click();
+    URL.revokeObjectURL(url);
+    showToast('Baixado como .txt');
+  };
+
+  const downloadPdf = () => {
+    // Open print dialog with formatted view; user saves as PDF
+    const w = window.open('', '_blank');
+    w.document.write(`<!doctype html><html><head><title>${result.internationalTitle}</title>
+      <style>
+        body { font-family: Georgia, serif; max-width: 680px; margin: 60px auto; padding: 0 40px; color: #1F2933; line-height: 1.55; }
+        h1 { font-size: 32px; margin: 0 0 8px; letter-spacing: -0.02em; }
+        h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.08em; color: #6B7280; margin: 32px 0 12px; font-weight: 600; }
+        ul { padding-left: 20px; } li { margin-bottom: 8px; }
+        .alt { color: #6B7280; font-size: 14px; margin-bottom: 24px; }
+        .note { font-size: 13px; color: #6B7280; padding: 12px 16px; background: #F7F7F5; border-left: 3px solid #E9C46A; margin: 8px 0; }
+      </style></head><body>
+      <h1>${result.internationalTitle}</h1>
+      ${result.titleAlternatives?.length ? `<div class="alt">also: ${result.titleAlternatives.join(' · ')}</div>` : ''}
+      <h2>CV bullets</h2><ul>${result.cvBullets.map(b => `<li>${b}</li>`).join('')}</ul>
+      <h2>LinkedIn headline</h2><p>${result.linkedinHeadline}</p>
+      <h2>About</h2><p>${result.shortAbout}</p>
+      <h2>Skills translation</h2><ul>${result.skillsTranslation.map(s => `<li><b>${s.br}</b> → ${s.en}</li>`).join('')}</ul>
+      <h2>Interview talking points</h2><ul>${result.interviewTalkingPoints.map(t => `<li>${t}</li>`).join('')}</ul>
+      ${result.honestyNotes?.length ? `<h2>Verificar antes de usar</h2>${result.honestyNotes.map(n => `<div class="note">${n}</div>`).join('')}` : ''}
+      </body></html>`);
+    w.document.close();
+    setTimeout(() => w.print(), 500);
+    showToast('Abrindo PDF...');
+  };
+
+  const emailSelf = () => {
+    const subject = encodeURIComponent(`Além do Mar: ${result.internationalTitle}`);
+    const body = encodeURIComponent(fullText);
+    window.location.href = `mailto:?subject=${subject}&body=${body}`;
+    showToast('Abrindo e-mail...');
+  };
+
+  const shareLink = async () => {
+    const data = btoa(unescape(encodeURIComponent(JSON.stringify({ result, form }))));
+    const url = `${window.location.origin}${window.location.pathname}?share=${data}`;
+    try {
+      await navigator.clipboard.writeText(url);
+      showToast('Link copiado');
+    } catch {
+      prompt('Copie o link:', url);
+    }
+  };
+
+  return (
+    <div>
+      {/* Header bar */}
+      <div style={{
+        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+        marginBottom: 32, flexWrap: 'wrap', gap: 16,
+      }}>
+        <div>
+          <button onClick={onBack} style={{ fontSize: 14, color: 'inherit', opacity: 0.7 }}>
+            ← Editar respostas
+          </button>
+          <h1 style={{
+            margin: '12px 0 4px',
+            fontFamily: 'var(--serif)',
+            fontSize: 'clamp(36px, 5vw, 56px)',
+            fontWeight: 400,
+            lineHeight: 1.05,
+            letterSpacing: '-0.02em',
+          }}>
+            Sua tradução está pronta.
+          </h1>
+          <p style={{ margin: 0, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', fontSize: 16 }}>
+            Clique em qualquer trecho pra editar antes de copiar. Nada foi inventado, só reformulado.
+          </p>
+        </div>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+          {[
+            ['✉', 'E-mail', emailSelf],
+            ['↗', 'Link', shareLink],
+            ['↓', '.txt', downloadTxt],
+            ['↓', 'PDF', downloadPdf],
+          ].map(([icon, label, fn]) => (
+            <button
+              key={label}
+              className="btn btn-ghost"
+              onClick={fn}
+              style={{
+                padding: '8px 14px',
+                fontSize: 13,
+                whiteSpace: 'nowrap',
+                lineHeight: 1,
+                gap: 6,
+                flex: '0 0 auto',
+              }}
+            >
+              <span style={{ fontSize: 14 }}>{icon}</span>
+              <span>{label}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+
+      {/* Honesty banner */}
+      {result.honestyNotes?.length > 0 && (
+        <div style={{
+          background: dirA ? 'rgba(233,196,106,0.18)' : 'rgba(244,185,66,0.10)',
+          borderLeft: `3px solid ${gold}`,
+          padding: '14px 18px',
+          borderRadius: '0 8px 8px 0',
+          marginBottom: 24,
+          fontSize: 14,
+        }}>
+          <div style={{ fontWeight: 600, marginBottom: 6, fontSize: 12, textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+            ⚠ Verificar antes de usar
+          </div>
+          <ul style={{ margin: 0, paddingLeft: 20, lineHeight: 1.55 }}>
+            {result.honestyNotes.map((n, i) => <li key={i}>{n}</li>)}
+          </ul>
+        </div>
+      )}
+
+      {/* Block 1: Job title */}
+      <ResultBlock
+        direction={direction}
+        eyebrow="01 · Equivalente internacional"
+        title="Título do cargo"
+        copyText={result.internationalTitle}
+      >
+        <div style={{ fontFamily: 'var(--serif)', fontSize: 36, fontWeight: 400, letterSpacing: '-0.02em', lineHeight: 1.1 }}>
+          <Editable value={result.internationalTitle} onChange={(v) => update('internationalTitle', v)} />
+        </div>
+        {result.titleAlternatives?.length > 0 && (
+          <div style={{ marginTop: 12, fontSize: 14, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)' }}>
+            Alternativas: {result.titleAlternatives.map((a, i) => (
+              <span key={i}>
+                {i > 0 && <span style={{ opacity: 0.5 }}> · </span>}
+                <span style={{ fontStyle: 'italic' }}>{a}</span>
+              </span>
+            ))}
+          </div>
+        )}
+      </ResultBlock>
+
+      {/* Block 2: CV bullets */}
+      <ResultBlock
+        direction={direction}
+        eyebrow="02 · Para o currículo"
+        title="Tópicos pro CV"
+        copyText={result.cvBullets.map((b) => `• ${b}`).join('\n')}
+        actions={
+          <button
+            onClick={onRegen}
+            disabled={isRegen}
+            style={{
+              padding: '7px 12px', fontSize: 13, fontWeight: 500, borderRadius: 999,
+              border: `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}`,
+              opacity: isRegen ? 0.5 : 1,
+            }}
+          >
+            {isRegen ? '↻ ...' : '↻ Regenerar'}
+          </button>
+        }
+      >
+        <ul style={{ margin: 0, paddingLeft: 0, listStyle: 'none' }}>
+          {result.cvBullets.map((b, i) => (
+            <li key={i} style={{
+              padding: '10px 0',
+              borderBottom: i < result.cvBullets.length - 1 ? `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}` : 'none',
+              display: 'flex', gap: 12, alignItems: 'flex-start',
+            }}>
+              <span style={{ color: accent, marginTop: 2, fontSize: 12 }}>◆</span>
+              <span style={{ flex: 1, fontSize: 15, lineHeight: 1.55 }}>
+                <Editable value={b} onChange={(v) => updateBullet(i, v)} />
+              </span>
+            </li>
+          ))}
+        </ul>
+      </ResultBlock>
+
+      {/* Block 3: LinkedIn */}
+      <ResultBlock
+        direction={direction}
+        eyebrow="03 · Para o LinkedIn"
+        title="Headline + sobre você"
+        copyText={`${result.linkedinHeadline}\n\n${result.shortAbout}`}
+      >
+        <div style={{ marginBottom: 20 }}>
+          <div style={{ fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em', color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', marginBottom: 8 }}>
+            Headline
+          </div>
+          <div style={{ fontSize: 18, fontWeight: 500, lineHeight: 1.4 }}>
+            <Editable value={result.linkedinHeadline} onChange={(v) => update('linkedinHeadline', v)} />
+          </div>
+          <div style={{ fontSize: 12, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', marginTop: 8 }}>
+            {result.linkedinHeadline?.length || 0} / 220 caracteres
+          </div>
+        </div>
+        <div>
+          <div style={{ fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em', color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', marginBottom: 8 }}>
+            Sobre você
+          </div>
+          <div style={{ fontSize: 15, lineHeight: 1.6 }}>
+            <Editable value={result.shortAbout} onChange={(v) => update('shortAbout', v)} multiline />
+          </div>
+        </div>
+      </ResultBlock>
+
+      {/* Block 4: Skills translation */}
+      <ResultBlock
+        direction={direction}
+        eyebrow="04 · Vocabulário"
+        title="Tradução de habilidades"
+        copyText={result.skillsTranslation.map((s) => `${s.br} → ${s.en}`).join('\n')}
+      >
+        <div style={{ display: 'grid', gap: 10 }}>
+          {result.skillsTranslation.map((s, i) => (
+            <div key={i} style={{
+              display: 'grid',
+              gridTemplateColumns: '1fr auto 1fr',
+              gap: 16, alignItems: 'center',
+              padding: '8px 0',
+            }}>
+              <div style={{ fontSize: 14, color: dirA ? 'var(--a-text-2)' : 'var(--b-text-2)', fontStyle: 'italic' }}>
+                {s.br}
+              </div>
+              <span style={{ fontSize: 18, color: accent }}>→</span>
+              <div style={{ fontSize: 15, fontWeight: 500 }}>
+                {s.en}
+              </div>
+            </div>
+          ))}
+        </div>
+      </ResultBlock>
+
+      {/* Block 5: Interview talking points */}
+      <ResultBlock
+        direction={direction}
+        eyebrow="05 · Para a entrevista"
+        title="Pontos de fala (método STAR)"
+        copyText={result.interviewTalkingPoints.map((t, i) => `${i + 1}. ${t}`).join('\n\n')}
+      >
+        <ol style={{ margin: 0, paddingLeft: 0, listStyle: 'none', counterReset: 'tp' }}>
+          {result.interviewTalkingPoints.map((t, i) => (
+            <li key={i} style={{
+              counterIncrement: 'tp',
+              padding: '14px 0',
+              borderBottom: i < result.interviewTalkingPoints.length - 1 ? `1px solid ${dirA ? 'var(--a-rule)' : 'var(--b-rule)'}` : 'none',
+              display: 'flex', gap: 16,
+            }}>
+              <div style={{
+                fontFamily: 'var(--serif)',
+                fontSize: 24,
+                fontStyle: 'italic',
+                color: gold,
+                lineHeight: 1, minWidth: 30,
+              }}>
+                {String(i + 1).padStart(2, '0')}
+              </div>
+              <div style={{ fontSize: 15, lineHeight: 1.6, flex: 1 }}>
+                {t}
+              </div>
+            </li>
+          ))}
+        </ol>
+      </ResultBlock>
+    </div>
+  );
+}
+
+window.ResultView = ResultView;

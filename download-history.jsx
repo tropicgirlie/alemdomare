@@ -1,1 +1,526 @@
-{"data":"Ly8gRG93bmxvYWQgSGlzdG9yeSBQYWdlIC0gQ2VudHJhbGl6ZWQgdXNlciBkYXNoYm9hcmQgd2l0aCBhbmFseXRpY3MKLy8gUmVwbGFjZXMgc2ltcGxlIGxvY2FsU3RvcmFnZSBoaXN0b3J5IHdpdGggcHJvcGVyIHVzZXIgZGF0YSBtYW5hZ2VtZW50CgpmdW5jdGlvbiBEb3dubG9hZEhpc3RvcnkoeyBkaXJlY3Rpb24sIG9uQmFjaywgb25PcGVuSXRlbSB9KSB7CiAgY29uc3QgW2l0ZW1zLCBzZXRJdGVtc10gPSBSZWFjdC51c2VTdGF0ZShbXSk7CiAgY29uc3QgW2lzTG9hZGluZywgc2V0SXNMb2FkaW5nXSA9IFJlYWN0LnVzZVN0YXRlKHRydWUpOwogIGNvbnN0IFtmaWx0ZXIsIHNldEZpbHRlcl0gPSBSZWFjdC51c2VTdGF0ZSgnYWxsJyk7IC8vIGFsbCB8IGNhcmVlciB8IGN1bHR1cmFsIHwgZGlhZ25vc2lzCiAgY29uc3QgW3NlYXJjaFF1ZXJ5LCBzZXRTZWFyY2hRdWVyeV0gPSBSZWFjdC51c2VTdGF0ZSgnJyk7CiAgY29uc3QgW3NvcnRCeSwgc2V0U29ydEJ5XSA9IFJlYWN0LnVzZVN0YXRlKCdkYXRlJyk7IC8vIGRhdGUgfCB0b29sIHwgdXNhZ2UKICAKICBjb25zdCB7IHVzZXIgfSA9IHdpbmRvdy51c2VBdXRoKCk7CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwoKICAvLyBMb2FkIHVzZXIgaGlzdG9yeSBmcm9tIENsb3VkZmxhcmUgS1YKICBSZWFjdC51c2VFZmZlY3QoKCkgPT4gewogICAgbG9hZEhpc3RvcnkoKTsKICB9LCBbdXNlcl0pOwoKICBjb25zdCBsb2FkSGlzdG9yeSA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdXNlcikgcmV0dXJuOwogICAgCiAgICBzZXRJc0xvYWRpbmcodHJ1ZSk7CiAgICB0cnkgewogICAgICBjb25zdCB0b2tlbiA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdhZG1fYXV0aF90b2tlbicpOwogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCcvYXBpL3VzZXIvaGlzdG9yeScsIHsKICAgICAgICBoZWFkZXJzOiB7ICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAgfQogICAgICB9KTsKICAgICAgCiAgICAgIGlmIChyZXNwb25zZS5vaykgewogICAgICAgIGNvbnN0IGhpc3RvcnkgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICAgICAgc2V0SXRlbXMoaGlzdG9yeSk7CiAgICAgIH0KICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoJ0ZhaWxlZCB0byBsb2FkIGhpc3Rvcnk6JywgZXJyb3IpOwogICAgICAvLyBGYWxsYmFjayB0byBsb2NhbFN0b3JhZ2UgZm9yIGRldmVsb3BtZW50CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgcmF3ID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FkbS1oaXN0b3J5Jyk7CiAgICAgICAgc2V0SXRlbXMocmF3ID8gSlNPTi5wYXJzZShyYXcpIDogW10pOwogICAgICB9IGNhdGNoIHsKICAgICAgICBzZXRJdGVtcyhbXSk7CiAgICAgIH0KICAgIH0gZmluYWxseSB7CiAgICAgIHNldElzTG9hZGluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgLy8gRmlsdGVyIGFuZCBzb3J0IGl0ZW1zCiAgY29uc3QgZ2V0RmlsdGVyZWRJdGVtcyA9ICgpID0+IHsKICAgIGxldCBmaWx0ZXJlZCA9IGl0ZW1zOwoKICAgIC8vIEZpbHRlciBieSBjYXRlZ29yeQogICAgaWYgKGZpbHRlciAhPT0gJ2FsbCcpIHsKICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5maWx0ZXIoaXRlbSA9PiB7CiAgICAgICAgY29uc3QgdG9vbCA9IHdpbmRvdy5BZE1fVE9PTFNbaXRlbS50b29sSWRdOwogICAgICAgIGlmICghdG9vbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIAogICAgICAgIGlmIChmaWx0ZXIgPT09ICdjYXJlZXInKSByZXR1cm4gWydjYXJlZXInLCAnYXRzX2NoZWNrJywgJ3NhbGFyeV9yZWFsaXR5JywgJ2ludGVydmlld19zaW0nXS5pbmNsdWRlcyhpdGVtLnRvb2xJZCk7CiAgICAgICAgaWYgKGZpbHRlciA9PT0gJ2N1bHR1cmFsJykgcmV0dXJuIFsnY3VsdHVyYWwnLCAnc29jaWFsX3NjcmlwdHMnXS5pbmNsdWRlcyhpdGVtLnRvb2xJZCk7CiAgICAgICAgaWYgKGZpbHRlciA9PT0gJ2RpYWdub3NpcycpIHJldHVybiBbJ2hpcmluZ19yZWFsaXR5JywgJ3JlamVjdGlvbl9kZWNvZGVyJ10uaW5jbHVkZXMoaXRlbS50b29sSWQpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgICB9KTsKICAgIH0KCiAgICAvLyBGaWx0ZXIgYnkgc2VhcmNoCiAgICBpZiAoc2VhcmNoUXVlcnkpIHsKICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5maWx0ZXIoaXRlbSA9PiB7CiAgICAgICAgY29uc3QgdG9vbCA9IHdpbmRvdy5BZE1fVE9PTFNbaXRlbS50b29sSWRdOwogICAgICAgIGlmICghdG9vbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIAogICAgICAgIHJldHVybiB0b29sLmxhYmVsLnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoc2VhcmNoUXVlcnkudG9Mb3dlckNhc2UoKSkgfHwKICAgICAgICAgICAgICAgdG9vbC50aXRsZS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKHNlYXJjaFF1ZXJ5LnRvTG93ZXJDYXNlKCkpIHx8CiAgICAgICAgICAgICAgIChpdGVtLnJlc3VsdD8uaW50ZXJuYXRpb25hbFRpdGxlICYmIGl0ZW0ucmVzdWx0LmludGVybmF0aW9uYWxUaXRsZS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKHNlYXJjaFF1ZXJ5LnRvTG93ZXJDYXNlKCkpKTsKICAgICAgfSk7CiAgICB9CgogICAgLy8gU29ydAogICAgZmlsdGVyZWQuc29ydCgoYSwgYikgPT4gewogICAgICBpZiAoc29ydEJ5ID09PSAnZGF0ZScpIHJldHVybiBuZXcgRGF0ZShiLmNyZWF0ZWRBdCkgLSBuZXcgRGF0ZShhLmNyZWF0ZWRBdCk7CiAgICAgIGlmIChzb3J0QnkgPT09ICd0b29sJykgcmV0dXJuIChhLnRvb2xJZCB8fCAnJykubG9jYWxlQ29tcGFyZShiLnRvb2xJZCB8fCAnJyk7CiAgICAgIGlmIChzb3J0QnkgPT09ICd1c2FnZScpIHJldHVybiAoYi51c2FnZUNvdW50IHx8IDApIC0gKGEudXNhZ2VDb3VudCB8fCAwKTsKICAgICAgcmV0dXJuIDA7CiAgICB9KTsKCiAgICByZXR1cm4gZmlsdGVyZWQ7CiAgfTsKCiAgLy8gRXhwb3J0IGZ1bmN0aW9uYWxpdHkKICBjb25zdCBleHBvcnREYXRhID0gYXN5bmMgKCkgPT4gewogICAgY29uc3QgZGF0YVRvRXhwb3J0ID0gZ2V0RmlsdGVyZWRJdGVtcygpLm1hcChpdGVtID0+ICh7CiAgICAgIGRhdGU6IGl0ZW0uY3JlYXRlZEF0LAogICAgICB0b29sOiB3aW5kb3cuQWRNX1RPT0xTW2l0ZW0udG9vbElkXT8ubGFiZWwgfHwgaXRlbS50b29sSWQsCiAgICAgIGlucHV0OiBpdGVtLmZvcm0sCiAgICAgIG91dHB1dDogaXRlbS5yZXN1bHQsCiAgICAgIHVzYWdlQ291bnQ6IGl0ZW0udXNhZ2VDb3VudCB8fCAwCiAgICB9KSk7CgogICAgY29uc3QgYmxvYiA9IG5ldyBCbG9iKFtKU09OLnN0cmluZ2lmeShkYXRhVG9FeHBvcnQsIG51bGwsIDIpXSwgeyB0eXBlOiAnYXBwbGljYXRpb24vanNvbicgfSk7CiAgICBjb25zdCB1cmwgPSBVUkwuY3JlYXRlT2JqZWN0VVJMKGJsb2IpOwogICAgY29uc3QgYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2EnKTsKICAgIGEuaHJlZiA9IHVybDsKICAgIGEuZG93bmxvYWQgPSBgYWxlbWRvbWFyLWhpc3RvcnktJHtuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCkuc3BsaXQoJ1QnKVswXX0uanNvbmA7CiAgICBhLmNsaWNrKCk7CiAgICBVUkwucmV2b2tlT2JqZWN0VVJMKHVybCk7CiAgfTsKCiAgLy8gRGVsZXRlIGl0ZW0KICBjb25zdCBkZWxldGVJdGVtID0gYXN5bmMgKGl0ZW1JZCkgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3QgdG9rZW4gPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYWRtX2F1dGhfdG9rZW4nKTsKICAgICAgYXdhaXQgZmV0Y2goYC9hcGkvdXNlci9oaXN0b3J5LyR7aXRlbUlkfWAsIHsKICAgICAgICBtZXRob2Q6ICdERUxFVEUnLAogICAgICAgIGhlYWRlcnM6IHsgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7dG9rZW59YCB9CiAgICAgIH0pOwogICAgICAKICAgICAgc2V0SXRlbXMoaXRlbXMuZmlsdGVyKGl0ZW0gPT4gaXRlbS5pZCAhPT0gaXRlbUlkKSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCdGYWlsZWQgdG8gZGVsZXRlIGl0ZW06JywgZXJyb3IpOwogICAgICAvLyBGYWxsYmFjayBmb3IgZGV2ZWxvcG1lbnQKICAgICAgY29uc3QgbmV4dCA9IGl0ZW1zLmZpbHRlcihpdGVtID0+IGl0ZW0uaWQgIT09IGl0ZW1JZCk7CiAgICAgIHNldEl0ZW1zKG5leHQpOwogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnYWRtLWhpc3RvcnknLCBKU09OLnN0cmluZ2lmeShuZXh0KSk7CiAgICB9CiAgfTsKCiAgY29uc3QgZmlsdGVyZWRJdGVtcyA9IGdldEZpbHRlcmVkSXRlbXMoKTsKICBjb25zdCBzdGF0cyA9IHsKICAgIHRvdGFsOiBpdGVtcy5sZW5ndGgsCiAgICB0aGlzTW9udGg6IGl0ZW1zLmZpbHRlcihpdGVtID0+IHsKICAgICAgY29uc3QgaXRlbURhdGUgPSBuZXcgRGF0ZShpdGVtLmNyZWF0ZWRBdCk7CiAgICAgIGNvbnN0IG5vdyA9IG5ldyBEYXRlKCk7CiAgICAgIHJldHVybiBpdGVtRGF0ZS5nZXRNb250aCgpID09PSBub3cuZ2V0TW9udGgoKSAmJiBpdGVtRGF0ZS5nZXRGdWxsWWVhcigpID09PSBub3cuZ2V0RnVsbFllYXIoKTsKICAgIH0pLmxlbmd0aCwKICAgIG1vc3RVc2VkOiBpdGVtcy5yZWR1Y2UoKGFjYywgaXRlbSkgPT4gewogICAgICBhY2NbaXRlbS50b29sSWRdID0gKGFjY1tpdGVtLnRvb2xJZF0gfHwgMCkgKyAxOwogICAgICByZXR1cm4gYWNjOwogICAgfSwge30pCiAgfTsKCiAgcmV0dXJuIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgIGNsYXNzTmFtZTogJ2Rvd25sb2FkLWhpc3RvcnknLAogICAgc3R5bGU6IHsgcGFkZGluZzogJzIwcHggMCcsIHBhZGRpbmdCb3R0b206IDgwIH0KICB9LCBbCiAgICAvLyBIZWFkZXIKICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAga2V5OiAnaGVhZGVyJywKICAgICAgc3R5bGU6IHsgbWFyZ2luQm90dG9tOiAzMiB9CiAgICB9LCBbCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2J1dHRvbicsIHsKICAgICAgICBrZXk6ICdiYWNrJywKICAgICAgICBvbkNsaWNrOiBvbkJhY2ssCiAgICAgICAgc3R5bGU6IHsKICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyM2NjYnIDogJyM5OTknLAogICAgICAgICAgbWFyZ2luQm90dG9tOiAxNiwKICAgICAgICAgIGJhY2tncm91bmQ6ICdub25lJywKICAgICAgICAgIGJvcmRlcjogJ25vbmUnLAogICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicKICAgICAgICB9CiAgICAgIH0sICfihpAgVm9sdGFyJyksCiAgICAgIAogICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdoMScsIHsKICAgICAgICBrZXk6ICd0aXRsZScsCiAgICAgICAgc3R5bGU6IHsKICAgICAgICAgIGZvbnRGYW1pbHk6ICd2YXIoLS1zZXJpZiknLAogICAgICAgICAgZm9udFNpemU6ICdjbGFtcCgzNnB4LCA1dncsIDU2cHgpJywKICAgICAgICAgIGZvbnRXZWlnaHQ6IDQwMCwKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICctMC4wMmVtJywKICAgICAgICAgIG1hcmdpbjogJzhweCAwIDE2cHgnLAogICAgICAgICAgbGluZUhlaWdodDogMS4wNSwKICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyMzMzMnIDogJyNmZmYnCiAgICAgICAgfQogICAgICB9LCAnU2V1IGhpc3TDs3JpY28nKSwKICAgICAgCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ3AnLCB7CiAgICAgICAga2V5OiAnc3VidGl0bGUnLAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICBmb250U2l6ZTogMTYsCiAgICAgICAgICBjb2xvcjogZGlyQSA/ICcjNjY2JyA6ICcjOTk5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogMjQKICAgICAgICB9CiAgICAgIH0sIGBUb2RvcyBvcyBzZXVzIHJlc3VsdGFkb3Mgc2Fsdm9zIGUgb3JnYW5pemFkb3MgZW0gdW0gc8OzIGx1Z2FyLmApCiAgICBdKSwKCiAgICAvLyBTdGF0cyBjYXJkcwogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICdzdGF0cycsCiAgICAgIHN0eWxlOiB7CiAgICAgICAgZGlzcGxheTogJ2dyaWQnLAogICAgICAgIGdyaWRUZW1wbGF0ZUNvbHVtbnM6ICdyZXBlYXQoYXV0by1maXQsIG1pbm1heCgyMDBweCwgMWZyKSknLAogICAgICAgIGdhcDogMTYsCiAgICAgICAgbWFyZ2luQm90dG9tOiAzMgogICAgICB9CiAgICB9LCBbCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoU3RhdENhcmQsIHsKICAgICAgICBrZXk6ICd0b3RhbCcsCiAgICAgICAgbGFiZWw6ICdUb3RhbCBkZSB1c29zJywKICAgICAgICB2YWx1ZTogc3RhdHMudG90YWwsCiAgICAgICAgaWNvbjogJ/Cfk4onLAogICAgICAgIGRpcmVjdGlvbgogICAgICB9KSwKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudChTdGF0Q2FyZCwgewogICAgICAgIGtleTogJ21vbnRoJywKICAgICAgICBsYWJlbDogJ0VzdGUgbcOqcycsCiAgICAgICAgdmFsdWU6IHN0YXRzLnRoaXNNb250aCwKICAgICAgICBpY29uOiAn8J+ThScsCiAgICAgICAgZGlyZWN0aW9uCiAgICAgIH0pLAogICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFN0YXRDYXJkLCB7CiAgICAgICAga2V5OiAndG9vbHMnLAogICAgICAgIGxhYmVsOiAnRmVycmFtZW50YXMnLAogICAgICAgIHZhbHVlOiBPYmplY3Qua2V5cyhzdGF0cy5tb3N0VXNlZCkubGVuZ3RoLAogICAgICAgIGljb246ICfwn5ug77iPJywKICAgICAgICBkaXJlY3Rpb24KICAgICAgfSkKICAgIF0pLAoKICAgIC8vIEZpbHRlcnMgYW5kIHNlYXJjaAogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICdmaWx0ZXJzJywKICAgICAgc3R5bGU6IHsKICAgICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJyNmOGY5ZmEnIDogJ3JnYmEoMjU1LDI1NSwyNTUsMC4wMiknLAogICAgICAgIHBhZGRpbmc6IDIwLAogICAgICAgIGJvcmRlclJhZGl1czogMTIsCiAgICAgICAgbWFyZ2luQm90dG9tOiAyNCwKICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJyNlNWU1ZTUnIDogJyMzMzMnfWAKICAgICAgfQogICAgfSwgWwogICAgICAvLyBTZWFyY2gKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICAgIGtleTogJ3NlYXJjaC1yb3cnLAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICBnYXA6IDEyLAogICAgICAgICAgbWFyZ2luQm90dG9tOiAxNiwKICAgICAgICAgIGZsZXhXcmFwOiAnd3JhcCcKICAgICAgICB9CiAgICAgIH0sIFsKICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdpbnB1dCcsIHsKICAgICAgICAgIGtleTogJ3NlYXJjaCcsCiAgICAgICAgICB0eXBlOiAndGV4dCcsCiAgICAgICAgICBwbGFjZWhvbGRlcjogJ0J1c2NhciBubyBoaXN0w7NyaWNvLi4uJywKICAgICAgICAgIHZhbHVlOiBzZWFyY2hRdWVyeSwKICAgICAgICAgIG9uQ2hhbmdlOiAoZSkgPT4gc2V0U2VhcmNoUXVlcnkoZS50YXJnZXQudmFsdWUpLAogICAgICAgICAgc3R5bGU6IHsKICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgbWluV2lkdGg6IDIwMCwKICAgICAgICAgICAgcGFkZGluZzogJzEwcHggMTRweCcsCiAgICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2RpckEgPyAnI2U1ZTVlNScgOiAnIzMzMyd9YCwKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiA4LAogICAgICAgICAgICBmb250U2l6ZTogMTQsCiAgICAgICAgICAgIGJhY2tncm91bmQ6IGRpckEgPyAnI2ZmZicgOiAncmdiYSgyNTUsMjU1LDI1NSwwLjA1KScsCiAgICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyMzMzMnIDogJyNmZmYnCiAgICAgICAgICB9CiAgICAgICAgfSksCiAgICAgICAgCiAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnYnV0dG9uJywgewogICAgICAgICAga2V5OiAnZXhwb3J0JywKICAgICAgICAgIG9uQ2xpY2s6IGV4cG9ydERhdGEsCiAgICAgICAgICBzdHlsZTogewogICAgICAgICAgICBwYWRkaW5nOiAnMTBweCAxNnB4JywKICAgICAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7ZGlyQSA/ICcjMmE5ZDhmJyA6ICcjNGZiOWI4J31gLAogICAgICAgICAgICBib3JkZXJSYWRpdXM6IDgsCiAgICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgICAgZm9udFdlaWdodDogNTAwLAogICAgICAgICAgICBiYWNrZ3JvdW5kOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgICBjb2xvcjogZGlyQSA/ICcjMmE5ZDhmJyA6ICcjNGZiOWI4JywKICAgICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicKICAgICAgICAgIH0KICAgICAgICB9LCAn8J+TpSBFeHBvcnRhcicpCiAgICAgIF0pLAoKICAgICAgLy8gRmlsdGVyIHRhYnMgYW5kIHNvcnQKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICAgIGtleTogJ2ZpbHRlci1yb3cnLAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLAogICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICBmbGV4V3JhcDogJ3dyYXAnLAogICAgICAgICAgZ2FwOiAxMgogICAgICAgIH0KICAgICAgfSwgWwogICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAgICAgIGtleTogJ2ZpbHRlci10YWJzJywKICAgICAgICAgIHN0eWxlOiB7IGRpc3BsYXk6ICdmbGV4JywgZ2FwOiA4IH0KICAgICAgICB9LCBbCiAgICAgICAgICB7IHZhbHVlOiAnYWxsJywgbGFiZWw6ICdUb2RvcycgfSwKICAgICAgICAgIHsgdmFsdWU6ICdjYXJlZXInLCBsYWJlbDogJ0NhcnJlaXJhJyB9LAogICAgICAgICAgeyB2YWx1ZTogJ2N1bHR1cmFsJywgbGFiZWw6ICdDdWx0dXJhJyB9LAogICAgICAgICAgeyB2YWx1ZTogJ2RpYWdub3NpcycsIGxhYmVsOiAnRGlhZ27Ds3N0aWNvJyB9CiAgICAgICAgXS5tYXAoZmlsdGVyT3B0aW9uID0+IAogICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnYnV0dG9uJywgewogICAgICAgICAgICBrZXk6IGZpbHRlck9wdGlvbi52YWx1ZSwKICAgICAgICAgICAgb25DbGljazogKCkgPT4gc2V0RmlsdGVyKGZpbHRlck9wdGlvbi52YWx1ZSksCiAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgcGFkZGluZzogJzZweCAxMnB4JywKICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtmaWx0ZXIgPT09IGZpbHRlck9wdGlvbi52YWx1ZSA/IChkaXJBID8gJyMyYTlkOGYnIDogJyM0ZmI5YjgnKSA6IChkaXJBID8gJyNlNWU1ZTUnIDogJyMzMzMnKX1gLAogICAgICAgICAgICAgIGJvcmRlclJhZGl1czogMTYsCiAgICAgICAgICAgICAgZm9udFNpemU6IDEzLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDUwMCwKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBmaWx0ZXIgPT09IGZpbHRlck9wdGlvbi52YWx1ZSA/IChkaXJBID8gJyMyYTlkOGYnIDogJyM0ZmI5YjgnKSA6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgY29sb3I6IGZpbHRlciA9PT0gZmlsdGVyT3B0aW9uLnZhbHVlID8gJyNmZmYnIDogKGRpckEgPyAnIzY2NicgOiAnIzk5OScpLAogICAgICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sIGZpbHRlck9wdGlvbi5sYWJlbCkKICAgICAgICApKSwKCiAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnc2VsZWN0JywgewogICAgICAgICAga2V5OiAnc29ydCcsCiAgICAgICAgICB2YWx1ZTogc29ydEJ5LAogICAgICAgICAgb25DaGFuZ2U6IChlKSA9PiBzZXRTb3J0QnkoZS50YXJnZXQudmFsdWUpLAogICAgICAgICAgc3R5bGU6IHsKICAgICAgICAgICAgcGFkZGluZzogJzZweCAxMnB4JywKICAgICAgICAgICAgYm9yZGVyOiBgMXB4IHNvbGlkICR7ZGlyQSA/ICcjZTVlNWU1JyA6ICcjMzMzJ31gLAogICAgICAgICAgICBib3JkZXJSYWRpdXM6IDgsCiAgICAgICAgICAgIGZvbnRTaXplOiAxMywKICAgICAgICAgICAgYmFja2dyb3VuZDogZGlyQSA/ICcjZmZmJyA6ICdyZ2JhKDI1NSwyNTUsMjU1LDAuMDUpJywKICAgICAgICAgICAgY29sb3I6IGRpckEgPyAnIzMzMycgOiAnI2ZmZicKICAgICAgICAgIH0KICAgICAgICB9LCBbCiAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdvcHRpb24nLCB7IGtleTogJ2RhdGUnLCB2YWx1ZTogJ2RhdGUnIH0sICdNYWlzIHJlY2VudGVzJyksCiAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdvcHRpb24nLCB7IGtleTogJ3Rvb2wnLCB2YWx1ZTogJ3Rvb2wnIH0sICdQb3IgZmVycmFtZW50YScpLAogICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnb3B0aW9uJywgeyBrZXk6ICd1c2FnZScsIHZhbHVlOiAndXNhZ2UnIH0sICdNYWlzIHVzYWRvcycpCiAgICAgICAgXSkKICAgICAgXSkKICAgIF0pLAoKICAgIC8vIExvYWRpbmcgc3RhdGUKICAgIGlzTG9hZGluZyAmJiBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICAgIGtleTogJ2xvYWRpbmcnLAogICAgICBzdHlsZTogewogICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgcGFkZGluZzogJzYwcHggMjBweCcsCiAgICAgICAgY29sb3I6IGRpckEgPyAnIzk5OScgOiAnIzY2NicKICAgICAgfQogICAgfSwgWwogICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7IGtleTogJ3NwaW5uZXInLCBjbGFzc05hbWU6ICdzcGlubmVyJywgc3R5bGU6IHsgbWFyZ2luOiAnMCBhdXRvIDE2cHgnIH0gfSksCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsga2V5OiAndGV4dCcgfSwgJ0NhcnJlZ2FuZG8gc2V1IGhpc3TDs3JpY28uLi4nKQogICAgXSksCgogICAgLy8gSXRlbXMgbGlzdAogICAgIWlzTG9hZGluZyAmJiBmaWx0ZXJlZEl0ZW1zLmxlbmd0aCA9PT0gMCAmJiBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICAgIGtleTogJ2VtcHR5JywKICAgICAgc3R5bGU6IHsKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIHBhZGRpbmc6ICc2MHB4IDIwcHgnLAogICAgICAgIGNvbG9yOiBkaXJBID8gJyM5OTknIDogJyM2NjYnCiAgICAgIH0KICAgIH0sIFsKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgeyBrZXk6ICdpY29uJywgc3R5bGU6IHsgZm9udFNpemU6IDQ4LCBtYXJnaW5Cb3R0b206IDE2IH0gfSwgJ/Cfk4snKSwKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgeyBrZXk6ICd0aXRsZScsIHN0eWxlOiB7IGZvbnRTaXplOiAxOCwgZm9udFdlaWdodDogNjAwLCBtYXJnaW5Cb3R0b206IDggfSB9LCAKICAgICAgICBzZWFyY2hRdWVyeSA/ICdOZW5odW0gcmVzdWx0YWRvIGVuY29udHJhZG8nIDogJ05lbmh1bSBoaXN0w7NyaWNvIGFpbmRhJyksCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsga2V5OiAndGV4dCcsIHN0eWxlOiB7IGZvbnRTaXplOiAxNCB9IH0sIAogICAgICAgIHNlYXJjaFF1ZXJ5ID8gJ1RlbnRlIG91dHJvcyB0ZXJtb3MgZGUgYnVzY2EnIDogJ1N1YXMgdHJhZHXDp8O1ZXMgYXBhcmVjZXLDo28gYXF1aSBxdWFuZG8gdm9jw6ogYXMgdXNhcicpCiAgICBdKSwKCiAgICAvLyBIaXN0b3J5IGl0ZW1zCiAgICAhaXNMb2FkaW5nICYmIGZpbHRlcmVkSXRlbXMubWFwKGl0ZW0gPT4gCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoSGlzdG9yeUl0ZW0sIHsKICAgICAgICBrZXk6IGl0ZW0uaWQsCiAgICAgICAgaXRlbTogaXRlbSwKICAgICAgICBkaXJlY3Rpb24sCiAgICAgICAgb25PcGVuOiAoKSA9PiBvbk9wZW5JdGVtKGl0ZW0pLAogICAgICAgIG9uRGVsZXRlOiAoKSA9PiBkZWxldGVJdGVtKGl0ZW0uaWQpCiAgICAgIH0pCiAgICApCiAgXSk7Cn0KCi8vIFN0YXQgQ2FyZCBDb21wb25lbnQKZnVuY3Rpb24gU3RhdENhcmQoeyBsYWJlbCwgdmFsdWUsIGljb24sIGRpcmVjdGlvbiB9KSB7CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwogIAogIHJldHVybiBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICBzdHlsZTogewogICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJyNmZmYnIDogJ3JnYmEoMjU1LDI1NSwyNTUsMC4wMiknLAogICAgICBwYWRkaW5nOiAnMjBweCcsCiAgICAgIGJvcmRlclJhZGl1czogMTIsCiAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2RpckEgPyAnI2U1ZTVlNScgOiAnIzMzMyd9YCwKICAgICAgdGV4dEFsaWduOiAnY2VudGVyJwogICAgfQogIH0sIFsKICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAga2V5OiAnaWNvbicsCiAgICAgIHN0eWxlOiB7IGZvbnRTaXplOiAyNCwgbWFyZ2luQm90dG9tOiA4IH0KICAgIH0sIGljb24pLAogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICd2YWx1ZScsCiAgICAgIHN0eWxlOiB7CiAgICAgICAgZm9udFNpemU6IDMyLAogICAgICAgIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICBjb2xvcjogZGlyQSA/ICcjMzMzJyA6ICcjZmZmJywKICAgICAgICBtYXJnaW5Cb3R0b206IDQKICAgICAgfQogICAgfSwgdmFsdWUpLAogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICdsYWJlbCcsCiAgICAgIHN0eWxlOiB7CiAgICAgICAgZm9udFNpemU6IDEzLAogICAgICAgIGNvbG9yOiBkaXJBID8gJyM2NjYnIDogJyM5OTknLAogICAgICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgICAgIGxldHRlclNwYWNpbmc6ICcwLjA1ZW0nCiAgICAgIH0KICAgIH0sIGxhYmVsKQogIF0pOwp9CgovLyBIaXN0b3J5IEl0ZW0gQ29tcG9uZW50CmZ1bmN0aW9uIEhpc3RvcnlJdGVtKHsgaXRlbSwgZGlyZWN0aW9uLCBvbk9wZW4sIG9uRGVsZXRlIH0pIHsKICBjb25zdCB0b29sID0gd2luZG93LkFkTV9UT09MU1tpdGVtLnRvb2xJZF07CiAgY29uc3QgZGlyQSA9IGRpcmVjdGlvbiA9PT0gJ2EnOwogIAogIGlmICghdG9vbCkgcmV0dXJuIG51bGw7CgogIHJldHVybiBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICBzdHlsZTogewogICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJyNmZmYnIDogJ3JnYmEoMjU1LDI1NSwyNTUsMC4wMiknLAogICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkaXJBID8gJyNlNWU1ZTUnIDogJyMzMzMnfWAsCiAgICAgIGJvcmRlclJhZGl1czogMTIsCiAgICAgIHBhZGRpbmc6ICcyMHB4JywKICAgICAgbWFyZ2luQm90dG9tOiAxMiwKICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLAogICAgICBhbGlnbkl0ZW1zOiAnZmxleC1zdGFydCcsCiAgICAgIGdhcDogMTYKICAgIH0KICB9LCBbCiAgICAvLyBDb250ZW50CiAgICBSZWFjdC5jcmVhdGVFbGVtZW50KCdkaXYnLCB7CiAgICAgIGtleTogJ2NvbnRlbnQnLAogICAgICBzdHlsZTogeyBmbGV4OiAxLCBtaW5XaWR0aDogMCB9CiAgICB9LCBbCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAgICBrZXk6ICdoZWFkZXInLAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgIGdhcDogOCwKICAgICAgICAgIG1hcmdpbkJvdHRvbTogOAogICAgICAgIH0KICAgICAgfSwgWwogICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ3NwYW4nLCB7CiAgICAgICAgICBrZXk6ICd0b29sLWxhYmVsJywKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIGZvbnRTaXplOiAxMiwKICAgICAgICAgICAgZm9udFdlaWdodDogNjAwLAogICAgICAgICAgICB0ZXh0VHJhbnNmb3JtOiAndXBwZXJjYXNlJywKICAgICAgICAgICAgbGV0dGVyU3BhY2luZzogJzAuMDhlbScsCiAgICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyMyYTlkOGYnIDogJyM0ZmI5YjgnLAogICAgICAgICAgICBiYWNrZ3JvdW5kOiBkaXJBID8gJ3JnYmEoNDIsMTU3LDE0MywwLjEpJyA6ICdyZ2JhKDc5LDE4NSwxODQsMC4xKScsCiAgICAgICAgICAgIHBhZGRpbmc6ICc0cHggOHB4JywKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiA0CiAgICAgICAgICB9CiAgICAgICAgfSwgdG9vbC5sYWJlbCksCiAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnc3BhbicsIHsKICAgICAgICAgIGtleTogJ2RhdGUnLAogICAgICAgICAgc3R5bGU6IHsKICAgICAgICAgICAgZm9udFNpemU6IDEyLAogICAgICAgICAgICBjb2xvcjogZGlyQSA/ICcjOTk5JyA6ICcjNjY2JwogICAgICAgICAgfQogICAgICAgIH0sIG5ldyBEYXRlKGl0ZW0uY3JlYXRlZEF0KS50b0xvY2FsZURhdGVTdHJpbmcoJ3B0LUJSJykpCiAgICAgIF0pLAogICAgICAKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICAgIGtleTogJ3RpdGxlJywKICAgICAgICBzdHlsZTogewogICAgICAgICAgZm9udEZhbWlseTogJ3ZhcigtLXNlcmlmKScsCiAgICAgICAgICBmb250U2l6ZTogMTgsCiAgICAgICAgICBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICBtYXJnaW5Cb3R0b206IDQsCiAgICAgICAgICBjb2xvcjogZGlyQSA/ICcjMzMzJyA6ICcjZmZmJwogICAgICAgIH0KICAgICAgfSwgaXRlbS5yZXN1bHQ/LmludGVybmF0aW9uYWxUaXRsZSB8fCB0b29sLnRpdGxlKSwKICAgICAgCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2RpdicsIHsKICAgICAgICBrZXk6ICdwcmV2aWV3JywKICAgICAgICBzdHlsZTogewogICAgICAgICAgZm9udFNpemU6IDE0LAogICAgICAgICAgY29sb3I6IGRpckEgPyAnIzY2NicgOiAnIzk5OScsCiAgICAgICAgICBsaW5lSGVpZ2h0OiAxLjQKICAgICAgICB9CiAgICAgIH0sIGl0ZW0ucmVzdWx0Py5zdW1tYXJ5IHx8ICdSZXN1bHRhZG8gZGlzcG9uw612ZWwnKQogICAgXSksCgogICAgLy8gQWN0aW9ucwogICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnZGl2JywgewogICAgICBrZXk6ICdhY3Rpb25zJywKICAgICAgc3R5bGU6IHsKICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgZ2FwOiA4LAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInCiAgICAgIH0KICAgIH0sIFsKICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudCgnYnV0dG9uJywgewogICAgICAgIGtleTogJ29wZW4nLAogICAgICAgIG9uQ2xpY2s6IG9uT3BlbiwKICAgICAgICBzdHlsZTogewogICAgICAgICAgcGFkZGluZzogJzhweCAxNnB4JywKICAgICAgICAgIGJvcmRlcjogYDFweCBzb2xpZCAke2RpckEgPyAnIzJhOWQ4ZicgOiAnIzRmYjliOCd9YCwKICAgICAgICAgIGJvcmRlclJhZGl1czogOCwKICAgICAgICAgIGZvbnRTaXplOiAxMywKICAgICAgICAgIGZvbnRXZWlnaHQ6IDUwMCwKICAgICAgICAgIGJhY2tncm91bmQ6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICBjb2xvcjogZGlyQSA/ICcjMmE5ZDhmJyA6ICcjNGZiOWI4JywKICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInCiAgICAgICAgfQogICAgICB9LCAnQWJyaXInKSwKICAgICAgCiAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoJ2J1dHRvbicsIHsKICAgICAgICBrZXk6ICdkZWxldGUnLAogICAgICAgIG9uQ2xpY2s6IG9uRGVsZXRlLAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICBwYWRkaW5nOiAnOHB4JywKICAgICAgICAgIGJvcmRlcjogJ25vbmUnLAogICAgICAgICAgYm9yZGVyUmFkaXVzOiA4LAogICAgICAgICAgZm9udFNpemU6IDE0LAogICAgICAgICAgYmFja2dyb3VuZDogJ3RyYW5zcGFyZW50JywKICAgICAgICAgIGNvbG9yOiBkaXJBID8gJyNkYzI2MjYnIDogJyNlZjQ0NDQnLAogICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicKICAgICAgICB9CiAgICAgIH0sICfwn5eR77iPJykKICAgIF0pCiAgXSk7Cn0KCndpbmRvdy5Eb3dubG9hZEhpc3RvcnkgPSBEb3dubG9hZEhpc3Rvcnk7Cg=="}
+// Download History Page - Centralized user dashboard with analytics
+// Replaces simple localStorage history with proper user data management
+
+function DownloadHistory({ direction, onBack, onOpenItem }) {
+  const [items, setItems] = React.useState([]);
+  const [isLoading, setIsLoading] = React.useState(true);
+  const [filter, setFilter] = React.useState('all'); // all | career | cultural | diagnosis
+  const [searchQuery, setSearchQuery] = React.useState('');
+  const [sortBy, setSortBy] = React.useState('date'); // date | tool | usage
+  
+  const { user } = window.useAuth();
+  const dirA = direction === 'a';
+
+  // Load user history from Cloudflare KV
+  React.useEffect(() => {
+    loadHistory();
+  }, [user]);
+
+  const loadHistory = async () => {
+    if (!user) return;
+    
+    setIsLoading(true);
+    try {
+      const token = localStorage.getItem('adm_auth_token');
+      const response = await fetch('/api/user/history', {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      
+      if (response.ok) {
+        const history = await response.json();
+        setItems(history);
+      }
+    } catch (error) {
+      console.error('Failed to load history:', error);
+      // Fallback to localStorage for development
+      try {
+        const raw = localStorage.getItem('adm-history');
+        setItems(raw ? JSON.parse(raw) : []);
+      } catch {
+        setItems([]);
+      }
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // Filter and sort items
+  const getFilteredItems = () => {
+    let filtered = items;
+
+    // Filter by category
+    if (filter !== 'all') {
+      filtered = filtered.filter(item => {
+        const tool = window.AdM_TOOLS[item.toolId];
+        if (!tool) return false;
+        
+        if (filter === 'career') return ['career', 'ats_check', 'salary_reality', 'interview_sim'].includes(item.toolId);
+        if (filter === 'cultural') return ['cultural', 'social_scripts'].includes(item.toolId);
+        if (filter === 'diagnosis') return ['hiring_reality', 'rejection_decoder'].includes(item.toolId);
+        return true;
+      });
+    }
+
+    // Filter by search
+    if (searchQuery) {
+      filtered = filtered.filter(item => {
+        const tool = window.AdM_TOOLS[item.toolId];
+        if (!tool) return false;
+        
+        return tool.label.toLowerCase().includes(searchQuery.toLowerCase()) ||
+               tool.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+               (item.result?.internationalTitle && item.result.internationalTitle.toLowerCase().includes(searchQuery.toLowerCase()));
+      });
+    }
+
+    // Sort
+    filtered.sort((a, b) => {
+      if (sortBy === 'date') return new Date(b.createdAt) - new Date(a.createdAt);
+      if (sortBy === 'tool') return (a.toolId || '').localeCompare(b.toolId || '');
+      if (sortBy === 'usage') return (b.usageCount || 0) - (a.usageCount || 0);
+      return 0;
+    });
+
+    return filtered;
+  };
+
+  // Export functionality
+  const exportData = async () => {
+    const dataToExport = getFilteredItems().map(item => ({
+      date: item.createdAt,
+      tool: window.AdM_TOOLS[item.toolId]?.label || item.toolId,
+      input: item.form,
+      output: item.result,
+      usageCount: item.usageCount || 0
+    }));
+
+    const blob = new Blob([JSON.stringify(dataToExport, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `alemdomar-history-${new Date().toISOString().split('T')[0]}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  };
+
+  // Delete item
+  const deleteItem = async (itemId) => {
+    try {
+      const token = localStorage.getItem('adm_auth_token');
+      await fetch(`/api/user/history/${itemId}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      
+      setItems(items.filter(item => item.id !== itemId));
+    } catch (error) {
+      console.error('Failed to delete item:', error);
+      // Fallback for development
+      const next = items.filter(item => item.id !== itemId);
+      setItems(next);
+      localStorage.setItem('adm-history', JSON.stringify(next));
+    }
+  };
+
+  const filteredItems = getFilteredItems();
+  const stats = {
+    total: items.length,
+    thisMonth: items.filter(item => {
+      const itemDate = new Date(item.createdAt);
+      const now = new Date();
+      return itemDate.getMonth() === now.getMonth() && itemDate.getFullYear() === now.getFullYear();
+    }).length,
+    mostUsed: items.reduce((acc, item) => {
+      acc[item.toolId] = (acc[item.toolId] || 0) + 1;
+      return acc;
+    }, {})
+  };
+
+  return React.createElement('div', {
+    className: 'download-history',
+    style: { padding: '20px 0', paddingBottom: 80 }
+  }, [
+    // Header
+    React.createElement('div', {
+      key: 'header',
+      style: { marginBottom: 32 }
+    }, [
+      React.createElement('button', {
+        key: 'back',
+        onClick: onBack,
+        style: {
+          fontSize: 14,
+          color: dirA ? '#666' : '#999',
+          marginBottom: 16,
+          background: 'none',
+          border: 'none',
+          cursor: 'pointer'
+        }
+      }, '← Voltar'),
+      
+      React.createElement('h1', {
+        key: 'title',
+        style: {
+          fontFamily: 'var(--serif)',
+          fontSize: 'clamp(36px, 5vw, 56px)',
+          fontWeight: 400,
+          letterSpacing: '-0.02em',
+          margin: '8px 0 16px',
+          lineHeight: 1.05,
+          color: dirA ? '#333' : '#fff'
+        }
+      }, 'Seu histórico'),
+      
+      React.createElement('p', {
+        key: 'subtitle',
+        style: {
+          fontSize: 16,
+          color: dirA ? '#666' : '#999',
+          marginBottom: 24
+        }
+      }, `Todos os seus resultados salvos e organizados em um só lugar.`)
+    ]),
+
+    // Stats cards
+    React.createElement('div', {
+      key: 'stats',
+      style: {
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
+        gap: 16,
+        marginBottom: 32
+      }
+    }, [
+      React.createElement(StatCard, {
+        key: 'total',
+        label: 'Total de usos',
+        value: stats.total,
+        icon: '📊',
+        direction
+      }),
+      React.createElement(StatCard, {
+        key: 'month',
+        label: 'Este mês',
+        value: stats.thisMonth,
+        icon: '📅',
+        direction
+      }),
+      React.createElement(StatCard, {
+        key: 'tools',
+        label: 'Ferramentas',
+        value: Object.keys(stats.mostUsed).length,
+        icon: '🛠️',
+        direction
+      })
+    ]),
+
+    // Filters and search
+    React.createElement('div', {
+      key: 'filters',
+      style: {
+        background: dirA ? '#f8f9fa' : 'rgba(255,255,255,0.02)',
+        padding: 20,
+        borderRadius: 12,
+        marginBottom: 24,
+        border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`
+      }
+    }, [
+      // Search
+      React.createElement('div', {
+        key: 'search-row',
+        style: {
+          display: 'flex',
+          gap: 12,
+          marginBottom: 16,
+          flexWrap: 'wrap'
+        }
+      }, [
+        React.createElement('input', {
+          key: 'search',
+          type: 'text',
+          placeholder: 'Buscar no histórico...',
+          value: searchQuery,
+          onChange: (e) => setSearchQuery(e.target.value),
+          style: {
+            flex: 1,
+            minWidth: 200,
+            padding: '10px 14px',
+            border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`,
+            borderRadius: 8,
+            fontSize: 14,
+            background: dirA ? '#fff' : 'rgba(255,255,255,0.05)',
+            color: dirA ? '#333' : '#fff'
+          }
+        }),
+        
+        React.createElement('button', {
+          key: 'export',
+          onClick: exportData,
+          style: {
+            padding: '10px 16px',
+            border: `1px solid ${dirA ? '#2a9d8f' : '#4fb9b8'}`,
+            borderRadius: 8,
+            fontSize: 14,
+            fontWeight: 500,
+            background: 'transparent',
+            color: dirA ? '#2a9d8f' : '#4fb9b8',
+            cursor: 'pointer'
+          }
+        }, '📥 Exportar')
+      ]),
+
+      // Filter tabs and sort
+      React.createElement('div', {
+        key: 'filter-row',
+        style: {
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          flexWrap: 'wrap',
+          gap: 12
+        }
+      }, [
+        React.createElement('div', {
+          key: 'filter-tabs',
+          style: { display: 'flex', gap: 8 }
+        }, [
+          { value: 'all', label: 'Todos' },
+          { value: 'career', label: 'Carreira' },
+          { value: 'cultural', label: 'Cultura' },
+          { value: 'diagnosis', label: 'Diagnóstico' }
+        ].map(filterOption => 
+          React.createElement('button', {
+            key: filterOption.value,
+            onClick: () => setFilter(filterOption.value),
+            style: {
+              padding: '6px 12px',
+              border: `1px solid ${filter === filterOption.value ? (dirA ? '#2a9d8f' : '#4fb9b8') : (dirA ? '#e5e5e5' : '#333')}`,
+              borderRadius: 16,
+              fontSize: 13,
+              fontWeight: 500,
+              background: filter === filterOption.value ? (dirA ? '#2a9d8f' : '#4fb9b8') : 'transparent',
+              color: filter === filterOption.value ? '#fff' : (dirA ? '#666' : '#999'),
+              cursor: 'pointer'
+            }
+          }, filterOption.label)
+        )),
+
+        React.createElement('select', {
+          key: 'sort',
+          value: sortBy,
+          onChange: (e) => setSortBy(e.target.value),
+          style: {
+            padding: '6px 12px',
+            border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`,
+            borderRadius: 8,
+            fontSize: 13,
+            background: dirA ? '#fff' : 'rgba(255,255,255,0.05)',
+            color: dirA ? '#333' : '#fff'
+          }
+        }, [
+          React.createElement('option', { key: 'date', value: 'date' }, 'Mais recentes'),
+          React.createElement('option', { key: 'tool', value: 'tool' }, 'Por ferramenta'),
+          React.createElement('option', { key: 'usage', value: 'usage' }, 'Mais usados')
+        ])
+      ])
+    ]),
+
+    // Loading state
+    isLoading && React.createElement('div', {
+      key: 'loading',
+      style: {
+        textAlign: 'center',
+        padding: '60px 20px',
+        color: dirA ? '#999' : '#666'
+      }
+    }, [
+      React.createElement('div', { key: 'spinner', className: 'spinner', style: { margin: '0 auto 16px' } }),
+      React.createElement('div', { key: 'text' }, 'Carregando seu histórico...')
+    ]),
+
+    // Items list
+    !isLoading && filteredItems.length === 0 && React.createElement('div', {
+      key: 'empty',
+      style: {
+        textAlign: 'center',
+        padding: '60px 20px',
+        color: dirA ? '#999' : '#666'
+      }
+    }, [
+      React.createElement('div', { key: 'icon', style: { fontSize: 48, marginBottom: 16 } }, '📋'),
+      React.createElement('div', { key: 'title', style: { fontSize: 18, fontWeight: 600, marginBottom: 8 } }, 
+        searchQuery ? 'Nenhum resultado encontrado' : 'Nenhum histórico ainda'),
+      React.createElement('div', { key: 'text', style: { fontSize: 14 } }, 
+        searchQuery ? 'Tente outros termos de busca' : 'Suas traduções aparecerão aqui quando você as usar')
+    ]),
+
+    // History items
+    !isLoading && filteredItems.map(item => 
+      React.createElement(HistoryItem, {
+        key: item.id,
+        item: item,
+        direction,
+        onOpen: () => onOpenItem(item),
+        onDelete: () => deleteItem(item.id)
+      })
+    )
+  ]);
+}
+
+// Stat Card Component
+function StatCard({ label, value, icon, direction }) {
+  const dirA = direction === 'a';
+  
+  return React.createElement('div', {
+    style: {
+      background: dirA ? '#fff' : 'rgba(255,255,255,0.02)',
+      padding: '20px',
+      borderRadius: 12,
+      border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`,
+      textAlign: 'center'
+    }
+  }, [
+    React.createElement('div', {
+      key: 'icon',
+      style: { fontSize: 24, marginBottom: 8 }
+    }, icon),
+    React.createElement('div', {
+      key: 'value',
+      style: {
+        fontSize: 32,
+        fontWeight: 600,
+        color: dirA ? '#333' : '#fff',
+        marginBottom: 4
+      }
+    }, value),
+    React.createElement('div', {
+      key: 'label',
+      style: {
+        fontSize: 13,
+        color: dirA ? '#666' : '#999',
+        textTransform: 'uppercase',
+        letterSpacing: '0.05em'
+      }
+    }, label)
+  ]);
+}
+
+// History Item Component
+function HistoryItem({ item, direction, onOpen, onDelete }) {
+  const tool = window.AdM_TOOLS[item.toolId];
+  const dirA = direction === 'a';
+  
+  if (!tool) return null;
+
+  return React.createElement('div', {
+    style: {
+      background: dirA ? '#fff' : 'rgba(255,255,255,0.02)',
+      border: `1px solid ${dirA ? '#e5e5e5' : '#333'}`,
+      borderRadius: 12,
+      padding: '20px',
+      marginBottom: 12,
+      display: 'flex',
+      justifyContent: 'space-between',
+      alignItems: 'flex-start',
+      gap: 16
+    }
+  }, [
+    // Content
+    React.createElement('div', {
+      key: 'content',
+      style: { flex: 1, minWidth: 0 }
+    }, [
+      React.createElement('div', {
+        key: 'header',
+        style: {
+          display: 'flex',
+          alignItems: 'center',
+          gap: 8,
+          marginBottom: 8
+        }
+      }, [
+        React.createElement('span', {
+          key: 'tool-label',
+          style: {
+            fontSize: 12,
+            fontWeight: 600,
+            textTransform: 'uppercase',
+            letterSpacing: '0.08em',
+            color: dirA ? '#2a9d8f' : '#4fb9b8',
+            background: dirA ? 'rgba(42,157,143,0.1)' : 'rgba(79,185,184,0.1)',
+            padding: '4px 8px',
+            borderRadius: 4
+          }
+        }, tool.label),
+        React.createElement('span', {
+          key: 'date',
+          style: {
+            fontSize: 12,
+            color: dirA ? '#999' : '#666'
+          }
+        }, new Date(item.createdAt).toLocaleDateString('pt-BR'))
+      ]),
+      
+      React.createElement('div', {
+        key: 'title',
+        style: {
+          fontFamily: 'var(--serif)',
+          fontSize: 18,
+          fontWeight: 500,
+          marginBottom: 4,
+          color: dirA ? '#333' : '#fff'
+        }
+      }, item.result?.internationalTitle || tool.title),
+      
+      React.createElement('div', {
+        key: 'preview',
+        style: {
+          fontSize: 14,
+          color: dirA ? '#666' : '#999',
+          lineHeight: 1.4
+        }
+      }, item.result?.summary || 'Resultado disponível')
+    ]),
+
+    // Actions
+    React.createElement('div', {
+      key: 'actions',
+      style: {
+        display: 'flex',
+        gap: 8,
+        alignItems: 'center'
+      }
+    }, [
+      React.createElement('button', {
+        key: 'open',
+        onClick: onOpen,
+        style: {
+          padding: '8px 16px',
+          border: `1px solid ${dirA ? '#2a9d8f' : '#4fb9b8'}`,
+          borderRadius: 8,
+          fontSize: 13,
+          fontWeight: 500,
+          background: 'transparent',
+          color: dirA ? '#2a9d8f' : '#4fb9b8',
+          cursor: 'pointer'
+        }
+      }, 'Abrir'),
+      
+      React.createElement('button', {
+        key: 'delete',
+        onClick: onDelete,
+        style: {
+          padding: '8px',
+          border: 'none',
+          borderRadius: 8,
+          fontSize: 14,
+          background: 'transparent',
+          color: dirA ? '#dc2626' : '#ef4444',
+          cursor: 'pointer'
+        }
+      }, '🗑️')
+    ])
+  ]);
+}
+
+window.DownloadHistory = DownloadHistory;
