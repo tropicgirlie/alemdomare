@@ -11,6 +11,7 @@ window.AdM_CONTENT_DEFAULTS = {
     nav: {
       ferramentas: 'Ferramentas',
       comoFunciona: 'O que muda',
+      guia: 'Guia gratuito',
       sobre: 'Sobre',
       revisores: 'Revisores humanos (em breve)',
     },
@@ -83,6 +84,14 @@ window.AdM_CONTENT_DEFAULTS = {
       titleB: '.',
       body: 'Diferenças culturais reais no trabalho, roteiros para reuniões, erros comuns no primeiro ano fora e o que parece estranho, mas é normal. Direto, prático, sem clichê.',
       button: 'Abrir tradutor cultural',
+    },
+    guide: {
+      pill: 'Guia gratuito',
+      titleA: 'Carreira no exterior:',
+      titleEm: 'o mapa antes da ferramenta',
+      body: 'Um guia gratuito para brasileiros que estão planejando sair, chegando agora ou tentando se reposicionar fora do Brasil. CV, LinkedIn, entrevistas, networking, salário e mudança de país em uma sequência simples.',
+      button: 'Quero receber o guia →',
+      note: 'PDF em breve. Entre na lista e receba quando estiver disponível.',
     },
     reviewers: {
       pill: 'Olho humano · em breve',

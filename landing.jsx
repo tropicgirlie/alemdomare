@@ -19,7 +19,7 @@ function buildToolCategories(content) {
   ]));
 }
 
-function Landing({ direction, onStart, onStartCultural, onStartTool, onShowReviewers, onShowSobre }) {
+function Landing({ direction, onStart, onStartCultural, onStartTool, onShowReviewers, onShowSobre, onShowGuide }) {
   const { content, get } = useContent();
   const [activeCategory, setActiveCategory] = React.useState('essentials');
   const [preferredCity, setPreferredCity] = React.useState(
@@ -46,6 +46,9 @@ function Landing({ direction, onStart, onStartCultural, onStartTool, onShowRevie
           <div className="nav-links">
             <a className="adm-nav-link" href="#caixa"><T k="landing.nav.ferramentas" /></a>
             <a className="adm-nav-link" href="#como-funciona"><T k="landing.nav.comoFunciona" /></a>
+            <button type="button" className="adm-nav-link nav-text-btn" onClick={() => onShowGuide && onShowGuide()}>
+              <T k="landing.nav.guia" />
+            </button>
             <button type="button" className="adm-nav-link nav-text-btn" onClick={() => onShowSobre && onShowSobre()}>
               <T k="landing.nav.sobre" />
             </button>
@@ -66,6 +69,7 @@ function Landing({ direction, onStart, onStartCultural, onStartTool, onShowRevie
           <p className="hero-sub"><T k="landing.hero.sub" /></p>
           <div className="landing-hero-actions">
             <button type="button" className="btn btn-primary" onClick={onStart}><T k="landing.hero.ctaPrimary" /></button>
+            <button type="button" className="btn btn-secondary" onClick={onShowGuide}><T k="landing.nav.guia" /></button>
             <button type="button" className="btn btn-ghost" onClick={onShowReviewers}><T k="landing.hero.ctaReviewers" /></button>
             <a href="#como-funciona" className="btn btn-ghost"><T k="landing.hero.ctaComo" /></a>
           </div>
@@ -216,6 +220,21 @@ function Landing({ direction, onStart, onStartCultural, onStartTool, onShowRevie
         </h2>
         <p className="landing-lead" style={{ fontSize: 17, marginBottom: 28 }}><T k="landing.cultural.body" /></p>
         <button type="button" className="btn btn-primary" onClick={onStartCultural}><T k="landing.cultural.button" /></button>
+      </section>
+
+      <section id="guia-gratuito" className="book-promo section-pad" aria-labelledby="book-promo-title">
+        <div className="book-promo-copy">
+          <span className="landing-pill-inline"><T k="landing.guide.pill" /></span>
+          <h2 id="book-promo-title" className="landing-h2">
+            <T k="landing.guide.titleA" as="span" /> <em><T k="landing.guide.titleEm" /></em>
+          </h2>
+          <p className="landing-lead" style={{ fontSize: 17, marginBottom: 24 }}><T k="landing.guide.body" /></p>
+          <div className="book-promo-actions">
+            <button type="button" className="btn btn-primary" onClick={onShowGuide}><T k="landing.guide.button" /></button>
+            <span className="book-promo-note"><T k="landing.guide.note" /></span>
+          </div>
+        </div>
+        {window.BookCoverPreview && <BookCoverPreview compact />}
       </section>
 
       <section className="section-pad" style={{ paddingTop: 56, paddingBottom: 24 }}>

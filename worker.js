@@ -101,7 +101,7 @@ async function refundCredit(env, deviceId, source) {
 const EVENT_TYPES = new Set([
   'page_view', 'first_visit',
   'tool_started', 'translate_succeeded', 'translate_failed', 'no_credits',
-  'waitlist_submitted', 'reviewer_applied',
+  'waitlist_submitted', 'reviewer_applied', 'guide_requested',
   'paywall_opened', 'pack_clicked', 'credits_purchased',
 ]);
 

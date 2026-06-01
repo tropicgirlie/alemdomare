@@ -101,6 +101,7 @@
   <script type="text/babel" src="landing.jsx?v=20260601"></script>
   <script type="text/babel" src="translator.jsx?v=20260601"></script>
   <script type="text/babel" src="paywall.jsx?v=20260523"></script>
+  <script type="text/babel" src="guia.jsx?v=20260601"></script>
   <script type="text/babel" src="reviewers.jsx?v=20260601"></script>
   <script type="text/babel" src="sobre.jsx?v=20260601"></script>
 
@@ -110,8 +111,8 @@
       "showSwitcher": false
     }/*EDITMODE-END*/;
 
-    const HASH_TO_PAGE = { '#sobre': 'sobre', '#reviewers': 'reviewers' };
-    const PAGE_TO_HASH = { sobre: '#sobre', reviewers: '#reviewers' };
+    const HASH_TO_PAGE = { '#sobre': 'sobre', '#reviewers': 'reviewers', '#guia': 'guia' };
+    const PAGE_TO_HASH = { sobre: '#sobre', reviewers: '#reviewers', guia: '#guia' };
 
     function pageFromHash() {
       return HASH_TO_PAGE[window.location.hash] || 'landing';
@@ -130,6 +131,7 @@
       const setPage = React.useCallback((next) => {
         setPageState(next);
         syncHashForPage(next);
+        requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: 'auto' }));
       }, []);
       const [openItem, setOpenItem] = React.useState(null);
       const [startMode, setStartMode] = React.useState('career');
@@ -166,10 +168,19 @@
         const onHashChange = () => {
           const next = pageFromHash();
           setPageState(next);
+          if (next !== 'landing') {
+            requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: 'auto' }));
+          }
         };
         window.addEventListener('hashchange', onHashChange);
         return () => window.removeEventListener('hashchange', onHashChange);
       }, []);
+
+      React.useEffect(() => {
+        if (page !== 'landing') {
+          requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: 'auto' }));
+        }
+      }, [page]);
 
       // Handle shared links
       React.useEffect(() => {
@@ -210,6 +221,7 @@
               onStartTool={(id) => { setOpenItem(null); setStartMode(id); setPage('translator'); }}
               onShowReviewers={() => setPage('reviewers')}
               onShowSobre={() => setPage('sobre')}
+              onShowGuide={() => setPage('guia')}
             />
           )}
           {page === 'translator' && (
@@ -226,6 +238,13 @@
             <Reviewers
               direction={direction}
               onBack={() => setPage('landing')}
+            />
+          )}
+          {page === 'guia' && (
+            <Guia
+              direction={direction}
+              onBack={() => setPage('landing')}
+              onStart={() => { setOpenItem(null); setStartMode('career'); setPage('translator'); }}
             />
           )}
           {page === 'sobre' && (
@@ -280,6 +299,7 @@
             <TweakSection label="Pular para" />
             <TweakButton label="→ Landing" onClick={() => setPage('landing')} />
             <TweakButton label="→ Tradutor" onClick={() => { setOpenItem(null); setPage('translator'); }} />
+            <TweakButton label="→ Guia" onClick={() => setPage('guia')} />
             <TweakButton label="→ Sobre" onClick={() => setPage('sobre')} />
             {!isOwnerMode && (
               <>
